@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Tam kare: Android simgeyi daire / yuvarlak kare olarak keser; yazılar ortadaki güvenli alanda. -->
+  <rect width="512" height="512" fill="#2f5bea"/>
+  <text x="256" y="292" font-family="Segoe UI, Arial, sans-serif" font-size="200" font-weight="700" fill="#ffffff" text-anchor="middle">B2</text>
+  <text x="256" y="366" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="600" fill="#cdd9ff" text-anchor="middle" letter-spacing="6">ENGLISH</text>
+</svg>

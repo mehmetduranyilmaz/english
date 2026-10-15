@@ -1,7 +1,8 @@
 # Yerel geliştirme sunucusu: tarayıcının eski dosyaları önbellekten kullanmasını engeller.
-# Kullanım (proje klasöründe): python tools/serve.py   →   http://localhost:8000
+# Kullanım (proje klasöründe): python tools/serve.py [port]   →   http://localhost:8000
 import http.server
 import os
+import sys
 
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 
@@ -17,4 +18,4 @@ class Server(http.server.ThreadingHTTPServer):
     request_queue_size = 256
 
 
-Server(("127.0.0.1", 8000), NoCacheHandler).serve_forever()
+Server(("127.0.0.1", int(sys.argv[1]) if len(sys.argv) > 1 else 8000), NoCacheHandler).serve_forever()

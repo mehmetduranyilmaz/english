@@ -20,6 +20,19 @@ export async function loadAudioIndex() {
 export const recordingFor = text => ukIndex[text.toLowerCase()];
 export const ttsFor = text => ttsIndex[text.trim()] || ttsLower[text.trim().toLowerCase()];
 export const hasTts = () => Object.keys(ttsIndex).length > 0;
+// Tüm ses dosyalarının adları (çevrimdışı indirme için).
+export const ttsFiles = () => [...new Set(Object.values(ttsIndex))].map(id => `${id}.mp3`);
+
+// Kendi seslerimiz fetch ile alınır: service worker kayıtlı kopyayı verir, internetsiz de çalar.
+const blobUrls = new Map();
+async function localUrl(url) {
+  if (!blobUrls.has(url)) {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(res.status);
+    blobUrls.set(url, URL.createObjectURL(await res.blob()));
+  }
+  return blobUrls.get(url);
+}
 
 export const fileUrl = file => `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(file)}`;
 export const filePage = file => `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(file.replace(/ /g, "_"))}`;
@@ -100,6 +113,7 @@ export function playRecording(text, slow = false) {
 
 export function play(text, slow = false) {
   const id = ttsFor(text);
-  if (id) playFile(`audio/tts/${id}.mp3`, slow, () => playRecording(text, slow));
-  else playRecording(text, slow);
+  if (!id) return playRecording(text, slow);
+  const fallback = () => playRecording(text, slow);
+  localUrl(`audio/tts/${id}.mp3`).then(url => playFile(url, slow, fallback), fallback);
 }

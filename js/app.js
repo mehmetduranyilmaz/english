@@ -1,4 +1,5 @@
 import * as store from "./store.js";
+import { registerOffline, offlineCardHtml, refresh as refreshOffline } from "./offline.js";
 import { loadAudioIndex, play, playRecording, hasUkVoice, hasTts, whenVoicesReady, onVoicesChanged, voiceSummary } from "./audio.js";
 import { listen, normalize, speechSupported } from "./speech.js";
 import * as srs from "./srs.js";
@@ -73,6 +74,7 @@ function renderHome() {
     ${speechSupported ? "" : `<div class="card warn">Bu tarayıcı konuşma testini desteklemiyor. Chrome veya Edge kullanın.</div>`}
     ${reviewCardHtml()}
     ${wordsCardHtml()}
+    ${offlineCardHtml()}
     ${levels}
     <footer class="card backup">
       <div class="muted small">İlerlemeniz sadece bu tarayıcıda saklanır. Ara sıra yedek alın.</div>
@@ -82,6 +84,7 @@ function renderHome() {
       </div>
     </footer>`;
 
+  refreshOffline();
   document.getElementById("exportBtn").onclick = store.exportBackup;
   document.getElementById("importInput").onchange = async e => {
     try {
@@ -429,6 +432,7 @@ async function route() {
   scrollTo(0, 0);
 }
 
+registerOffline();
 await Promise.all([loadData(), loadAudioIndex(), whenVoicesReady()]);
 // Ödevi daha önce bitmiş derslerin kelimeleri de tekrar listesine girsin.
 for (const id of lessonIds) if (store.lessonResult(id)?.done) srs.enroll(lessonKeys(lessonCache[id]));

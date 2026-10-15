@@ -33,7 +33,7 @@ export function listen(accept) {
     };
     rec.onerror = e => {
       done = true;
-      reject(new Error(e.error === "not-allowed" ? "Mikrofon izni verilmedi." : e.error === "no-speech" ? "Ses algılanmadı, tekrar deneyin." : `Hata: ${e.error}`));
+      reject(new Error(e.error === "not-allowed" ? "Mikrofon izni verilmedi." : e.error === "no-speech" ? "Ses algılanmadı, tekrar deneyin." : e.error === "network" ? "Konuşma tanıma için internet gerekiyor." : `Hata: ${e.error}`));
     };
     rec.onend = () => {
       if (!done) reject(new Error("Ses algılanmadı, tekrar deneyin."));

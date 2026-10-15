@@ -12,6 +12,8 @@ Mikrofon sadece `localhost` veya `https` adreslerinde çalıştığı için dosy
 python tools/serve.py
 ```
 
+(Başka port için: `python tools/serve.py 8001`)
+
 (Bu sunucu tarayıcının eski dosyaları önbellekten kullanmasını engeller; değişiklikler sayfayı yenileyince hemen görünür.)
 
 Sonra Chrome veya Edge'de: http://localhost:8000
@@ -24,17 +26,27 @@ Sonra Chrome veya Edge'de: http://localhost:8000
 
 İlerlemeniz (süre, ödevler) repoya değil, tarayıcınıza kaydedilir. Ana sayfadaki **Yedeği indir** düğmesiyle ara sıra yedek alın.
 
+## Telefona yükleme ve çevrimdışı kullanım
+
+- **Yükleme (Android / Chrome):** siteyi açın → ana sayfadaki **📲 Uygulamayı yükle** düğmesi (ya da Chrome menüsü ⋮ → *Uygulamayı yükle*). Kendi simgesiyle, tam ekran açılır.
+- **Çevrimdışı:** ilk açılışta uygulama dosyaları ve tüm dersler/paketler telefona kaydedilir; sonra internetsiz de açılır. Dinlenen sesler kendiliğinden saklanır; **⬇ Tüm sesleri indir** (~60 MB) ile hepsi bir kerede indirilir.
+- İnternetsiz çalışmayanlar: 🎤 konuşma ödevi (tanıma Google sunucusunda yapılır) ve 🎙 gerçek kişi kayıtları (Wikimedia'da durur).
+- **Güncelleme:** uygulama önce telefondaki kopyayla açılır, yeni sürümü arka planda indirir; değişiklikler bir sonraki açılışta görünür.
+- Geliştirirken: yeni bir JS dosyası eklerseniz `sw.js` içindeki `CORE` listesine yazın ve `SHELL` sürümünü artırın.
+
 ## Klasörler
 
 | Yol | İçerik |
 |---|---|
 | `index.html`, `css/` | Sayfa ve stiller |
+| `manifest.webmanifest`, `icons/`, `sw.js` | Telefona uygulama olarak yükleme ve çevrimdışı çalışma (service worker) |
 | `js/app.js` | Yönlendirme, ana sayfa, ders ve tekrar ekranları |
 | `js/words.js` | Kelimeler sayfası, paket sayfası, ders başındaki Isınma |
 | `js/data.js` | Ders ve paket verisini yükler, tüm kelimeleri tek dizinde toplar |
 | `js/ui.js` | Ortak görünüm parçaları (okunuş biçimlendirme, ses düğmeleri) |
 | `js/srs.js`, `js/store.js` | Aralıklı tekrar algoritması; tarayıcıda saklanan ilerleme |
 | `js/audio.js`, `js/speech.js` | British ses çalma; konuşma tanıma |
+| `js/offline.js` | Ana sayfadaki “Telefonda kullanım” kartı: uygulamayı yükle, tüm sesleri indir |
 | `data/curriculum.json` | 30 aşamalı öğrenme sırası ve her aşamanın dersleri |
 | `data/lessons/*.json` | Dersler: konu anlatımı, kelimeler (Türkçe harflerle British okunuş), ödevler |
 | `data/packs/*.json` | Kelime paketleri (temel, günlük konuşma, yazılım); `index.json` sırayı belirler |

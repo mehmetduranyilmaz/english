@@ -198,3 +198,10 @@ button.bad-btn { border-color: var(--bad); }
   .task { padding-left: 14px; }
   .ex-no { position: static; margin-bottom: 6px; }
 }
+
+/* Telefonda kullanım kartı */
+.offline h3 { margin: 0 0 8px; }
+.offline .row { margin: 6px 0; }
+.offline .bar { margin: 8px 0 4px; height: 8px; }
+.offline button + .small { margin-top: 6px; }
+.bad-text { color: var(--bad); }
