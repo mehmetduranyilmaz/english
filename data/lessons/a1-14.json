@@ -1,0 +1,81 @@
+{
+  "id": "a1-14",
+  "stage": 6,
+  "title": "Nerede? in, on, under, next to + ev ve odalar",
+  "sections": [
+    {
+      "heading": "Türkçede tek ek, İngilizcede ayrı kelimeler",
+      "body": "<p>Türkçede “-de, -da” eki her yer için aynıdır. İngilizcede nesnenin <b>nerede</b> durduğuna göre farklı kelime kullanılır ve bu kelime <b>ismin önüne</b> gelir:</p><table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th><th>Örnek</th></tr><tr><td><b>in</b></td><td>«in»</td><td>içinde, -de</td><td>in the box (kutuda), in the kitchen (mutfakta)</td></tr><tr><td><b>on</b></td><td>«on»</td><td>üstünde, yüzeyinde</td><td>on the table (masada), on the wall (duvarda)</td></tr><tr><td><b>under</b></td><td>«[an]-dı»</td><td>altında</td><td>under the bed (yatağın altında)</td></tr><tr><td><b>next to</b></td><td>«[neks] tı»</td><td>yanında</td><td>next to the window (pencerenin yanında)</td></tr><tr><td><b>between</b></td><td>«bi-[t{w}iin]»</td><td>arasında</td><td>between the chairs (sandalyelerin arasında)</td></tr><tr><td><b>behind</b></td><td>«bi-[haynd]»</td><td>arkasında</td><td>behind the door (kapının arkasında)</td></tr><tr><td><b>in front of</b></td><td>«in [frant] ıv»</td><td>önünde</td><td>in front of the house (evin önünde)</td></tr></table>"
+    },
+    {
+      "heading": "Duvarda: in mi on mu?",
+      "body": "<p>Türkçede “duvarda, masada, yatakta” deriz. İngilizcede bir şeyin <b>yüzeyindeyse</b> on, <b>içindeyse</b> in kullanılır:</p><p class=\"ex\">The picture is <b>on</b> the wall. → Resim duvarda (duvarın yüzeyinde).<br>My phone is <b>on</b> the bed. → Telefonum yatakta (yatağın üstünde).<br>The milk is <b>in</b> the fridge. → Süt buzdolabında (içinde).</p>"
+    },
+    {
+      "heading": "at: sabit ifadeler",
+      "body": "<p class=\"ex\"><b>at home</b> → evde<br><b>at work</b> → işte<br><b>at school</b> → okulda<br><b>at the door</b> → kapıda</p><p>Bu kalıplarda <b>the yoktur</b>: <span class=\"bad\">✘ at the home</span>. “Evin içinde” vurgusu varsa: in the house.</p>"
+    },
+    {
+      "heading": "Nerede? where",
+      "body": "<p class=\"ex\"><b>Where</b> is the cat? — It's under the bed. → Kedi nerede? — Yatağın altında.<br><b>Where</b> are my keys? — They're on the table. → Anahtarlarım nerede? — Masada.<br><b>Where's</b> the bathroom? → Banyo nerede? (Where's = Where is)</p>"
+    },
+    {
+      "heading": "Ev ve odalar",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>flat</td><td>«fl{a}t»</td><td>daire (British; Amerikan: apartment)</td></tr><tr><td>room</td><td>«ruum»</td><td>oda</td></tr><tr><td>kitchen</td><td>«[ki]-çın»</td><td>mutfak</td></tr><tr><td>bedroom</td><td>«[bed]-ruum»</td><td>yatak odası</td></tr><tr><td>bathroom</td><td>«[baa{t}]-ruum»</td><td>banyo</td></tr><tr><td>living room</td><td>«[li]-ving ruum»</td><td>oturma odası, salon</td></tr><tr><td>garden</td><td>«[gaa]-dın»</td><td>bahçe</td></tr><tr><td>bed / sofa</td><td>«bed» / «[sou]-fı»</td><td>yatak / kanepe</td></tr><tr><td>fridge</td><td>«fric»</td><td>buzdolabı</td></tr><tr><td>lamp / picture</td><td>«l{a}mp» / «[pik]-çı»</td><td>lamba / resim</td></tr><tr><td>wall / floor</td><td>«{w}ool» / «floo»</td><td>duvar / yer, zemin, kat</td></tr></table>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>bathroom</b> «[baa{t}]-ruum»: British İngilizcede uzun “aa”; Amerikalılar «b{a}{t}» der.</li><li><b>where</b> «{w}ee»: sondaki r okunmaz; dudaklar yuvarlak başlar.</li><li><b>under</b> «[an]-dı», <b>garden</b> «[gaa]-dın», <b>floor</b> «floo»: r'ler okunmaz.</li><li><b>in front of</b> hızlı söylenir: «in [frant] ıv», of neredeyse “ıv” olur.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "in", "tr": "içinde, -de", "read": "in" },
+    { "en": "on", "tr": "üstünde, yüzeyinde", "read": "on", "opposite": "under" },
+    { "en": "under", "tr": "altında", "read": "[an]-dı", "opposite": "on" },
+    { "en": "next to", "tr": "yanında", "read": "[neks] tı" },
+    { "en": "between", "tr": "arasında", "read": "bi-[t{w}iin]" },
+    { "en": "behind", "tr": "arkasında", "read": "bi-[haynd]", "opposite": "in front of" },
+    { "en": "in front of", "tr": "önünde", "read": "in [frant] ıv", "opposite": "behind" },
+    { "en": "where", "tr": "nerede, nereye", "read": "{w}ee" },
+    { "en": "work", "tr": "iş; çalışmak", "read": "{w}öök", "note": "at work: işte" },
+    { "en": "flat", "tr": "daire", "read": "fl{a}t", "note": "British; Amerikan: apartment" },
+    { "en": "room", "tr": "oda", "read": "ruum" },
+    { "en": "kitchen", "tr": "mutfak", "read": "[ki]-çın" },
+    { "en": "bedroom", "tr": "yatak odası", "read": "[bed]-ruum" },
+    { "en": "bathroom", "tr": "banyo", "read": "[baa{t}]-ruum" },
+    { "en": "living room", "tr": "oturma odası, salon", "read": "[li]-ving ruum" },
+    { "en": "garden", "tr": "bahçe", "read": "[gaa]-dın" },
+    { "en": "bed", "tr": "yatak", "read": "bed" },
+    { "en": "sofa", "tr": "kanepe", "read": "[sou]-fı" },
+    { "en": "fridge", "tr": "buzdolabı", "read": "fric" },
+    { "en": "lamp", "tr": "lamba", "read": "l{a}mp" },
+    { "en": "picture", "tr": "resim, fotoğraf", "read": "[pik]-çı" },
+    { "en": "wall", "tr": "duvar", "read": "{w}ool" },
+    { "en": "floor", "tr": "yer, zemin; kat", "read": "floo" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Kedi kutunun içinde.", "options": ["The cat is in the box.", "The cat is on the box.", "The cat is under the box."], "answer": "The cat is in the box." },
+    { "type": "choice", "prompt": "Kitap masanın üstünde.", "options": ["The book is in the table.", "The book is on the table.", "The book is under the table."], "answer": "The book is on the table." },
+    { "type": "choice", "prompt": "Resim duvarda.", "options": ["The picture is in the wall.", "The picture is on the wall."], "answer": "The picture is on the wall.", "explain": "Duvarın yüzeyinde: on." },
+    { "type": "choice", "prompt": "Evdeyim.", "options": ["I'm at home.", "I'm in home.", "I'm at the home."], "answer": "I'm at home.", "explain": "at home kalıbında the yoktur." },
+    { "type": "choice", "prompt": "Anahtarlar nerede?", "options": ["Where is the keys?", "Where are the keys?"], "answer": "Where are the keys?", "explain": "keys çoğul → are." },
+    { "type": "choice", "prompt": "Araba evin önünde.", "options": ["The car is in front of the house.", "The car is behind the house."], "answer": "The car is in front of the house." },
+    { "type": "choice", "prompt": "“daire (apartman dairesi)” British İngilizcede?", "options": ["flat", "apartment"], "answer": "flat", "explain": "apartment Amerikan İngilizcesidir." },
+    { "type": "write", "prompt": "Mutfaktayım.", "answers": ["I am in the kitchen", "I'm in the kitchen"] },
+    { "type": "write", "prompt": "Telefonum yatakta.", "answers": ["My phone is on the bed", "My phone's on the bed"] },
+    { "type": "write", "prompt": "Kedi kanepenin altında.", "answers": ["The cat is under the sofa", "The cat's under the sofa"] },
+    { "type": "write", "prompt": "Banyo nerede?", "answers": ["Where is the bathroom", "Where's the bathroom"] },
+    { "type": "write", "prompt": "Lamba masanın yanında.", "answers": ["The lamp is next to the table", "The lamp's next to the table"] },
+    { "type": "write", "prompt": "O (kadın) işte.", "answers": ["She is at work", "She's at work"] },
+    { "type": "write", "prompt": "Bahçe evin arkasında.", "answers": ["The garden is behind the house", "The garden's behind the house"] },
+    { "type": "listen", "say": "in the kitchen", "answers": ["in the kitchen"] },
+    { "type": "listen", "say": "under the bed", "answers": ["under the bed"] },
+    { "type": "listen", "say": "next to the window", "answers": ["next to the window"] },
+    { "type": "listen", "say": "Where's the fridge?", "answers": ["Where's the fridge", "Where is the fridge"] },
+    { "type": "speak", "say": "Where is the bathroom?", "accept": ["Where is the bathroom", "Where's the bathroom"] },
+    { "type": "speak", "say": "It's on the table", "accept": ["It's on the table", "It is on the table"] },
+    { "type": "speak", "say": "in the living room", "accept": ["in the living room"] },
+    { "type": "speak", "say": "between the chairs", "accept": ["between the chairs"] },
+    { "type": "speak", "say": "I'm at home", "accept": ["I'm at home", "I am at home"] }
+  ]
+}

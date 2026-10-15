@@ -1,0 +1,53 @@
+{
+  "id": "a1-08",
+  "stage": 4,
+  "title": "this / that / these / those: bu, şu, bunlar, şunlar",
+  "sections": [
+    {
+      "heading": "Yakın mı uzak mı, tek mi çok mu?",
+      "body": "<table><tr><th></th><th>Tekil</th><th>Çoğul</th></tr><tr><td><b>Yakın</b> (elimde, yanımda)</td><td><b>this</b> → bu<br>this book (bu kitap)</td><td><b>these</b> → bunlar<br>these books (bu kitaplar)</td></tr><tr><td><b>Uzak</b> (orada)</td><td><b>that</b> → şu, o<br>that car (şu araba)</td><td><b>those</b> → şunlar<br>those cars (şu arabalar)</td></tr></table><p><b>Türkçeden önemli fark:</b> Türkçede “bu kitap” da “bu kitaplar” da “bu” ile söylenir. İngilizcede isim çoğulsa this / that de çoğul olur:</p><p class=\"ex\"><span class=\"bad\">✘ this books</span> → ✔ <b>these</b> books<br><span class=\"bad\">✘ that cars</span> → ✔ <b>those</b> cars</p>"
+    },
+    {
+      "heading": "Tek başına: Bu bir kitap.",
+      "body": "<p>this / that / these / those isimsiz de kullanılır. 3. aşamadaki am / is / are ile:</p><p class=\"ex\">This is a book. → Bu bir kitap.<br>That's a car. → Şu bir araba. (That's = That is)<br>These are apples. → Bunlar elma.<br>Those are students. → Şunlar öğrenci.<br>Is that a cat? → Şu bir kedi mi?</p><p>Birini tanıştırırken de kullanılır: <b>This is Ayşe.</b> → Bu Ayşe.</p>"
+    },
+    {
+      "heading": "British telaffuz: this ve these karışmasın",
+      "body": "<table><tr><th>Kelime</th><th>Okunuş</th><th>Fark</th></tr><tr><td>this</td><td>«{d}is»</td><td>Kısa “i”, sonu “s”</td></tr><tr><td>these</td><td>«{d}iiz»</td><td>Uzun “ii”, sonu “z”</td></tr><tr><td>that</td><td>«{d}{a}t»</td><td>Ağız geniş açık</td></tr><tr><td>those</td><td>«{d}ouz»</td><td>“ou”, sonu “z”</td></tr></table><p>Dördü de renkli d ile başlar: dil ucu dişlerin arasında. this ile these'i karıştırırsanız karşınızdaki tekil mi çoğul mu dediğinizi anlayamaz.</p>"
+    }
+  ],
+  "words": [
+    { "en": "this", "tr": "bu", "read": "{d}is", "note": "kısa i" },
+    { "en": "that", "tr": "şu, o", "read": "{d}{a}t" },
+    { "en": "these", "tr": "bunlar, bu (çoğul)", "read": "{d}iiz", "note": "uzun ii, sonu z" },
+    { "en": "those", "tr": "şunlar, şu (çoğul)", "read": "{d}ouz" },
+    { "en": "car", "tr": "araba", "read": "kaa", "note": "sondaki r okunmaz", "plural": { "en": "cars", "read": "kaaz" } },
+    { "en": "house", "tr": "ev (bina)", "read": "haus", "plural": { "en": "houses", "read": "[hau]-ziz" } },
+    { "en": "phone", "tr": "telefon", "read": "foun", "plural": { "en": "phones", "read": "founz" } },
+    { "en": "bag", "tr": "çanta", "read": "b{a}g", "plural": { "en": "bags", "read": "b{a}gz" } },
+    { "en": "chair", "tr": "sandalye", "read": "çee", "note": "sondaki r okunmaz", "plural": { "en": "chairs", "read": "çeez" } },
+    { "en": "table", "tr": "masa", "read": "[tey]-bıl", "plural": { "en": "tables", "read": "[tey]-bılz" } }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "___ book (bu kitap, elimde)", "options": ["this", "that", "these"], "answer": "this" },
+    { "type": "choice", "prompt": "___ cars (şu arabalar, uzakta)", "options": ["this", "these", "those"], "answer": "those" },
+    { "type": "choice", "prompt": "___ apples (bu elmalar)", "options": ["this", "these", "those"], "answer": "these" },
+    { "type": "choice", "prompt": "“bu kitaplar” hangisi?", "options": ["this books", "these books", "these book"], "answer": "these books", "explain": "İsim çoğulsa this → these olur." },
+    { "type": "choice", "prompt": "That ___ a cat.", "options": ["is", "are"], "answer": "is" },
+    { "type": "choice", "prompt": "Those ___ students.", "options": ["is", "are"], "answer": "are" },
+    { "type": "choice", "prompt": "“these” nasıl okunur?", "options": ["dis", "diiz"], "answer": "diiz", "explain": "Uzun ii ve sonu z. Kısa “dis” this'tir." },
+    { "type": "write", "prompt": "bu araba", "answers": ["this car"] },
+    { "type": "write", "prompt": "şu evler", "answers": ["those houses"] },
+    { "type": "write", "prompt": "bu çantalar", "answers": ["these bags"] },
+    { "type": "write", "prompt": "Bu bir telefon.", "answers": ["This is a phone"] },
+    { "type": "write", "prompt": "Şunlar sandalye.", "answers": ["Those are chairs"] },
+    { "type": "write", "prompt": "Şu bir kedi mi?", "answers": ["Is that a cat"] },
+    { "type": "listen", "say": "this", "answers": ["this"] },
+    { "type": "listen", "say": "these", "answers": ["these"] },
+    { "type": "listen", "say": "those cars", "answers": ["those cars"] },
+    { "type": "speak", "say": "this book", "accept": ["this book"], "mistakes": { "these book": "Kısa “i” olmalı: “dis”." } },
+    { "type": "speak", "say": "these books", "accept": ["these books"], "mistakes": { "this books": "Uzun “ii” ve sonda “z”: “diiz”.", "this book": "Uzun “ii” ve sonda “z”: “diiz”." } },
+    { "type": "speak", "say": "That's a car", "accept": ["That's a car", "That is a car"] },
+    { "type": "speak", "say": "Those are houses", "accept": ["Those are houses"] }
+  ]
+}

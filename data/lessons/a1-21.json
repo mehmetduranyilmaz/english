@@ -1,0 +1,72 @@
+{
+  "id": "a1-21",
+  "stage": 8,
+  "title": "I work mı, I'm working mi? + kıyafetler ve hava",
+  "sections": [
+    {
+      "heading": "İki zamanı karşılaştırın",
+      "body": "<table><tr><th>Geniş zaman</th><th>Şimdiki zaman</th></tr><tr><td>Genel, her zaman, alışkanlık</td><td>Şu an, bugün, bu aralar (geçici)</td></tr><tr><td>I <b>walk</b> to work every day.<br>Her gün işe yürürüm.</td><td>Today I'<b>m going</b> by bus.<br>Bugün otobüsle gidiyorum.</td></tr><tr><td>She <b>wears</b> jeans.<br>(Genelde) kot giyer.</td><td>She'<b>s wearing</b> a dress today.<br>Bugün elbise giyiyor.</td></tr><tr><td>always, usually, every day, on Mondays</td><td>now, at the moment, today</td></tr></table>"
+    },
+    {
+      "heading": "-ing almayan fiiller",
+      "body": "<p>Duygu, düşünce ve sahiplik bildiren fiiller şu an için bile <b>geniş zamanla</b> kullanılır:</p><p class=\"ex\">know, understand, want, need, like, love, hate<br><br>✔ I <b>understand</b>. (Anlıyorum.) <span class=\"bad\">✘ I'm understanding.</span><br>✔ I <b>want</b> a coffee. (Bir kahve istiyorum.) <span class=\"bad\">✘ I'm wanting.</span><br>✔ I <b>love</b> you. (Seni seviyorum.)</p><p>Türkçede bunlara da “-yor” deriz; İngilizcede -ing yok.</p>"
+    },
+    {
+      "heading": "Kıyafetler: British kelimeler",
+      "body": "<table><tr><th>British</th><th>Okunuş</th><th>Türkçe</th><th>Amerikan</th></tr><tr><td>trousers</td><td>«[trau]-zız»</td><td>pantolon</td><td>pants</td></tr><tr><td>jumper</td><td>«[cam]-pı»</td><td>kazak</td><td>sweater</td></tr><tr><td>trainers</td><td>«[trey]-nız»</td><td>spor ayakkabı</td><td>sneakers</td></tr><tr><td>shirt / T-shirt</td><td>«şööt» / «[tii]-şööt»</td><td>gömlek / tişört</td><td></td></tr><tr><td>jacket / coat</td><td>«[c{a}]-kıt» / «kout»</td><td>ceket / palto, mont</td><td></td></tr><tr><td>dress / skirt</td><td>«dres» / «skööt»</td><td>elbise / etek</td><td></td></tr><tr><td>jeans / shoes</td><td>«ciinz» / «şuuz»</td><td>kot / ayakkabı</td><td></td></tr><tr><td>hat</td><td>«h{a}t»</td><td>şapka</td><td></td></tr></table><p><b>Dikkat:</b> British İngilizcede <b>pants</b> = külot, iç çamaşırı! Pantolon için trousers deyin.</p><p><b>giymek:</b> wear «{w}ee» (üstünde olmak): She's wearing a coat.</p>"
+    },
+    {
+      "heading": "Hava durumu",
+      "body": "<p class=\"ex\">What's the weather like? → Hava nasıl?<br>It's sunny «[sa]-ni». → Güneşli.<br>It's cloudy «[klau]-di». → Bulutlu.<br>It's windy «[{w}in]-di». → Rüzgârlı.<br>It's raining. / It's snowing. → Yağmur / kar yağıyor.<br>It's hot / warm / cold. → Sıcak / ılık / soğuk.</p><p>Hava için özne <b>it</b>'tir; Türkçedeki gibi öznesiz olmaz.</p>"
+    }
+  ],
+  "words": [
+    { "en": "wear", "tr": "giymek, giyinik olmak", "read": "{w}ee" },
+    { "en": "want", "tr": "istemek", "read": "{w}ont" },
+    { "en": "need", "tr": "ihtiyaç duymak", "read": "niid" },
+    { "en": "love", "tr": "sevmek, aşık olmak", "read": "lav", "opposite": "hate" },
+    { "en": "hate", "tr": "nefret etmek", "read": "heyt", "opposite": "love" },
+    { "en": "understand", "tr": "anlamak", "read": "an-dı-[st{a}nd]" },
+    { "en": "clothes", "tr": "kıyafetler", "read": "klou{d}z", "note": "günlük konuşmada “klouz” diye de söylenir" },
+    { "en": "trousers", "tr": "pantolon", "read": "[trau]-zız", "note": "British; pants = külot!" },
+    { "en": "jumper", "tr": "kazak", "read": "[cam]-pı", "note": "British; sweater da denir" },
+    { "en": "trainers", "tr": "spor ayakkabı", "read": "[trey]-nız", "note": "British; Amerikan: sneakers" },
+    { "en": "shirt", "tr": "gömlek", "read": "şööt" },
+    { "en": "T-shirt", "tr": "tişört", "read": "[tii] şööt" },
+    { "en": "jacket", "tr": "ceket", "read": "[c{a}]-kıt" },
+    { "en": "coat", "tr": "palto, mont", "read": "kout" },
+    { "en": "dress", "tr": "elbise", "read": "dres" },
+    { "en": "skirt", "tr": "etek", "read": "skööt" },
+    { "en": "jeans", "tr": "kot pantolon", "read": "ciinz" },
+    { "en": "shoes", "tr": "ayakkabı", "read": "şuuz" },
+    { "en": "hat", "tr": "şapka", "read": "h{a}t" },
+    { "en": "weather", "tr": "hava (durumu)", "read": "[{w}e]-{d}ı" },
+    { "en": "sunny", "tr": "güneşli", "read": "[sa]-ni" },
+    { "en": "cloudy", "tr": "bulutlu", "read": "[klau]-di" },
+    { "en": "windy", "tr": "rüzgârlı", "read": "[{w}in]-di" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Genelde işe yürürüm ama bugün otobüsle gidiyorum.", "options": ["I usually walk to work, but today I'm going by bus.", "I'm usually walking to work, but today I go by bus."], "answer": "I usually walk to work, but today I'm going by bus." },
+    { "type": "choice", "prompt": "Seni anlıyorum.", "options": ["I understand you.", "I'm understanding you."], "answer": "I understand you.", "explain": "understand -ing almaz." },
+    { "type": "choice", "prompt": "She ___ a red dress today.", "options": ["wears", "is wearing"], "answer": "is wearing", "explain": "today → şu an / bugün." },
+    { "type": "choice", "prompt": "He ___ jeans every day.", "options": ["wears", "is wearing"], "answer": "wears", "explain": "every day → alışkanlık." },
+    { "type": "choice", "prompt": "Pantolon (British)", "options": ["trousers", "pants"], "answer": "trousers", "explain": "British'te pants külot demektir." },
+    { "type": "choice", "prompt": "Spor ayakkabı (British)", "options": ["trainers", "sneakers"], "answer": "trainers" },
+    { "type": "choice", "prompt": "Hava güneşli.", "options": ["It's sunny.", "It's sun.", "Is sunny."], "answer": "It's sunny." },
+    { "type": "write", "prompt": "Ceket giyiyorum.", "answers": ["I'm wearing a jacket", "I am wearing a jacket"] },
+    { "type": "write", "prompt": "Hava soğuk ve rüzgârlı.", "answers": ["It's cold and windy", "It is cold and windy"] },
+    { "type": "write", "prompt": "Kar yağıyor.", "answers": ["It's snowing", "It is snowing"] },
+    { "type": "write", "prompt": "Yeni ayakkabılara ihtiyacım var.", "answers": ["I need new shoes"] },
+    { "type": "write", "prompt": "Seni seviyorum.", "answers": ["I love you"] },
+    { "type": "write", "prompt": "Anlamıyorum.", "answers": ["I don't understand", "I do not understand"] },
+    { "type": "write", "prompt": "Hava nasıl?", "answers": ["What's the weather like", "What is the weather like", "How's the weather", "How is the weather"] },
+    { "type": "listen", "say": "trousers", "answers": ["trousers"] },
+    { "type": "listen", "say": "It's cloudy today", "answers": ["It's cloudy today", "It is cloudy today"] },
+    { "type": "listen", "say": "She's wearing a coat", "answers": ["She's wearing a coat", "She is wearing a coat"] },
+    { "type": "speak", "say": "I love you", "accept": ["I love you"] },
+    { "type": "speak", "say": "It's sunny", "accept": ["It's sunny", "It is sunny"] },
+    { "type": "speak", "say": "I'm wearing a jumper", "accept": ["I'm wearing a jumper", "I am wearing a jumper"] },
+    { "type": "speak", "say": "I don't understand", "accept": ["I don't understand", "I do not understand"] },
+    { "type": "speak", "say": "What's the weather like?", "accept": ["What's the weather like", "What is the weather like"] }
+  ]
+}

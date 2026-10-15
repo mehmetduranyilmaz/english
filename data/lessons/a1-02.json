@@ -1,0 +1,52 @@
+{
+  "id": "a1-02",
+  "stage": 1,
+  "title": "Nesne halleri: me, you, him, her, it, us, them",
+  "sections": [
+    {
+      "heading": "Türkçede ekler, İngilizcede tek kelime",
+      "body": "<p>Türkçede “ben” kelimesi cümlede <b>beni, bana, benimle, benim için</b> gibi eklerle değişir. İngilizcede bunların hepsi için tek kelime vardır: <b>me</b>.</p><p class=\"ex\">Call <b>me</b>! → Beni ara!<br>Help <b>me</b>! → Bana yardım et!<br>with <b>me</b> → benimle<br>for <b>me</b> → benim için</p>"
+    },
+    {
+      "heading": "Özne → nesne hali",
+      "body": "<table><tr><th>Özne</th><th>Nesne hali</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>I</td><td><b>me</b></td><td>«mii»</td><td>beni, bana</td></tr><tr><td>you</td><td><b>you</b></td><td>«yuu»</td><td>seni, sana / sizi, size</td></tr><tr><td>he</td><td><b>him</b></td><td>«him»</td><td>onu, ona (erkek)</td></tr><tr><td>she</td><td><b>her</b></td><td>«höö»</td><td>onu, ona (kadın)</td></tr><tr><td>it</td><td><b>it</b></td><td>«it»</td><td>onu, ona (cansız)</td></tr><tr><td>we</td><td><b>us</b></td><td>«as»</td><td>bizi, bize</td></tr><tr><td>they</td><td><b>them</b></td><td>«{d}em»</td><td>onları, onlara</td></tr></table>"
+    },
+    {
+      "heading": "Kural",
+      "body": "<p>Bir fiilden (call, help) veya <b>with</b> (ile), <b>for</b> (için) gibi kelimelerden sonra özne değil <b>nesne hali</b> gelir.</p><p class=\"ex\"><span class=\"bad\">✘ for I</span> → ✔ for <b>me</b><br><span class=\"bad\">✘ with he</span> → ✔ with <b>him</b><br><span class=\"bad\">✘ Help we!</span> → ✔ Help <b>us</b>!</p><p>Not: <b>her</b> kelimesini 5. aşamada “onun (kadın)” anlamıyla da göreceğiz.</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>her</b> «höö»: British İngilizcede sondaki “r” okunmaz. Uzun bir “öö”, sonunda r yok.</li><li><b>for</b> «foo»: aynı şekilde sondaki r okunmaz.</li><li><b>them</b> «{d}em»: “they” gibi başlar; dil ucu dişlerin arasında.</li><li><b>with</b> «{w}i{d}»: dudaklar yuvarlak başlar, dil ucu dişlerin arasında biter.</li><li><b>us</b> «as»: kısa bir “as”.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "me", "tr": "beni, bana", "read": "mii" },
+    { "en": "him", "tr": "onu, ona (erkek)", "read": "him" },
+    { "en": "her", "tr": "onu, ona (kadın)", "read": "höö", "note": "sondaki r okunmaz" },
+    { "en": "us", "tr": "bizi, bize", "read": "as" },
+    { "en": "them", "tr": "onları, onlara", "read": "{d}em" },
+    { "en": "with", "tr": "ile", "read": "{w}i{d}" },
+    { "en": "for", "tr": "için", "read": "foo", "note": "sondaki r okunmaz" },
+    { "en": "call", "tr": "aramak, çağırmak", "read": "kool" },
+    { "en": "help", "tr": "yardım etmek", "read": "help" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Call ___! (Beni ara!)", "options": ["I", "me", "we"], "answer": "me" },
+    { "type": "choice", "prompt": "with ___ (onunla — erkek)", "options": ["he", "him", "her"], "answer": "him" },
+    { "type": "choice", "prompt": "for ___ (bizim için)", "options": ["we", "us", "them"], "answer": "us" },
+    { "type": "choice", "prompt": "Help ___! (Onlara yardım et!)", "options": ["they", "them", "us"], "answer": "them" },
+    { "type": "choice", "prompt": "with ___ (onunla — kadın)", "options": ["she", "her", "him"], "answer": "her" },
+    { "type": "choice", "prompt": "Hangisi doğru?", "options": ["for I", "for me"], "answer": "for me", "explain": "“for” kelimesinden sonra nesne hali gelir." },
+    { "type": "write", "prompt": "benimle", "answers": ["with me"] },
+    { "type": "write", "prompt": "onlar için", "answers": ["for them"] },
+    { "type": "write", "prompt": "Bizi ara!", "answers": ["call us"] },
+    { "type": "write", "prompt": "Ona yardım et! (erkek)", "answers": ["help him"] },
+    { "type": "listen", "say": "them", "answers": ["them"] },
+    { "type": "listen", "say": "her", "answers": ["her"] },
+    { "type": "listen", "say": "with us", "answers": ["with us"] },
+    { "type": "speak", "say": "Help me", "accept": ["help me"] },
+    { "type": "speak", "say": "Call us", "accept": ["call us"] },
+    { "type": "speak", "say": "with them", "accept": ["with them"], "mistakes": { "with him": "“them” yerine “him” anlaşıldı. Dil ucu dişlerin arasında “dem” deyin." } }
+  ]
+}

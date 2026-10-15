@@ -1,0 +1,74 @@
+{
+  "id": "a1-03",
+  "stage": 1,
+  "title": "Çoğul isimler: cats, boxes, children",
+  "sections": [
+    {
+      "heading": "Temel kural: sonuna -s",
+      "body": "<p>Çoğu ismi çoğul yapmak için sonuna <b>-s</b> eklenir.</p><p class=\"ex\">cat → cat<b>s</b> (kediler)<br>book → book<b>s</b> (kitaplar)<br>computer → computer<b>s</b> (bilgisayarlar)</p><p><b>Türkçeden önemli bir fark:</b> Türkçede sayıdan sonra isim tekil kalır: “iki kedi”. İngilizcede sayıdan sonra isim <b>çoğul</b> olur: <b>two cats</b>.</p>"
+    },
+    {
+      "heading": "Özel durumlar",
+      "body": "<table><tr><th>Kelimenin sonu</th><th>Ne olur?</th><th>Örnek</th></tr><tr><td>-s, -ss, -sh, -ch, -x</td><td><b>-es</b> eklenir</td><td>bus → bus<b>es</b>, watch → watch<b>es</b>, box → box<b>es</b></td></tr><tr><td>sessiz harf + y</td><td>y gider, <b>-ies</b> gelir</td><td>city → cit<b>ies</b>, baby → bab<b>ies</b></td></tr><tr><td>sesli harf + y</td><td>sadece <b>-s</b></td><td>key → key<b>s</b>, day → day<b>s</b></td></tr><tr><td>-f, -fe</td><td>çoğu <b>-ves</b> olur</td><td>knife → kni<b>ves</b>, leaf → lea<b>ves</b></td></tr><tr><td>-o</td><td>bazıları <b>-es</b> alır</td><td>potato → potato<b>es</b>, tomato → tomato<b>es</b> (ama photo → photo<b>s</b>)</td></tr></table>"
+    },
+    {
+      "heading": "Düzensiz çoğullar (ezberlenir)",
+      "body": "<table><tr><th>Tekil</th><th>Çoğul</th><th>Çoğulun okunuşu</th><th>Türkçe</th></tr><tr><td>man</td><td><b>men</b></td><td>«men»</td><td>adam → adamlar</td></tr><tr><td>woman</td><td><b>women</b></td><td>«[{w}i]-min»</td><td>kadın → kadınlar</td></tr><tr><td>child</td><td><b>children</b></td><td>«[çil]-drın»</td><td>çocuk → çocuklar</td></tr><tr><td>person</td><td><b>people</b></td><td>«[pii]-pıl»</td><td>kişi → insanlar</td></tr><tr><td>foot</td><td><b>feet</b></td><td>«fiit»</td><td>ayak → ayaklar</td></tr><tr><td>tooth</td><td><b>teeth</b></td><td>«tii{t}»</td><td>diş → dişler</td></tr></table>"
+    },
+    {
+      "heading": "Sayılamayan isimler: çoğul olmaz",
+      "body": "<p>Bazı isimler sayılamaz, bu yüzden <b>-s almaz</b>: <b>software</b> (yazılım), <b>information</b> (bilgi), <b>water</b> (su), <b>money</b> (para), <b>advice</b> (tavsiye).</p><p class=\"ex\"><span class=\"bad\">✘ softwares</span> → ✔ software<br>“İki yazılım” demek için: <b>two programs</b></p>"
+    },
+    {
+      "heading": "British telaffuz: -s üç şekilde okunur",
+      "body": "<table><tr><th>Ses</th><th>Ne zaman?</th><th>Örnek</th></tr><tr><td><b>“s”</b></td><td>Kelime p, t, k, f sesiyle bitiyorsa</td><td>cats «k{a}ts», books «buks»</td></tr><tr><td><b>“z”</b></td><td>Diğer seslerin çoğunda</td><td>dogs «dogz», keys «kiiz»</td></tr><tr><td><b>“ız”</b></td><td>s, z, ş, ç, c, ks sesinden sonra. Bir hece ekler.</td><td>buses «[ba]-sız», boxes «[bok]-sız»</td></tr></table><p><b>computers</b> «kım-[pyuu]-tız»: British İngilizcede sondaki “r” okunmaz.</p>"
+    }
+  ],
+  "words": [
+    { "en": "cat", "tr": "kedi", "read": "k{a}t", "plural": { "en": "cats", "read": "k{a}ts" } },
+    { "en": "dog", "tr": "köpek", "read": "dog", "plural": { "en": "dogs", "read": "dogz" } },
+    { "en": "book", "tr": "kitap", "read": "buk", "plural": { "en": "books", "read": "buks" } },
+    { "en": "computer", "tr": "bilgisayar", "read": "kım-[pyuu]-tı", "plural": { "en": "computers", "read": "kım-[pyuu]-tız" } },
+    { "en": "programmer", "tr": "programcı", "read": "[prou]-gr{a}m-ı", "plural": { "en": "programmers", "read": "[prou]-gr{a}m-ız" } },
+    { "en": "bus", "tr": "otobüs", "read": "bas", "plural": { "en": "buses", "read": "[ba]-sız" } },
+    { "en": "watch", "tr": "kol saati", "read": "{w}oç", "plural": { "en": "watches", "read": "[{w}o]-çız" } },
+    { "en": "box", "tr": "kutu", "read": "boks", "plural": { "en": "boxes", "read": "[bok]-sız" } },
+    { "en": "city", "tr": "şehir", "read": "[si]-ti", "plural": { "en": "cities", "read": "[si]-tiz" } },
+    { "en": "key", "tr": "anahtar", "read": "kii", "plural": { "en": "keys", "read": "kiiz" } },
+    { "en": "knife", "tr": "bıçak", "read": "nayf", "note": "baştaki k okunmaz", "plural": { "en": "knives", "read": "nayvz" } },
+    { "en": "potato", "tr": "patates", "read": "pı-[tey]-tou", "plural": { "en": "potatoes", "read": "pı-[tey]-touz" } },
+    { "en": "man", "tr": "adam", "read": "m{a}n", "plural": { "en": "men", "read": "men" } },
+    { "en": "woman", "tr": "kadın", "read": "[{w}u]-mın", "plural": { "en": "women", "read": "[{w}i]-min" } },
+    { "en": "child", "tr": "çocuk", "read": "çayld", "plural": { "en": "children", "read": "[çil]-drın" } },
+    { "en": "person", "tr": "kişi", "read": "[pöö]-sın", "plural": { "en": "people", "read": "[pii]-pıl" } },
+    { "en": "foot", "tr": "ayak", "read": "fut", "plural": { "en": "feet", "read": "fiit" } },
+    { "en": "tooth", "tr": "diş", "read": "tuu{t}", "plural": { "en": "teeth", "read": "tii{t}" } },
+    { "en": "software", "tr": "yazılım (sayılamaz)", "read": "[soft]-{w}ee", "note": "çoğulu yok" },
+    { "en": "two", "tr": "iki", "read": "tuu" },
+    { "en": "three", "tr": "üç", "read": "{t}rii" }
+  ],
+  "exercises": [
+    { "type": "write", "prompt": "kediler", "answers": ["cats"] },
+    { "type": "write", "prompt": "kutular", "answers": ["boxes"] },
+    { "type": "write", "prompt": "şehirler", "answers": ["cities"] },
+    { "type": "write", "prompt": "anahtarlar", "answers": ["keys"] },
+    { "type": "write", "prompt": "bıçaklar", "answers": ["knives"] },
+    { "type": "write", "prompt": "çocuklar", "answers": ["children"] },
+    { "type": "write", "prompt": "insanlar", "answers": ["people"] },
+    { "type": "write", "prompt": "programcılar", "answers": ["programmers"] },
+    { "type": "write", "prompt": "iki kedi", "answers": ["two cats"], "explain": "İngilizcede sayıdan sonra isim çoğul olur." },
+    { "type": "choice", "prompt": "“software” kelimesinin çoğulu?", "options": ["softwares", "software", "softwaries"], "answer": "software", "explain": "software sayılamaz, -s almaz." },
+    { "type": "choice", "prompt": "man → ?", "options": ["mans", "men", "mens"], "answer": "men" },
+    { "type": "choice", "prompt": "potato → ?", "options": ["potatos", "potatoes", "potaties"], "answer": "potatoes" },
+    { "type": "choice", "prompt": "Hangisinin sonu “ız” diye okunur?", "options": ["cats", "dogs", "boxes"], "answer": "boxes" },
+    { "type": "choice", "prompt": "“cats” kelimesinin sonundaki ses?", "options": ["s", "z", "ız"], "answer": "s", "explain": "t sesinden sonra -s, “s” okunur." },
+    { "type": "choice", "prompt": "“dogs” kelimesinin sonundaki ses?", "options": ["s", "z", "ız"], "answer": "z" },
+    { "type": "listen", "say": "watches", "answers": ["watches"] },
+    { "type": "listen", "say": "children", "answers": ["children"] },
+    { "type": "listen", "say": "women", "answers": ["women"] },
+    { "type": "speak", "say": "two cats", "accept": ["two cats"] },
+    { "type": "speak", "say": "three boxes", "accept": ["three boxes"], "mistakes": { "tree boxes": "Baştaki sesi düz “t” gibi söylediniz. Dil ucunu dişlerin arasına koyup öyle “t” deyin." } },
+    { "type": "speak", "say": "children", "accept": ["children"] },
+    { "type": "speak", "say": "women", "accept": ["women"], "mistakes": { "woman": "Tekil anlaşıldı. Çoğulu “wimin” diye okuyun." } }
+  ]
+}

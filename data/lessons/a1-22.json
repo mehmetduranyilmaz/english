@@ -1,0 +1,67 @@
+{
+  "id": "a1-22",
+  "stage": 9,
+  "title": "can / can't: yüzebilirim, yardım edebilir misin?",
+  "sections": [
+    {
+      "heading": "can = -ebilmek",
+      "body": "<p>Türkçedeki <b>“-ebil”</b> eki İngilizcede ayrı bir kelimedir: <b>can</b>. Tüm öznelerle aynıdır ve sonraki fiil <b>yalın</b> kalır:</p><p class=\"ex\">I <b>can</b> swim. → Yüzebilirim.<br>She <b>can</b> speak English. → İngilizce konuşabilir.<br><span class=\"bad\">✘ She cans speak.</span> <span class=\"bad\">✘ She can speaks.</span> <span class=\"bad\">✘ I can to swim.</span></p>"
+    },
+    {
+      "heading": "Olumsuz ve soru",
+      "body": "<table><tr><th></th><th>Örnek</th><th>Türkçe</th></tr><tr><td>Olumsuz</td><td>I <b>can't</b> drive. (cannot)</td><td>Araba kullanamam.</td></tr><tr><td>Soru</td><td><b>Can</b> you swim?</td><td>Yüzebilir misin?</td></tr><tr><td>Kısa cevap</td><td>Yes, I can. / No, I can't.</td><td>Evet. / Hayır.</td></tr></table>"
+    },
+    {
+      "heading": "Kibar rica: Can I…? Can you…?",
+      "body": "<p class=\"ex\"><b>Can I have</b> a coffee, <b>please</b>? → Bir kahve alabilir miyim, lütfen?<br><b>Can you help</b> me, please? → Bana yardım edebilir misiniz?<br><b>Can I</b> open the window? → Pencereyi açabilir miyim?</p><p>İngilizler ricalarda <b>please</b> «pliiz» ve teşekkürde <b>thank you</b> kelimelerini çok sık kullanır. Söylemezseniz kaba bulunabilirsiniz.</p><table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>please</td><td>«pliiz»</td><td>lütfen</td></tr><tr><td>thank you / thanks</td><td>«[{t}{a}nk] yuu» / «{t}{a}nks»</td><td>teşekkür ederim / teşekkürler</td></tr><tr><td>you're welcome</td><td>«yoo [{w}el]-kım»</td><td>rica ederim</td></tr><tr><td>sorry</td><td>«[so]-ri»</td><td>özür dilerim, pardon</td></tr><tr><td>excuse me</td><td>«ik-[skyuuz] mii»</td><td>afedersiniz (dikkat çekmek için)</td></tr></table>"
+    },
+    {
+      "heading": "Yetenekler ve hobiler",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>sing / dance</td><td>«sing» / «daans»</td><td>şarkı söylemek / dans etmek</td></tr><tr><td>draw / paint</td><td>«droo» / «peynt»</td><td>çizmek / boyamak, resim yapmak</td></tr><tr><td>ride a bike</td><td>«rayd ı [bayk]»</td><td>bisiklete binmek</td></tr><tr><td>play football</td><td>«pley [fut]-bool»</td><td>futbol oynamak</td></tr><tr><td>play the guitar</td><td>«pley {d}ı gi-[taa]»</td><td>gitar çalmak (çalgıdan önce the)</td></tr><tr><td>cook</td><td>«kuk»</td><td>yemek yapmak</td></tr></table>"
+    },
+    {
+      "heading": "British telaffuz: can ve can't",
+      "body": "<ul><li>Olumlu cümlede <b>can</b> zayıf ve kısa okunur: I can swim → «ay kın [s{w}im]».</li><li><b>can't</b> British İngilizcede uzun ve net okunur: «kaant». Amerikalılar “kent” der.</li><li>Bu fark sayesinde İngilizler can ile can't'ı karıştırmaz: «kın» = yapabilir, «kaant» = yapamaz.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "can", "tr": "-ebilmek", "read": "k{a}n", "note": "cümle içinde kısa: “kın”" },
+    { "en": "can't", "tr": "-emez (cannot)", "read": "kaant", "note": "British: uzun aa; Amerikan: “kent”" },
+    { "en": "please", "tr": "lütfen", "read": "pliiz" },
+    { "en": "thank you", "tr": "teşekkür ederim", "read": "[{t}{a}nk] yuu" },
+    { "en": "you're welcome", "tr": "rica ederim", "read": "yoo [{w}el]-kım" },
+    { "en": "sorry", "tr": "özür dilerim, pardon", "read": "[so]-ri" },
+    { "en": "excuse me", "tr": "afedersiniz", "read": "ik-[skyuuz] mii" },
+    { "en": "sing", "tr": "şarkı söylemek", "read": "sing" },
+    { "en": "dance", "tr": "dans etmek", "read": "daans", "note": "British: uzun aa" },
+    { "en": "draw", "tr": "çizmek", "read": "droo" },
+    { "en": "paint", "tr": "boyamak, resim yapmak", "read": "peynt" },
+    { "en": "ride a bike", "tr": "bisiklete binmek", "read": "rayd ı [bayk]" },
+    { "en": "football", "tr": "futbol", "read": "[fut]-bool" },
+    { "en": "guitar", "tr": "gitar", "read": "gi-[taa]", "note": "play the guitar" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Yüzebilirim.", "options": ["I can swim.", "I can to swim.", "I can swimming."], "answer": "I can swim.", "explain": "can + yalın fiil." },
+    { "type": "choice", "prompt": "She ___ drive.", "options": ["can't", "doesn't can", "not can"], "answer": "can't" },
+    { "type": "choice", "prompt": "He can ___.", "options": ["speaks English", "speak English"], "answer": "speak English", "explain": "can'den sonra fiil -s almaz." },
+    { "type": "choice", "prompt": "___ you help me?", "options": ["Can", "Do", "Are"], "answer": "Can" },
+    { "type": "choice", "prompt": "Bir kahve alabilir miyim, lütfen?", "options": ["Can I have a coffee, please?", "Can I a coffee, please?", "I can have a coffee, please?"], "answer": "Can I have a coffee, please?" },
+    { "type": "choice", "prompt": "can't British İngilizcede nasıl okunur?", "options": ["kaant", "kent"], "answer": "kaant" },
+    { "type": "choice", "prompt": "Can you swim? — No, I ___.", "options": ["can't", "don't", "am not"], "answer": "can't" },
+    { "type": "write", "prompt": "Araba kullanabilirim.", "answers": ["I can drive"] },
+    { "type": "write", "prompt": "Yüzemem.", "answers": ["I can't swim", "I cannot swim", "I can not swim"] },
+    { "type": "write", "prompt": "Bana yardım edebilir misin?", "answers": ["Can you help me", "Can you help me please"] },
+    { "type": "write", "prompt": "Biraz su alabilir miyim, lütfen?", "answers": ["Can I have some water please", "Can I have some water", "Can I have water please"] },
+    { "type": "write", "prompt": "Teşekkür ederim.", "answers": ["Thank you", "Thanks"] },
+    { "type": "write", "prompt": "Gitar çalabilir misin?", "answers": ["Can you play the guitar"] },
+    { "type": "write", "prompt": "Özür dilerim.", "answers": ["Sorry", "I'm sorry", "I am sorry"] },
+    { "type": "listen", "say": "I can't swim", "answers": ["I can't swim", "I cannot swim"] },
+    { "type": "listen", "say": "Can I have a tea, please?", "answers": ["Can I have a tea please", "Can I have a tea"] },
+    { "type": "listen", "say": "You're welcome", "answers": ["You're welcome", "You are welcome"] },
+    { "type": "speak", "say": "Can you help me?", "accept": ["Can you help me"] },
+    { "type": "speak", "say": "I can't dance", "accept": ["I can't dance", "I cannot dance"], "mistakes": { "i can dance": "“can” anlaşıldı. can't'ı uzun ve net söyleyin: “kaant”, sonda t." } },
+    { "type": "speak", "say": "Thank you", "accept": ["Thank you", "Thank you very much"], "mistakes": { "tank you": "Baştaki sesi düz “t” söylediniz. Dil ucu dişlerin arasında." } },
+    { "type": "speak", "say": "Excuse me", "accept": ["Excuse me"] },
+    { "type": "speak", "say": "Can I have a coffee, please?", "accept": ["Can I have a coffee please", "Can I have a coffee"] }
+  ]
+}

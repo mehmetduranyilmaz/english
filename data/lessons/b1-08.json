@@ -1,0 +1,62 @@
+{
+  "id": "b1-08",
+  "stage": 21,
+  "title": "where / whose + zamirin düşmesi + teknoloji",
+  "sections": [
+    {
+      "heading": "where, whose, when",
+      "body": "<table><tr><th>Kelime</th><th>Ne için?</th><th>Örnek</th><th>Türkçe</th></tr><tr><td><b>where</b></td><td>yer</td><td>the town <b>where</b> I grew up</td><td>büyüdüğüm kasaba</td></tr><tr><td><b>whose</b></td><td>sahiplik</td><td>the man <b>whose</b> car was stolen</td><td>arabası çalınan adam</td></tr><tr><td><b>when</b></td><td>zaman</td><td>the day <b>when</b> we met</td><td>tanıştığımız gün</td></tr></table>"
+    },
+    {
+      "heading": "who / which / that düşebilir",
+      "body": "<p>who / which / that'tan sonra <b>başka bir özne</b> geliyorsa (I, you, she…), konuşmada genellikle atılır:</p><p class=\"ex\">the book (which) <b>I</b> bought → <b>the book I bought</b> (aldığım kitap)<br>the people (who) <b>we</b> met → <b>the people we met</b> (tanıştığımız insanlar)</p><p>Ama who / which kendisi özneyse <b>atılamaz</b>:</p><p class=\"ex\">the man <b>who</b> called (arayan adam) <span class=\"bad\">✘ the man called</span></p><p><b>Kural:</b> Hemen arkasında bir özne + fiil varsa atabilirsiniz.</p>"
+    },
+    {
+      "heading": "Teknoloji",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>device</td><td>«di-[vays]»</td><td>cihaz</td></tr><tr><td>laptop</td><td>«[l{a}p]-top»</td><td>dizüstü bilgisayar</td></tr><tr><td>screen / keyboard</td><td>«skriin» / «[kii]-bood»</td><td>ekran / klavye</td></tr><tr><td>password</td><td>«[paas]-{w}ööd»</td><td>şifre (British: uzun aa)</td></tr><tr><td>account</td><td>«ı-[kaunt]»</td><td>hesap</td></tr><tr><td>website / app</td><td>«[{w}eb]-sayt» / «{a}p»</td><td>web sitesi / uygulama</td></tr><tr><td>download / upload</td><td>«daun-[loud]» / «ap-[loud]»</td><td>indirmek / yüklemek</td></tr><tr><td>update</td><td>«ap-[deyt]»</td><td>güncellemek</td></tr><tr><td>delete</td><td>«di-[liit]»</td><td>silmek</td></tr><tr><td>search</td><td>«sööç»</td><td>aramak (internette)</td></tr><tr><td>wifi</td><td>«[{w}ay]-fay»</td><td>kablosuz internet</td></tr><tr><td>charger</td><td>«[çaa]-cı»</td><td>şarj aleti</td></tr><tr><td>bug / fix</td><td>«bag» / «fiks»</td><td>hata (yazılım) / düzeltmek</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "whose car", "tr": "arabası … olan", "read": "huuz [kaa]" },
+    { "en": "stolen", "tr": "çalınmış", "read": "[stou]-lın", "note": "steal → stole → stolen" },
+    { "en": "device", "tr": "cihaz", "read": "di-[vays]" },
+    { "en": "laptop", "tr": "dizüstü bilgisayar", "read": "[l{a}p]-top" },
+    { "en": "screen", "tr": "ekran", "read": "skriin" },
+    { "en": "keyboard", "tr": "klavye", "read": "[kii]-bood" },
+    { "en": "password", "tr": "şifre", "read": "[paas]-{w}ööd", "note": "British: uzun aa" },
+    { "en": "account", "tr": "hesap", "read": "ı-[kaunt]" },
+    { "en": "website", "tr": "web sitesi", "read": "[{w}eb]-sayt" },
+    { "en": "app", "tr": "uygulama", "read": "{a}p" },
+    { "en": "download", "tr": "indirmek", "read": "daun-[loud]", "opposite": "upload" },
+    { "en": "upload", "tr": "yüklemek", "read": "ap-[loud]", "opposite": "download" },
+    { "en": "update", "tr": "güncellemek; güncelleme", "read": "ap-[deyt]" },
+    { "en": "delete", "tr": "silmek", "read": "di-[liit]" },
+    { "en": "search", "tr": "aramak (internette)", "read": "sööç" },
+    { "en": "wifi", "tr": "kablosuz internet", "read": "[{w}ay]-fay" },
+    { "en": "charger", "tr": "şarj aleti", "read": "[çaa]-cı" },
+    { "en": "bug", "tr": "hata (yazılım); böcek", "read": "bag" },
+    { "en": "fix", "tr": "düzeltmek, tamir etmek", "read": "fiks" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "büyüdüğüm kasaba", "options": ["the town where I grew up", "the town which I grew up", "the town I grew up where"], "answer": "the town where I grew up" },
+    { "type": "choice", "prompt": "arabası çalınan adam", "options": ["the man whose car was stolen", "the man who his car was stolen", "the man which car was stolen"], "answer": "the man whose car was stolen" },
+    { "type": "choice", "prompt": "Hangisinde who / that ATILAMAZ?", "options": ["the man who called me", "the man who I called"], "answer": "the man who called me", "explain": "who burada özne; arkasında başka özne yok." },
+    { "type": "choice", "prompt": "aldığım kitap (konuşma dili)", "options": ["the book I bought", "the book bought I"], "answer": "the book I bought" },
+    { "type": "choice", "prompt": "tanıştığımız gün", "options": ["the day when we met", "the day where we met", "the day whose we met"], "answer": "the day when we met" },
+    { "type": "choice", "prompt": "“password” British İngilizcede nasıl okunur?", "options": ["paas-wööd", "pes-word"], "answer": "paas-wööd" },
+    { "type": "write", "prompt": "Şifremi unuttum.", "answers": ["I've forgotten my password", "I forgot my password", "I have forgotten my password"] },
+    { "type": "write", "prompt": "Wifi şifresi ne?", "answers": ["What's the wifi password", "What is the wifi password", "What's the WiFi password"] },
+    { "type": "write", "prompt": "Uygulamayı indirdin mi?", "answers": ["Have you downloaded the app", "Did you download the app"] },
+    { "type": "write", "prompt": "Dün yazdığım kod", "answers": ["the code I wrote yesterday", "the code that I wrote yesterday", "the code which I wrote yesterday"] },
+    { "type": "write", "prompt": "Hatayı düzelttim.", "answers": ["I've fixed the bug", "I fixed the bug", "I have fixed the bug"] },
+    { "type": "write", "prompt": "Çalıştığım şirket", "answers": ["the company I work for", "the company where I work", "the company that I work for", "the company which I work for"] },
+    { "type": "listen", "say": "Can I borrow your charger?", "answers": ["Can I borrow your charger"] },
+    { "type": "listen", "say": "the people we met in London", "answers": ["the people we met in London"] },
+    { "type": "listen", "say": "Don't forget to update the app", "answers": ["Don't forget to update the app", "Do not forget to update the app"] },
+    { "type": "speak", "say": "the town where I grew up", "accept": ["the town where I grew up"] },
+    { "type": "speak", "say": "What's the wifi password?", "accept": ["What's the wifi password", "What is the wifi password"] },
+    { "type": "speak", "say": "I've fixed the bug", "accept": ["I've fixed the bug", "I have fixed the bug"] },
+    { "type": "speak", "say": "Delete it", "accept": ["Delete it"] },
+    { "type": "speak", "say": "the man whose car was stolen", "accept": ["the man whose car was stolen", "the man who's car was stolen"] }
+  ]
+}

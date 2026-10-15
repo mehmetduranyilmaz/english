@@ -1,0 +1,75 @@
+{
+  "id": "a1-18",
+  "stage": 7,
+  "title": "don't / doesn't, Do you…? + meslekler",
+  "sections": [
+    {
+      "heading": "Olumsuz: don't / doesn't",
+      "body": "<table><tr><th>Özne</th><th>Olumsuz</th><th>Örnek</th></tr><tr><td>I / you / we / they</td><td><b>don't</b> «dount» (do not)</td><td>I <b>don't</b> eat meat. → Et yemem.</td></tr><tr><td>he / she / it</td><td><b>doesn't</b> «[da]-zınt» (does not)</td><td>She <b>doesn't</b> drive. → Araba kullanmaz.</td></tr></table><p><b>Dikkat:</b> -s artık doesn't'ta olduğu için fiil yalın kalır:</p><p class=\"ex\"><span class=\"bad\">✘ She doesn't works.</span> → ✔ She doesn't <b>work</b>.</p>"
+    },
+    {
+      "heading": "Soru: Do / Does başa",
+      "body": "<table><tr><th>Soru</th><th>Evet</th><th>Hayır</th></tr><tr><td><b>Do</b> you work? (Çalışıyor musun?)</td><td>Yes, I do.</td><td>No, I don't.</td></tr><tr><td><b>Does</b> she drive? (Araba kullanır mı?)</td><td>Yes, she does.</td><td>No, she doesn't.</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ Does she drives?</span> → ✔ Does she <b>drive</b>?<br><span class=\"bad\">✘ You work?</span> → yazıda ve düzgün konuşmada ✔ <b>Do</b> you work?</p>"
+    },
+    {
+      "heading": "Soru kelimeleri",
+      "body": "<table><tr><th>Kelime</th><th>Okunuş</th><th>Türkçe</th><th>Örnek</th></tr><tr><td>what</td><td>«{w}ot»</td><td>ne</td><td>What do you do? (Ne iş yapıyorsun?)</td></tr><tr><td>where</td><td>«{w}ee»</td><td>nerede</td><td>Where do you live? (Nerede yaşıyorsun?)</td></tr><tr><td>when</td><td>«{w}en»</td><td>ne zaman</td><td>When do you finish? (Ne zaman bitiriyorsun?)</td></tr><tr><td>what time</td><td>«{w}ot [taym]»</td><td>saat kaçta</td><td>What time do you get up? (Saat kaçta kalkarsın?)</td></tr><tr><td>who</td><td>«huu»</td><td>kim</td><td>Who do you live with? (Kiminle yaşıyorsun?)</td></tr><tr><td>why</td><td>«{w}ay»</td><td>neden</td><td>Why do you study English?</td></tr><tr><td>how</td><td>«hau»</td><td>nasıl</td><td>How do you go to work? — By bus.</td></tr></table><p><b>What do you do?</b> = Ne iş yapıyorsun? Cevap: I'm a programmer. (“What are you doing?” ise <b>şu an</b> ne yaptığını sorar.)</p>"
+    },
+    {
+      "heading": "Ulaşım: by bus",
+      "body": "<p class=\"ex\">by bus (otobüsle), by car (arabayla), by train «treyn» (trenle), by tube «tyuub» (Londra metrosuyla), <b>on foot</b> (yürüyerek)</p><p><span class=\"bad\">✘ with bus</span>: “-le” için burada <b>by</b> kullanılır ve <b>the yoktur</b>.</p>"
+    },
+    {
+      "heading": "Meslekler",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>job</td><td>«cob»</td><td>iş, meslek</td></tr><tr><td>nurse</td><td>«nöös»</td><td>hemşire</td></tr><tr><td>driver</td><td>«[dray]-vı»</td><td>şoför, sürücü</td></tr><tr><td>lawyer</td><td>«[loy]-ı»</td><td>avukat</td></tr><tr><td>accountant</td><td>«ı-[kaun]-tınt»</td><td>muhasebeci</td></tr><tr><td>manager</td><td>«[m{a}]-nı-cı»</td><td>müdür, yönetici</td></tr><tr><td>waiter</td><td>«[{w}ey]-tı»</td><td>garson</td></tr><tr><td>police officer</td><td>«pı-[liis] [o]-fi-sı»</td><td>polis memuru</td></tr><tr><td>shop assistant</td><td>«şop ı-[sis]-tınt»</td><td>tezgâhtar (British)</td></tr></table><p>Daha önceki meslekler: teacher, doctor, engineer, programmer, student, cook.</p>"
+    }
+  ],
+  "words": [
+    { "en": "don't", "tr": "-maz, -mez (do not)", "read": "dount" },
+    { "en": "doesn't", "tr": "-maz (he / she / it ile)", "read": "[da]-zınt" },
+    { "en": "know", "tr": "bilmek, tanımak", "read": "nou", "note": "k okunmaz; I don't know: bilmiyorum" },
+    { "en": "what", "tr": "ne", "read": "{w}ot" },
+    { "en": "when", "tr": "ne zaman", "read": "{w}en" },
+    { "en": "who", "tr": "kim", "read": "huu" },
+    { "en": "why", "tr": "neden", "read": "{w}ay" },
+    { "en": "time", "tr": "zaman; saat", "read": "taym", "note": "what time: saat kaçta" },
+    { "en": "by", "tr": "ile (ulaşım)", "read": "bay", "note": "by bus, by car" },
+    { "en": "train", "tr": "tren", "read": "treyn" },
+    { "en": "tube", "tr": "Londra metrosu", "read": "tyuub", "note": "British" },
+    { "en": "on foot", "tr": "yürüyerek", "read": "on [fut]" },
+    { "en": "job", "tr": "iş, meslek", "read": "cob" },
+    { "en": "nurse", "tr": "hemşire", "read": "nöös" },
+    { "en": "driver", "tr": "şoför, sürücü", "read": "[dray]-vı" },
+    { "en": "lawyer", "tr": "avukat", "read": "[loy]-ı" },
+    { "en": "accountant", "tr": "muhasebeci", "read": "ı-[kaun]-tınt" },
+    { "en": "manager", "tr": "müdür, yönetici", "read": "[m{a}]-nı-cı" },
+    { "en": "waiter", "tr": "garson", "read": "[{w}ey]-tı" },
+    { "en": "police officer", "tr": "polis memuru", "read": "pı-[liis] [o]-fi-sı" },
+    { "en": "shop assistant", "tr": "tezgâhtar", "read": "şop ı-[sis]-tınt", "note": "British" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "She ___ work on Sunday.", "options": ["don't", "doesn't"], "answer": "doesn't" },
+    { "type": "choice", "prompt": "He doesn't ___ coffee.", "options": ["drink", "drinks"], "answer": "drink", "explain": "doesn't'tan sonra fiil yalın." },
+    { "type": "choice", "prompt": "___ you live in London?", "options": ["Do", "Does", "Are"], "answer": "Do" },
+    { "type": "choice", "prompt": "___ your sister work?", "options": ["Do", "Does", "Is"], "answer": "Does" },
+    { "type": "choice", "prompt": "Do you speak English? — Yes, I ___.", "options": ["do", "am", "speak"], "answer": "do" },
+    { "type": "choice", "prompt": "“Ne iş yapıyorsun?”", "options": ["What do you do?", "What are you doing?", "What is your work do?"], "answer": "What do you do?", "explain": "What are you doing? = şu an ne yapıyorsun?" },
+    { "type": "choice", "prompt": "İşe otobüsle gidiyorum.", "options": ["I go to work by bus.", "I go to work with bus.", "I go to the work by the bus."], "answer": "I go to work by bus." },
+    { "type": "write", "prompt": "Et yemem.", "answers": ["I don't eat meat", "I do not eat meat"] },
+    { "type": "write", "prompt": "O (kadın) araba kullanmaz.", "answers": ["She doesn't drive", "She does not drive"] },
+    { "type": "write", "prompt": "Nerede yaşıyorsun?", "answers": ["Where do you live"] },
+    { "type": "write", "prompt": "Ne iş yapıyorsun?", "answers": ["What do you do"] },
+    { "type": "write", "prompt": "Kahve içer misin?", "answers": ["Do you drink coffee"] },
+    { "type": "write", "prompt": "O (erkek) nerede çalışıyor?", "answers": ["Where does he work"] },
+    { "type": "write", "prompt": "Saat kaçta kalkarsın?", "answers": ["What time do you get up"] },
+    { "type": "write", "prompt": "Bilmiyorum.", "answers": ["I don't know", "I do not know"] },
+    { "type": "listen", "say": "Where do you work?", "answers": ["Where do you work"] },
+    { "type": "listen", "say": "She doesn't eat meat", "answers": ["She doesn't eat meat", "She does not eat meat"] },
+    { "type": "listen", "say": "What time do you get up?", "answers": ["What time do you get up"] },
+    { "type": "speak", "say": "What do you do?", "accept": ["What do you do"] },
+    { "type": "speak", "say": "I don't know", "accept": ["I don't know", "I do not know"] },
+    { "type": "speak", "say": "Does she speak English?", "accept": ["Does she speak English"] },
+    { "type": "speak", "say": "I go to work by bus", "accept": ["I go to work by bus"] },
+    { "type": "speak", "say": "Where do you live?", "accept": ["Where do you live"] }
+  ]
+}

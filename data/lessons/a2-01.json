@@ -1,0 +1,76 @@
+{
+  "id": "a2-01",
+  "stage": 11,
+  "title": "was / were: Dün evdeydim",
+  "sections": [
+    {
+      "heading": "am / is / are'ın geçmişi",
+      "body": "<table><tr><th>Şimdi</th><th>Geçmiş</th><th>Örnek</th></tr><tr><td>I am</td><td>I <b>was</b> «{w}oz»</td><td>I was at home yesterday. → Dün evdeydim.</td></tr><tr><td>he / she / it is</td><td><b>was</b></td><td>She was tired. → Yorgundu.</td></tr><tr><td>you / we / they are</td><td><b>were</b> «{w}öö»</td><td>They were in London. → Londra'daydılar.</td></tr></table><p>Türkçedeki <b>“-di”</b> eki (evde<b>ydim</b>, yorgun<b>du</b>) burada was / were olur.</p>"
+    },
+    {
+      "heading": "Olumsuz ve soru",
+      "body": "<p class=\"ex\">I <b>wasn't</b> «[{w}o]-zınt» at work. → İşte değildim.<br>We <b>weren't</b> «{w}öönt» late. → Geç kalmadık.<br><b>Was</b> she at the party? — Yes, she was. / No, she wasn't.<br><b>Were</b> you tired? — Yes, I was. / No, I wasn't.<br><b>Where were</b> you? → Neredeydin?</p><p><b>there was / there were</b> = vardı: There was a cat in the garden. There were many people.</p>"
+    },
+    {
+      "heading": "Türklerin en sık hatası: doğmak",
+      "body": "<p>Türkçede “1990'da doğdum” deriz. İngilizcede “doğmak” edilgen bir yapıdır: <b>was born</b> «boon».</p><p class=\"ex\">✔ I <b>was born</b> in 1990. → 1990'da doğdum.<br><span class=\"bad\">✘ I born in 1990.</span> <span class=\"bad\">✘ I borned.</span><br>Where <b>were</b> you <b>born</b>? → Nerede doğdun?</p><p><b>Yıllar ikişer ikişer okunur:</b> 1990 → nineteen ninety, 1985 → nineteen eighty-five, 2010 → twenty ten.</p>"
+    },
+    {
+      "heading": "Geçmiş zaman kelimeleri",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>yesterday</td><td>«[yes]-tı-dey»</td><td>dün</td></tr><tr><td>last night / last week</td><td>«laast [nayt]» / «laast [{w}iik]»</td><td>dün gece / geçen hafta</td></tr><tr><td>last year / last month</td><td>«laast [yiı]» / «laast [man{t}]»</td><td>geçen yıl / geçen ay</td></tr><tr><td>two days ago</td><td>«tuu deyz ı-[gou]»</td><td>iki gün önce</td></tr><tr><td>in 1990</td><td>«in [nayn]-tiin [nayn]-ti»</td><td>1990'da</td></tr></table><p><b>ago</b> Türkçedeki gibi sona gelir: three years <b>ago</b> (üç yıl önce). <b>last</b>'tan önce the gelmez: <span class=\"bad\">✘ the last week</span>.</p>"
+    },
+    {
+      "heading": "Mekânlar ve duygular",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>party</td><td>«[paa]-ti»</td><td>parti</td></tr><tr><td>cinema</td><td>«[si]-nı-mı»</td><td>sinema (British; Amerikan: movie theater)</td></tr><tr><td>theatre</td><td>«[{t}iı]-tı»</td><td>tiyatro (British yazım; Amerikan: theater)</td></tr><tr><td>museum</td><td>«myuu-[zii]-ım»</td><td>müze</td></tr><tr><td>restaurant</td><td>«[res]-tı-ront»</td><td>restoran</td></tr><tr><td>beach / hotel / airport</td><td>«biiç» / «hou-[tel]» / «[ee]-poot»</td><td>plaj / otel / havalimanı</td></tr><tr><td>ill</td><td>«il»</td><td>hasta (British; Amerikan: sick)</td></tr><tr><td>bored / excited</td><td>«bood» / «ik-[say]-tid»</td><td>sıkılmış / heyecanlı</td></tr><tr><td>nervous / surprised</td><td>«[nöö]-vıs» / «sı-[prayzd]»</td><td>gergin / şaşırmış</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "was", "tr": "-di (I / he / she / it)", "read": "{w}oz" },
+    { "en": "were", "tr": "-di (you / we / they)", "read": "{w}öö" },
+    { "en": "wasn't", "tr": "değildi", "read": "[{w}o]-zınt" },
+    { "en": "weren't", "tr": "değildi (çoğul)", "read": "{w}öönt" },
+    { "en": "born", "tr": "doğmuş", "read": "boon", "note": "I was born in 1990." },
+    { "en": "yesterday", "tr": "dün", "read": "[yes]-tı-dey" },
+    { "en": "last", "tr": "geçen, son", "read": "laast", "note": "British: uzun aa; last week" },
+    { "en": "ago", "tr": "önce", "read": "ı-[gou]", "note": "two days ago" },
+    { "en": "year", "tr": "yıl", "read": "yiı" },
+    { "en": "month", "tr": "ay (takvim)", "read": "man{t}" },
+    { "en": "party", "tr": "parti", "read": "[paa]-ti" },
+    { "en": "cinema", "tr": "sinema", "read": "[si]-nı-mı", "note": "British" },
+    { "en": "theatre", "tr": "tiyatro", "read": "[{t}iı]-tı", "note": "British yazım" },
+    { "en": "museum", "tr": "müze", "read": "myuu-[zii]-ım" },
+    { "en": "restaurant", "tr": "restoran", "read": "[res]-tı-ront" },
+    { "en": "beach", "tr": "plaj", "read": "biiç" },
+    { "en": "hotel", "tr": "otel", "read": "hou-[tel]" },
+    { "en": "airport", "tr": "havalimanı", "read": "[ee]-poot" },
+    { "en": "ill", "tr": "hasta", "read": "il", "note": "British; Amerikan: sick" },
+    { "en": "bored", "tr": "sıkılmış", "read": "bood" },
+    { "en": "excited", "tr": "heyecanlı", "read": "ik-[say]-tid" },
+    { "en": "nervous", "tr": "gergin", "read": "[nöö]-vıs" },
+    { "en": "surprised", "tr": "şaşırmış", "read": "sı-[prayzd]" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "I ___ at home yesterday.", "options": ["was", "were", "am"], "answer": "was" },
+    { "type": "choice", "prompt": "They ___ tired.", "options": ["was", "were"], "answer": "were" },
+    { "type": "choice", "prompt": "___ you at the party?", "options": ["Was", "Were", "Did"], "answer": "Were" },
+    { "type": "choice", "prompt": "1990'da doğdum.", "options": ["I born in 1990.", "I was born in 1990.", "I am born in 1990."], "answer": "I was born in 1990." },
+    { "type": "choice", "prompt": "iki gün önce", "options": ["two days ago", "ago two days", "before two days"], "answer": "two days ago" },
+    { "type": "choice", "prompt": "geçen hafta", "options": ["the last week", "last week", "past week ago"], "answer": "last week" },
+    { "type": "choice", "prompt": "Hasta (British)", "options": ["ill", "sick"], "answer": "ill", "explain": "İkisi de anlaşılır; British İngilizcede ill daha yaygın." },
+    { "type": "write", "prompt": "Dün evdeydim.", "answers": ["I was at home yesterday", "Yesterday I was at home"] },
+    { "type": "write", "prompt": "Neredeydin?", "answers": ["Where were you"] },
+    { "type": "write", "prompt": "Yorgun değildik.", "answers": ["We weren't tired", "We were not tired"] },
+    { "type": "write", "prompt": "Film sıkıcıydı.", "answers": ["The film was boring"] },
+    { "type": "write", "prompt": "Nerede doğdun?", "answers": ["Where were you born"] },
+    { "type": "write", "prompt": "Partide çok insan vardı.", "answers": ["There were many people at the party", "There were a lot of people at the party"] },
+    { "type": "write", "prompt": "Geçen yıl Londra'daydı. (o, kadın)", "answers": ["She was in London last year", "Last year she was in London"] },
+    { "type": "listen", "say": "Where were you yesterday?", "answers": ["Where were you yesterday"] },
+    { "type": "listen", "say": "I was born in Izmir", "answers": ["I was born in Izmir", "I was born in İzmir"] },
+    { "type": "listen", "say": "It wasn't expensive", "answers": ["It wasn't expensive", "It was not expensive"] },
+    { "type": "speak", "say": "I was at home", "accept": ["I was at home"] },
+    { "type": "speak", "say": "Where were you?", "accept": ["Where were you"] },
+    { "type": "speak", "say": "I was born in Turkey", "accept": ["I was born in Turkey"] },
+    { "type": "speak", "say": "It was very interesting", "accept": ["It was very interesting"] },
+    { "type": "speak", "say": "last week", "accept": ["last week"] }
+  ]
+}

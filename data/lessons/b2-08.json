@@ -1,0 +1,59 @@
+{
+  "id": "b2-08",
+  "stage": 28,
+  "title": "should have / could have + British görgü kuralları",
+  "sections": [
+    {
+      "heading": "Geçmişe dönük eleştiri ve pişmanlık",
+      "body": "<table><tr><th>Kalıp</th><th>Anlam</th><th>Örnek</th></tr><tr><td><b>should have</b> + 3. hal</td><td>yapmalıydı (ama yapmadı)</td><td>You <b>should have told</b> me. → Bana söylemeliydin.</td></tr><tr><td><b>shouldn't have</b> + 3. hal</td><td>yapmamalıydı (ama yaptı)</td><td>I <b>shouldn't have eaten</b> so much. → O kadar çok yememeliydim.</td></tr><tr><td><b>could have</b> + 3. hal</td><td>yapabilirdi (fırsat vardı)</td><td>You <b>could have called</b>! → Arayabilirdin!</td></tr><tr><td><b>needn't have</b> + 3. hal</td><td>gerek yoktu ama yaptı (British)</td><td>You <b>needn't have brought</b> a gift. → Hediye getirmene gerek yoktu.</td></tr></table><p><b>Okunuş:</b> should have → «[şu]-dıv» (yazıda ✘ should of yanlıştır!), could have → «[ku]-dıv».</p>"
+    },
+    {
+      "heading": "British görgü kuralları",
+      "body": "<ul><li><b>Sorry</b> çok sık kullanılır: biri size çarpsa bile İngilizler “Sorry!” der.</li><li>Ricada doğrudan emir yerine soru: <b>Could you…? Would you mind…?</b> → Would you mind opening the window? (Pencereyi açar mısınız?)</li><li><b>Queue</b>'ya kaynak yapılmaz (15. aşama).</li><li>Misafirlikte ev sahibine küçük bir hediye ve sonra teşekkür mesajı.</li><li>“Not bad” çoğu zaman “çok iyi” demektir; İngilizler abartmayı sevmez (understatement).</li></ul><p class=\"ex\"><b>Would you mind</b> + <b>-ing</b>: Would you mind wait<b>ing</b>? (Bekler misiniz?)<br>Cevap: <b>Not at all.</b> (Hiç sorun değil.) Dikkat: mind = “sakınca görmek”, yani “No” = kabul!</p>"
+    },
+    {
+      "heading": "Davet ve misafirlik",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>manners</td><td>«[m{a}]-nız»</td><td>görgü, terbiye</td></tr><tr><td>behave</td><td>«bi-[heyv]»</td><td>davranmak</td></tr><tr><td>behaviour</td><td>«bi-[hey]-vyı»</td><td>davranış (British yazım)</td></tr><tr><td>invite / invitation</td><td>«in-[vayt]» / «in-vi-[tey]-şın»</td><td>davet etmek / davet</td></tr><tr><td>guest / host</td><td>«gest» / «houst»</td><td>misafir / ev sahibi</td></tr><tr><td>gift</td><td>«gift»</td><td>hediye</td></tr><tr><td>punctual</td><td>«[pank]-çu-ıl»</td><td>dakik</td></tr><tr><td>mind</td><td>«maynd»</td><td>sakınca görmek; zihin</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "should have", "tr": "-meliydi", "read": "[şu]-dıv", "note": "yazıda “should of” yanlış" },
+    { "en": "shouldn't have", "tr": "-memeliydi", "read": "[şu]-dın-tıv" },
+    { "en": "needn't have", "tr": "gerek yoktu", "read": "[nii]-dın-tıv", "note": "British" },
+    { "en": "would you mind", "tr": "… sakıncası var mı?", "read": "{w}ud yuu [maynd]", "note": "+ -ing" },
+    { "en": "not at all", "tr": "hiç sorun değil", "read": "not ıt [ool]" },
+    { "en": "manners", "tr": "görgü, terbiye", "read": "[m{a}]-nız" },
+    { "en": "behave", "tr": "davranmak", "read": "bi-[heyv]" },
+    { "en": "behaviour", "tr": "davranış", "read": "bi-[hey]-vyı", "note": "British yazım" },
+    { "en": "invite", "tr": "davet etmek", "read": "in-[vayt]" },
+    { "en": "invitation", "tr": "davet", "read": "in-vi-[tey]-şın" },
+    { "en": "guest", "tr": "misafir", "read": "gest", "opposite": "host" },
+    { "en": "host", "tr": "ev sahibi (davette)", "read": "houst", "opposite": "guest" },
+    { "en": "gift", "tr": "hediye", "read": "gift" },
+    { "en": "punctual", "tr": "dakik", "read": "[pank]-çu-ıl" },
+    { "en": "mind", "tr": "sakınca görmek; zihin", "read": "maynd" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Bana söylemeliydin.", "options": ["You should have told me.", "You should told me.", "You must have told me."], "answer": "You should have told me." },
+    { "type": "choice", "prompt": "O kadar çok yememeliydim.", "options": ["I shouldn't have eaten so much.", "I mustn't eat so much.", "I shouldn't eat so much yesterday."], "answer": "I shouldn't have eaten so much." },
+    { "type": "choice", "prompt": "Arayabilirdin!", "options": ["You could have called!", "You could call yesterday!", "You can have called!"], "answer": "You could have called!" },
+    { "type": "choice", "prompt": "Pencereyi açar mısınız? (çok kibar)", "options": ["Would you mind opening the window?", "Would you mind to open the window?", "Open the window."], "answer": "Would you mind opening the window?" },
+    { "type": "choice", "prompt": "Would you mind waiting? — (Kabul ediyorsunuz)", "options": ["Not at all.", "Yes, I mind."], "answer": "Not at all.", "explain": "mind = sakınca görmek; “No / Not at all” = kabul." },
+    { "type": "choice", "prompt": "Hangisi doğru yazılır?", "options": ["should have", "should of"], "answer": "should have" },
+    { "type": "choice", "prompt": "Davranış (British yazım)", "options": ["behaviour", "behavior"], "answer": "behaviour" },
+    { "type": "write", "prompt": "Daha erken çıkmalıydık.", "answers": ["We should have left earlier"] },
+    { "type": "write", "prompt": "Hediye getirmene gerek yoktu.", "answers": ["You needn't have brought a gift", "You didn't need to bring a gift", "You needn't have brought a present"] },
+    { "type": "write", "prompt": "Bize yardım edebilirdi. (o, erkek)", "answers": ["He could have helped us"] },
+    { "type": "write", "prompt": "Davetin için teşekkürler.", "answers": ["Thank you for the invitation", "Thanks for the invitation", "Thank you for your invitation", "Thanks for inviting me", "Thank you for inviting me"] },
+    { "type": "write", "prompt": "Bekler misiniz? (çok kibar)", "answers": ["Would you mind waiting"] },
+    { "type": "write", "prompt": "Çok iyi bir ev sahibisin.", "answers": ["You're a very good host", "You are a very good host", "You're a great host"] },
+    { "type": "listen", "say": "You shouldn't have done that", "answers": ["You shouldn't have done that", "You should not have done that"] },
+    { "type": "listen", "say": "Would you mind closing the door?", "answers": ["Would you mind closing the door"] },
+    { "type": "listen", "say": "Mind your manners", "answers": ["Mind your manners"] },
+    { "type": "speak", "say": "I should have called you", "accept": ["I should have called you"] },
+    { "type": "speak", "say": "You could have told me", "accept": ["You could have told me"] },
+    { "type": "speak", "say": "Would you mind waiting?", "accept": ["Would you mind waiting"] },
+    { "type": "speak", "say": "Not at all", "accept": ["Not at all"] },
+    { "type": "speak", "say": "Thank you for inviting me", "accept": ["Thank you for inviting me", "Thanks for inviting me"] }
+  ]
+}

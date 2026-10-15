@@ -1,0 +1,70 @@
+{
+  "id": "a1-12",
+  "stage": 5,
+  "title": "my, your, his, her: kitabım, annesi + aile",
+  "sections": [
+    {
+      "heading": "Türkçedeki iyelik ekleri yerine ayrı kelime",
+      "body": "<p>Türkçede “kitab<b>ım</b>”, “anne<b>si</b>” derken isme ek getiririz. İngilizcede ek yoktur; ismin önüne ayrı bir kelime gelir:</p><p class=\"ex\">kitabım → <b>my</b> book<br>senin araban → <b>your</b> car<br>bizim evimiz → <b>our</b> house</p>"
+    },
+    {
+      "heading": "Kim → kimin?",
+      "body": "<table><tr><th>Özne</th><th>Sahiplik</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>I</td><td><b>my</b></td><td>«may»</td><td>benim … -ım</td></tr><tr><td>you</td><td><b>your</b></td><td>«yoo»</td><td>senin / sizin</td></tr><tr><td>he</td><td><b>his</b></td><td>«hiz»</td><td>onun (erkek)</td></tr><tr><td>she</td><td><b>her</b></td><td>«höö»</td><td>onun (kadın)</td></tr><tr><td>it</td><td><b>its</b></td><td>«its»</td><td>onun (cansız, hayvan)</td></tr><tr><td>we</td><td><b>our</b></td><td>«auı»</td><td>bizim</td></tr><tr><td>they</td><td><b>their</b></td><td>«{d}ee»</td><td>onların</td></tr></table>"
+    },
+    {
+      "heading": "En sık hata: his mi her mi?",
+      "body": "<p>Türkçede “onun” tek kelimedir. İngilizcede <b>sahibin</b> cinsiyetine bakılır, sahip olunan şeye değil:</p><p class=\"ex\">Mehmet'in annesi → <b>his</b> mother (sahibi Mehmet, erkek)<br>Ayşe'nin babası → <b>her</b> father (sahibi Ayşe, kadın)</p><p><b>its</b> ile <b>it's</b> karışmasın: <b>its</b> = onun (sahiplik), <b>it's</b> = it is.</p><p class=\"ex\">The cat is hungry. <b>Its</b> food is here. → Kedi aç. Yemeği burada.</p>"
+    },
+    {
+      "heading": "Aile",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>family</td><td>«[f{a}m]-li»</td><td>aile</td></tr><tr><td>mother / father</td><td>«[ma]-{d}ı» / «[faa]-{d}ı»</td><td>anne / baba</td></tr><tr><td>parents</td><td>«[pee]-rınts»</td><td>anne baba, ebeveyn</td></tr><tr><td>brother / sister</td><td>«[bra]-{d}ı» / «[sis]-tı»</td><td>erkek kardeş / kız kardeş</td></tr><tr><td>son / daughter</td><td>«san» / «[doo]-tı»</td><td>oğul / kız evlat</td></tr><tr><td>husband / wife</td><td>«[haz]-bınd» / «{w}ayf»</td><td>koca / eş, karı</td></tr><tr><td>baby</td><td>«[bey]-bi»</td><td>bebek</td></tr></table><p><b>Not:</b> İngilizcede abla / ağabey ayrımı yoktur: <b>brother</b> ve <b>sister</b> yeter. Büyüğü belirtmek için “my <b>big</b> brother” denir.</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>their</b>, <b>they're</b> ve <b>there</b> (orada) aynı okunur: «{d}ee». Anlam cümleden çıkar.</li><li><b>our</b> «auı» ile <b>hour</b> (saat) aynı okunur.</li><li><b>son</b> (oğul) ile <b>sun</b> (güneş) aynı okunur: «san».</li><li><b>mother, father, brother</b>: ortadaki renkli d (th) sesi, sondaki r okunmaz.</li><li><b>daughter</b> «[doo]-tı»: gh okunmaz.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "my", "tr": "benim", "read": "may" },
+    { "en": "your", "tr": "senin, sizin", "read": "yoo" },
+    { "en": "his", "tr": "onun (erkek)", "read": "hiz" },
+    { "en": "its", "tr": "onun (cansız, hayvan)", "read": "its", "note": "it's (= it is) ile karıştırmayın" },
+    { "en": "our", "tr": "bizim", "read": "auı", "note": "hour ile aynı okunur" },
+    { "en": "their", "tr": "onların", "read": "{d}ee", "note": "they're ve there ile aynı okunur" },
+    { "en": "family", "tr": "aile", "read": "[f{a}m]-li" },
+    { "en": "mother", "tr": "anne", "read": "[ma]-{d}ı", "opposite": "father" },
+    { "en": "father", "tr": "baba", "read": "[faa]-{d}ı", "opposite": "mother" },
+    { "en": "parents", "tr": "anne baba", "read": "[pee]-rınts" },
+    { "en": "brother", "tr": "erkek kardeş, ağabey", "read": "[bra]-{d}ı", "opposite": "sister" },
+    { "en": "sister", "tr": "kız kardeş, abla", "read": "[sis]-tı", "opposite": "brother" },
+    { "en": "son", "tr": "oğul", "read": "san", "opposite": "daughter", "note": "sun (güneş) ile aynı okunur" },
+    { "en": "daughter", "tr": "kız evlat", "read": "[doo]-tı", "opposite": "son", "note": "gh okunmaz" },
+    { "en": "husband", "tr": "koca", "read": "[haz]-bınd", "opposite": "wife" },
+    { "en": "wife", "tr": "eş (kadın), karı", "read": "{w}ayf", "opposite": "husband", "plural": { "en": "wives", "read": "{w}ayvz" } },
+    { "en": "baby", "tr": "bebek", "read": "[bey]-bi", "plural": { "en": "babies", "read": "[bey]-biz" } },
+    { "en": "name", "tr": "ad, isim", "read": "neym" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "kitabım", "options": ["my book", "me book", "I book"], "answer": "my book" },
+    { "type": "choice", "prompt": "onun (erkek) arabası", "options": ["his car", "her car", "he car"], "answer": "his car" },
+    { "type": "choice", "prompt": "bizim evimiz", "options": ["our house", "us house", "we house"], "answer": "our house" },
+    { "type": "choice", "prompt": "onların telefonları", "options": ["their phones", "them phones", "they phones"], "answer": "their phones" },
+    { "type": "choice", "prompt": "Mehmet'in annesi → ___ mother", "options": ["his", "her"], "answer": "his", "explain": "Sahibe bakılır: Mehmet erkek → his. Annenin kadın olması önemli değil." },
+    { "type": "choice", "prompt": "Ayşe'nin babası → ___ father", "options": ["his", "her"], "answer": "her", "explain": "Sahibe bakılır: Ayşe kadın → her." },
+    { "type": "choice", "prompt": "The cat is hungry. ___ food is here.", "options": ["Its", "It's"], "answer": "Its", "explain": "Sahiplik: its. it's = it is." },
+    { "type": "write", "prompt": "benim adım", "answers": ["my name"] },
+    { "type": "write", "prompt": "senin kız kardeşin", "answers": ["your sister"] },
+    { "type": "write", "prompt": "onların çocukları", "answers": ["their children"] },
+    { "type": "write", "prompt": "Annem evde.", "answers": ["My mother is at home", "My mother's at home"] },
+    { "type": "write", "prompt": "Onun (erkek) karısı öğretmen.", "answers": ["His wife is a teacher", "His wife's a teacher"] },
+    { "type": "write", "prompt": "Bizim ailemiz büyük.", "answers": ["Our family is big", "Our family's big"] },
+    { "type": "listen", "say": "their", "answers": ["their", "there", "they're"] },
+    { "type": "listen", "say": "our family", "answers": ["our family"] },
+    { "type": "listen", "say": "my brother", "answers": ["my brother"] },
+    { "type": "speak", "say": "my mother", "accept": ["my mother"] },
+    { "type": "speak", "say": "his father", "accept": ["his father"] },
+    { "type": "speak", "say": "her husband", "accept": ["her husband"] },
+    { "type": "speak", "say": "our parents", "accept": ["our parents", "hour parents"], "mistakes": { "are parents": "“our” kısa kaldı. “auı” deyin, a'dan u'ya kayarak." } },
+    { "type": "speak", "say": "their daughter", "accept": ["their daughter", "there daughter", "they're daughter"] }
+  ]
+}

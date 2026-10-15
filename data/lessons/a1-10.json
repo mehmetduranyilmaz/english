@@ -1,0 +1,74 @@
+{
+  "id": "a1-10",
+  "stage": 4,
+  "title": "Sıfatlar 2: İnsanları tarif etmek",
+  "sections": [
+    {
+      "heading": "Görünüş",
+      "body": "<table><tr><th>Sıfat</th><th>Okunuş</th><th>Zıttı</th><th>Okunuş</th></tr><tr><td>beautiful (güzel)</td><td>«[byuu]-ti-fıl»</td><td>ugly (çirkin)</td><td>«[a]-gli»</td></tr><tr><td>fat (şişman)</td><td>«f{a}t»</td><td>thin (zayıf)</td><td>«{t}in»</td></tr><tr><td>tall (uzun boylu)</td><td>«tool»</td><td>short (kısa boylu)</td><td>«şoot»</td></tr><tr><td>young (genç)</td><td>«yang»</td><td>old (yaşlı)</td><td>«ould»</td></tr><tr><td>strong (güçlü)</td><td>«strong»</td><td>weak (güçsüz)</td><td>«{w}iik»</td></tr><tr><td>rich (zengin)</td><td>«riç»</td><td>poor (fakir)</td><td>«poo»</td></tr></table>"
+    },
+    {
+      "heading": "Türkçede tek kelime, İngilizcede iki",
+      "body": "<table><tr><th>Türkçe</th><th>İngilizce</th><th>Ne zaman?</th></tr><tr><td rowspan=\"2\"><b>zayıf</b></td><td><b>thin</b> / <b>slim</b></td><td>Kilo olarak zayıf. slim «slim» “ince, fit” demektir, iltifattır.</td></tr><tr><td><b>weak</b></td><td>Güç olarak zayıf, güçsüz.</td></tr><tr><td rowspan=\"4\"><b>güzel</b></td><td><b>beautiful</b></td><td>Çok güzel (insan, manzara, her şey).</td></tr><tr><td><b>pretty</b> «[pri]-ti»</td><td>Hoş, sevimli; çoğunlukla kadın, çocuk, eşya için.</td></tr><tr><td><b>handsome</b> «[h{a}n]-sım»</td><td>Yakışıklı; erkek için.</td></tr><tr><td><b>nice</b> «nays»</td><td>Hoş, güzel, iyi; her şey için: a nice day, a nice man.</td></tr><tr><td><b>uzun</b></td><td><b>tall</b></td><td>İnsan için (boy). Eşya için long kullanılır, bir sonraki derste.</td></tr></table>"
+    },
+    {
+      "heading": "Kibar konuşma",
+      "body": "<p><b>fat</b> ve <b>ugly</b> birine doğrudan söylendiğinde kaba kaçar. İngilizler genelde yumuşatır:</p><p class=\"ex\">He's fat. → kaba<br>He's a bit big. → daha kibar (biraz iri)<br>She isn't very tall. → “She's short” demekten daha kibar</p>"
+    },
+    {
+      "heading": "Duygular ve durumlar",
+      "body": "<table><tr><th>Sıfat</th><th>Okunuş</th><th>Türkçe</th><th>Örnek</th></tr><tr><td>hungry</td><td>«[han]-gri»</td><td>aç</td><td>I'm hungry. (Açım.)</td></tr><tr><td>thirsty</td><td>«[{t}öö]-sti»</td><td>susamış</td><td>Are you thirsty? (Susadın mı?)</td></tr><tr><td>angry</td><td>«[{a}n]-gri»</td><td>kızgın</td><td>She isn't angry. (Kızgın değil.)</td></tr><tr><td>busy</td><td>«[bi]-zi»</td><td>meşgul</td><td>He's very busy. (Çok meşgul.)</td></tr><tr><td>kind</td><td>«kaynd»</td><td>nazik, iyi kalpli</td><td>They're very kind. (Çok naziktirler.)</td></tr></table><p><b>Dikkat:</b> hungry «[han]-gri» ile angry «[{a}n]-gri» birbirine çok benzer. hungry “ha” ile, angry ağzı geniş açılan “a” ile başlar.</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>tall</b> «tool», <b>short</b> «şoot», <b>poor</b> «poo»: uzun “oo”, r'ler okunmaz.</li><li><b>thin</b> «{t}in»: dil ucu dişlerin arasında. Düz “tin” derseniz başka kelime (teneke) anlaşılır.</li><li><b>beautiful</b> «[byuu]-ti-fıl»: vurgu başta, gerisi hızlı ve hafif.</li><li><b>busy</b> «[bi]-zi»: yazılışı “bu” ama “bi” okunur.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "beautiful", "tr": "güzel", "read": "[byuu]-ti-fıl", "opposite": "ugly" },
+    { "en": "ugly", "tr": "çirkin", "read": "[a]-gli", "opposite": "beautiful" },
+    { "en": "pretty", "tr": "hoş, sevimli", "read": "[pri]-ti" },
+    { "en": "handsome", "tr": "yakışıklı", "read": "[h{a}n]-sım", "note": "erkek için" },
+    { "en": "nice", "tr": "hoş, güzel, iyi", "read": "nays" },
+    { "en": "fat", "tr": "şişman", "read": "f{a}t", "opposite": "thin", "note": "doğrudan söylemek kaba kaçar" },
+    { "en": "thin", "tr": "zayıf (kilo)", "read": "{t}in", "opposite": "fat" },
+    { "en": "slim", "tr": "ince, fit", "read": "slim", "note": "iltifat" },
+    { "en": "tall", "tr": "uzun boylu", "read": "tool", "opposite": "short" },
+    { "en": "short", "tr": "kısa, kısa boylu", "read": "şoot", "opposite": "tall / long", "note": "sondaki r okunmaz" },
+    { "en": "young", "tr": "genç", "read": "yang", "opposite": "old" },
+    { "en": "strong", "tr": "güçlü", "read": "strong", "opposite": "weak" },
+    { "en": "weak", "tr": "güçsüz, zayıf (güç)", "read": "{w}iik", "opposite": "strong" },
+    { "en": "rich", "tr": "zengin", "read": "riç", "opposite": "poor" },
+    { "en": "poor", "tr": "fakir", "read": "poo", "opposite": "rich", "note": "sondaki r okunmaz" },
+    { "en": "kind", "tr": "nazik, iyi kalpli", "read": "kaynd" },
+    { "en": "hungry", "tr": "aç", "read": "[han]-gri" },
+    { "en": "thirsty", "tr": "susamış", "read": "[{t}öö]-sti" },
+    { "en": "angry", "tr": "kızgın", "read": "[{a}n]-gri" },
+    { "en": "busy", "tr": "meşgul", "read": "[bi]-zi" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "beautiful ↔ ?", "options": ["ugly", "tall", "poor"], "answer": "ugly" },
+    { "type": "choice", "prompt": "fat ↔ ?", "options": ["thin", "weak", "short"], "answer": "thin" },
+    { "type": "choice", "prompt": "strong ↔ ?", "options": ["thin", "weak", "slim"], "answer": "weak", "explain": "Güç olarak zayıf: weak. Kilo olarak zayıf: thin." },
+    { "type": "choice", "prompt": "rich ↔ ?", "options": ["busy", "poor", "kind"], "answer": "poor" },
+    { "type": "choice", "prompt": "“Mehmet uzun boylu.”", "options": ["Mehmet is long.", "Mehmet is tall."], "answer": "Mehmet is tall.", "explain": "İnsanın boyu için tall." },
+    { "type": "choice", "prompt": "zayıf (kilo olarak) bir adam", "options": ["a thin man", "a weak man"], "answer": "a thin man" },
+    { "type": "choice", "prompt": "yakışıklı bir adam", "options": ["a pretty man", "a handsome man"], "answer": "a handsome man" },
+    { "type": "write", "prompt": "güzel bir kadın", "answers": ["a beautiful woman"] },
+    { "type": "write", "prompt": "genç bir öğretmen", "answers": ["a young teacher"] },
+    { "type": "write", "prompt": "kısa boylu bir adam", "answers": ["a short man"] },
+    { "type": "write", "prompt": "Aç mısın?", "answers": ["Are you hungry"] },
+    { "type": "write", "prompt": "Susadım.", "answers": ["I am thirsty", "I'm thirsty"] },
+    { "type": "write", "prompt": "O (erkek) çok meşgul.", "answers": ["He is very busy", "He's very busy"] },
+    { "type": "write", "prompt": "Onlar zengin.", "answers": ["They are rich", "They're rich"] },
+    { "type": "write", "prompt": "Kızgın değilim.", "answers": ["I am not angry", "I'm not angry"] },
+    { "type": "listen", "say": "beautiful", "answers": ["beautiful"] },
+    { "type": "listen", "say": "handsome", "answers": ["handsome"] },
+    { "type": "listen", "say": "thirsty", "answers": ["thirsty"] },
+    { "type": "listen", "say": "She's very kind", "answers": ["She's very kind", "She is very kind"] },
+    { "type": "speak", "say": "a beautiful woman", "accept": ["a beautiful woman"] },
+    { "type": "speak", "say": "He's tall", "accept": ["He's tall", "He is tall"] },
+    { "type": "speak", "say": "I'm hungry", "accept": ["I'm hungry", "I am hungry"], "mistakes": { "i'm angry": "“angry” (kızgın) anlaşıldı. hungry “ha” ile başlar: “hangri”.", "i am angry": "“angry” (kızgın) anlaşıldı. hungry “ha” ile başlar: “hangri”." } },
+    { "type": "speak", "say": "thin", "accept": ["thin"], "mistakes": { "tin": "Düz “t” söylediniz. Dil ucunu dişlerin arasına koyun.", "fin": "“f” gibi söylediniz. Dil ucunu dişlerin arasına koyun." } }
+  ]
+}

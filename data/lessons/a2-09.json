@@ -1,0 +1,69 @@
+{
+  "id": "a2-09",
+  "stage": 14,
+  "title": "much / many / a lot of + sayılar ve alışveriş",
+  "sections": [
+    {
+      "heading": "Ne kadar? Kaç tane?",
+      "body": "<table><tr><th></th><th>Sayılabilen (eggs, people)</th><th>Sayılamayan (water, money)</th></tr><tr><td>Soru</td><td><b>How many</b> eggs? (Kaç yumurta?)</td><td><b>How much</b> money? (Ne kadar para?)</td></tr><tr><td>Çok (olumsuz / soru)</td><td>not <b>many</b> people</td><td>not <b>much</b> time</td></tr><tr><td>Çok (olumlu)</td><td><b>a lot of</b> people</td><td><b>a lot of</b> time</td></tr><tr><td>Biraz, birkaç</td><td><b>a few</b> friends (birkaç arkadaş)</td><td><b>a little</b> milk (biraz süt)</td></tr></table><p class=\"ex\">I don't have <b>much</b> time. → Fazla vaktim yok.<br>There were <b>a lot of</b> people. → Çok insan vardı.<br>I've got <b>a few</b> questions. → Birkaç sorum var.</p><p>Olumlu cümlede much / many yerine <b>a lot of</b> daha doğal: <span class=\"bad\">✘ I have much money.</span> → ✔ I have a lot of money.</p>"
+    },
+    {
+      "heading": "Sayılar",
+      "body": "<table><tr><th>Sayı</th><th>Okunuş</th><th>Sayı</th><th>Okunuş</th></tr><tr><td>11 eleven</td><td>«i-[le]-vın»</td><td>20 twenty</td><td>«[t{w}en]-ti»</td></tr><tr><td>12 twelve</td><td>«t{w}elv»</td><td>30 thirty</td><td>«[{t}öö]-ti»</td></tr><tr><td>13 thirteen</td><td>«{t}öö-[tiin]»</td><td>40 forty</td><td>«[foo]-ti» (u yok!)</td></tr><tr><td>15 fifteen</td><td>«fif-[tiin]»</td><td>50 fifty</td><td>«[fif]-ti»</td></tr><tr><td>100 a hundred</td><td>«ı [han]-drıd»</td><td>1,000 a thousand</td><td>«ı [{t}au]-zınd»</td></tr></table><p><b>-teen ve -ty farkı vurguda:</b> thir<b>TEEN</b> (13) ama <b>THIR</b>ty (30). Fiyat söylerken çok önemli!</p><p><b>British:</b> yüzlerden sonra <b>and</b> söylenir: 120 → one hundred <b>and</b> twenty. (Amerikalılar and'i atlar.)</p>"
+    },
+    {
+      "heading": "Alışveriş",
+      "body": "<p class=\"ex\"><b>How much is</b> this jumper? → Bu kazak ne kadar?<br>It's twenty pounds. → Yirmi pound.<br>Can I <b>try it on</b>? → Deneyebilir miyim?<br>Can I pay <b>by card</b>? → Kartla ödeyebilir miyim?<br>Here's your <b>change</b> and your <b>receipt</b>. → Para üstünüz ve fişiniz.</p><table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>pound / pence (p)</td><td>«paund» / «pens» («pii»)</td><td>sterlin / peni</td></tr><tr><td>price</td><td>«prays»</td><td>fiyat</td></tr><tr><td>cash / card</td><td>«k{a}ş» / «kaad»</td><td>nakit / kart</td></tr><tr><td>change</td><td>«çeync»</td><td>para üstü; değiştirmek</td></tr><tr><td>receipt</td><td>«ri-[siit]»</td><td>fiş (p okunmaz)</td></tr><tr><td>size</td><td>«sayz»</td><td>beden</td></tr><tr><td>sale</td><td>«seyl»</td><td>indirim</td></tr></table><p>£2.50 → “two pounds fifty”. 50p → “fifty pee”.</p>"
+    }
+  ],
+  "words": [
+    { "en": "much", "tr": "çok (sayılamayan)", "read": "maç", "note": "How much…? Ne kadar?" },
+    { "en": "a lot of", "tr": "çok, bir sürü", "read": "ı [lot] ıv" },
+    { "en": "a few", "tr": "birkaç", "read": "ı [fyuu]" },
+    { "en": "a little", "tr": "biraz", "read": "ı [li]-tıl" },
+    { "en": "question", "tr": "soru", "read": "[k{w}es]-çın" },
+    { "en": "eleven", "tr": "on bir", "read": "i-[le]-vın" },
+    { "en": "twelve", "tr": "on iki", "read": "t{w}elv" },
+    { "en": "thirteen", "tr": "on üç", "read": "{t}öö-[tiin]", "note": "vurgu sonda; thirty'de başta" },
+    { "en": "fifteen", "tr": "on beş", "read": "fif-[tiin]" },
+    { "en": "twenty", "tr": "yirmi", "read": "[t{w}en]-ti" },
+    { "en": "forty", "tr": "kırk", "read": "[foo]-ti", "note": "yazımda u yok: forty" },
+    { "en": "fifty", "tr": "elli", "read": "[fif]-ti" },
+    { "en": "hundred", "tr": "yüz", "read": "[han]-drıd", "note": "British: one hundred and twenty" },
+    { "en": "thousand", "tr": "bin", "read": "[{t}au]-zınd" },
+    { "en": "million", "tr": "milyon", "read": "[mil]-yın" },
+    { "en": "pound", "tr": "sterlin", "read": "paund" },
+    { "en": "pence", "tr": "peni", "read": "pens", "note": "50p: “fifty pee”" },
+    { "en": "price", "tr": "fiyat", "read": "prays" },
+    { "en": "cash", "tr": "nakit", "read": "k{a}ş" },
+    { "en": "card", "tr": "kart", "read": "kaad" },
+    { "en": "change", "tr": "para üstü; değiştirmek", "read": "çeync" },
+    { "en": "receipt", "tr": "fiş, makbuz", "read": "ri-[siit]", "note": "p okunmaz" },
+    { "en": "size", "tr": "beden, boy", "read": "sayz" },
+    { "en": "sale", "tr": "indirim", "read": "seyl" },
+    { "en": "try on", "tr": "(kıyafet) denemek", "read": "tray [on]" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "___ eggs are there?", "options": ["How much", "How many"], "answer": "How many" },
+    { "type": "choice", "prompt": "___ is this jumper?", "options": ["How much", "How many"], "answer": "How much" },
+    { "type": "choice", "prompt": "Fazla vaktim yok.", "options": ["I don't have much time.", "I don't have many time."], "answer": "I don't have much time.", "explain": "time sayılamaz → much." },
+    { "type": "choice", "prompt": "Çok insan vardı.", "options": ["There were a lot of people.", "There were much people."], "answer": "There were a lot of people." },
+    { "type": "choice", "prompt": "birkaç arkadaş", "options": ["a few friends", "a little friends"], "answer": "a few friends" },
+    { "type": "choice", "prompt": "120 (British)", "options": ["one hundred twenty", "one hundred and twenty"], "answer": "one hundred and twenty" },
+    { "type": "choice", "prompt": "40 nasıl yazılır?", "options": ["fourty", "forty"], "answer": "forty" },
+    { "type": "write", "prompt": "Bu ne kadar?", "answers": ["How much is this", "How much is it", "How much does it cost", "How much does this cost"] },
+    { "type": "write", "prompt": "Kartla ödeyebilir miyim?", "answers": ["Can I pay by card"] },
+    { "type": "write", "prompt": "Deneyebilir miyim? (kıyafet)", "answers": ["Can I try it on"] },
+    { "type": "write", "prompt": "Birkaç sorum var.", "answers": ["I've got a few questions", "I have a few questions", "I have got a few questions"] },
+    { "type": "write", "prompt": "Biraz süt istiyorum, lütfen.", "answers": ["I'd like a little milk, please", "I would like a little milk, please", "I'd like some milk, please"] },
+    { "type": "write", "prompt": "Kaç kardeşin var?", "answers": ["How many brothers and sisters have you got", "How many brothers and sisters do you have"] },
+    { "type": "listen", "say": "thirteen pounds", "answers": ["thirteen pounds"] },
+    { "type": "listen", "say": "thirty pounds", "answers": ["thirty pounds"] },
+    { "type": "listen", "say": "Here's your change", "answers": ["Here's your change", "Here is your change"] },
+    { "type": "speak", "say": "How much is it?", "accept": ["How much is it"] },
+    { "type": "speak", "say": "Can I pay by card?", "accept": ["Can I pay by card"] },
+    { "type": "speak", "say": "fifteen", "accept": ["fifteen", "15"], "mistakes": { "fifty": "“fifty” (50) anlaşıldı. Vurguyu sona verin: fif-TİİN." } },
+    { "type": "speak", "say": "fifty", "accept": ["fifty", "50"], "mistakes": { "fifteen": "“fifteen” (15) anlaşıldı. Vurguyu başa verin: FİF-ti." } },
+    { "type": "speak", "say": "a lot of people", "accept": ["a lot of people"] }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "goalHours": 550,
+  "levels": [
+    {
+      "id": "A1",
+      "title": "A1 — Başlangıç",
+      "stages": [
+        {
+          "id": 1,
+          "title": "Özneler, nesne halleri ve çoğul isimler",
+          "en": "Pronouns & plural nouns",
+          "lessons": [
+            "a1-01",
+            "a1-02",
+            "a1-03"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "a / an / the",
+          "en": "Articles",
+          "lessons": [
+            "a1-04",
+            "a1-05"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "am / is / are",
+          "en": "To be",
+          "lessons": [
+            "a1-06",
+            "a1-07"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "this / that, sıfatlar",
+          "en": "Demonstratives & adjectives",
+          "lessons": [
+            "a1-08",
+            "a1-09",
+            "a1-10",
+            "a1-11"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Sahiplik: my, your, Ayşe's",
+          "en": "Possessives",
+          "lessons": [
+            "a1-12",
+            "a1-13"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "there is / are, in / on / at, some / any",
+          "en": "There is/are, prepositions of place",
+          "lessons": [
+            "a1-14",
+            "a1-15",
+            "a1-16"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Geniş zaman ve do / does soruları",
+          "en": "Present simple",
+          "lessons": [
+            "a1-17",
+            "a1-18",
+            "a1-19"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Şimdiki zaman",
+          "en": "Present continuous",
+          "lessons": [
+            "a1-20",
+            "a1-21"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "can, emir cümleleri",
+          "en": "Can & imperatives",
+          "lessons": [
+            "a1-22",
+            "a1-23"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "like / want + ikinci fiil",
+          "en": "Verb + -ing / to",
+          "lessons": [
+            "a1-24",
+            "a1-25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "title": "A2 — Temel",
+      "stages": [
+        {
+          "id": 11,
+          "title": "Geçmiş zaman (was / were, düzensiz fiiller)",
+          "en": "Past simple",
+          "lessons": [
+            "a2-01",
+            "a2-02",
+            "a2-03",
+            "a2-04"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Gelecek zaman: going to / will",
+          "en": "Future forms",
+          "lessons": [
+            "a2-05",
+            "a2-06"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Karşılaştırma: bigger, the biggest",
+          "en": "Comparatives & superlatives",
+          "lessons": [
+            "a2-07",
+            "a2-08"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "much / many, zaman edatları",
+          "en": "Quantifiers, prepositions of time",
+          "lessons": [
+            "a2-09",
+            "a2-10"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "should / must / have to",
+          "en": "Modals of obligation & advice",
+          "lessons": [
+            "a2-11",
+            "a2-12"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Present Perfect: ever, just, already, yet",
+          "en": "Present perfect (basic)",
+          "lessons": [
+            "a2-13",
+            "a2-14"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "Geçmişte devam eden zaman",
+          "en": "Past continuous",
+          "lessons": [
+            "a2-15",
+            "a2-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B1",
+      "title": "B1 — Orta",
+      "stages": [
+        {
+          "id": 18,
+          "title": "for / since ve Present Perfect Continuous",
+          "en": "Present perfect continuous",
+          "lessons": [
+            "b1-01",
+            "b1-02"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "used to, Past Perfect",
+          "en": "Used to & past perfect",
+          "lessons": [
+            "b1-03",
+            "b1-04"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Şart cümleleri 0, 1, 2",
+          "en": "Conditionals 0, 1, 2",
+          "lessons": [
+            "b1-05",
+            "b1-06"
+          ]
+        },
+        {
+          "id": 21,
+          "title": "who / which / that ile cümle uzatma",
+          "en": "Defining relative clauses",
+          "lessons": [
+            "b1-07",
+            "b1-08"
+          ]
+        },
+        {
+          "id": 22,
+          "title": "Edilgen çatı (basit zamanlar)",
+          "en": "Passive (simple tenses)",
+          "lessons": [
+            "b1-09",
+            "b1-10"
+          ]
+        },
+        {
+          "id": 23,
+          "title": "Dolaylı anlatım",
+          "en": "Reported speech",
+          "lessons": [
+            "b1-11",
+            "b1-12"
+          ]
+        },
+        {
+          "id": 24,
+          "title": "İki parçalı fiiller (get up, look for)",
+          "en": "Phrasal verbs",
+          "lessons": [
+            "b1-13",
+            "b1-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "title": "B2 — Akıcı",
+      "stages": [
+        {
+          "id": 25,
+          "title": "3. tip şart cümlesi, wish (keşke)",
+          "en": "Third conditional & wish",
+          "lessons": [
+            "b2-01",
+            "b2-02"
+          ]
+        },
+        {
+          "id": 26,
+          "title": "Tüm zamanlarda edilgen, have something done",
+          "en": "Passive (all tenses)",
+          "lessons": [
+            "b2-03",
+            "b2-04"
+          ]
+        },
+        {
+          "id": 27,
+          "title": "İleri dolaylı anlatım",
+          "en": "Advanced reported speech",
+          "lessons": [
+            "b2-05",
+            "b2-06"
+          ]
+        },
+        {
+          "id": 28,
+          "title": "must / might have done",
+          "en": "Modals of deduction (past)",
+          "lessons": [
+            "b2-07",
+            "b2-08"
+          ]
+        },
+        {
+          "id": 29,
+          "title": "Future Continuous ve Future Perfect",
+          "en": "Future continuous & perfect",
+          "lessons": [
+            "b2-09",
+            "b2-10"
+          ]
+        },
+        {
+          "id": 30,
+          "title": "although / despite / however",
+          "en": "Linking words",
+          "lessons": [
+            "b2-11",
+            "b2-12"
+          ]
+        }
+      ]
+    }
+  ]
+}

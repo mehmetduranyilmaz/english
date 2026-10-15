@@ -1,0 +1,74 @@
+{
+  "id": "a2-13",
+  "stage": 16,
+  "title": "Present Perfect: Hiç Londra'ya gittin mi?",
+  "sections": [
+    {
+      "heading": "have / has + fiilin 3. hali",
+      "body": "<p>Fiilin 3. hali (past participle) düzenli fiillerde geçmişle aynıdır (-ed): worked, visited. Düzensizlerde ayrıca ezberlenir.</p><table><tr><th>Özne</th><th>Kalıp</th><th>Örnek</th></tr><tr><td>I / you / we / they</td><td><b>have</b> ('ve) + 3. hal</td><td>I'<b>ve visited</b> London. → Londra'yı gezdim (hayatımda).</td></tr><tr><td>he / she / it</td><td><b>has</b> ('s) + 3. hal</td><td>She'<b>s seen</b> that film. → O filmi görmüş.</td></tr></table>"
+    },
+    {
+      "heading": "Deneyimler: ever / never",
+      "body": "<p>Hayatta <b>zamanı belirtilmeyen</b> deneyimler için:</p><p class=\"ex\"><b>Have</b> you <b>ever been</b> to London? → Hiç Londra'ya gittin mi?<br>— Yes, I have. / No, I haven't.<br>I'<b>ve never eaten</b> fish and chips. → Hiç fish and chips yemedim.<br>She <b>has never flown</b>. → Hiç uçağa binmedi.</p><p><b>been to</b> = gidip gelmiş olmak: I've been to Scotland. (İskoçya'da bulundum.)</p>"
+    },
+    {
+      "heading": "Geçmiş zamanla farkı",
+      "body": "<p>Türkçede ikisi de “-dı”. İngilizcede karar <b>zaman belirtilip belirtilmediğine</b> bağlıdır:</p><table><tr><th>Present Perfect</th><th>Past Simple</th></tr><tr><td>Zaman yok, deneyim önemli</td><td>Belirli bir zaman var</td></tr><tr><td>I'<b>ve been</b> to London.</td><td>I <b>went</b> to London <b>in 2019</b>.</td></tr><tr><td>Have you ever met a famous person?</td><td>When did you meet him? — <b>Last year</b>.</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ I've been to London last year.</span> → ✔ I went to London last year.</p>"
+    },
+    {
+      "heading": "Düzensiz 3. haller",
+      "body": "<table><tr><th>Yalın</th><th>Geçmiş</th><th>3. hal</th><th>Okunuş</th></tr><tr><td>be</td><td>was / were</td><td><b>been</b></td><td>«biin»</td></tr><tr><td>go</td><td>went</td><td><b>gone</b></td><td>«gon»</td></tr><tr><td>do</td><td>did</td><td><b>done</b></td><td>«dan»</td></tr><tr><td>see</td><td>saw</td><td><b>seen</b></td><td>«siin»</td></tr><tr><td>eat</td><td>ate</td><td><b>eaten</b></td><td>«[ii]-tın»</td></tr><tr><td>write</td><td>wrote</td><td><b>written</b></td><td>«[ri]-tın»</td></tr><tr><td>speak</td><td>spoke</td><td><b>spoken</b></td><td>«[spou]-kın»</td></tr><tr><td>take / give</td><td>took / gave</td><td><b>taken / given</b></td><td>«[tey]-kın» / «[gi]-vın»</td></tr><tr><td>know / fly</td><td>knew / flew</td><td><b>known / flown</b></td><td>«noun» / «floun»</td></tr><tr><td>drive / break</td><td>drove / broke</td><td><b>driven / broken</b></td><td>«[dri]-vın» / «[brou]-kın»</td></tr><tr><td>ride</td><td>rode</td><td><b>ridden</b></td><td>«[ri]-dın»</td></tr><tr><td>have / make / buy / meet / hear</td><td>had / made / bought / met / heard</td><td><b>aynı</b></td><td>heard «hööd»</td></tr></table>"
+    },
+    {
+      "heading": "Britanya",
+      "body": "<p>Birleşik Krallık (the UK) dört ülkeden oluşur: <b>England</b>, <b>Scotland</b> «[skot]-lınd», <b>Wales</b> «{w}eylz» ve <b>Northern Ireland</b> «[noo]-{d}ın [ay]-ı-lınd». Hepsinin insanlarına <b>British</b> denir; ama bir İskoç'a English demeyin, Scottish «[sko]-tiş» deyin!</p>"
+    }
+  ],
+  "words": [
+    { "en": "ever", "tr": "hiç (soruda), şimdiye kadar", "read": "[e]-vı" },
+    { "en": "been", "tr": "bulunmuş (be)", "read": "biin", "note": "been to: gidip gelmiş" },
+    { "en": "gone", "tr": "gitmiş (go)", "read": "gon" },
+    { "en": "done", "tr": "yapmış (do)", "read": "dan" },
+    { "en": "seen", "tr": "görmüş (see)", "read": "siin" },
+    { "en": "eaten", "tr": "yemiş (eat)", "read": "[ii]-tın" },
+    { "en": "written", "tr": "yazmış (write)", "read": "[ri]-tın" },
+    { "en": "spoken", "tr": "konuşmuş (speak)", "read": "[spou]-kın" },
+    { "en": "taken", "tr": "almış (take)", "read": "[tey]-kın" },
+    { "en": "given", "tr": "vermiş (give)", "read": "[gi]-vın" },
+    { "en": "known", "tr": "bilmiş (know)", "read": "noun" },
+    { "en": "flown", "tr": "uçmuş (fly)", "read": "floun" },
+    { "en": "driven", "tr": "sürmüş (drive)", "read": "[dri]-vın" },
+    { "en": "break", "tr": "kırmak, bozmak", "read": "breyk", "note": "broke, broken «[brou]-kın»" },
+    { "en": "hear", "tr": "duymak", "read": "hiı", "note": "heard «hööd»" },
+    { "en": "climb", "tr": "tırmanmak", "read": "klaym", "note": "b okunmaz" },
+    { "en": "horse", "tr": "at", "read": "hoos" },
+    { "en": "Scotland", "tr": "İskoçya", "read": "[skot]-lınd" },
+    { "en": "Wales", "tr": "Galler", "read": "{w}eylz" },
+    { "en": "Ireland", "tr": "İrlanda", "read": "[ay]-ı-lınd" },
+    { "en": "Scottish", "tr": "İskoç", "read": "[sko]-tiş" },
+    { "en": "the UK", "tr": "Birleşik Krallık", "read": "{d}ı yuu-[key]" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Hiç Londra'ya gittin mi?", "options": ["Have you ever been to London?", "Did you ever went to London?", "Have you ever go to London?"], "answer": "Have you ever been to London?" },
+    { "type": "choice", "prompt": "She ___ seen that film.", "options": ["has", "have", "is"], "answer": "has" },
+    { "type": "choice", "prompt": "Geçen yıl Londra'ya gittim.", "options": ["I've been to London last year.", "I went to London last year."], "answer": "I went to London last year.", "explain": "Belirli zaman (last year) → past simple." },
+    { "type": "choice", "prompt": "eat → 3. hal?", "options": ["ate", "eaten", "eated"], "answer": "eaten" },
+    { "type": "choice", "prompt": "write → 3. hal?", "options": ["wrote", "written", "writed"], "answer": "written" },
+    { "type": "choice", "prompt": "Have you ever met a famous person? — No, I ___.", "options": ["haven't", "didn't", "don't"], "answer": "haven't" },
+    { "type": "choice", "prompt": "İskoçyalı birine ne denir?", "options": ["English", "Scottish"], "answer": "Scottish" },
+    { "type": "write", "prompt": "Hiç uçağa binmedim.", "answers": ["I've never flown", "I have never flown", "I've never been on a plane"] },
+    { "type": "write", "prompt": "Bu filmi gördüm. (hayatımda, zaman yok)", "answers": ["I've seen this film", "I have seen this film"] },
+    { "type": "write", "prompt": "Hiç İskoçya'ya gittin mi?", "answers": ["Have you ever been to Scotland"] },
+    { "type": "write", "prompt": "O (erkek) hiç ata binmedi.", "answers": ["He's never ridden a horse", "He has never ridden a horse"] },
+    { "type": "write", "prompt": "Bu kelimeyi hiç duymadım.", "answers": ["I've never heard this word", "I have never heard this word"] },
+    { "type": "write", "prompt": "Evet, gittim. (Have you…? sorusuna)", "answers": ["Yes, I have"] },
+    { "type": "listen", "say": "Have you ever been to Wales?", "answers": ["Have you ever been to Wales"] },
+    { "type": "listen", "say": "I've never eaten fish and chips", "answers": ["I've never eaten fish and chips", "I have never eaten fish and chips"] },
+    { "type": "listen", "say": "She has flown many times", "answers": ["She has flown many times", "She's flown many times"] },
+    { "type": "speak", "say": "Have you ever been to London?", "accept": ["Have you ever been to London"] },
+    { "type": "speak", "say": "I've never seen it", "accept": ["I've never seen it", "I have never seen it"] },
+    { "type": "speak", "say": "Yes, I have", "accept": ["Yes I have"] },
+    { "type": "speak", "say": "I've been to Scotland", "accept": ["I've been to Scotland", "I have been to Scotland"] },
+    { "type": "speak", "say": "I've never climbed a mountain", "accept": ["I've never climbed a mountain", "I have never climbed a mountain"] }
+  ]
+}

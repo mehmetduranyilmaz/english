@@ -1,0 +1,65 @@
+{
+  "id": "b1-10",
+  "stage": 22,
+  "title": "Haberlerde edilgen: Arabam çalındı + suç ve afetler",
+  "sections": [
+    {
+      "heading": "Haber dili",
+      "body": "<p>Haberlerde olayın kendisi önemlidir; bu yüzden edilgen çok kullanılır:</p><p class=\"ex\">Two people <b>were injured</b> in the accident. → Kazada iki kişi yaralandı.<br>A man <b>was arrested</b> last night. → Dün gece bir adam tutuklandı.<br>The road <b>was closed</b> because of the flood. → Sel yüzünden yol kapatıldı.<br>My car <b>was stolen</b>! → Arabam çalındı!</p><p><b>because of</b> «bi-[koz] ıv» + isim = … yüzünden. (because + cümle)</p>"
+    },
+    {
+      "heading": "news tekildir",
+      "body": "<p class=\"ex\"><b>news</b> «nyuuz» sonu s ile bitse de <b>tekil ve sayılamaz</b>:<br>✔ The news <b>is</b> good. <span class=\"bad\">✘ The news are good.</span><br>Bir haber: <b>a piece of news</b> veya <b>some news</b>. <span class=\"bad\">✘ a news</span></p>"
+    },
+    {
+      "heading": "Suç",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>crime</td><td>«kraym»</td><td>suç</td></tr><tr><td>steal</td><td>«stiil»</td><td>çalmak (stole, stolen)</td></tr><tr><td>thief</td><td>«{t}iif»</td><td>hırsız (çoğulu thieves)</td></tr><tr><td>rob</td><td>«rob»</td><td>soymak (banka, kişi)</td></tr><tr><td>arrest</td><td>«ı-[rest]»</td><td>tutuklamak</td></tr><tr><td>prison</td><td>«[pri]-zın»</td><td>hapishane</td></tr><tr><td>court</td><td>«koot»</td><td>mahkeme</td></tr><tr><td>witness</td><td>«[{w}it]-nıs»</td><td>tanık</td></tr></table><p><b>steal</b> şeyi, <b>rob</b> kişiyi / yeri hedef alır: They <b>stole</b> my bag. / They <b>robbed</b> a bank.</p>"
+    },
+    {
+      "heading": "Afetler ve hasar",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>fire</td><td>«[fay]-ı»</td><td>yangın; ateş</td></tr><tr><td>flood</td><td>«flad»</td><td>sel</td></tr><tr><td>storm</td><td>«stoom»</td><td>fırtına</td></tr><tr><td>earthquake</td><td>«[öö{t}]-k{w}eyk»</td><td>deprem</td></tr><tr><td>injured</td><td>«[in]-cıd»</td><td>yaralı</td></tr><tr><td>damage</td><td>«[d{a}]-mic»</td><td>hasar; zarar vermek</td></tr><tr><td>destroy</td><td>«di-[stroy]»</td><td>yok etmek</td></tr><tr><td>rescue</td><td>«[res]-kyuu»</td><td>kurtarmak</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "news", "tr": "haber(ler)", "read": "nyuuz", "note": "tekil: The news is…" },
+    { "en": "because of", "tr": "… yüzünden", "read": "bi-[koz] ıv" },
+    { "en": "crime", "tr": "suç", "read": "kraym" },
+    { "en": "steal", "tr": "çalmak", "read": "stiil", "note": "stole, stolen" },
+    { "en": "thief", "tr": "hırsız", "read": "{t}iif", "plural": { "en": "thieves", "read": "{t}iivz" } },
+    { "en": "rob", "tr": "soymak", "read": "rob" },
+    { "en": "arrest", "tr": "tutuklamak", "read": "ı-[rest]" },
+    { "en": "prison", "tr": "hapishane", "read": "[pri]-zın" },
+    { "en": "court", "tr": "mahkeme", "read": "koot" },
+    { "en": "witness", "tr": "tanık", "read": "[{w}it]-nıs" },
+    { "en": "fire", "tr": "yangın; ateş", "read": "[fay]-ı" },
+    { "en": "flood", "tr": "sel", "read": "flad" },
+    { "en": "storm", "tr": "fırtına", "read": "stoom" },
+    { "en": "earthquake", "tr": "deprem", "read": "[öö{t}]-k{w}eyk" },
+    { "en": "injured", "tr": "yaralı", "read": "[in]-cıd" },
+    { "en": "damage", "tr": "hasar; zarar vermek", "read": "[d{a}]-mic" },
+    { "en": "destroy", "tr": "yok etmek", "read": "di-[stroy]" },
+    { "en": "rescue", "tr": "kurtarmak", "read": "[res]-kyuu" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Arabam çalındı!", "options": ["My car was stolen!", "My car stole!", "My car was stealed!"], "answer": "My car was stolen!" },
+    { "type": "choice", "prompt": "Kazada iki kişi yaralandı.", "options": ["Two people were injured in the accident.", "Two people injured in the accident.", "Two people was injured in the accident."], "answer": "Two people were injured in the accident." },
+    { "type": "choice", "prompt": "The news ___ good.", "options": ["is", "are"], "answer": "is" },
+    { "type": "choice", "prompt": "Bir banka soydular.", "options": ["They robbed a bank.", "They stole a bank."], "answer": "They robbed a bank.", "explain": "Yer / kişi → rob; şey → steal." },
+    { "type": "choice", "prompt": "Sel yüzünden", "options": ["because of the flood", "because the flood"], "answer": "because of the flood" },
+    { "type": "choice", "prompt": "hırsız → çoğul?", "options": ["thiefs", "thieves"], "answer": "thieves" },
+    { "type": "write", "prompt": "Dün gece bir adam tutuklandı.", "answers": ["A man was arrested last night", "Last night a man was arrested"] },
+    { "type": "write", "prompt": "Çantam çalındı.", "answers": ["My bag was stolen", "My bag has been stolen"] },
+    { "type": "write", "prompt": "Yangında kimse yaralanmadı.", "answers": ["Nobody was injured in the fire", "No one was injured in the fire"] },
+    { "type": "write", "prompt": "Fırtına yüzünden uçuşlar iptal edildi.", "answers": ["Flights were cancelled because of the storm", "The flights were cancelled because of the storm", "Flights were canceled because of the storm"] },
+    { "type": "write", "prompt": "İyi bir haberim var.", "answers": ["I've got some good news", "I have some good news", "I've got good news", "I have good news"] },
+    { "type": "write", "prompt": "Deprem birçok binaya zarar verdi.", "answers": ["The earthquake damaged many buildings", "The earthquake damaged a lot of buildings"] },
+    { "type": "listen", "say": "Nobody was injured", "answers": ["Nobody was injured", "No one was injured"] },
+    { "type": "listen", "say": "The thief was arrested", "answers": ["The thief was arrested"] },
+    { "type": "listen", "say": "The road was closed because of the flood", "answers": ["The road was closed because of the flood"] },
+    { "type": "speak", "say": "My phone was stolen", "accept": ["My phone was stolen"] },
+    { "type": "speak", "say": "Have you heard the news?", "accept": ["Have you heard the news"] },
+    { "type": "speak", "say": "Two people were injured", "accept": ["Two people were injured"] },
+    { "type": "speak", "say": "There was a big earthquake", "accept": ["There was a big earthquake"] },
+    { "type": "speak", "say": "because of the storm", "accept": ["because of the storm"] }
+  ]
+}

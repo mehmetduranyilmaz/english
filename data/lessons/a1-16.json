@@ -1,0 +1,66 @@
+{
+  "id": "a1-16",
+  "stage": 6,
+  "title": "some / any: biraz süt, hiç yumurta + yiyecekler",
+  "sections": [
+    {
+      "heading": "Sayılabilen ve sayılamayan",
+      "body": "<table><tr><th>Sayılabilen</th><th>Sayılamayan</th></tr><tr><td>an egg, two eggs<br>an apple, three apples<br>a tomato, four tomatoes</td><td>water, milk, bread, rice<br>cheese, meat, sugar, salt<br>money, information</td></tr><tr><td>a / an alır, çoğul olur</td><td>a / an almaz, çoğul olmaz</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ a bread, two breads</span> → ✔ some bread<br><span class=\"bad\">✘ a milk</span> → ✔ some milk</p>"
+    },
+    {
+      "heading": "some ve any",
+      "body": "<table><tr><th></th><th>Kelime</th><th>Örnek</th></tr><tr><td><b>Olumlu</b></td><td><b>some</b> «sam» = biraz, birkaç</td><td>There is some milk. (Biraz süt var.)<br>There are some eggs. (Birkaç yumurta var.)</td></tr><tr><td><b>Olumsuz</b></td><td><b>any</b> «[e]-ni» = hiç</td><td>There isn't any milk. (Hiç süt yok.)<br>There aren't any eggs. (Hiç yumurta yok.)</td></tr><tr><td><b>Soru</b></td><td><b>any</b></td><td>Is there any milk? (Hiç süt var mı?)<br>Are there any eggs? (Hiç yumurta var mı?)</td></tr></table><p>some / any sadece <b>çoğul</b> ve <b>sayılamayan</b> isimlerle gelir. Tekil sayılabilende a / an kullanılır: There is <b>an</b> apple.</p>"
+    },
+    {
+      "heading": "Yiyecek ve içecekler",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>bread</td><td>«bred»</td><td>ekmek</td></tr><tr><td>milk</td><td>«milk»</td><td>süt</td></tr><tr><td>cheese</td><td>«çiiz»</td><td>peynir</td></tr><tr><td>butter</td><td>«[ba]-tı»</td><td>tereyağı</td></tr><tr><td>rice</td><td>«rays»</td><td>pirinç, pilav</td></tr><tr><td>meat / chicken / fish</td><td>«miit» / «[çi]-kın» / «fiş»</td><td>et / tavuk / balık</td></tr><tr><td>tomato / onion</td><td>«tı-[maa]-tou» / «[a]-nyın»</td><td>domates / soğan</td></tr><tr><td>tea / coffee</td><td>«tii» / «[ko]-fi»</td><td>çay / kahve</td></tr><tr><td>sugar / salt</td><td>«[şu]-gı» / «solt»</td><td>şeker / tuz</td></tr><tr><td>juice</td><td>«cuus»</td><td>meyve suyu</td></tr><tr><td>biscuit</td><td>«[bis]-kit»</td><td>bisküvi (British; Amerikan: cookie)</td></tr><tr><td>crisps</td><td>«krisps»</td><td>paket cips (British; Amerikan: chips)</td></tr></table>"
+    },
+    {
+      "heading": "British farklar",
+      "body": "<ul><li><b>tomato</b>: British «tı-[maa]-tou», Amerikan “tı-mey-tou”.</li><li><b>crisps</b> = paket cips. British İngilizcede <b>chips</b> = kızarmış patates (fish and chips!).</li><li><b>biscuit</b> = bisküvi; Amerikalılar cookie der.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "some", "tr": "biraz, birkaç", "read": "sam" },
+    { "en": "bread", "tr": "ekmek", "read": "bred" },
+    { "en": "milk", "tr": "süt", "read": "milk" },
+    { "en": "cheese", "tr": "peynir", "read": "çiiz" },
+    { "en": "butter", "tr": "tereyağı", "read": "[ba]-tı" },
+    { "en": "rice", "tr": "pirinç, pilav", "read": "rays" },
+    { "en": "meat", "tr": "et", "read": "miit" },
+    { "en": "chicken", "tr": "tavuk", "read": "[çi]-kın" },
+    { "en": "fish", "tr": "balık", "read": "fiş" },
+    { "en": "tomato", "tr": "domates", "read": "tı-[maa]-tou", "note": "British: “maa”; Amerikan: “mey”", "plural": { "en": "tomatoes", "read": "tı-[maa]-touz" } },
+    { "en": "onion", "tr": "soğan", "read": "[a]-nyın" },
+    { "en": "tea", "tr": "çay", "read": "tii" },
+    { "en": "coffee", "tr": "kahve", "read": "[ko]-fi" },
+    { "en": "sugar", "tr": "şeker", "read": "[şu]-gı" },
+    { "en": "salt", "tr": "tuz", "read": "solt" },
+    { "en": "juice", "tr": "meyve suyu", "read": "cuus" },
+    { "en": "biscuit", "tr": "bisküvi", "read": "[bis]-kit", "note": "British; Amerikan: cookie" },
+    { "en": "crisps", "tr": "paket cips", "read": "krisps", "note": "British; chips = kızarmış patates" },
+    { "en": "chips", "tr": "kızarmış patates", "read": "çips", "note": "British anlamı" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "There is ___ milk.", "options": ["some", "a", "any"], "answer": "some" },
+    { "type": "choice", "prompt": "There aren't ___ eggs.", "options": ["some", "any"], "answer": "any", "explain": "Olumsuz cümlede any." },
+    { "type": "choice", "prompt": "Are there ___ apples?", "options": ["some", "any"], "answer": "any", "explain": "Soruda any." },
+    { "type": "choice", "prompt": "biraz ekmek", "options": ["a bread", "some bread", "some breads"], "answer": "some bread", "explain": "bread sayılamaz." },
+    { "type": "choice", "prompt": "Hangisi sayılamaz?", "options": ["egg", "apple", "milk"], "answer": "milk" },
+    { "type": "choice", "prompt": "British İngilizcede paket cips?", "options": ["chips", "crisps"], "answer": "crisps", "explain": "British'te chips kızarmış patatestir." },
+    { "type": "choice", "prompt": "tomato British İngilizcede nasıl okunur?", "options": ["tı-mey-tou", "tı-maa-tou"], "answer": "tı-maa-tou" },
+    { "type": "write", "prompt": "Biraz su var.", "answers": ["There is some water", "There's some water"] },
+    { "type": "write", "prompt": "Birkaç elma var.", "answers": ["There are some apples"] },
+    { "type": "write", "prompt": "Hiç peynir yok.", "answers": ["There isn't any cheese", "There is not any cheese", "There's no cheese", "There is no cheese"] },
+    { "type": "write", "prompt": "Hiç yumurta var mı?", "answers": ["Are there any eggs"] },
+    { "type": "write", "prompt": "Buzdolabında hiç süt var mı?", "answers": ["Is there any milk in the fridge"] },
+    { "type": "write", "prompt": "çay ve kahve", "answers": ["tea and coffee"] },
+    { "type": "listen", "say": "some bread", "answers": ["some bread"] },
+    { "type": "listen", "say": "There isn't any sugar", "answers": ["There isn't any sugar", "There is not any sugar"] },
+    { "type": "listen", "say": "fish and chips", "answers": ["fish and chips"] },
+    { "type": "speak", "say": "some water", "accept": ["some water"] },
+    { "type": "speak", "say": "Is there any milk?", "accept": ["Is there any milk"] },
+    { "type": "speak", "say": "There are some eggs", "accept": ["There are some eggs"] },
+    { "type": "speak", "say": "tea or coffee", "accept": ["tea or coffee"] }
+  ]
+}

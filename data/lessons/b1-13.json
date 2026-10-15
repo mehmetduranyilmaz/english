@@ -1,0 +1,305 @@
+{
+  "id": "b1-13",
+  "stage": 24,
+  "title": "Phrasal verbs 1: turn on, look for, give up",
+  "sections": [
+    {
+      "heading": "Fiil + küçük kelime = yeni anlam",
+      "body": "<p>İngilizcede fiile <b>up, on, off, out, down, away</b> gibi küçük kelimeler eklenince <b>tamamen yeni bir anlam</b> çıkar. Bunlara phrasal verb denir ve günlük İngilizcede çok kullanılır:</p><p class=\"ex\">look (bakmak) → <b>look for</b> (aramak) → <b>look after</b> (bakmak, ilgilenmek)<br>give (vermek) → <b>give up</b> (vazgeçmek, bırakmak)<br>turn (dönmek) → <b>turn on</b> (açmak) → <b>turn off</b> (kapatmak)</p><p>Kelime kelime çevirmeyin; her birini <b>yeni bir kelime</b> gibi öğrenin.</p>"
+    },
+    {
+      "heading": "Ayrılabilenler: turn it on",
+      "body": "<p>Bazı phrasal verb'lerde nesne araya girebilir. Nesne <b>it, them</b> gibi bir zamirse <b>mutlaka araya</b> girer:</p><p class=\"ex\">Turn on the light. = Turn the light on. (İkisi de doğru)<br>Turn <b>it</b> on. <span class=\"bad\">✘ Turn on it.</span><br>Put <b>them</b> away. <span class=\"bad\">✘ Put away them.</span></p><p><b>look for, look after</b> ayrılmaz: I'm looking <b>for</b> my keys. → I'm looking for <b>them</b>.</p>"
+    },
+    {
+      "heading": "Evde ve günlük hayatta",
+      "body": "<table><tr><th>Phrasal verb</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>turn on / turn off</td><td>«töön [on]» / «töön [of]»</td><td>açmak / kapatmak (cihaz, ışık)</td></tr><tr><td>turn up / turn down</td><td>«töön [ap]» / «töön [daun]»</td><td>sesini açmak / kısmak</td></tr><tr><td>put on / take off</td><td>«put [on]» / «teyk [of]»</td><td>giymek / çıkarmak (kıyafet); uçak kalkmak</td></tr><tr><td>pick up</td><td>«pik [ap]»</td><td>yerden almak; birini arabayla almak</td></tr><tr><td>look for</td><td>«[luk] foo»</td><td>aramak (kayıp bir şeyi)</td></tr><tr><td>find out</td><td>«faynd [aut]»</td><td>öğrenmek, ortaya çıkarmak</td></tr><tr><td>give up</td><td>«giv [ap]»</td><td>bırakmak (alışkanlık), vazgeçmek</td></tr><tr><td>throw away</td><td>«{t}rou ı-[{w}ey]»</td><td>çöpe atmak</td></tr><tr><td>fill in</td><td>«fil [in]»</td><td>(form) doldurmak (British; Amerikan: fill out)</td></tr><tr><td>sit down / stand up</td><td>«sit [daun]» / «st{a}nd [ap]»</td><td>oturmak / ayağa kalkmak</td></tr><tr><td>come back / go back</td><td>«kam [b{a}k]» / «gou [b{a}k]»</td><td>geri gelmek / geri gitmek</td></tr><tr><td>eat out</td><td>«iit [aut]»</td><td>dışarıda yemek</td></tr></table><p><b>Vurgu:</b> phrasal verb'lerde genellikle <b>ikinci kelime</b> vurgulanır: turn <b>ON</b>, give <b>UP</b>.</p>"
+    }
+  ],
+  "words": [
+    {
+      "en": "turn on",
+      "tr": "açmak (cihaz)",
+      "read": "töön [on]",
+      "opposite": "turn off"
+    },
+    {
+      "en": "turn off",
+      "tr": "kapatmak (cihaz)",
+      "read": "töön [of]",
+      "opposite": "turn on"
+    },
+    {
+      "en": "turn up",
+      "tr": "sesini açmak",
+      "read": "töön [ap]",
+      "opposite": "turn down"
+    },
+    {
+      "en": "turn down",
+      "tr": "sesini kısmak; reddetmek",
+      "read": "töön [daun]",
+      "opposite": "turn up"
+    },
+    {
+      "en": "put on",
+      "tr": "giymek",
+      "read": "put [on]",
+      "opposite": "take off"
+    },
+    {
+      "en": "take off",
+      "tr": "çıkarmak (kıyafet); havalanmak",
+      "read": "teyk [of]",
+      "opposite": "put on"
+    },
+    {
+      "en": "pick up",
+      "tr": "yerden almak; arabayla almak",
+      "read": "pik [ap]"
+    },
+    {
+      "en": "look for",
+      "tr": "aramak (kayıp şey)",
+      "read": "[luk] foo"
+    },
+    {
+      "en": "find out",
+      "tr": "öğrenmek, ortaya çıkarmak",
+      "read": "faynd [aut]"
+    },
+    {
+      "en": "give up",
+      "tr": "bırakmak, vazgeçmek",
+      "read": "giv [ap]"
+    },
+    {
+      "en": "throw away",
+      "tr": "çöpe atmak",
+      "read": "{t}rou ı-[{w}ey]",
+      "note": "throw → threw → thrown"
+    },
+    {
+      "en": "fill in",
+      "tr": "(form) doldurmak",
+      "read": "fil [in]",
+      "note": "British; Amerikan: fill out"
+    },
+    {
+      "en": "sit down",
+      "tr": "oturmak",
+      "read": "sit [daun]",
+      "opposite": "stand up"
+    },
+    {
+      "en": "stand up",
+      "tr": "ayağa kalkmak",
+      "read": "st{a}nd [ap]",
+      "opposite": "sit down"
+    },
+    {
+      "en": "come back",
+      "tr": "geri gelmek",
+      "read": "kam [b{a}k]"
+    },
+    {
+      "en": "eat out",
+      "tr": "dışarıda yemek",
+      "read": "iit [aut]"
+    },
+    {
+      "en": "form",
+      "tr": "form, belge",
+      "read": "foom"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Işığı aç.",
+      "options": [
+        "Turn on the light.",
+        "Open the light.",
+        "Turn up the light."
+      ],
+      "answer": "Turn on the light.",
+      "explain": "Cihaz ve ışık için open değil turn on."
+    },
+    {
+      "type": "choice",
+      "prompt": "Onu kapat. (televizyonu)",
+      "options": [
+        "Turn it off.",
+        "Turn off it."
+      ],
+      "answer": "Turn it off.",
+      "explain": "it araya girer."
+    },
+    {
+      "type": "choice",
+      "prompt": "Anahtarlarımı arıyorum.",
+      "options": [
+        "I'm looking for my keys.",
+        "I'm looking my keys.",
+        "I'm searching my keys for."
+      ],
+      "answer": "I'm looking for my keys."
+    },
+    {
+      "type": "choice",
+      "prompt": "Sigarayı bıraktım.",
+      "options": [
+        "I gave up smoking.",
+        "I gave smoking up to.",
+        "I left smoking."
+      ],
+      "answer": "I gave up smoking."
+    },
+    {
+      "type": "choice",
+      "prompt": "Formu doldurun. (British)",
+      "options": [
+        "Fill in the form.",
+        "Full the form."
+      ],
+      "answer": "Fill in the form."
+    },
+    {
+      "type": "choice",
+      "prompt": "Ceketini giy.",
+      "options": [
+        "Put on your jacket.",
+        "Wear on your jacket.",
+        "Take off your jacket."
+      ],
+      "answer": "Put on your jacket."
+    },
+    {
+      "type": "choice",
+      "prompt": "Uçak saat beşte kalktı.",
+      "options": [
+        "The plane took off at five.",
+        "The plane stood up at five."
+      ],
+      "answer": "The plane took off at five."
+    },
+    {
+      "type": "write",
+      "prompt": "Televizyonu kapat.",
+      "answers": [
+        "Turn off the TV",
+        "Turn the TV off"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Sesini aç, lütfen.",
+      "answers": [
+        "Turn it up, please",
+        "Turn it up please",
+        "Turn the volume up, please"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Ayakkabılarını çıkar.",
+      "answers": [
+        "Take off your shoes",
+        "Take your shoes off"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Seni saat altıda alırım. (arabayla)",
+      "answers": [
+        "I'll pick you up at six",
+        "I will pick you up at six"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Ne olduğunu öğrendim.",
+      "answers": [
+        "I found out what happened"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Vazgeçme!",
+      "answers": [
+        "Don't give up",
+        "Do not give up"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Bunu çöpe atma.",
+      "answers": [
+        "Don't throw it away",
+        "Do not throw it away",
+        "Don't throw this away"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Please sit down",
+      "answers": [
+        "Please sit down",
+        "Sit down please"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "What are you looking for?",
+      "answers": [
+        "What are you looking for"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "I'll come back later",
+      "answers": [
+        "I'll come back later",
+        "I will come back later"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Turn it off",
+      "accept": [
+        "Turn it off"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Don't give up",
+      "accept": [
+        "Don't give up",
+        "Do not give up"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I'm looking for my phone",
+      "accept": [
+        "I'm looking for my phone",
+        "I am looking for my phone"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Shall we eat out tonight?",
+      "accept": [
+        "Shall we eat out tonight"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Put your coat on",
+      "accept": [
+        "Put your coat on",
+        "Put on your coat"
+      ]
+    }
+  ]
+}

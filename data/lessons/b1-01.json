@@ -1,0 +1,279 @@
+{
+  "id": "b1-01",
+  "stage": 18,
+  "title": "for / since: 5 yıldır burada yaşıyorum",
+  "sections": [
+    {
+      "heading": "Türklerin en sık hatası",
+      "body": "<p>Türkçede “5 yıldır burada yaşıyor<b>um</b>” deriz; fiil şimdiki zamandadır. İngilizcede geçmişte başlayıp <b>hâlâ devam eden</b> durumlar için <b>Present Perfect</b> kullanılır:</p><p class=\"ex\">✔ I'<b>ve lived</b> here <b>for</b> five years.<br><span class=\"bad\">✘ I live here for five years.</span> <span class=\"bad\">✘ I am living here since five years.</span></p><p class=\"ex\">I'<b>ve known</b> her <b>since</b> 2010. → Onu 2010'dan beri tanıyorum.<br>She'<b>s been</b> married <b>for</b> ten years. → On yıldır evli.</p>"
+    },
+    {
+      "heading": "for mu since mi?",
+      "body": "<table><tr><th></th><th>Ne ile?</th><th>Türkçe</th><th>Örnek</th></tr><tr><td><b>for</b></td><td>Süre (ne kadar zamandır)</td><td>-dır, -dir</td><td>for two hours, for a week, for ten years, for ages</td></tr><tr><td><b>since</b> «sins»</td><td>Başlangıç noktası (ne zamandan beri)</td><td>-den beri</td><td>since Monday, since 2015, since I was a child, since last summer</td></tr></table><p><b>How long</b> have you lived here? → Ne zamandır burada yaşıyorsun?<br><b>for ages</b> «eyciz» (British) = çok uzun zamandır: I haven't seen you for ages!</p>"
+    },
+    {
+      "heading": "Kiralık ev ve mahalle",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>neighbour</td><td>«[ney]-bı»</td><td>komşu (British yazım; Amerikan: neighbor)</td></tr><tr><td>neighbourhood / area</td><td>«[ney]-bı-hud» / «[ee]-ri-ı»</td><td>mahalle / bölge</td></tr><tr><td>local</td><td>«[lou]-kıl»</td><td>yerel, mahalledeki</td></tr><tr><td>rent</td><td>«rent»</td><td>kira; kiralamak</td></tr><tr><td>landlord</td><td>«[l{a}nd]-lood»</td><td>ev sahibi</td></tr><tr><td>flatmate</td><td>«[fl{a}t]-meyt»</td><td>ev arkadaşı (British)</td></tr><tr><td>own</td><td>«oun»</td><td>sahip olmak; kendi</td></tr><tr><td>mortgage</td><td>«[moo]-gic»</td><td>konut kredisi (t okunmaz)</td></tr><tr><td>bill</td><td>«bil»</td><td>fatura; hesap (restoranda, British)</td></tr><tr><td>move in / move out</td><td>«muuv [in]» / «muuv [aut]»</td><td>eve taşınmak / evden çıkmak</td></tr></table>"
+    }
+  ],
+  "words": [
+    {
+      "en": "since",
+      "tr": "-den beri",
+      "read": "sins"
+    },
+    {
+      "en": "how long",
+      "tr": "ne kadar zamandır",
+      "read": "hau [long]"
+    },
+    {
+      "en": "for ages",
+      "tr": "çok uzun zamandır",
+      "read": "foo [ey]-ciz",
+      "note": "British"
+    },
+    {
+      "en": "neighbour",
+      "tr": "komşu",
+      "read": "[ney]-bı",
+      "note": "British yazım"
+    },
+    {
+      "en": "neighbourhood",
+      "tr": "mahalle",
+      "read": "[ney]-bı-hud"
+    },
+    {
+      "en": "area",
+      "tr": "bölge",
+      "read": "[ee]-ri-ı"
+    },
+    {
+      "en": "local",
+      "tr": "yerel",
+      "read": "[lou]-kıl"
+    },
+    {
+      "en": "rent",
+      "tr": "kira; kiralamak",
+      "read": "rent"
+    },
+    {
+      "en": "landlord",
+      "tr": "ev sahibi",
+      "read": "[l{a}nd]-lood"
+    },
+    {
+      "en": "flatmate",
+      "tr": "ev arkadaşı",
+      "read": "[fl{a}t]-meyt",
+      "note": "British"
+    },
+    {
+      "en": "own",
+      "tr": "sahip olmak; kendi",
+      "read": "oun"
+    },
+    {
+      "en": "mortgage",
+      "tr": "konut kredisi",
+      "read": "[moo]-gic",
+      "note": "t okunmaz"
+    },
+    {
+      "en": "bill",
+      "tr": "fatura; hesap",
+      "read": "bil",
+      "note": "British: Can I have the bill?"
+    },
+    {
+      "en": "move in",
+      "tr": "eve taşınmak",
+      "read": "muuv [in]",
+      "opposite": "move out"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "5 yıldır burada yaşıyorum.",
+      "options": [
+        "I live here for five years.",
+        "I've lived here for five years.",
+        "I'm living here since five years."
+      ],
+      "answer": "I've lived here for five years."
+    },
+    {
+      "type": "choice",
+      "prompt": "I've known her ___ 2010.",
+      "options": [
+        "for",
+        "since"
+      ],
+      "answer": "since"
+    },
+    {
+      "type": "choice",
+      "prompt": "She's been married ___ ten years.",
+      "options": [
+        "for",
+        "since"
+      ],
+      "answer": "for"
+    },
+    {
+      "type": "choice",
+      "prompt": "___ Monday",
+      "options": [
+        "for",
+        "since"
+      ],
+      "answer": "since"
+    },
+    {
+      "type": "choice",
+      "prompt": "___ two hours",
+      "options": [
+        "for",
+        "since"
+      ],
+      "answer": "for"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ne zamandır burada yaşıyorsun?",
+      "options": [
+        "How long have you lived here?",
+        "How long do you live here?",
+        "Since when you live here?"
+      ],
+      "answer": "How long have you lived here?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hesabı alabilir miyim? (restoranda, British)",
+      "options": [
+        "Can I have the bill?",
+        "Can I have the account?"
+      ],
+      "answer": "Can I have the bill?"
+    },
+    {
+      "type": "write",
+      "prompt": "Onu 2010'dan beri tanıyorum.",
+      "answers": [
+        "I've known him since 2010",
+        "I've known her since 2010",
+        "I have known him since 2010",
+        "I have known her since 2010"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Seni çok uzun zamandır görmedim!",
+      "answers": [
+        "I haven't seen you for ages",
+        "I have not seen you for ages"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Üç aydır İngilizce öğreniyorum.",
+      "answers": [
+        "I've studied English for three months",
+        "I've learnt English for three months",
+        "I've been learning English for three months",
+        "I have been learning English for three months",
+        "I've been studying English for three months"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Pazartesiden beri hastayım.",
+      "answers": [
+        "I've been ill since Monday",
+        "I have been ill since Monday"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Ev sahibimiz çok nazik.",
+      "answers": [
+        "Our landlord is very kind",
+        "Our landlord is very nice"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Geçen ay yeni bir daireye taşındık.",
+      "answers": [
+        "We moved into a new flat last month",
+        "We moved in to a new flat last month",
+        "Last month we moved into a new flat"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "How long have you lived here?",
+      "answers": [
+        "How long have you lived here"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "I've had this car since 2018",
+      "answers": [
+        "I've had this car since 2018",
+        "I have had this car since 2018"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "The rent is very high",
+      "answers": [
+        "The rent is very high",
+        "The rent's very high"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I've lived here for ten years",
+      "accept": [
+        "I've lived here for ten years",
+        "I have lived here for ten years"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "How long have you been here?",
+      "accept": [
+        "How long have you been here"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "since last summer",
+      "accept": [
+        "since last summer"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I haven't seen you for ages",
+      "accept": [
+        "I haven't seen you for ages",
+        "I have not seen you for ages"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Can I have the bill, please?",
+      "accept": [
+        "Can I have the bill please",
+        "Can I have the bill"
+      ]
+    }
+  ]
+}

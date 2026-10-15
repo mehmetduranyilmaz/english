@@ -1,0 +1,70 @@
+{
+  "id": "a1-09",
+  "stage": 4,
+  "title": "Sıfatlar: kırmızı bir araba, ev büyük",
+  "sections": [
+    {
+      "heading": "Sıfat isimden önce gelir",
+      "body": "<p>Türkçedeki gibi sıfat isimden önce gelir. Ama <b>a / an'ın yeri farklıdır</b>:</p><p class=\"ex\">kırmızı <b>bir</b> araba → <b>a</b> red car<br>eski <b>bir</b> ev → <b>an</b> old house</p><p>Türkçede “bir” sıfattan sonra gelir, İngilizcede a / an <b>en başa</b> gelir.</p>"
+    },
+    {
+      "heading": "İki önemli kural",
+      "body": "<p><b>1. Sıfat çoğul olmaz.</b> İsim çoğul olsa bile sıfat değişmez:</p><p class=\"ex\">red car<b>s</b> (kırmızı arabalar) <span class=\"bad\">✘ reds cars</span></p><p><b>2. a mı an mı? Hemen sonraki kelimenin sesine bakılır.</b></p><p class=\"ex\">an apple ama <b>a</b> big apple (big ünsüzle başlıyor)<br>a car ama <b>an</b> old car (old ünlüyle başlıyor)</p>"
+    },
+    {
+      "heading": "am / is / are ile: Araba kırmızı.",
+      "body": "<p>Sıfat tek başına da gelebilir. Bu durumda önüne a / an <b>gelmez</b>:</p><p class=\"ex\">The car is red. → Araba kırmızı.<br>The house is big. → Ev büyük.<br>English is easy. → İngilizce kolay.<br><span class=\"bad\">✘ The car is a red.</span></p><p><b>very</b> = çok: very big (çok büyük), very expensive (çok pahalı).</p>"
+    },
+    {
+      "heading": "Zıt anlamlı çiftler",
+      "body": "<table><tr><th>Sıfat</th><th>Okunuş</th><th>Zıttı</th><th>Okunuş</th></tr><tr><td>big (büyük)</td><td>«big»</td><td>small (küçük)</td><td>«smool»</td></tr><tr><td>new (yeni)</td><td>«nyuu»</td><td>old (eski, yaşlı)</td><td>«ould»</td></tr><tr><td>good (iyi)</td><td>«gud»</td><td>bad (kötü)</td><td>«b{a}d»</td></tr><tr><td>hot (sıcak)</td><td>«hot»</td><td>cold (soğuk)</td><td>«kould»</td></tr><tr><td>cheap (ucuz)</td><td>«çiip»</td><td>expensive (pahalı)</td><td>«ik-[spen]-siv»</td></tr><tr><td>easy (kolay)</td><td>«[ii]-zi»</td><td>difficult (zor)</td><td>«[di]-fi-kılt»</td></tr><tr><td>happy (mutlu)</td><td>«[h{a}]-pi»</td><td>sad (üzgün)</td><td>«s{a}d»</td></tr></table>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>new</b> «nyuu»: British İngilizcede n'den sonra hafif bir “y” sesi var. Amerikalılar “nuu” der.</li><li><b>bad</b> «b{a}d» ile <b>bed</b> «bed» (yatak) farklıdır: bad'de ağız daha geniş açılır.</li><li><b>cheap</b> «çiip»: uzun “ii”. Kısa söylerseniz “chip” (cips) anlaşılır.</li><li><b>small</b> «smool»: uzun “oo”, “smal” değil.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "big", "tr": "büyük", "read": "big" },
+    { "en": "small", "tr": "küçük", "read": "smool" },
+    { "en": "new", "tr": "yeni", "read": "nyuu", "note": "British: hafif “y” sesiyle" },
+    { "en": "old", "tr": "eski, yaşlı", "read": "ould" },
+    { "en": "good", "tr": "iyi", "read": "gud" },
+    { "en": "bad", "tr": "kötü", "read": "b{a}d" },
+    { "en": "hot", "tr": "sıcak", "read": "hot" },
+    { "en": "cold", "tr": "soğuk", "read": "kould" },
+    { "en": "cheap", "tr": "ucuz", "read": "çiip", "note": "uzun ii" },
+    { "en": "expensive", "tr": "pahalı", "read": "ik-[spen]-siv" },
+    { "en": "easy", "tr": "kolay", "read": "[ii]-zi" },
+    { "en": "difficult", "tr": "zor", "read": "[di]-fi-kılt" },
+    { "en": "sad", "tr": "üzgün", "read": "s{a}d" },
+    { "en": "red", "tr": "kırmızı", "read": "red" },
+    { "en": "black", "tr": "siyah", "read": "bl{a}k" },
+    { "en": "white", "tr": "beyaz", "read": "{w}ayt" },
+    { "en": "very", "tr": "çok", "read": "[ve]-ri" },
+    { "en": "water", "tr": "su", "read": "[{w}oo]-tı", "note": "British: t net söylenir, sondaki r okunmaz" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "kırmızı bir araba", "options": ["a car red", "a red car", "red a car"], "answer": "a red car", "explain": "a / an en başa gelir." },
+    { "type": "choice", "prompt": "___ old house", "options": ["a", "an"], "answer": "an" },
+    { "type": "choice", "prompt": "___ big apple", "options": ["a", "an"], "answer": "a", "explain": "a / an hemen sonraki kelimeye bakar: big ünsüzle başlıyor." },
+    { "type": "choice", "prompt": "Arabalar yeni.", "options": ["The cars are news.", "The cars are new."], "answer": "The cars are new.", "explain": "Sıfat çoğul olmaz." },
+    { "type": "choice", "prompt": "Araba kırmızı.", "options": ["The car is red.", "The car is a red.", "The car red."], "answer": "The car is red." },
+    { "type": "choice", "prompt": "big ↔ ?", "options": ["small", "old", "cheap"], "answer": "small" },
+    { "type": "choice", "prompt": "expensive ↔ ?", "options": ["cheap", "easy", "new"], "answer": "cheap" },
+    { "type": "write", "prompt": "yeni bir telefon", "answers": ["a new phone"] },
+    { "type": "write", "prompt": "eski bir ev", "answers": ["an old house"] },
+    { "type": "write", "prompt": "büyük kediler", "answers": ["big cats"] },
+    { "type": "write", "prompt": "Çanta çok pahalı.", "answers": ["The bag is very expensive", "The bag's very expensive"] },
+    { "type": "write", "prompt": "İngilizce kolay.", "answers": ["English is easy", "English's easy"] },
+    { "type": "write", "prompt": "Su soğuk.", "answers": ["The water is cold", "Water is cold", "The water's cold"] },
+    { "type": "listen", "say": "a new phone", "answers": ["a new phone"] },
+    { "type": "listen", "say": "an old car", "answers": ["an old car"] },
+    { "type": "listen", "say": "very expensive", "answers": ["very expensive"] },
+    { "type": "speak", "say": "a red car", "accept": ["a red car"] },
+    { "type": "speak", "say": "an old house", "accept": ["an old house"] },
+    { "type": "speak", "say": "The water is cold", "accept": ["The water is cold", "The water's cold"] },
+    { "type": "speak", "say": "very difficult", "accept": ["very difficult"] },
+    { "type": "speak", "say": "cheap", "accept": ["cheap"], "mistakes": { "chip": "Kısa söylediniz, “chip” (cips) anlaşıldı. Uzun “ii”: “çiip”.", "chips": "Kısa söylediniz, “chip” (cips) anlaşıldı. Uzun “ii”: “çiip”." } }
+  ]
+}

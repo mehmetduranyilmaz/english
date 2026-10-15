@@ -1,0 +1,59 @@
+{
+  "id": "b2-01",
+  "stage": 25,
+  "title": "If 3: Çalışsaydım geçerdim + pişmanlık ve duygular",
+  "sections": [
+    {
+      "heading": "3. tip: geçmişte olmayan şeyler",
+      "body": "<p><b>If + had + 3. hal, would have + 3. hal</b>: Geçmişte <b>olmamış</b> bir durumu ve onun hayali sonucunu anlatır. Türkçedeki “-saydı, -ırdı / -mıştı”:</p><p class=\"ex\">If I <b>had studied</b>, I <b>would have passed</b> the exam. → Çalışsaydım sınavı geçerdim. (çalışmadım, geçemedim)<br>If we <b>had left</b> earlier, we <b>wouldn't have missed</b> the train. → Daha erken çıksaydık treni kaçırmazdık.<br>What <b>would</b> you <b>have done</b> if you <b>had been</b> there? → Orada olsaydın ne yapardın?</p><p><b>Kısa haller konuşmada:</b> If I'<b>d</b> known, I'<b>d have</b> told you. → «if ayd [noun] ayd ıv [tould] yuu». Buradaki ilk 'd = had, ikinci 'd = would.</p>"
+    },
+    {
+      "heading": "Üç tip yan yana",
+      "body": "<table><tr><th>Tip</th><th>Zaman</th><th>Örnek</th></tr><tr><td>1</td><td>Gerçek olasılık (gelecek)</td><td>If it <b>rains</b>, I'<b>ll</b> stay home.</td></tr><tr><td>2</td><td>Hayal (şimdi / gelecek)</td><td>If I <b>had</b> a car, I'<b>d</b> drive.</td></tr><tr><td>3</td><td>Hayal (geçmiş)</td><td>If I <b>had had</b> a car, I'<b>d have driven</b>.</td></tr></table><p><b>could have / might have</b> da kullanılır: If you'd asked me, I <b>could have helped</b>. (Bana sorsaydın yardım edebilirdim.)</p>"
+    },
+    {
+      "heading": "Pişmanlık ve duygular",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>regret</td><td>«ri-[gret]»</td><td>pişman olmak; pişmanlık</td></tr><tr><td>mistake</td><td>«mi-[steyk]»</td><td>hata (make a mistake)</td></tr><tr><td>chance</td><td>«çaans»</td><td>şans, fırsat (British: uzun aa)</td></tr><tr><td>lucky / unlucky</td><td>«[la]-ki» / «an-[la]-ki»</td><td>şanslı / şanssız</td></tr><tr><td>unfortunately</td><td>«an-[foo]-çı-nıt-li»</td><td>maalesef</td></tr><tr><td>disappointed</td><td>«di-sı-[poyn]-tid»</td><td>hayal kırıklığına uğramış</td></tr><tr><td>embarrassed</td><td>«im-[b{a}]-rıst»</td><td>utanmış, mahcup</td></tr><tr><td>relieved</td><td>«ri-[liivd]»</td><td>rahatlamış</td></tr><tr><td>upset</td><td>«ap-[set]»</td><td>üzgün, keyfi kaçmış</td></tr><tr><td>guilty</td><td>«[gil]-ti»</td><td>suçlu (hisseden)</td></tr><tr><td>proud (of)</td><td>«praud»</td><td>gururlu</td></tr><tr><td>grateful</td><td>«[greyt]-fıl»</td><td>minnettar</td></tr><tr><td>jealous</td><td>«[ce]-lıs»</td><td>kıskanç</td></tr></table><p><b>-ed / -ing farkı:</b> I'm <b>bored</b> (sıkıldım) ama the film is <b>boring</b> (film sıkıcı). Aynı şekilde: disappointed / disappointing, embarrassed / embarrassing.</p>"
+    }
+  ],
+  "words": [
+    { "en": "would have", "tr": "-ırdı (geçmiş hayal)", "read": "[{w}u]-dıv", "note": "konuşmada: “would've”" },
+    { "en": "could have", "tr": "-ebilirdi", "read": "[ku]-dıv" },
+    { "en": "pass", "tr": "geçmek (sınav)", "read": "paas", "opposite": "fail", "note": "British: uzun aa" },
+    { "en": "regret", "tr": "pişman olmak", "read": "ri-[gret]" },
+    { "en": "mistake", "tr": "hata", "read": "mi-[steyk]", "note": "make a mistake" },
+    { "en": "chance", "tr": "şans, fırsat", "read": "çaans", "note": "British: uzun aa" },
+    { "en": "lucky", "tr": "şanslı", "read": "[la]-ki", "opposite": "unlucky" },
+    { "en": "unfortunately", "tr": "maalesef", "read": "an-[foo]-çı-nıt-li" },
+    { "en": "disappointed", "tr": "hayal kırıklığına uğramış", "read": "di-sı-[poyn]-tid" },
+    { "en": "embarrassed", "tr": "mahcup, utanmış", "read": "im-[b{a}]-rıst" },
+    { "en": "relieved", "tr": "rahatlamış", "read": "ri-[liivd]" },
+    { "en": "upset", "tr": "üzgün", "read": "ap-[set]" },
+    { "en": "guilty", "tr": "suçlu (hisseden)", "read": "[gil]-ti" },
+    { "en": "proud", "tr": "gururlu", "read": "praud", "note": "proud of you" },
+    { "en": "grateful", "tr": "minnettar", "read": "[greyt]-fıl" },
+    { "en": "jealous", "tr": "kıskanç", "read": "[ce]-lıs" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Çalışsaydım sınavı geçerdim.", "options": ["If I had studied, I would have passed the exam.", "If I studied, I would pass the exam.", "If I would have studied, I had passed the exam."], "answer": "If I had studied, I would have passed the exam." },
+    { "type": "choice", "prompt": "Daha erken çıksaydık treni kaçırmazdık.", "options": ["If we had left earlier, we wouldn't have missed the train.", "If we left earlier, we won't miss the train."], "answer": "If we had left earlier, we wouldn't have missed the train." },
+    { "type": "choice", "prompt": "Bana sorsaydın yardım edebilirdim.", "options": ["If you'd asked me, I could have helped.", "If you asked me, I can help.", "If you'd ask me, I could help."], "answer": "If you'd asked me, I could have helped." },
+    { "type": "choice", "prompt": "Hangisi geçmişteki bir hayali anlatır?", "options": ["If I had had a car, I'd have driven.", "If I had a car, I'd drive.", "If I have a car, I'll drive."], "answer": "If I had had a car, I'd have driven." },
+    { "type": "choice", "prompt": "Film çok sıkıcıydı, sıkıldım.", "options": ["The film was boring. I was bored.", "The film was bored. I was boring."], "answer": "The film was boring. I was bored." },
+    { "type": "choice", "prompt": "Seninle gurur duyuyorum.", "options": ["I'm proud of you.", "I'm proud with you.", "I'm proud to you."], "answer": "I'm proud of you." },
+    { "type": "write", "prompt": "Bilseydim sana söylerdim.", "answers": ["If I'd known, I'd have told you", "If I had known, I would have told you", "If I had known, I'd have told you"] },
+    { "type": "write", "prompt": "Maalesef sınavı geçemedim.", "answers": ["Unfortunately, I didn't pass the exam", "Unfortunately I failed the exam", "Unfortunately, I failed the exam"] },
+    { "type": "write", "prompt": "Bir hata yaptım.", "answers": ["I made a mistake", "I've made a mistake", "I have made a mistake"] },
+    { "type": "write", "prompt": "Çok şanslısın!", "answers": ["You're very lucky", "You are very lucky", "You're so lucky"] },
+    { "type": "write", "prompt": "Hayal kırıklığına uğradım.", "answers": ["I was disappointed", "I'm disappointed", "I am disappointed"] },
+    { "type": "write", "prompt": "Yardımın için minnettarım.", "answers": ["I'm grateful for your help", "I am grateful for your help"] },
+    { "type": "listen", "say": "If I'd known, I would have come", "answers": ["If I'd known, I would have come", "If I had known, I would have come"] },
+    { "type": "listen", "say": "I felt so embarrassed", "answers": ["I felt so embarrassed"] },
+    { "type": "listen", "say": "What a relief!", "answers": ["What a relief"] },
+    { "type": "speak", "say": "If I had studied, I would have passed", "accept": ["If I had studied I would have passed", "If I'd studied I would have passed", "If I'd studied I'd have passed"] },
+    { "type": "speak", "say": "I regret it", "accept": ["I regret it"] },
+    { "type": "speak", "say": "I'm so proud of you", "accept": ["I'm so proud of you", "I am so proud of you"] },
+    { "type": "speak", "say": "Unfortunately, it's too late", "accept": ["Unfortunately it's too late", "Unfortunately it is too late"] },
+    { "type": "speak", "say": "Don't be jealous", "accept": ["Don't be jealous", "Do not be jealous"] }
+  ]
+}

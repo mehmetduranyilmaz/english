@@ -1,0 +1,274 @@
+{
+  "id": "a2-05",
+  "stage": 12,
+  "title": "be going to: Hafta sonu ailemi ziyaret edeceğim",
+  "sections": [
+    {
+      "heading": "Önceden verilmiş kararlar ve planlar",
+      "body": "<p><b>am / is / are + going to + fiil</b>: Konuşmadan <b>önce</b> karar verdiğiniz planlar için:</p><p class=\"ex\">I'm <b>going to visit</b> my parents this weekend. → Bu hafta sonu ailemi ziyaret edeceğim.<br>She's <b>going to learn</b> Spanish. → İspanyolca öğrenecek.<br>We're <b>going to buy</b> a new car. → Yeni bir araba alacağız.</p><p class=\"ex\">I'm <b>not</b> going to work tomorrow. → Yarın çalışmayacağım.<br><b>Are</b> you going to travel this summer? → Bu yaz seyahat edecek misin?<br>What <b>are</b> you going to do? → Ne yapacaksın?</p>"
+    },
+    {
+      "heading": "Kanıta dayalı tahmin",
+      "body": "<p>Şu an gördüğünüz bir şeye bakarak tahmin ederken de going to kullanılır:</p><p class=\"ex\">Look at those clouds! It's <b>going to rain</b>. → Şu bulutlara bak! Yağmur yağacak.<br>Be careful! You're <b>going to fall</b>. → Dikkat et! Düşeceksin.</p>"
+    },
+    {
+      "heading": "Kesinleşmiş randevular: şimdiki zaman",
+      "body": "<p>Saati, yeri belli buluşmalar için İngilizler sık sık şimdiki zamanı kullanır:</p><p class=\"ex\">I'<b>m meeting</b> Kate tomorrow at six. → Yarın altıda Kate'le buluşuyorum.<br>We'<b>re flying</b> to London on Friday. → Cuma günü Londra'ya uçuyoruz.</p>"
+    },
+    {
+      "heading": "Gelecek zaman kelimeleri",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>tomorrow</td><td>«tı-[mo]-rou»</td><td>yarın</td></tr><tr><td>next week / next year</td><td>«nekst [{w}iik]» / «nekst [yiı]»</td><td>gelecek hafta / gelecek yıl</td></tr><tr><td>this weekend / this evening</td><td>«{d}is {w}iik-[end]» / «{d}is [iiv]-ning»</td><td>bu hafta sonu / bu akşam</td></tr><tr><td>soon</td><td>«suun»</td><td>yakında</td></tr><tr><td>in two days</td><td>«in tuu [deyz]»</td><td>iki gün sonra</td></tr></table><p><b>next</b>'ten önce the gelmez: <span class=\"bad\">✘ the next week</span> (“gelecek hafta” anlamında).</p>"
+    },
+    {
+      "heading": "Seyahat",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>trip</td><td>«trip»</td><td>gezi, yolculuk</td></tr><tr><td>abroad</td><td>«ı-[brood]»</td><td>yurt dışı(na)</td></tr><tr><td>ticket</td><td>«[ti]-kıt»</td><td>bilet</td></tr><tr><td>passport</td><td>«[paas]-poot»</td><td>pasaport</td></tr><tr><td>flight</td><td>«flayt»</td><td>uçuş</td></tr><tr><td>suitcase</td><td>«[suut]-keys»</td><td>bavul</td></tr><tr><td>pack</td><td>«p{a}k»</td><td>bavul hazırlamak</td></tr><tr><td>get married</td><td>«get [m{a}]-rid»</td><td>evlenmek</td></tr></table>"
+    }
+  ],
+  "words": [
+    {
+      "en": "going to",
+      "tr": "-ecek (plan)",
+      "read": "[gou]-ing tı",
+      "note": "konuşmada “gonna” diye kısalır"
+    },
+    {
+      "en": "tomorrow",
+      "tr": "yarın",
+      "read": "tı-[mo]-rou"
+    },
+    {
+      "en": "next",
+      "tr": "gelecek, sonraki",
+      "read": "nekst",
+      "note": "next week"
+    },
+    {
+      "en": "soon",
+      "tr": "yakında",
+      "read": "suun"
+    },
+    {
+      "en": "fall",
+      "tr": "düşmek",
+      "read": "fool",
+      "note": "geçmiş: fell «fel»"
+    },
+    {
+      "en": "careful",
+      "tr": "dikkatli",
+      "read": "[kee]-fıl",
+      "note": "Be careful! Dikkat et!"
+    },
+    {
+      "en": "cloud",
+      "tr": "bulut",
+      "read": "klaud"
+    },
+    {
+      "en": "trip",
+      "tr": "gezi, yolculuk",
+      "read": "trip"
+    },
+    {
+      "en": "abroad",
+      "tr": "yurt dışı",
+      "read": "ı-[brood]",
+      "note": "go abroad (the yok)"
+    },
+    {
+      "en": "ticket",
+      "tr": "bilet; (iş takibinde) kayıt, ticket",
+      "read": "[ti]-kıt"
+    },
+    {
+      "en": "passport",
+      "tr": "pasaport",
+      "read": "[paas]-poot"
+    },
+    {
+      "en": "flight",
+      "tr": "uçuş",
+      "read": "flayt"
+    },
+    {
+      "en": "suitcase",
+      "tr": "bavul",
+      "read": "[suut]-keys"
+    },
+    {
+      "en": "pack",
+      "tr": "bavul hazırlamak",
+      "read": "p{a}k"
+    },
+    {
+      "en": "get married",
+      "tr": "evlenmek",
+      "read": "get [m{a}]-rid"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Bu hafta sonu ailemi ziyaret edeceğim. (plan)",
+      "options": [
+        "I'm going to visit my parents this weekend.",
+        "I going to visit my parents this weekend.",
+        "I'm go to visit my parents this weekend."
+      ],
+      "answer": "I'm going to visit my parents this weekend."
+    },
+    {
+      "type": "choice",
+      "prompt": "She ___ going to learn Spanish.",
+      "options": [
+        "is",
+        "are",
+        "does"
+      ],
+      "answer": "is"
+    },
+    {
+      "type": "choice",
+      "prompt": "Şu bulutlara bak! Yağmur yağacak.",
+      "options": [
+        "It's going to rain.",
+        "It rains.",
+        "It's raining tomorrow."
+      ],
+      "answer": "It's going to rain.",
+      "explain": "Kanıta dayalı tahmin → going to."
+    },
+    {
+      "type": "choice",
+      "prompt": "gelecek hafta",
+      "options": [
+        "the next week",
+        "next week",
+        "week next"
+      ],
+      "answer": "next week"
+    },
+    {
+      "type": "choice",
+      "prompt": "___ you going to travel this summer?",
+      "options": [
+        "Do",
+        "Are",
+        "Will"
+      ],
+      "answer": "Are"
+    },
+    {
+      "type": "choice",
+      "prompt": "Yurt dışına gitmek",
+      "options": [
+        "go to abroad",
+        "go abroad"
+      ],
+      "answer": "go abroad"
+    },
+    {
+      "type": "write",
+      "prompt": "Yeni bir araba alacağız. (plan)",
+      "answers": [
+        "We're going to buy a new car",
+        "We are going to buy a new car"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Yarın çalışmayacağım.",
+      "answers": [
+        "I'm not going to work tomorrow",
+        "I am not going to work tomorrow"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Ne yapacaksın?",
+      "answers": [
+        "What are you going to do"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Gelecek yıl evlenecekler.",
+      "answers": [
+        "They're going to get married next year",
+        "They are going to get married next year"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Pasaportunu unutma!",
+      "answers": [
+        "Don't forget your passport",
+        "Do not forget your passport"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Yarın altıda Kate'le buluşuyorum.",
+      "answers": [
+        "I'm meeting Kate tomorrow at six",
+        "I'm meeting Kate at six tomorrow",
+        "I am meeting Kate tomorrow at six"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "I'm going to pack my suitcase",
+      "answers": [
+        "I'm going to pack my suitcase",
+        "I am going to pack my suitcase"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Be careful!",
+      "answers": [
+        "Be careful"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Our flight is tomorrow",
+      "answers": [
+        "Our flight is tomorrow"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I'm going to travel",
+      "accept": [
+        "I'm going to travel",
+        "I am going to travel",
+        "I'm gonna travel"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It's going to rain",
+      "accept": [
+        "It's going to rain",
+        "It is going to rain",
+        "It's gonna rain"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "What are you going to do?",
+      "accept": [
+        "What are you going to do",
+        "What are you gonna do"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "See you tomorrow",
+      "accept": [
+        "See you tomorrow"
+      ]
+    }
+  ]
+}

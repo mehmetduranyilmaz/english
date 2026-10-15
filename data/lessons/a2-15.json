@@ -1,0 +1,261 @@
+{
+  "id": "a2-15",
+  "stage": 17,
+  "title": "Past Continuous: Telefon çaldığında yemek pişiriyordum",
+  "sections": [
+    {
+      "heading": "was / were + -ing = -iyordum",
+      "body": "<p>Geçmişte belirli bir anda <b>devam etmekte olan</b> eylemler. Türkçedeki “-iyordum”:</p><p class=\"ex\">At eight o'clock I <b>was having</b> dinner. → Saat sekizde akşam yemeği yiyordum.<br>They <b>were watching</b> TV. → Televizyon izliyorlardı.<br>It <b>was raining</b>. → Yağmur yağıyordu.</p><p class=\"ex\">I <b>wasn't</b> sleeping. → Uyumuyordum.<br><b>What were you doing</b> at ten? → Saat onda ne yapıyordun?</p>"
+    },
+    {
+      "heading": "Kesilen eylem: when ve while",
+      "body": "<p>Uzun eylem (Past Continuous) devam ederken kısa bir olay (Past Simple) araya girer:</p><p class=\"ex\">I <b>was cooking</b> <b>when</b> the phone <b>rang</b>. → Telefon çaldığında yemek pişiriyordum.<br><b>While</b> I <b>was walking</b> home, I <b>saw</b> an accident. → Eve yürürken bir kaza gördüm.</p><p><b>when</b> + kısa olay (geçmiş zaman), <b>while</b> «{w}ayl» + uzun eylem (-ing).</p><p><span class=\"bad\">✘ When I was walking, I was seeing an accident.</span>: kısa olay -ing almaz.</p>"
+    },
+    {
+      "heading": "Kazalar ve olaylar",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>accident</td><td>«[{a}k]-si-dınt»</td><td>kaza</td></tr><tr><td>crash</td><td>«kr{a}ş»</td><td>çarpışmak; çarpışma</td></tr><tr><td>hit</td><td>«hit»</td><td>çarpmak, vurmak (hit, hit)</td></tr><tr><td>drop</td><td>«drop»</td><td>düşürmek</td></tr><tr><td>cut</td><td>«kat»</td><td>kesmek (cut, cut)</td></tr><tr><td>burn</td><td>«böön»</td><td>yakmak, yanmak</td></tr><tr><td>slip</td><td>«slip»</td><td>kaymak</td></tr><tr><td>suddenly</td><td>«[sa]-dın-li»</td><td>aniden</td></tr><tr><td>police</td><td>«pı-[liis]»</td><td>polis</td></tr><tr><td>ambulance</td><td>«[{a}m]-byu-lıns»</td><td>ambulans</td></tr></table><p class=\"ex\">I <b>was carrying</b> the plates when I <b>slipped</b> and <b>dropped</b> them. → Tabakları taşıyordum, kaydım ve düşürdüm.</p><p><b>British:</b> acil durum numarası <b>999</b> (“nine nine nine”).</p>"
+    }
+  ],
+  "words": [
+    {
+      "en": "while",
+      "tr": "-iken",
+      "read": "{w}ayl"
+    },
+    {
+      "en": "accident",
+      "tr": "kaza",
+      "read": "[{a}k]-si-dınt"
+    },
+    {
+      "en": "crash",
+      "tr": "çarpışmak; (program) çökmek",
+      "read": "kr{a}ş",
+      "note": "The app crashed. = Uygulama çöktü."
+    },
+    {
+      "en": "hit",
+      "tr": "çarpmak, vurmak",
+      "read": "hit",
+      "note": "geçmiş: hit (aynı)"
+    },
+    {
+      "en": "drop",
+      "tr": "düşürmek",
+      "read": "drop",
+      "note": "dropped"
+    },
+    {
+      "en": "cut",
+      "tr": "kesmek",
+      "read": "kat",
+      "note": "geçmiş: cut (aynı)"
+    },
+    {
+      "en": "burn",
+      "tr": "yakmak, yanmak",
+      "read": "böön"
+    },
+    {
+      "en": "slip",
+      "tr": "kaymak",
+      "read": "slip",
+      "note": "slipped"
+    },
+    {
+      "en": "suddenly",
+      "tr": "aniden",
+      "read": "[sa]-dın-li"
+    },
+    {
+      "en": "police",
+      "tr": "polis",
+      "read": "pı-[liis]"
+    },
+    {
+      "en": "ambulance",
+      "tr": "ambulans",
+      "read": "[{a}m]-byu-lıns"
+    },
+    {
+      "en": "plate",
+      "tr": "tabak",
+      "read": "pleyt"
+    },
+    {
+      "en": "rang",
+      "tr": "çaldı (ring)",
+      "read": "r{a}ng"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Saat sekizde akşam yemeği yiyordum.",
+      "options": [
+        "At eight I was having dinner.",
+        "At eight I had dinner.",
+        "At eight I am having dinner."
+      ],
+      "answer": "At eight I was having dinner."
+    },
+    {
+      "type": "choice",
+      "prompt": "They ___ watching TV.",
+      "options": [
+        "was",
+        "were"
+      ],
+      "answer": "were"
+    },
+    {
+      "type": "choice",
+      "prompt": "Telefon çaldığında yemek pişiriyordum.",
+      "options": [
+        "I was cooking when the phone rang.",
+        "I cooked when the phone was ringing.",
+        "I was cooking when the phone was ring."
+      ],
+      "answer": "I was cooking when the phone rang."
+    },
+    {
+      "type": "choice",
+      "prompt": "___ I was walking home, I saw an accident.",
+      "options": [
+        "While",
+        "During",
+        "When I"
+      ],
+      "answer": "While"
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you doing at ten?",
+      "options": [
+        "were",
+        "did",
+        "was"
+      ],
+      "answer": "were"
+    },
+    {
+      "type": "choice",
+      "prompt": "I ___ when I was carrying the plates.",
+      "options": [
+        "slipped",
+        "was slipping"
+      ],
+      "answer": "slipped",
+      "explain": "Kısa, ani olay → past simple."
+    },
+    {
+      "type": "write",
+      "prompt": "Yağmur yağıyordu.",
+      "answers": [
+        "It was raining"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Uyumuyordum.",
+      "answers": [
+        "I wasn't sleeping",
+        "I was not sleeping"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Saat onda ne yapıyordun?",
+      "answers": [
+        "What were you doing at ten",
+        "What were you doing at ten o'clock"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Eve yürürken bir kaza gördüm.",
+      "answers": [
+        "While I was walking home, I saw an accident",
+        "I saw an accident while I was walking home"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Aniden ışıklar söndü.",
+      "answers": [
+        "Suddenly the lights went out",
+        "The lights suddenly went out"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Tabağı düşürdüm.",
+      "answers": [
+        "I dropped the plate"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Ambulans çağırın!",
+      "answers": [
+        "Call an ambulance"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "I was having a shower",
+      "answers": [
+        "I was having a shower"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "What were you doing?",
+      "answers": [
+        "What were you doing"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "The phone rang while I was cooking",
+      "answers": [
+        "The phone rang while I was cooking"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I was sleeping",
+      "accept": [
+        "I was sleeping"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "What were you doing?",
+      "accept": [
+        "What were you doing"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It was raining",
+      "accept": [
+        "It was raining"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Call an ambulance!",
+      "accept": [
+        "Call an ambulance"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Suddenly I saw her",
+      "accept": [
+        "Suddenly I saw her"
+      ]
+    }
+  ]
+}

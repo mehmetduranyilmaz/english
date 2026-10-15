@@ -1,0 +1,290 @@
+{
+  "id": "b2-07",
+  "stage": 28,
+  "title": "must / might / can't have done: olmalı, olabilir, olamaz",
+  "sections": [
+    {
+      "heading": "Şimdi hakkında tahmin",
+      "body": "<table><tr><th>Ne kadar emin?</th><th>Kalıp</th><th>Örnek</th></tr><tr><td>Neredeyse kesin (evet)</td><td><b>must</b> + fiil</td><td>She <b>must be</b> tired. → Yorgun olmalı.</td></tr><tr><td>Belki</td><td><b>might / may / could</b> + fiil</td><td>He <b>might be</b> at home. → Evde olabilir.</td></tr><tr><td>Neredeyse kesin (hayır)</td><td><b>can't</b> + fiil</td><td>That <b>can't be</b> true! → Bu doğru olamaz!</td></tr></table><p><b>Dikkat:</b> Tahminde must'ın olumsuzu <b>can't</b>'tır, mustn't değil: <span class=\"bad\">✘ It mustn't be true.</span></p>"
+    },
+    {
+      "heading": "Geçmiş hakkında tahmin: + have + 3. hal",
+      "body": "<p class=\"ex\">The ground is wet. It <b>must have rained</b>. → Yer ıslak. Yağmur yağmış olmalı.<br>She's late. She <b>might have missed</b> the bus. → Geç kaldı. Otobüsü kaçırmış olabilir.<br>He <b>can't have seen</b> me; it was dark. → Beni görmüş olamaz; karanlıktı.<br>I <b>may have left</b> my phone at work. → Telefonumu işte bırakmış olabilirim.</p><p><b>Okunuş:</b> must have → «[mas]-tıv», might have → «[may]-tıv», can't have → «[kaan]-tıv».</p>"
+    },
+    {
+      "heading": "Gizem ve dedektiflik",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>mystery</td><td>«[mis]-tı-ri»</td><td>gizem</td></tr><tr><td>detective</td><td>«di-[tek]-tiv»</td><td>dedektif</td></tr><tr><td>clue</td><td>«kluu»</td><td>ipucu</td></tr><tr><td>evidence</td><td>«[e]-vi-dıns»</td><td>kanıt (sayılamaz)</td></tr><tr><td>suspect</td><td>isim «[sas]-pekt» / fiil «sı-[spekt]»</td><td>şüpheli / şüphelenmek</td></tr><tr><td>solve</td><td>«solv»</td><td>çözmek</td></tr><tr><td>disappear</td><td>«di-sı-[piı]»</td><td>kaybolmak</td></tr><tr><td>footprint</td><td>«[fut]-print»</td><td>ayak izi</td></tr><tr><td>obviously</td><td>«[ob]-vi-ıs-li»</td><td>belli ki, tabii ki</td></tr><tr><td>possibly</td><td>«[po]-sı-bli»</td><td>muhtemelen, belki</td></tr><tr><td>innocent</td><td>«[i]-nı-sınt»</td><td>masum</td></tr><tr><td>haunted</td><td>«[hoon]-tid»</td><td>perili</td></tr></table><p><b>Vurgu ile anlam değişir:</b> a <b>SUS</b>pect (bir şüpheli) ama I su<b>SPECT</b> (şüpheleniyorum). Aynısı: a <b>RE</b>cord / to re<b>CORD</b>, a <b>PRE</b>sent / to pre<b>SENT</b>.</p>"
+    }
+  ],
+  "words": [
+    {
+      "en": "must be",
+      "tr": "olmalı (tahmin)",
+      "read": "[mast] bii",
+      "opposite": "can't be"
+    },
+    {
+      "en": "might",
+      "tr": "-ebilir (belki)",
+      "read": "mayt"
+    },
+    {
+      "en": "can't be",
+      "tr": "olamaz (tahmin)",
+      "read": "[kaant] bii",
+      "opposite": "must be"
+    },
+    {
+      "en": "must have",
+      "tr": "-miş olmalı",
+      "read": "[mas]-tıv"
+    },
+    {
+      "en": "might have",
+      "tr": "-miş olabilir",
+      "read": "[may]-tıv"
+    },
+    {
+      "en": "true",
+      "tr": "doğru, gerçek",
+      "read": "truu",
+      "opposite": "false"
+    },
+    {
+      "en": "mystery",
+      "tr": "gizem",
+      "read": "[mis]-tı-ri"
+    },
+    {
+      "en": "detective",
+      "tr": "dedektif",
+      "read": "di-[tek]-tiv"
+    },
+    {
+      "en": "clue",
+      "tr": "ipucu",
+      "read": "kluu"
+    },
+    {
+      "en": "evidence",
+      "tr": "kanıt",
+      "read": "[e]-vi-dıns",
+      "note": "sayılamaz"
+    },
+    {
+      "en": "suspect",
+      "tr": "şüpheli; şüphelenmek",
+      "read": "[sas]-pekt",
+      "note": "fiil: sı-SPEKT"
+    },
+    {
+      "en": "solve",
+      "tr": "çözmek",
+      "read": "solv"
+    },
+    {
+      "en": "disappear",
+      "tr": "kaybolmak",
+      "read": "di-sı-[piı]",
+      "opposite": "appear"
+    },
+    {
+      "en": "footprint",
+      "tr": "ayak izi",
+      "read": "[fut]-print"
+    },
+    {
+      "en": "obviously",
+      "tr": "belli ki",
+      "read": "[ob]-vi-ıs-li"
+    },
+    {
+      "en": "possibly",
+      "tr": "muhtemelen, belki",
+      "read": "[po]-sı-bli"
+    },
+    {
+      "en": "innocent",
+      "tr": "masum",
+      "read": "[i]-nı-sınt",
+      "opposite": "guilty"
+    },
+    {
+      "en": "haunted",
+      "tr": "perili",
+      "read": "[hoon]-tid"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Yorgun olmalı. (tahmin)",
+      "options": [
+        "She must be tired.",
+        "She has to be tired.",
+        "She should tired."
+      ],
+      "answer": "She must be tired."
+    },
+    {
+      "type": "choice",
+      "prompt": "Bu doğru olamaz!",
+      "options": [
+        "That can't be true!",
+        "That mustn't be true!",
+        "That isn't must true!"
+      ],
+      "answer": "That can't be true!",
+      "explain": "Tahminde must'ın olumsuzu can't."
+    },
+    {
+      "type": "choice",
+      "prompt": "Yer ıslak. Yağmur yağmış olmalı.",
+      "options": [
+        "It must have rained.",
+        "It must rain.",
+        "It must had rained."
+      ],
+      "answer": "It must have rained."
+    },
+    {
+      "type": "choice",
+      "prompt": "Otobüsü kaçırmış olabilir.",
+      "options": [
+        "She might have missed the bus.",
+        "She might missed the bus.",
+        "She might has missed the bus."
+      ],
+      "answer": "She might have missed the bus."
+    },
+    {
+      "type": "choice",
+      "prompt": "Beni görmüş olamaz.",
+      "options": [
+        "He can't have seen me.",
+        "He mustn't have seen me.",
+        "He can't saw me."
+      ],
+      "answer": "He can't have seen me."
+    },
+    {
+      "type": "choice",
+      "prompt": "“Şüpheleniyorum” derken vurgu nerede?",
+      "options": [
+        "I SUS-pect",
+        "I sı-SPEKT"
+      ],
+      "answer": "I sı-SPEKT",
+      "explain": "Fiilde vurgu sonda, isimde başta."
+    },
+    {
+      "type": "write",
+      "prompt": "Evde olabilir. (o, erkek)",
+      "answers": [
+        "He might be at home",
+        "He may be at home",
+        "He could be at home"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Telefonumu işte bırakmış olabilirim.",
+      "answers": [
+        "I might have left my phone at work",
+        "I may have left my phone at work",
+        "I could have left my phone at work"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Çok para kazanıyor olmalı.",
+      "answers": [
+        "He must earn a lot of money",
+        "She must earn a lot of money"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Unutmuş olmalı.",
+      "answers": [
+        "He must have forgotten",
+        "She must have forgotten"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Dedektif gizemi çözdü.",
+      "answers": [
+        "The detective solved the mystery"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Hiç kanıt yok.",
+      "answers": [
+        "There's no evidence",
+        "There is no evidence",
+        "There isn't any evidence"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "You must be joking!",
+      "answers": [
+        "You must be joking"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "She can't have done it",
+      "answers": [
+        "She can't have done it",
+        "She cannot have done it"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "It might have been a mistake",
+      "answers": [
+        "It might have been a mistake"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "You must be tired",
+      "accept": [
+        "You must be tired"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "That can't be true",
+      "accept": [
+        "That can't be true",
+        "That cannot be true"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It must have been expensive",
+      "accept": [
+        "It must have been expensive"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "He might have forgotten",
+      "accept": [
+        "He might have forgotten"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Obviously, he's innocent",
+      "accept": [
+        "Obviously he's innocent",
+        "Obviously he is innocent"
+      ]
+    }
+  ]
+}

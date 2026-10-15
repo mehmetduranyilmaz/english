@@ -1,0 +1,65 @@
+{
+  "id": "a2-02",
+  "stage": 11,
+  "title": "Düzenli fiiller: worked, played + didn't, Did you…?",
+  "sections": [
+    {
+      "heading": "Fiile -ed",
+      "body": "<p>Geçmiş zamanda düzenli fiillere <b>-ed</b> eklenir. Tüm özneler için aynıdır (he / she için ayrıca -s yok):</p><p class=\"ex\">I work<b>ed</b> yesterday. → Dün çalıştım.<br>She watch<b>ed</b> a film. → Bir film izledi.<br>We stay<b>ed</b> at a hotel. → Bir otelde kaldık.</p><table><tr><th>Fiilin sonu</th><th>Ne olur?</th><th>Örnek</th></tr><tr><td>Çoğu fiil</td><td>+ ed</td><td>work → worked, play → played</td></tr><tr><td>-e</td><td>+ d</td><td>live → lived, move → moved</td></tr><tr><td>sessiz harf + y</td><td>y → ied</td><td>study → studied, try → tried</td></tr><tr><td>Kısa: ünsüz + ünlü + ünsüz</td><td>son harf ikilenir</td><td>stop → sto<b>pp</b>ed, plan → pla<b>nn</b>ed</td></tr><tr><td>British: -l</td><td>l ikilenir</td><td>travel → trave<b>ll</b>ed (Amerikan: traveled)</td></tr></table>"
+    },
+    {
+      "heading": "British telaffuz: -ed üç şekilde okunur",
+      "body": "<table><tr><th>Ses</th><th>Ne zaman?</th><th>Örnek</th></tr><tr><td><b>“t”</b></td><td>p, k, s, ş, ç, f sesinden sonra</td><td>worked «{w}öökt», watched «{w}oçt», stopped «stopt»</td></tr><tr><td><b>“d”</b></td><td>Diğer seslerden sonra</td><td>played «pleyd», lived «livd», called «koold»</td></tr><tr><td><b>“id”</b></td><td>Sadece t veya d sesinden sonra; bir hece ekler</td><td>wanted «[{w}on]-tid», needed «[nii]-did», visited «[vi]-zi-tid»</td></tr></table><p><b>Dikkat:</b> Türkler genelde her -ed'i “ed” diye okur: “vork-ed”. Çoğu zaman sadece kısa bir t veya d sesidir!</p>"
+    },
+    {
+      "heading": "Olumsuz ve soru: did",
+      "body": "<p>Geçmişte don't / doesn't yerine <b>didn't</b>, do / does yerine <b>did</b> gelir. Fiil yine <b>yalın</b> kalır:</p><p class=\"ex\">I <b>didn't</b> work yesterday. → Dün çalışmadım.<br><span class=\"bad\">✘ I didn't worked.</span><br><b>Did</b> you call her? — Yes, I did. / No, I didn't.<br>What <b>did</b> you do last night? → Dün gece ne yaptın?<br>Where <b>did</b> you stay? → Nerede kaldın?</p>"
+    },
+    {
+      "heading": "Yeni düzenli fiiller",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>stay</td><td>«stey»</td><td>kalmak</td></tr><tr><td>arrive</td><td>«ı-[rayv]»</td><td>varmak, gelmek</td></tr><tr><td>move</td><td>«muuv»</td><td>taşınmak; hareket etmek</td></tr><tr><td>try</td><td>«tray»</td><td>denemek</td></tr><tr><td>stop</td><td>«stop»</td><td>durmak, durdurmak</td></tr><tr><td>happen</td><td>«[h{a}]-pın»</td><td>olmak, meydana gelmek</td></tr><tr><td>decide</td><td>«di-[sayd]»</td><td>karar vermek</td></tr><tr><td>ask / answer</td><td>«aask» / «[aan]-sı»</td><td>sormak / cevaplamak (British: uzun aa)</td></tr><tr><td>plan</td><td>«pl{a}n»</td><td>planlamak</td></tr><tr><td>die</td><td>«day»</td><td>ölmek</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "did", "tr": "yaptı; geçmiş soru yardımcısı", "read": "did" },
+    { "en": "didn't", "tr": "-medi, -madı", "read": "[di]-dınt" },
+    { "en": "stay", "tr": "kalmak", "read": "stey" },
+    { "en": "arrive", "tr": "varmak", "read": "ı-[rayv]" },
+    { "en": "move", "tr": "taşınmak", "read": "muuv" },
+    { "en": "try", "tr": "denemek", "read": "tray", "note": "tried" },
+    { "en": "stop", "tr": "durmak, durdurmak", "read": "stop", "note": "stopped «stopt»" },
+    { "en": "happen", "tr": "olmak, meydana gelmek", "read": "[h{a}]-pın", "note": "What happened? Ne oldu?" },
+    { "en": "decide", "tr": "karar vermek", "read": "di-[sayd]" },
+    { "en": "ask", "tr": "sormak", "read": "aask", "opposite": "answer", "note": "British: uzun aa" },
+    { "en": "answer", "tr": "cevap; cevaplamak", "read": "[aan]-sı", "opposite": "ask", "note": "w okunmaz" },
+    { "en": "plan", "tr": "plan; planlamak", "read": "pl{a}n", "note": "planned" },
+    { "en": "die", "tr": "ölmek", "read": "day" },
+    { "en": "worked", "tr": "çalıştı", "read": "{w}öökt", "note": "-ed burada sadece “t”" },
+    { "en": "played", "tr": "oynadı", "read": "pleyd", "note": "-ed burada sadece “d”" },
+    { "en": "wanted", "tr": "istedi", "read": "[{w}on]-tid", "note": "t'den sonra “id”" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "She ___ a film last night.", "options": ["watch", "watched", "watches"], "answer": "watched" },
+    { "type": "choice", "prompt": "study → geçmiş?", "options": ["studyed", "studied", "studed"], "answer": "studied" },
+    { "type": "choice", "prompt": "stop → geçmiş?", "options": ["stoped", "stopped"], "answer": "stopped" },
+    { "type": "choice", "prompt": "I didn't ___ yesterday.", "options": ["work", "worked", "works"], "answer": "work", "explain": "didn't'ten sonra fiil yalın." },
+    { "type": "choice", "prompt": "“worked” nasıl okunur?", "options": ["vörk-ed", "wöökt"], "answer": "wöökt", "explain": "k'den sonra -ed sadece “t”." },
+    { "type": "choice", "prompt": "“wanted” nasıl okunur?", "options": ["wontt", "won-tid"], "answer": "won-tid", "explain": "t'den sonra -ed “id” olur." },
+    { "type": "choice", "prompt": "___ you call her?", "options": ["Did", "Do", "Were"], "answer": "Did" },
+    { "type": "write", "prompt": "Dün çalıştım.", "answers": ["I worked yesterday", "Yesterday I worked"] },
+    { "type": "write", "prompt": "Bir otelde kaldık.", "answers": ["We stayed at a hotel", "We stayed in a hotel"] },
+    { "type": "write", "prompt": "Ona (kadın) sormadım.", "answers": ["I didn't ask her", "I did not ask her"] },
+    { "type": "write", "prompt": "Ne oldu?", "answers": ["What happened"] },
+    { "type": "write", "prompt": "Dün gece ne yaptın?", "answers": ["What did you do last night"] },
+    { "type": "write", "prompt": "Geçen yıl Londra'ya taşındılar.", "answers": ["They moved to London last year", "Last year they moved to London"] },
+    { "type": "write", "prompt": "Annemi aradın mı?", "answers": ["Did you call my mother", "Did you call my mum"] },
+    { "type": "listen", "say": "We visited a museum", "answers": ["We visited a museum"] },
+    { "type": "listen", "say": "She didn't answer", "answers": ["She didn't answer", "She did not answer"] },
+    { "type": "listen", "say": "What happened?", "answers": ["What happened"] },
+    { "type": "speak", "say": "I worked yesterday", "accept": ["I worked yesterday"] },
+    { "type": "speak", "say": "What did you do?", "accept": ["What did you do"] },
+    { "type": "speak", "say": "We stayed at home", "accept": ["We stayed at home"] },
+    { "type": "speak", "say": "I didn't call him", "accept": ["I didn't call him", "I did not call him"] },
+    { "type": "speak", "say": "She wanted to help", "accept": ["She wanted to help"] }
+  ]
+}

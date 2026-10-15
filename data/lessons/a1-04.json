@@ -1,0 +1,60 @@
+{
+  "id": "a1-04",
+  "stage": 2,
+  "title": "a / an: bir kitap, bir elma",
+  "sections": [
+    {
+      "heading": "a / an = bir",
+      "body": "<p>Türkçedeki <b>“bir”</b> kelimesinin karşılığı <b>a</b> veya <b>an</b>'dır.</p><p class=\"ex\">a book → bir kitap<br>an apple → bir elma<br>with a friend → bir arkadaşla</p><p><b>Türkçeden önemli fark:</b> İngilizcede tekil ve sayılabilen bir isim tek başına kullanılmaz. Önüne mutlaka a / an (veya the, my gibi bir kelime) gelir. Türkçede “bir” demediğimiz yerlerde bile gerekir; örneğin meslekler: <b>a programmer</b>, <b>a teacher</b>. Bunu 3. aşamada cümle içinde göreceğiz (“Programcıyım” → I am <b>a</b> programmer).</p>"
+    },
+    {
+      "heading": "a mı, an mı? Harfe değil, sese bakın",
+      "body": "<table><tr><th></th><th>Ne zaman?</th><th>Örnek</th></tr><tr><td><b>a</b></td><td>Kelime <b>ünsüz bir sesle</b> başlıyorsa</td><td>a book, a car, a teacher</td></tr><tr><td><b>an</b></td><td>Kelime <b>ünlü bir sesle</b> (a, e, ı, i, o, ö, u, ü sesi) başlıyorsa</td><td>an apple, an egg, an idea, an umbrella</td></tr></table><p><b>Dikkat, karar veren ses:</b></p><p class=\"ex\"><b>a</b> university → «yuu-ni-[vöö]-sı-ti» “y” sesiyle başlar, yani ünsüz.<br><b>an</b> hour → baştaki h okunmaz, «auı» diye ünlü sesle başlar.</p>"
+    },
+    {
+      "heading": "Çoğulda ve sayılamayanda a / an olmaz",
+      "body": "<p>a / an “bir” demektir, bu yüzden sadece <b>tekil</b> isimlerle kullanılır.</p><p class=\"ex\"><span class=\"bad\">✘ a books</span> → ✔ books, ✔ two books<br><span class=\"bad\">✘ a software</span> → ✔ software (sayılamaz)<br><span class=\"bad\">✘ a water</span> → ✔ water</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li>Cümle içinde <b>a</b> çok kısa ve zayıf okunur: «ı». a book → «ı buk».</li><li><b>an</b> de zayıf okunur: «ın». Sondaki n sonraki kelimeye yapışır: an apple → «ı-[n{a}]-pıl».</li><li>Kelimeyi tek başına söylerken (“a mı dedin?”) «ey» diye okunabilir, ama günlük konuşmada hep «ı» duyarsınız.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "a", "tr": "bir (ünsüzden önce)", "read": "ı", "note": "cümle içinde çok kısa söylenir", "noRecording": true },
+    { "en": "an", "tr": "bir (ünlüden önce)", "read": "ın", "noRecording": true },
+    { "en": "apple", "tr": "elma", "read": "[{a}]-pıl", "note": "an apple" },
+    { "en": "egg", "tr": "yumurta", "read": "eg", "note": "an egg" },
+    { "en": "idea", "tr": "fikir", "read": "ay-[dii]-ı", "note": "an idea" },
+    { "en": "umbrella", "tr": "şemsiye", "read": "am-[brel]-ı", "note": "an umbrella" },
+    { "en": "hour", "tr": "saat (60 dakika)", "read": "auı", "note": "an hour — baştaki h okunmaz" },
+    { "en": "university", "tr": "üniversite", "read": "yuu-ni-[vöö]-sı-ti", "note": "a university — “y” sesiyle başlar" },
+    { "en": "friend", "tr": "arkadaş", "read": "frend", "note": "a friend" },
+    { "en": "teacher", "tr": "öğretmen", "read": "[tii]-çı", "note": "a teacher" },
+    { "en": "engineer", "tr": "mühendis", "read": "en-ci-[niı]", "note": "an engineer" },
+    { "en": "banana", "tr": "muz", "read": "bı-[naa]-nı", "note": "a banana" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "___ apple", "options": ["a", "an"], "answer": "an" },
+    { "type": "choice", "prompt": "___ book", "options": ["a", "an"], "answer": "a" },
+    { "type": "choice", "prompt": "___ umbrella", "options": ["a", "an"], "answer": "an" },
+    { "type": "choice", "prompt": "___ university", "options": ["a", "an"], "answer": "a", "explain": "“yuu” diye, yani ünsüz bir sesle başlıyor." },
+    { "type": "choice", "prompt": "___ hour", "options": ["a", "an"], "answer": "an", "explain": "h okunmaz; “auı” diye ünlü sesle başlıyor." },
+    { "type": "choice", "prompt": "___ books (kitaplar)", "options": ["a", "an", "(hiçbiri)"], "answer": "(hiçbiri)", "explain": "a / an sadece tekil isimlerle kullanılır." },
+    { "type": "choice", "prompt": "___ software", "options": ["a", "an", "(hiçbiri)"], "answer": "(hiçbiri)", "explain": "software sayılamaz." },
+    { "type": "write", "prompt": "bir yumurta", "answers": ["an egg"] },
+    { "type": "write", "prompt": "bir arkadaş", "answers": ["a friend"] },
+    { "type": "write", "prompt": "bir fikir", "answers": ["an idea"] },
+    { "type": "write", "prompt": "bir öğretmen", "answers": ["a teacher"] },
+    { "type": "write", "prompt": "bir mühendis", "answers": ["an engineer"] },
+    { "type": "write", "prompt": "bir saat (60 dakika)", "answers": ["an hour"] },
+    { "type": "write", "prompt": "bir arkadaşla", "answers": ["with a friend"] },
+    { "type": "listen", "say": "an apple", "answers": ["an apple"] },
+    { "type": "listen", "say": "a university", "answers": ["a university"] },
+    { "type": "listen", "say": "an hour", "answers": ["an hour"] },
+    { "type": "speak", "say": "an apple", "accept": ["an apple"] },
+    { "type": "speak", "say": "an umbrella", "accept": ["an umbrella"] },
+    { "type": "speak", "say": "a university", "accept": ["a university"] },
+    { "type": "speak", "say": "with a friend", "accept": ["with a friend"] }
+  ]
+}

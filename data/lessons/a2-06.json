@@ -1,0 +1,64 @@
+{
+  "id": "a2-06",
+  "stage": 12,
+  "title": "will ve Shall I…?: Sana yardım ederim",
+  "sections": [
+    {
+      "heading": "will: konuşma anında karar",
+      "body": "<p><b>will + yalın fiil</b> (kısa hali <b>'ll</b>). Konuşurken <b>o an</b> verilen kararlar, teklifler ve sözler için:</p><p class=\"ex\">The phone is ringing. — I'<b>ll</b> answer it. → Telefon çalıyor. — Ben bakarım.<br>I'<b>ll</b> help you. → Sana yardım ederim.<br>I'<b>ll</b> call you tomorrow. I promise. → Yarın seni ararım. Söz.</p><p><b>going to</b> ile farkı: going to = önceden karar verilmiş plan; will = şimdi karar verildi.</p>"
+    },
+    {
+      "heading": "will: fikre dayalı tahmin",
+      "body": "<p class=\"ex\">I think it <b>will</b> be sunny tomorrow. → Bence yarın güneşli olacak.<br>She <b>will</b> probably be late. → Muhtemelen geç kalacak.<br>Don't worry, you'<b>ll</b> be fine. → Merak etme, iyi olacaksın.</p><p><b>won't</b> «{w}ount» = will not: It <b>won't</b> be easy. (Kolay olmayacak.)<br><b>Will</b> you come to the party? — Yes, I will. / No, I won't.</p>"
+    },
+    {
+      "heading": "British: Shall I…? Shall we…?",
+      "body": "<p>İngilizler teklif ve öneri yaparken <b>shall</b> «ş{a}l» kullanır. Sadece I ve we ile:</p><p class=\"ex\"><b>Shall I</b> open the window? → Pencereyi açayım mı?<br><b>Shall I</b> carry your bag? → Çantanı taşıyayım mı?<br><b>Shall we</b> go? → Gidelim mi?<br>What time <b>shall we</b> meet? → Saat kaçta buluşalım?</p>"
+    },
+    {
+      "heading": "Ne kadar emin?",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>definitely</td><td>«[de]-fi-nıt-li»</td><td>kesinlikle</td></tr><tr><td>probably</td><td>«[pro]-bıb-li»</td><td>muhtemelen</td></tr><tr><td>maybe / perhaps</td><td>«[mey]-bi» / «pı-[h{a}ps]»</td><td>belki (perhaps İngilizlerde çok yaygın)</td></tr><tr><td>I hope</td><td>«ay [houp]»</td><td>umarım</td></tr></table><p class=\"ex\">I'll <b>probably</b> stay at home. → Muhtemelen evde kalacağım. (will'den sonra)<br><b>Perhaps</b> she'll come. → Belki gelir. (cümle başında)</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>I'll</b> «ayl», <b>you'll</b> «yuul», <b>we'll</b> «{w}iil»: konuşmada hep kısa hali kullanılır.</li><li><b>won't</b> «{w}ount» ile <b>want</b> «{w}ont» karışmasın: won't'ta “ou” sesi var.</li><li><b>shall</b> cümle içinde zayıf okunur: Shall I…? → «şıl ay».</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "will", "tr": "-ecek (karar, tahmin)", "read": "{w}il", "note": "kısa hali 'll: I'll «ayl»" },
+    { "en": "won't", "tr": "-meyecek (will not)", "read": "{w}ount", "note": "want «{w}ont» ile karışmasın" },
+    { "en": "shall", "tr": "-eyim mi? -elim mi?", "read": "ş{a}l", "note": "British: Shall I…? Shall we…?" },
+    { "en": "promise", "tr": "söz vermek", "read": "[pro]-mis" },
+    { "en": "hope", "tr": "ummak", "read": "houp" },
+    { "en": "definitely", "tr": "kesinlikle", "read": "[de]-fi-nıt-li" },
+    { "en": "probably", "tr": "muhtemelen", "read": "[pro]-bıb-li" },
+    { "en": "maybe", "tr": "belki", "read": "[mey]-bi" },
+    { "en": "perhaps", "tr": "belki", "read": "pı-[h{a}ps]", "note": "British'te çok yaygın" },
+    { "en": "future", "tr": "gelecek", "read": "[fyuu]-çı" },
+    { "en": "ring", "tr": "(telefon) çalmak", "read": "ring", "note": "The phone is ringing." },
+    { "en": "be fine", "tr": "iyi olmak", "read": "bii [fayn]" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Telefon çalıyor. — Ben bakarım. (o an karar)", "options": ["I'll answer it.", "I'm going to answer it.", "I answer it."], "answer": "I'll answer it." },
+    { "type": "choice", "prompt": "Bence yarın güneşli olacak.", "options": ["I think it will be sunny tomorrow.", "I think it will sunny tomorrow.", "I think it wills be sunny tomorrow."], "answer": "I think it will be sunny tomorrow." },
+    { "type": "choice", "prompt": "Pencereyi açayım mı? (British teklif)", "options": ["Shall I open the window?", "Will I open the window?", "Do I open the window?"], "answer": "Shall I open the window?" },
+    { "type": "choice", "prompt": "It ___ be easy. (olmayacak)", "options": ["won't", "willn't", "doesn't will"], "answer": "won't" },
+    { "type": "choice", "prompt": "Will you come? — No, I ___.", "options": ["won't", "don't", "willn't"], "answer": "won't" },
+    { "type": "choice", "prompt": "Gidelim mi?", "options": ["Shall we go?", "Do we go?", "Will we going?"], "answer": "Shall we go?" },
+    { "type": "write", "prompt": "Sana yardım ederim.", "answers": ["I'll help you", "I will help you"] },
+    { "type": "write", "prompt": "Yarın seni ararım.", "answers": ["I'll call you tomorrow", "I will call you tomorrow"] },
+    { "type": "write", "prompt": "Merak etme, iyi olacaksın.", "answers": ["Don't worry, you'll be fine", "Don't worry, you will be fine", "Do not worry, you will be fine"] },
+    { "type": "write", "prompt": "Muhtemelen geç kalacak. (o, kadın)", "answers": ["She'll probably be late", "She will probably be late"] },
+    { "type": "write", "prompt": "Çantanı taşıyayım mı?", "answers": ["Shall I carry your bag"] },
+    { "type": "write", "prompt": "Saat kaçta buluşalım?", "answers": ["What time shall we meet"] },
+    { "type": "write", "prompt": "Umarım gelirsin.", "answers": ["I hope you'll come", "I hope you will come", "I hope you come"] },
+    { "type": "listen", "say": "I'll call you later", "answers": ["I'll call you later", "I will call you later"] },
+    { "type": "listen", "say": "Shall we go?", "answers": ["Shall we go"] },
+    { "type": "listen", "say": "It won't be easy", "answers": ["It won't be easy", "It will not be easy"] },
+    { "type": "speak", "say": "I'll help you", "accept": ["I'll help you", "I will help you"] },
+    { "type": "speak", "say": "Shall I open the window?", "accept": ["Shall I open the window"] },
+    { "type": "speak", "say": "I promise", "accept": ["I promise"] },
+    { "type": "speak", "say": "Maybe tomorrow", "accept": ["Maybe tomorrow"] },
+    { "type": "speak", "say": "I won't be late", "accept": ["I won't be late", "I will not be late"], "mistakes": { "i want be late": "“want” anlaşıldı. won't'ta “ou” sesi var: “wount”." } }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "b1-06",
+  "stage": 20,
+  "title": "If 2: Piyango çıksa ev alırdım + para",
+  "sections": [
+    {
+      "heading": "2. tip: hayal ve gerçek dışı durumlar",
+      "body": "<p><b>If + geçmiş zaman, would + fiil</b>: şu an veya gelecekte <b>gerçek olmayan / pek olası olmayan</b> durumlar. Türkçedeki “-se, -ırdı”:</p><p class=\"ex\">If I <b>won</b> the lottery, I <b>would buy</b> a house. → Piyango çıksa ev alırdım.<br>If I <b>had</b> more time, I'<b>d learn</b> the guitar. → Daha çok vaktim olsa gitar öğrenirdim.<br>What <b>would</b> you <b>do</b> if you <b>were</b> rich? → Zengin olsan ne yapardın?</p><p>Geçmiş zaman kullanılır ama anlam <b>geçmiş değildir</b>, hayaldir. would'ün kısa hali 'd, olumsuzu wouldn't «[{w}u]-dınt».</p>"
+    },
+    {
+      "heading": "If I were you: tavsiye",
+      "body": "<p>2. tipte <b>I / he / she</b> ile de genellikle <b>were</b> kullanılır:</p><p class=\"ex\">If I <b>were</b> you, I'd take the job. → Senin yerinde olsam işi kabul ederdim.<br>If she <b>were</b> here, she'd help us. → Burada olsaydı bize yardım ederdi.</p><p>Günlük konuşmada “if I was” da duyulur, ama tavsiye kalıbı <b>If I were you</b> sabittir.</p>"
+    },
+    {
+      "heading": "1. tip mi 2. tip mi?",
+      "body": "<table><tr><th>1. tip (olası)</th><th>2. tip (hayal)</th></tr><tr><td>If I <b>find</b> a job, I'<b>ll move</b> to London.<br>(İş bulursam Londra'ya taşınırım. Arıyorum, olabilir.)</td><td>If I <b>found</b> a job in London, I'<b>d move</b> there.<br>(Londra'da iş bulsam oraya taşınırdım. Pek beklemiyorum.)</td></tr></table>"
+    },
+    {
+      "heading": "Para",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>lottery</td><td>«[lo]-tı-ri»</td><td>piyango</td></tr><tr><td>earn</td><td>«öön»</td><td>kazanmak (çalışarak)</td></tr><tr><td>afford</td><td>«ı-[food]»</td><td>(parası) yetmek</td></tr><tr><td>borrow / lend</td><td>«[bo]-rou» / «lend»</td><td>ödünç almak / ödünç vermek</td></tr><tr><td>owe</td><td>«ou»</td><td>borçlu olmak</td></tr><tr><td>debt</td><td>«det»</td><td>borç (b okunmaz)</td></tr><tr><td>quit</td><td>«k{w}it»</td><td>(işten) ayrılmak, bırakmak</td></tr><tr><td>dream</td><td>«driim»</td><td>hayal; hayal etmek</td></tr><tr><td>charity</td><td>«[ç{a}]-rı-ti»</td><td>hayır kurumu</td></tr></table><p class=\"ex\"><b>borrow</b> = alan taraf: Can I <b>borrow</b> your pen? (Kalemini ödünç alabilir miyim?)<br><b>lend</b> = veren taraf: Can you <b>lend</b> me your pen? (Kalemini ödünç verir misin?)</p>"
+    }
+  ],
+  "words": [
+    { "en": "would", "tr": "-ırdı", "read": "{w}ud", "note": "l okunmaz; kısa hali 'd" },
+    { "en": "wouldn't", "tr": "-mazdı", "read": "[{w}u]-dınt" },
+    { "en": "If I were you", "tr": "senin yerinde olsam", "read": "if ay [{w}öö] yuu" },
+    { "en": "lottery", "tr": "piyango", "read": "[lo]-tı-ri" },
+    { "en": "earn", "tr": "kazanmak (para)", "read": "öön" },
+    { "en": "afford", "tr": "parası yetmek", "read": "ı-[food]", "note": "I can't afford it." },
+    { "en": "borrow", "tr": "ödünç almak", "read": "[bo]-rou", "opposite": "lend" },
+    { "en": "lend", "tr": "ödünç vermek", "read": "lend", "opposite": "borrow", "note": "geçmiş: lent" },
+    { "en": "owe", "tr": "borçlu olmak", "read": "ou" },
+    { "en": "debt", "tr": "borç", "read": "det", "note": "b okunmaz" },
+    { "en": "quit", "tr": "bırakmak, ayrılmak", "read": "k{w}it" },
+    { "en": "dream", "tr": "hayal, rüya", "read": "driim" },
+    { "en": "charity", "tr": "hayır kurumu", "read": "[ç{a}]-rı-ti" },
+    { "en": "pen", "tr": "kalem (tükenmez)", "read": "pen" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Piyango çıksa ev alırdım.", "options": ["If I won the lottery, I would buy a house.", "If I win the lottery, I would buy a house.", "If I would win the lottery, I bought a house."], "answer": "If I won the lottery, I would buy a house." },
+    { "type": "choice", "prompt": "Senin yerinde olsam işi kabul ederdim.", "options": ["If I were you, I'd take the job.", "If I am you, I'll take the job.", "If I would be you, I took the job."], "answer": "If I were you, I'd take the job." },
+    { "type": "choice", "prompt": "Zengin olsan ne yapardın?", "options": ["What would you do if you were rich?", "What will you do if you are rich?", "What did you do if you were rich?"], "answer": "What would you do if you were rich?" },
+    { "type": "choice", "prompt": "Kalemini ödünç alabilir miyim?", "options": ["Can I borrow your pen?", "Can I lend your pen?"], "answer": "Can I borrow your pen?" },
+    { "type": "choice", "prompt": "Bana biraz para ödünç verir misin?", "options": ["Can you lend me some money?", "Can you borrow me some money?"], "answer": "Can you lend me some money?" },
+    { "type": "choice", "prompt": "“debt” nasıl okunur?", "options": ["debt", "det"], "answer": "det" },
+    { "type": "write", "prompt": "Daha çok vaktim olsa gitar öğrenirdim.", "answers": ["If I had more time, I'd learn the guitar", "If I had more time, I would learn the guitar", "If I had more time I would learn the guitar"] },
+    { "type": "write", "prompt": "Buna paramız yetmez.", "answers": ["We can't afford it", "We cannot afford it", "We can't afford this"] },
+    { "type": "write", "prompt": "Sana ne kadar borçluyum?", "answers": ["How much do I owe you"] },
+    { "type": "write", "prompt": "Senin yerinde olsam gitmezdim.", "answers": ["If I were you, I wouldn't go", "If I were you, I would not go", "I wouldn't go if I were you"] },
+    { "type": "write", "prompt": "Zengin olsam işimi bırakırdım.", "answers": ["If I were rich, I'd quit my job", "If I was rich, I'd quit my job", "If I were rich, I would quit my job", "If I were rich, I'd leave my job"] },
+    { "type": "write", "prompt": "Ne kadar kazanıyor? (o, erkek)", "answers": ["How much does he earn"] },
+    { "type": "listen", "say": "If I were you, I'd say no", "answers": ["If I were you, I'd say no", "If I were you, I would say no"] },
+    { "type": "listen", "say": "I can't afford a new car", "answers": ["I can't afford a new car", "I cannot afford a new car"] },
+    { "type": "listen", "say": "What would you do?", "answers": ["What would you do"] },
+    { "type": "speak", "say": "If I were you, I'd take it", "accept": ["If I were you I'd take it", "If I were you I would take it"] },
+    { "type": "speak", "say": "What would you do?", "accept": ["What would you do"] },
+    { "type": "speak", "say": "Can I borrow your pen?", "accept": ["Can I borrow your pen"] },
+    { "type": "speak", "say": "I can't afford it", "accept": ["I can't afford it", "I cannot afford it"] },
+    { "type": "speak", "say": "If I had more money, I'd travel", "accept": ["If I had more money I'd travel", "If I had more money I would travel"] }
+  ]
+}

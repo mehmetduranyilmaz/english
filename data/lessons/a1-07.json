@@ -1,0 +1,52 @@
+{
+  "id": "a1-07",
+  "stage": 3,
+  "title": "Değilim, misin? am / is / are ile olumsuz ve soru",
+  "sections": [
+    {
+      "heading": "Olumsuz: not eklenir",
+      "body": "<p>am / is / are'dan sonra <b>not</b> gelir: Türkçedeki “değil”.</p><table><tr><th>Uzun</th><th>Kısa</th><th>Türkçe</th></tr><tr><td>I am not tired.</td><td>I'm not tired.</td><td>Yorgun değilim.</td></tr><tr><td>She is not at home.</td><td>She isn't at home. / She's not at home.</td><td>O evde değil.</td></tr><tr><td>They are not students.</td><td>They aren't students. / They're not students.</td><td>Onlar öğrenci değil.</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ I amn't</span> diye bir kısaltma yoktur. Her zaman <b>I'm not</b>.</p>"
+    },
+    {
+      "heading": "Soru: am / is / are başa geçer",
+      "body": "<p>Türkçede soru için “mi” ekleriz. İngilizcede am / is / are özneden önceye geçer:</p><p class=\"ex\">You <b>are</b> tired. → <b>Are</b> you tired? (Yorgun musun?)<br>She <b>is</b> at home. → <b>Is</b> she at home? (O evde mi?)<br>I <b>am</b> late. → <b>Am</b> I late? (Geç mi kaldım?)</p>"
+    },
+    {
+      "heading": "Kısa cevaplar",
+      "body": "<table><tr><th>Soru</th><th>Evet</th><th>Hayır</th></tr><tr><td>Are you tired?</td><td>Yes, I am.</td><td>No, I'm not.</td></tr><tr><td>Is he a doctor?</td><td>Yes, he is.</td><td>No, he isn't.</td></tr><tr><td>Are they at home?</td><td>Yes, they are.</td><td>No, they aren't.</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ Yes, I'm.</span> → Olumlu kısa cevapta kısaltma yapılmaz: ✔ <b>Yes, I am.</b></p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>isn't</b> «[i]-zınt», <b>aren't</b> «aant»: British İngilizcede aren't'teki r okunmaz.</li><li>Evet / hayır sorularında ses <b>sonda yükselir</b>: Are you <b>tired↗</b>?</li><li>Kısa cevapta am / is / are vurgulu ve net söylenir: Yes, I <b>«{a}m»</b>.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "not", "tr": "değil", "read": "not" },
+    { "en": "isn't", "tr": "değil (is not)", "read": "[i]-zınt" },
+    { "en": "aren't", "tr": "değil (are not)", "read": "aant", "note": "r okunmaz" },
+    { "en": "yes", "tr": "evet", "read": "yes" },
+    { "en": "no", "tr": "hayır", "read": "nou" },
+    { "en": "late", "tr": "geç, geç kalmış", "read": "leyt" },
+    { "en": "Turkey", "tr": "Türkiye", "read": "[töö]-ki" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "I ___ tired. (değilim)", "options": ["am not", "not am", "amn't"], "answer": "am not" },
+    { "type": "choice", "prompt": "He ___ a doctor. (değil)", "options": ["isn't", "aren't", "not"], "answer": "isn't" },
+    { "type": "choice", "prompt": "___ you a student?", "options": ["Am", "Is", "Are"], "answer": "Are" },
+    { "type": "choice", "prompt": "___ she at home?", "options": ["Am", "Is", "Are"], "answer": "Is" },
+    { "type": "choice", "prompt": "Are you Turkish? — Yes, ___", "options": ["I am.", "I'm.", "I is."], "answer": "I am.", "explain": "Olumlu kısa cevapta kısaltma yapılmaz." },
+    { "type": "choice", "prompt": "Is it an apple? — No, ___", "options": ["it isn't.", "it not.", "it aren't."], "answer": "it isn't." },
+    { "type": "write", "prompt": "Yorgun değilim.", "answers": ["I am not tired", "I'm not tired"] },
+    { "type": "write", "prompt": "Öğrenci misin?", "answers": ["Are you a student"] },
+    { "type": "write", "prompt": "O (erkek) evde mi?", "answers": ["Is he at home"] },
+    { "type": "write", "prompt": "Onlar mühendis değil.", "answers": ["They are not engineers", "They aren't engineers", "They're not engineers"] },
+    { "type": "write", "prompt": "Hayır, değilim.", "answers": ["No, I'm not", "No, I am not"] },
+    { "type": "listen", "say": "Are you tired?", "answers": ["Are you tired"] },
+    { "type": "listen", "say": "She isn't at home", "answers": ["She isn't at home", "She is not at home"] },
+    { "type": "listen", "say": "No, I'm not", "answers": ["No, I'm not", "No, I am not"] },
+    { "type": "speak", "say": "Are you a student?", "accept": ["are you a student"] },
+    { "type": "speak", "say": "I'm not tired", "accept": ["I'm not tired", "I am not tired"] },
+    { "type": "speak", "say": "Yes, I am", "accept": ["yes I am"] },
+    { "type": "speak", "say": "He isn't a doctor", "accept": ["He isn't a doctor", "He is not a doctor", "He's not a doctor"] }
+  ]
+}

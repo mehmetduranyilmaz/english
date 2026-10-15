@@ -1,0 +1,312 @@
+{
+  "id": "b1-03",
+  "stage": 19,
+  "title": "used to: Eskiden futbol oynardım + çocukluk ve okul",
+  "sections": [
+    {
+      "heading": "used to = eskiden …ardım",
+      "body": "<p>Geçmişte alışkanlık olan ama <b>artık olmayan</b> şeyler için. Türkçedeki “eskiden …ardım / …ırdım”:</p><p class=\"ex\">I <b>used to</b> play football. → Eskiden futbol oynardım. (artık oynamıyorum)<br>She <b>used to</b> live in Ankara. → Eskiden Ankara'da yaşardı.<br>There <b>used to</b> be a cinema here. → Eskiden burada bir sinema vardı.</p><p class=\"ex\">I <b>didn't use to</b> like coffee. → Eskiden kahve sevmezdim. (didn't'ten sonra -d yok)<br><b>Did</b> you <b>use to</b> wear glasses? → Eskiden gözlük takar mıydın?</p><p><b>Okunuş:</b> used to «[yuus]-tı». Buradaki s, “z” değil “s” okunur.</p>"
+    },
+    {
+      "heading": "Çocukluk",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>childhood</td><td>«[çayld]-hud»</td><td>çocukluk</td></tr><tr><td>grow up</td><td>«grou [ap]»</td><td>büyümek (grew up)</td></tr><tr><td>teenager</td><td>«[tiin]-ey-cı»</td><td>genç (13–19 yaş)</td></tr><tr><td>toy</td><td>«toy»</td><td>oyuncak</td></tr><tr><td>naughty</td><td>«[noo]-ti»</td><td>yaramaz (British)</td></tr><tr><td>strict</td><td>«strikt»</td><td>katı, sert (öğretmen, aile)</td></tr><tr><td>remember</td><td>«ri-[mem]-bı»</td><td>hatırlamak</td></tr><tr><td>miss</td><td>«mis»</td><td>özlemek; kaçırmak (treni)</td></tr></table>"
+    },
+    {
+      "heading": "Okul: British sistem",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>primary school</td><td>«[pray]-mı-ri skuul»</td><td>ilkokul (British; Amerikan: elementary school)</td></tr><tr><td>secondary school</td><td>«[se]-kın-dı-ri skuul»</td><td>ortaokul + lise (British; Amerikan: high school)</td></tr><tr><td>uni</td><td>«[yuu]-ni»</td><td>üniversite (British kısaltma: at uni)</td></tr><tr><td>subject</td><td>«[sab]-cikt»</td><td>ders (matematik, tarih…)</td></tr><tr><td>maths</td><td>«m{a}{t}s»</td><td>matematik (British; Amerikan: math)</td></tr><tr><td>history / science</td><td>«[his]-tı-ri» / «[say]-ıns»</td><td>tarih / fen</td></tr><tr><td>pupil / classmate</td><td>«[pyuu]-pıl» / «[klaas]-meyt»</td><td>öğrenci (okul) / sınıf arkadaşı</td></tr><tr><td>term</td><td>«tööm»</td><td>dönem (British; Amerikan: semester)</td></tr></table>"
+    }
+  ],
+  "words": [
+    {
+      "en": "used to",
+      "tr": "eskiden …ardı",
+      "read": "[yuus]-tı",
+      "note": "s “z” değil “s” okunur"
+    },
+    {
+      "en": "childhood",
+      "tr": "çocukluk",
+      "read": "[çayld]-hud"
+    },
+    {
+      "en": "grow up",
+      "tr": "büyümek",
+      "read": "grou [ap]",
+      "note": "geçmiş: grew «gruu» up"
+    },
+    {
+      "en": "teenager",
+      "tr": "genç (13–19)",
+      "read": "[tiin]-ey-cı"
+    },
+    {
+      "en": "toy",
+      "tr": "oyuncak",
+      "read": "toy"
+    },
+    {
+      "en": "naughty",
+      "tr": "yaramaz",
+      "read": "[noo]-ti",
+      "note": "British"
+    },
+    {
+      "en": "strict",
+      "tr": "katı, sert",
+      "read": "strikt"
+    },
+    {
+      "en": "remember",
+      "tr": "hatırlamak",
+      "read": "ri-[mem]-bı",
+      "opposite": "forget"
+    },
+    {
+      "en": "miss",
+      "tr": "özlemek; kaçırmak",
+      "read": "mis",
+      "note": "I miss you. / I missed the bus."
+    },
+    {
+      "en": "primary school",
+      "tr": "ilkokul",
+      "read": "[pray]-mı-ri skuul",
+      "note": "British"
+    },
+    {
+      "en": "secondary school",
+      "tr": "ortaokul + lise",
+      "read": "[se]-kın-dı-ri skuul",
+      "note": "British"
+    },
+    {
+      "en": "uni",
+      "tr": "üniversite",
+      "read": "[yuu]-ni",
+      "note": "British kısaltma"
+    },
+    {
+      "en": "subject",
+      "tr": "ders, konu",
+      "read": "[sab]-cikt"
+    },
+    {
+      "en": "maths",
+      "tr": "matematik",
+      "read": "m{a}{t}s",
+      "note": "British; Amerikan: math"
+    },
+    {
+      "en": "history",
+      "tr": "tarih",
+      "read": "[his]-tı-ri"
+    },
+    {
+      "en": "science",
+      "tr": "fen, bilim",
+      "read": "[say]-ıns"
+    },
+    {
+      "en": "pupil",
+      "tr": "öğrenci (okul)",
+      "read": "[pyuu]-pıl"
+    },
+    {
+      "en": "term",
+      "tr": "dönem",
+      "read": "tööm",
+      "note": "British; Amerikan: semester"
+    },
+    {
+      "en": "glasses",
+      "tr": "gözlük",
+      "read": "[glaa]-siz"
+    },
+    {
+      "en": "favourite",
+      "tr": "en sevilen, favori",
+      "read": "[fey]-vı-rit",
+      "note": "British yazım; Amerikan: favorite"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Eskiden futbol oynardım.",
+      "options": [
+        "I used to play football.",
+        "I use to play football.",
+        "I was used to play football."
+      ],
+      "answer": "I used to play football."
+    },
+    {
+      "type": "choice",
+      "prompt": "Eskiden kahve sevmezdim.",
+      "options": [
+        "I didn't use to like coffee.",
+        "I didn't used to like coffee.",
+        "I usedn't like coffee."
+      ],
+      "answer": "I didn't use to like coffee.",
+      "explain": "didn't'ten sonra use (d yok)."
+    },
+    {
+      "type": "choice",
+      "prompt": "___ you use to wear glasses?",
+      "options": [
+        "Did",
+        "Were",
+        "Used"
+      ],
+      "answer": "Did"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eskiden burada bir sinema vardı.",
+      "options": [
+        "There used to be a cinema here.",
+        "There was used to a cinema here."
+      ],
+      "answer": "There used to be a cinema here."
+    },
+    {
+      "type": "choice",
+      "prompt": "Matematik (British)",
+      "options": [
+        "maths",
+        "math"
+      ],
+      "answer": "maths"
+    },
+    {
+      "type": "choice",
+      "prompt": "Otobüsü kaçırdım.",
+      "options": [
+        "I missed the bus.",
+        "I lost the bus.",
+        "I escaped the bus."
+      ],
+      "answer": "I missed the bus."
+    },
+    {
+      "type": "choice",
+      "prompt": "“used to” nasıl okunur?",
+      "options": [
+        "yuuzd tuu",
+        "yuus-tı"
+      ],
+      "answer": "yuus-tı"
+    },
+    {
+      "type": "write",
+      "prompt": "Eskiden Ankara'da yaşardı. (o, kadın)",
+      "answers": [
+        "She used to live in Ankara"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Çocukken çok yaramazdım.",
+      "answers": [
+        "I was very naughty when I was a child",
+        "When I was a child I was very naughty",
+        "When I was a child, I was very naughty"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "İzmir'de büyüdüm.",
+      "answers": [
+        "I grew up in Izmir",
+        "I grew up in İzmir"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "En sevdiğin ders hangisiydi?",
+      "answers": [
+        "What was your favourite subject",
+        "Which was your favourite subject",
+        "What was your favorite subject"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Seni özledim.",
+      "answers": [
+        "I miss you",
+        "I missed you",
+        "I've missed you"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Öğretmenlerim çok katıydı.",
+      "answers": [
+        "My teachers were very strict"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "I used to have long hair",
+      "answers": [
+        "I used to have long hair"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Do you remember?",
+      "answers": [
+        "Do you remember"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "She's at uni",
+      "answers": [
+        "She's at uni",
+        "She is at uni"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I used to play football",
+      "accept": [
+        "I used to play football"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I didn't use to like it",
+      "accept": [
+        "I didn't use to like it",
+        "I did not use to like it",
+        "I didn't used to like it"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I remember my first teacher",
+      "accept": [
+        "I remember my first teacher"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I miss my childhood",
+      "accept": [
+        "I miss my childhood"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Maths was my favourite subject",
+      "accept": [
+        "Maths was my favourite subject",
+        "Math was my favorite subject",
+        "Maths was my favorite subject"
+      ]
+    }
+  ]
+}

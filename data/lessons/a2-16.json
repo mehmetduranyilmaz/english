@@ -1,0 +1,60 @@
+{
+  "id": "a2-16",
+  "stage": 17,
+  "title": "A2 finali: hikâye anlatma + telefonda konuşma",
+  "sections": [
+    {
+      "heading": "Cümleleri bağlamak",
+      "body": "<table><tr><th>Kelime</th><th>Okunuş</th><th>Türkçe</th><th>Örnek</th></tr><tr><td>and</td><td>«{a}nd»</td><td>ve</td><td>I was tired <b>and</b> hungry.</td></tr><tr><td>but</td><td>«bat»</td><td>ama</td><td>It was cold, <b>but</b> sunny.</td></tr><tr><td>so</td><td>«sou»</td><td>bu yüzden</td><td>It was late, <b>so</b> I took a taxi.</td></tr><tr><td>because</td><td>«bi-[koz]»</td><td>çünkü</td><td>I stayed at home <b>because</b> I was ill.</td></tr><tr><td>or</td><td>«oo»</td><td>veya</td><td>Tea <b>or</b> coffee?</td></tr></table><p><b>so</b> sonucu, <b>because</b> sebebi bildirir. Türkçe “çünkü”den farklı olarak because cümlenin başında da olabilir: Because I was ill, I stayed at home.</p>"
+    },
+    {
+      "heading": "Bir hikâye: A2'de öğrendikleriniz bir arada",
+      "body": "<p class=\"ex\">Last winter I <b>went</b> to London for a week. On the first evening it <b>was raining</b> and I <b>was walking</b> back to my hotel. Suddenly I <b>realised</b> I <b>had</b> no umbrella! I <b>went</b> into a small café <b>because</b> I <b>was</b> wet and cold. The waiter <b>was</b> very friendly, <b>so</b> I <b>stayed</b> for an hour. It <b>was</b> the best tea I've ever <b>had</b>. I'm <b>going to</b> go back next year!</p><p>→ Geçen kış bir haftalığına Londra'ya gittim. İlk akşam yağmur yağıyordu ve otelime yürüyordum. Birden şemsiyem olmadığını fark ettim! Islak ve üşümüş olduğum için küçük bir kafeye girdim. Garson çok cana yakındı, bu yüzden bir saat kaldım. Hayatımda içtiğim en iyi çaydı. Gelecek yıl tekrar gideceğim!</p><p><b>British yazım:</b> realise (Amerikan: realize).</p>"
+    },
+    {
+      "heading": "Telefonda: British kalıplar",
+      "body": "<p class=\"ex\">Hello, <b>this is</b> Mehmet. → Merhaba, ben Mehmet. (telefonda “I am” değil, “this is”)<br><b>Can I speak to</b> Kate, please? → Kate'le görüşebilir miyim?<br><b>Hold on</b>, please. → Bir saniye, lütfen. (hattan ayrılmayın)<br>She's not here. <b>Can I take a message?</b> → Burada değil. Not alayım mı?<br>I'll <b>call you back</b>. → Seni geri ararım.<br>Sorry, <b>you're breaking up</b>. → Pardon, sesin kesik kesik geliyor.</p><table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>mobile</td><td>«[mou]-bayl»</td><td>cep telefonu (British; Amerikan: cell phone)</td></tr><tr><td>text</td><td>«tekst»</td><td>kısa mesaj; mesaj atmak</td></tr><tr><td>battery / charge</td><td>«[b{a}]-tı-ri» / «çaac»</td><td>pil / şarj etmek</td></tr><tr><td>signal</td><td>«[sig]-nıl»</td><td>sinyal, çekim</td></tr><tr><td>voicemail</td><td>«[voys]-meyl»</td><td>sesli mesaj</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "and", "tr": "ve", "read": "{a}nd", "note": "cümle içinde zayıf: «ın»" },
+    { "en": "but", "tr": "ama", "read": "bat" },
+    { "en": "so", "tr": "bu yüzden; çok", "read": "sou" },
+    { "en": "because", "tr": "çünkü", "read": "bi-[koz]" },
+    { "en": "or", "tr": "veya", "read": "oo" },
+    { "en": "realise", "tr": "fark etmek", "read": "[riı]-layz", "note": "British yazım; Amerikan: realize" },
+    { "en": "wet", "tr": "ıslak", "read": "{w}et", "opposite": "dry" },
+    { "en": "dry", "tr": "kuru", "read": "dray", "opposite": "wet" },
+    { "en": "hold on", "tr": "bir saniye, bekle", "read": "hould [on]" },
+    { "en": "call back", "tr": "geri aramak", "read": "kool [b{a}k]" },
+    { "en": "mobile", "tr": "cep telefonu", "read": "[mou]-bayl", "note": "British; Amerikan: cell phone" },
+    { "en": "text", "tr": "kısa mesaj; mesaj atmak", "read": "tekst" },
+    { "en": "battery", "tr": "pil, batarya", "read": "[b{a}]-tı-ri" },
+    { "en": "charge", "tr": "şarj etmek", "read": "çaac" },
+    { "en": "signal", "tr": "sinyal, çekim", "read": "[sig]-nıl" },
+    { "en": "voicemail", "tr": "sesli mesaj", "read": "[voys]-meyl" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Geç olmuştu, bu yüzden taksiye bindim.", "options": ["It was late, so I took a taxi.", "It was late, because I took a taxi."], "answer": "It was late, so I took a taxi." },
+    { "type": "choice", "prompt": "Hasta olduğum için evde kaldım.", "options": ["I stayed at home because I was ill.", "I stayed at home so I was ill."], "answer": "I stayed at home because I was ill." },
+    { "type": "choice", "prompt": "Telefonda: “Merhaba, ben Mehmet.”", "options": ["Hello, this is Mehmet.", "Hello, I am Mehmet here.", "Hello, here Mehmet."], "answer": "Hello, this is Mehmet." },
+    { "type": "choice", "prompt": "Bir saniye, lütfen. (telefonda)", "options": ["Hold on, please.", "Wait a second me.", "Stop, please."], "answer": "Hold on, please." },
+    { "type": "choice", "prompt": "Cep telefonu (British)", "options": ["mobile", "cell phone"], "answer": "mobile" },
+    { "type": "choice", "prompt": "Soğuktu ama güneşliydi.", "options": ["It was cold, but sunny.", "It was cold, so sunny.", "It was cold, or sunny."], "answer": "It was cold, but sunny." },
+    { "type": "write", "prompt": "Kate'le görüşebilir miyim, lütfen?", "answers": ["Can I speak to Kate, please", "Can I speak to Kate"] },
+    { "type": "write", "prompt": "Seni geri ararım.", "answers": ["I'll call you back", "I will call you back"] },
+    { "type": "write", "prompt": "Not alayım mı?", "answers": ["Can I take a message", "Shall I take a message"] },
+    { "type": "write", "prompt": "Bana mesaj at.", "answers": ["Text me", "Send me a text", "Send me a message"] },
+    { "type": "write", "prompt": "Telefonumun şarjı bitti. (pil)", "answers": ["My battery is dead", "My phone is dead", "My battery's dead", "My phone's dead"] },
+    { "type": "write", "prompt": "Islak ve üşümüştüm.", "answers": ["I was wet and cold"] },
+    { "type": "write", "prompt": "Çay mı kahve mi?", "answers": ["Tea or coffee"] },
+    { "type": "listen", "say": "Hello, this is Kate", "answers": ["Hello, this is Kate", "Hello this is Kate"] },
+    { "type": "listen", "say": "Sorry, you're breaking up", "answers": ["Sorry, you're breaking up", "Sorry you are breaking up", "Sorry, you are breaking up"] },
+    { "type": "listen", "say": "I stayed because it was raining", "answers": ["I stayed because it was raining"] },
+    { "type": "speak", "say": "Hello, this is Mehmet", "accept": ["Hello this is Mehmet", "Hello this is mehmet"] },
+    { "type": "speak", "say": "Can I speak to Kate, please?", "accept": ["Can I speak to Kate please", "Can I speak to Kate"] },
+    { "type": "speak", "say": "Hold on, please", "accept": ["Hold on please", "Hold on"] },
+    { "type": "speak", "say": "I'll call you back", "accept": ["I'll call you back", "I will call you back"] },
+    { "type": "speak", "say": "because I was tired", "accept": ["because I was tired"] }
+  ]
+}

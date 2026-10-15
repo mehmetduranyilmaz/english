@@ -1,0 +1,68 @@
+{
+  "id": "a1-20",
+  "stage": 8,
+  "title": "Şimdiki zaman: I'm working now",
+  "sections": [
+    {
+      "heading": "am / is / are + fiil-ing",
+      "body": "<p>Şu an, konuşma anında olan şeyler için kullanılır. Türkçedeki “-yor” ekinin <b>şu an</b> anlamı:</p><p class=\"ex\">I'<b>m working</b> now. → Şu an çalışıyorum.<br>She'<b>s reading</b> a book. → Kitap okuyor.<br>It'<b>s raining</b>. → Yağmur yağıyor.</p><p>Geçici durumlar için de kullanılır: I'm living with my parents this month. (Bu ay ailemle kalıyorum.)</p><p><b>Zaman kelimeleri:</b> now «nau» (şimdi), at the moment «ıt {d}ı [mou]-mınt» (şu anda), today «tı-[dey]» (bugün).</p>"
+    },
+    {
+      "heading": "-ing nasıl eklenir?",
+      "body": "<table><tr><th>Fiilin sonu</th><th>Ne olur?</th><th>Örnek</th></tr><tr><td>Çoğu fiil</td><td>+ ing</td><td>work → working, read → reading</td></tr><tr><td>Sessiz -e</td><td>e düşer</td><td>make → mak<b>ing</b>, write → writ<b>ing</b>, come → com<b>ing</b></td></tr><tr><td>Kısa: ünsüz + ünlü + ünsüz</td><td>son harf ikilenir</td><td>run → ru<b>nn</b>ing, sit → si<b>tt</b>ing, swim → swi<b>mm</b>ing</td></tr><tr><td>-ie</td><td>ie → y</td><td>lie → l<b>y</b>ing</td></tr></table>"
+    },
+    {
+      "heading": "Olumsuz ve soru",
+      "body": "<p>3. aşamadaki am / is / are kuralları aynen geçerli:</p><p class=\"ex\">I'm <b>not</b> working. She <b>isn't</b> sleeping. They <b>aren't</b> waiting.<br><b>Are</b> you listening? — Yes, I am. / No, I'm not.<br><b>What are you doing?</b> → Ne yapıyorsun? (şu an)</p>"
+    },
+    {
+      "heading": "Yeni fiiller",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>run / swim</td><td>«ran» / «s{w}im»</td><td>koşmak / yüzmek</td></tr><tr><td>sit / stand</td><td>«sit» / «st{a}nd»</td><td>oturmak / ayakta durmak</td></tr><tr><td>write</td><td>«rayt»</td><td>yazmak (w okunmaz)</td></tr><tr><td>wait (for)</td><td>«{w}eyt»</td><td>beklemek</td></tr><tr><td>talk (to)</td><td>«took»</td><td>konuşmak (biriyle)</td></tr><tr><td>look (at)</td><td>«luk»</td><td>bakmak</td></tr><tr><td>make</td><td>«meyk»</td><td>yapmak, hazırlamak</td></tr><tr><td>wash</td><td>«{w}oş»</td><td>yıkamak</td></tr><tr><td>buy / sell</td><td>«bay» / «sel»</td><td>satın almak / satmak</td></tr><tr><td>carry</td><td>«[k{a}]-ri»</td><td>taşımak</td></tr><tr><td>rain / snow</td><td>«reyn» / «snou»</td><td>yağmur / kar (yağmak)</td></tr></table><p><b>Edatlı fiiller:</b> wait <b>for</b> the bus (otobüsü beklemek), look <b>at</b> me (bana bak), talk <b>to</b> him (onunla konuşmak), listen <b>to</b> music.</p>"
+    }
+  ],
+  "words": [
+    { "en": "now", "tr": "şimdi", "read": "nau" },
+    { "en": "at the moment", "tr": "şu anda", "read": "ıt {d}ı [mou]-mınt" },
+    { "en": "today", "tr": "bugün", "read": "tı-[dey]" },
+    { "en": "tonight", "tr": "bu gece", "read": "tı-[nayt]" },
+    { "en": "run", "tr": "koşmak", "read": "ran", "note": "running" },
+    { "en": "swim", "tr": "yüzmek", "read": "s{w}im", "note": "swimming" },
+    { "en": "sit", "tr": "oturmak", "read": "sit", "opposite": "stand", "note": "sitting" },
+    { "en": "stand", "tr": "ayakta durmak", "read": "st{a}nd", "opposite": "sit" },
+    { "en": "write", "tr": "yazmak", "read": "rayt", "note": "w okunmaz; writing" },
+    { "en": "wait", "tr": "beklemek", "read": "{w}eyt", "note": "wait for the bus" },
+    { "en": "talk", "tr": "konuşmak (biriyle)", "read": "took", "note": "l okunmaz; talk to" },
+    { "en": "look", "tr": "bakmak", "read": "luk", "note": "look at" },
+    { "en": "make", "tr": "yapmak, hazırlamak", "read": "meyk", "note": "making" },
+    { "en": "wash", "tr": "yıkamak", "read": "{w}oş" },
+    { "en": "buy", "tr": "satın almak", "read": "bay", "opposite": "sell", "note": "by ile aynı okunur" },
+    { "en": "sell", "tr": "satmak", "read": "sel", "opposite": "buy" },
+    { "en": "carry", "tr": "taşımak", "read": "[k{a}]-ri" },
+    { "en": "rain", "tr": "yağmur; yağmur yağmak", "read": "reyn" },
+    { "en": "snow", "tr": "kar; kar yağmak", "read": "snou" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Şu an çalışıyorum.", "options": ["I work now.", "I'm working now."], "answer": "I'm working now." },
+    { "type": "choice", "prompt": "She ___ TV now.", "options": ["watches", "is watching", "watching"], "answer": "is watching" },
+    { "type": "choice", "prompt": "They ___ playing.", "options": ["is", "are", "am"], "answer": "are" },
+    { "type": "choice", "prompt": "make → ?", "options": ["makeing", "making"], "answer": "making" },
+    { "type": "choice", "prompt": "run → ?", "options": ["runing", "running"], "answer": "running" },
+    { "type": "choice", "prompt": "sit → ?", "options": ["siting", "sitting"], "answer": "sitting" },
+    { "type": "choice", "prompt": "“Ne yapıyorsun?” (şu an)", "options": ["What do you do?", "What are you doing?"], "answer": "What are you doing?" },
+    { "type": "write", "prompt": "Kitap okuyorum.", "answers": ["I'm reading a book", "I am reading a book"] },
+    { "type": "write", "prompt": "O (erkek) uyuyor.", "answers": ["He is sleeping", "He's sleeping"] },
+    { "type": "write", "prompt": "Yağmur yağıyor.", "answers": ["It's raining", "It is raining"] },
+    { "type": "write", "prompt": "Ne yapıyorsun?", "answers": ["What are you doing"] },
+    { "type": "write", "prompt": "Otobüsü mü bekliyorsun?", "answers": ["Are you waiting for the bus"] },
+    { "type": "write", "prompt": "Onlar şu an çalışmıyor.", "answers": ["They aren't working now", "They are not working now", "They're not working now", "They aren't working at the moment", "They are not working at the moment", "They're not working at the moment"] },
+    { "type": "write", "prompt": "Bana bak!", "answers": ["Look at me"] },
+    { "type": "listen", "say": "What are you doing?", "answers": ["What are you doing"] },
+    { "type": "listen", "say": "She's writing", "answers": ["She's writing", "She is writing"] },
+    { "type": "listen", "say": "We're waiting for the bus", "answers": ["We're waiting for the bus", "We are waiting for the bus"] },
+    { "type": "speak", "say": "I'm working now", "accept": ["I'm working now", "I am working now"] },
+    { "type": "speak", "say": "It's raining", "accept": ["It's raining", "It is raining"] },
+    { "type": "speak", "say": "What are you doing?", "accept": ["What are you doing"] },
+    { "type": "speak", "say": "She isn't sleeping", "accept": ["She isn't sleeping", "She is not sleeping", "She's not sleeping"] },
+    { "type": "speak", "say": "Are you listening?", "accept": ["Are you listening"] }
+  ]
+}

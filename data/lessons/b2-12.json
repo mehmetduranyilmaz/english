@@ -1,0 +1,286 @@
+{
+  "id": "b2-12",
+  "stage": 30,
+  "title": "B2 finali: virgüllü which / who + resmi e-posta",
+  "sections": [
+    {
+      "heading": "Ek bilgi veren who / which (virgüllü)",
+      "body": "<p>21. aşamada hangi kişi / şey olduğunu <b>belirleyen</b> yapıları gördük. Bir de zaten bilinen şeye <b>ek bilgi</b> veren yapı var; <b>virgülle</b> ayrılır:</p><table><tr><th>Belirleyen (virgülsüz)</th><th>Ek bilgi (virgüllü)</th></tr><tr><td>The man <b>who lives next door</b> is a doctor.<br>(Hangi adam? Yan dairedeki.)</td><td>My father, <b>who is 70</b>, still works.<br>(Babam belli; 70 yaşında olması ek bilgi.)</td></tr><tr><td>that kullanılabilir</td><td><b>that kullanılamaz</b>, who / which atılamaz</td></tr></table><p class=\"ex\">London, <b>which</b> is the capital of England, has nine million people.<br>I passed the exam, <b>which</b> was a big surprise. → Sınavı geçtim, ki bu büyük bir sürprizdi. (which = önceki cümlenin tamamı)</p><p><b>Okurken:</b> virgüllerde kısa bir duraklama yapılır, sesiniz hafifçe düşer.</p>"
+    },
+    {
+      "heading": "Resmi e-posta: British kurallar",
+      "body": "<table><tr><th></th><th>Resmi</th><th>Yarı resmi</th><th>Samimi</th></tr><tr><td>Başlangıç</td><td>Dear Sir or Madam, (isim bilinmiyor)</td><td>Dear Mr Smith, / Dear Ms Brown,</td><td>Hi Kate,</td></tr><tr><td>Bitiş</td><td><b>Yours faithfully,</b></td><td><b>Yours sincerely,</b> / Kind regards,</td><td>Best wishes, / Cheers,</td></tr></table><p><b>British kural:</b> İsmi bilmiyorsanız (Dear Sir or Madam) → <b>Yours faithfully</b>. İsmi biliyorsanız (Dear Mr Smith) → <b>Yours sincerely</b>. British yazımda Mr / Ms'ten sonra nokta konmaz.</p><p class=\"ex\">Dear Sir or Madam,<br>I am writing <b>to enquire about</b> the English course <b>advertised</b> on your website. I <b>would be grateful if</b> you could send me further information <b>regarding</b> the dates and prices.<br>I <b>look forward to hearing from you</b>.<br>Yours faithfully,<br>Mehmet Yılmaz</p>"
+    },
+    {
+      "heading": "Resmi ve günlük kelime çiftleri",
+      "body": "<table><tr><th>Günlük</th><th>Resmi</th><th>Okunuş</th></tr><tr><td>get</td><td>receive</td><td>«ri-[siiv]»</td></tr><tr><td>ask for</td><td>request</td><td>«ri-[k{w}est]»</td></tr><tr><td>ask about</td><td>enquire</td><td>«in-[k{w}ay]-ı» (British yazım)</td></tr><tr><td>help</td><td>assist</td><td>«ı-[sist]»</td></tr><tr><td>buy</td><td>purchase</td><td>«[pöö]-çıs»</td></tr><tr><td>need</td><td>require</td><td>«ri-[k{w}ay]-ı»</td></tr><tr><td>tell</td><td>inform</td><td>«in-[foom]»</td></tr><tr><td>about</td><td>regarding</td><td>«ri-[gaa]-ding»</td></tr><tr><td>more</td><td>further</td><td>«[föö]-{d}ı»</td></tr></table><p>Resmi yazıda kısaltma kullanılmaz: I'm → I am, don't → do not.</p>"
+    },
+    {
+      "heading": "Tebrikler: B2 yol haritası tamam!",
+      "body": "<p>A1'den B2'ye 30 aşamanın hepsini gördünüz. B2 seviyesi, ana dili İngilizce olan biriyle rahatça konuşabilmek, iş yazışmaları yapabilmek ve haberleri anlayabilmek demektir.</p><p><b>Bundan sonra:</b> her gün kelime tekrarına devam edin, BBC Learning English ve İngiliz dizileriyle dinleme yapın, öğrendiğiniz kalıpları sesli tekrar edin. Dil bir kere öğrenilip bırakılmaz; kullandıkça kalıcı olur.</p>"
+    }
+  ],
+  "words": [
+    {
+      "en": "capital",
+      "tr": "başkent",
+      "read": "[k{a}]-pi-tıl"
+    },
+    {
+      "en": "surprise",
+      "tr": "sürpriz; şaşırtmak",
+      "read": "sı-[prayz]"
+    },
+    {
+      "en": "Dear Sir or Madam",
+      "tr": "Sayın yetkili",
+      "read": "diı [söö] oo [m{a}]-dım"
+    },
+    {
+      "en": "Yours faithfully",
+      "tr": "Saygılarımla (isim bilinmiyorsa)",
+      "read": "yooz [fey{t}]-fı-li",
+      "note": "British"
+    },
+    {
+      "en": "Yours sincerely",
+      "tr": "Saygılarımla (isim biliniyorsa)",
+      "read": "yooz sin-[siı]-li",
+      "note": "British"
+    },
+    {
+      "en": "kind regards",
+      "tr": "saygılarımla (yarı resmi)",
+      "read": "kaynd ri-[gaadz]"
+    },
+    {
+      "en": "receive",
+      "tr": "almak (resmi)",
+      "read": "ri-[siiv]"
+    },
+    {
+      "en": "request",
+      "tr": "talep etmek (resmi); (yazılım) istek",
+      "read": "ri-[k{w}est]"
+    },
+    {
+      "en": "enquire",
+      "tr": "bilgi istemek (resmi)",
+      "read": "in-[k{w}ay]-ı",
+      "note": "British yazım"
+    },
+    {
+      "en": "assist",
+      "tr": "yardım etmek (resmi)",
+      "read": "ı-[sist]"
+    },
+    {
+      "en": "purchase",
+      "tr": "satın almak (resmi)",
+      "read": "[pöö]-çıs"
+    },
+    {
+      "en": "require",
+      "tr": "gerektirmek (resmi)",
+      "read": "ri-[k{w}ay]-ı"
+    },
+    {
+      "en": "inform",
+      "tr": "bilgilendirmek (resmi)",
+      "read": "in-[foom]"
+    },
+    {
+      "en": "regarding",
+      "tr": "… ile ilgili (resmi)",
+      "read": "ri-[gaa]-ding"
+    },
+    {
+      "en": "attach",
+      "tr": "eklemek (e-postaya)",
+      "read": "ı-[t{a}ç]",
+      "note": "Please find attached…"
+    },
+    {
+      "en": "advertise",
+      "tr": "ilan vermek, reklam yapmak",
+      "read": "[{a}d]-vı-tayz"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "70 yaşındaki babam hâlâ çalışıyor. (ek bilgi)",
+      "options": [
+        "My father, who is 70, still works.",
+        "My father that is 70 still works.",
+        "My father, that is 70, still works."
+      ],
+      "answer": "My father, who is 70, still works.",
+      "explain": "Virgüllü yapıda that kullanılmaz."
+    },
+    {
+      "type": "choice",
+      "prompt": "Sınavı geçtim, ki bu büyük bir sürprizdi.",
+      "options": [
+        "I passed the exam, which was a big surprise.",
+        "I passed the exam, that was a big surprise.",
+        "I passed the exam, what was a big surprise."
+      ],
+      "answer": "I passed the exam, which was a big surprise."
+    },
+    {
+      "type": "choice",
+      "prompt": "“Dear Sir or Madam” ile başlayan e-posta nasıl biter? (British)",
+      "options": [
+        "Yours faithfully,",
+        "Yours sincerely,",
+        "Cheers,"
+      ],
+      "answer": "Yours faithfully,"
+    },
+    {
+      "type": "choice",
+      "prompt": "“Dear Mr Smith” ile başlayan e-posta nasıl biter? (British)",
+      "options": [
+        "Yours sincerely,",
+        "Yours faithfully,",
+        "Love,"
+      ],
+      "answer": "Yours sincerely,"
+    },
+    {
+      "type": "choice",
+      "prompt": "“buy” kelimesinin resmi karşılığı?",
+      "options": [
+        "purchase",
+        "request",
+        "require"
+      ],
+      "answer": "purchase"
+    },
+    {
+      "type": "choice",
+      "prompt": "“ask about” kelimesinin resmi karşılığı?",
+      "options": [
+        "enquire",
+        "inform",
+        "assist"
+      ],
+      "answer": "enquire"
+    },
+    {
+      "type": "write",
+      "prompt": "… hakkında bilgi almak için yazıyorum.",
+      "answers": [
+        "I am writing to enquire about",
+        "I'm writing to enquire about",
+        "I am writing to ask about",
+        "I am writing to inquire about"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Cevabınızı bekliyorum. (resmi kapanış)",
+      "answers": [
+        "I look forward to hearing from you"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Lütfen ekteki özgeçmişimi bulunuz.",
+      "answers": [
+        "Please find attached my CV",
+        "Please find my CV attached",
+        "Please find attached my CV."
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Bana daha fazla bilgi gönderirseniz minnettar olurum.",
+      "answers": [
+        "I would be grateful if you could send me further information",
+        "I would be grateful if you could send me more information",
+        "I'd be grateful if you could send me further information"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Londra, İngiltere'nin başkentidir.",
+      "answers": [
+        "London is the capital of England"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "E-postanızı aldım. (resmi)",
+      "answers": [
+        "I have received your email",
+        "I received your email",
+        "I've received your email"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Yours sincerely",
+      "answers": [
+        "Yours sincerely"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "I look forward to hearing from you",
+      "answers": [
+        "I look forward to hearing from you"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "My sister, who lives in London, is a nurse",
+      "answers": [
+        "My sister, who lives in London, is a nurse",
+        "My sister who lives in London is a nurse"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I am writing to enquire about the course",
+      "accept": [
+        "I am writing to enquire about the course",
+        "I am writing to inquire about the course",
+        "I'm writing to enquire about the course"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Please find attached my CV",
+      "accept": [
+        "Please find attached my CV",
+        "Please find attached my c.v."
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Kind regards",
+      "accept": [
+        "Kind regards"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I would be grateful if you could help",
+      "accept": [
+        "I would be grateful if you could help",
+        "I'd be grateful if you could help"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I've finished the B2 course!",
+      "accept": [
+        "I've finished the B2 course",
+        "I have finished the B2 course",
+        "I've finished the b2 course"
+      ]
+    }
+  ]
+}

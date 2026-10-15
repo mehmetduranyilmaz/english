@@ -1,0 +1,57 @@
+{
+  "id": "b1-11",
+  "stage": 23,
+  "title": "Dolaylı anlatım: Yorgun olduğunu söyledi",
+  "sections": [
+    {
+      "heading": "Zaman bir adım geriye kayar",
+      "body": "<p>Birinin sözünü aktarırken (said / told) fiil genellikle <b>bir zaman geriye</b> gider:</p><table><tr><th>Söylenen</th><th>Aktarılan</th></tr><tr><td>“I <b>am</b> tired.”</td><td>He said (that) he <b>was</b> tired.</td></tr><tr><td>“I <b>work</b> in London.”</td><td>She said she <b>worked</b> in London.</td></tr><tr><td>“I'<b>m going</b> home.”</td><td>He said he <b>was going</b> home.</td></tr><tr><td>“I <b>will</b> call you.”</td><td>She said she <b>would</b> call me.</td></tr><tr><td>“I <b>can</b> help.”</td><td>He said he <b>could</b> help.</td></tr><tr><td>“I <b>saw</b> it.” / “I'<b>ve seen</b> it.”</td><td>She said she <b>had seen</b> it.</td></tr></table><p><b>that</b> konuşmada genellikle atılır. Türkçedeki “-dığını söyledi” yapısı.</p>"
+    },
+    {
+      "heading": "Diğer değişenler",
+      "body": "<table><tr><th>Söylenen</th><th>Aktarılan</th></tr><tr><td>I / my</td><td>he, she / his, her</td></tr><tr><td>today / tonight</td><td>that day / that night</td></tr><tr><td>tomorrow / yesterday</td><td>the next day / the day before</td></tr><tr><td>here / this</td><td>there / that</td></tr></table><p class=\"ex\">“I'll see you <b>tomorrow</b>.” → She said she would see me <b>the next day</b>.</p><p><b>say mı tell mi?</b> (11. aşamadan hatırlatma) He <b>said</b> that… / He <b>told me</b> that… <span class=\"bad\">✘ He said me.</span></p>"
+    },
+    {
+      "heading": "İletişim fiilleri",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>explain</td><td>«ik-[spleyn]»</td><td>açıklamak (explain <b>to</b> me; ✘ explain me)</td></tr><tr><td>mention</td><td>«[men]-şın»</td><td>bahsetmek</td></tr><tr><td>reply</td><td>«ri-[play]»</td><td>cevap vermek</td></tr><tr><td>repeat</td><td>«ri-[piit]»</td><td>tekrarlamak</td></tr><tr><td>complain</td><td>«kım-[pleyn]»</td><td>şikâyet etmek</td></tr><tr><td>agree / disagree</td><td>«ı-[grii]» / «dis-ı-[grii]»</td><td>katılmak / katılmamak (✘ I am agree)</td></tr><tr><td>argue</td><td>«[aa]-gyuu»</td><td>tartışmak</td></tr><tr><td>shout / whisper</td><td>«şaut» / «[{w}is]-pı»</td><td>bağırmak / fısıldamak</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ I am agree.</span> → ✔ I <b>agree</b>. (agree fiildir, am gerekmez)<br><span class=\"bad\">✘ Can you explain me?</span> → ✔ Can you explain it <b>to</b> me?</p>"
+    }
+  ],
+  "words": [
+    { "en": "that day", "tr": "o gün", "read": "{d}{a}t [dey]" },
+    { "en": "the next day", "tr": "ertesi gün", "read": "{d}ı nekst [dey]" },
+    { "en": "the day before", "tr": "bir önceki gün", "read": "{d}ı dey bi-[foo]" },
+    { "en": "explain", "tr": "açıklamak", "read": "ik-[spleyn]", "note": "explain to me" },
+    { "en": "mention", "tr": "bahsetmek", "read": "[men]-şın" },
+    { "en": "reply", "tr": "cevap vermek", "read": "ri-[play]" },
+    { "en": "repeat", "tr": "tekrarlamak", "read": "ri-[piit]", "note": "Could you repeat that, please?" },
+    { "en": "complain", "tr": "şikâyet etmek", "read": "kım-[pleyn]" },
+    { "en": "agree", "tr": "katılmak (fikre)", "read": "ı-[grii]", "opposite": "disagree", "note": "✘ I am agree" },
+    { "en": "disagree", "tr": "katılmamak", "read": "dis-ı-[grii]", "opposite": "agree" },
+    { "en": "argue", "tr": "tartışmak", "read": "[aa]-gyuu" },
+    { "en": "shout", "tr": "bağırmak", "read": "şaut", "opposite": "whisper" },
+    { "en": "whisper", "tr": "fısıldamak", "read": "[{w}is]-pı", "opposite": "shout" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "“I am tired.” → He said he ___ tired.", "options": ["is", "was", "were"], "answer": "was" },
+    { "type": "choice", "prompt": "“I will call you.” → She said she ___ call me.", "options": ["will", "would", "can"], "answer": "would" },
+    { "type": "choice", "prompt": "“I can help.” → He said he ___ help.", "options": ["can", "could"], "answer": "could" },
+    { "type": "choice", "prompt": "“I've seen it.” → She said she ___ it.", "options": ["has seen", "had seen", "saw"], "answer": "had seen" },
+    { "type": "choice", "prompt": "Bana yorgun olduğunu söyledi.", "options": ["He told me he was tired.", "He said me he was tired.", "He told he was tired."], "answer": "He told me he was tired." },
+    { "type": "choice", "prompt": "Katılıyorum.", "options": ["I agree.", "I am agree.", "I'm agreeing."], "answer": "I agree." },
+    { "type": "choice", "prompt": "Bana açıklayabilir misin?", "options": ["Can you explain it to me?", "Can you explain me?"], "answer": "Can you explain it to me?" },
+    { "type": "write", "prompt": "Londra'da çalıştığını söyledi. (o, kadın)", "answers": ["She said she worked in London", "She said that she worked in London"] },
+    { "type": "write", "prompt": "Bana geleceğini söyledi. (o, erkek)", "answers": ["He told me he would come", "He told me that he would come", "He said he would come"] },
+    { "type": "write", "prompt": "Ona katılmıyorum.", "answers": ["I disagree with him", "I don't agree with him", "I disagree with her", "I don't agree with her"] },
+    { "type": "write", "prompt": "Tekrar edebilir misiniz, lütfen?", "answers": ["Could you repeat that, please", "Can you repeat that, please", "Could you repeat it, please", "Can you repeat, please"] },
+    { "type": "write", "prompt": "Gürültüden şikâyet ettiler.", "answers": ["They complained about the noise"] },
+    { "type": "write", "prompt": "Bağırma!", "answers": ["Don't shout", "Do not shout"] },
+    { "type": "listen", "say": "She said she was busy", "answers": ["She said she was busy", "She said that she was busy"] },
+    { "type": "listen", "say": "He told me he would be late", "answers": ["He told me he would be late", "He told me that he would be late"] },
+    { "type": "listen", "say": "Could you explain that again?", "answers": ["Could you explain that again"] },
+    { "type": "speak", "say": "She said she was tired", "accept": ["She said she was tired", "She said that she was tired"] },
+    { "type": "speak", "say": "I agree with you", "accept": ["I agree with you"] },
+    { "type": "speak", "say": "Could you repeat that, please?", "accept": ["Could you repeat that please", "Could you repeat that"] },
+    { "type": "speak", "say": "He told me the truth", "accept": ["He told me the truth"] },
+    { "type": "speak", "say": "Don't argue", "accept": ["Don't argue", "Do not argue"] }
+  ]
+}

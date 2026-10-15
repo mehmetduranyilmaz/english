@@ -1,0 +1,61 @@
+{
+  "id": "b2-06",
+  "stage": 27,
+  "title": "Medya dili: It is said that… + haber ve basın",
+  "sections": [
+    {
+      "heading": "Kimin söylediği belli değilse",
+      "body": "<p>Haberlerde, söylentilerde ve resmi metinlerde sözün kime ait olduğu belirtilmez. Türkçedeki “…olduğu söyleniyor / düşünülüyor”:</p><table><tr><th>Kalıp</th><th>Örnek</th><th>Türkçe</th></tr><tr><td><b>It is said / believed / thought that</b> + cümle</td><td>It <b>is said that</b> the house is haunted.</td><td>Evin perili olduğu söyleniyor.</td></tr><tr><td>Kişi + <b>is said / believed / thought to</b> + fiil</td><td>He <b>is believed to</b> be in Spain.</td><td>İspanya'da olduğuna inanılıyor.</td></tr><tr><td>Geçmiş için: <b>to have</b> + 3. hal</td><td>She <b>is thought to have left</b> the country.</td><td>Ülkeyi terk ettiği düşünülüyor.</td></tr></table><p>Diğer fiiller: reported (bildiriliyor), expected (bekleniyor), known (biliniyor), claimed (iddia ediliyor).</p>"
+    },
+    {
+      "heading": "Kaynak belirtme",
+      "body": "<p class=\"ex\"><b>According to</b> the BBC, … → BBC'ye göre, …<br><b>According to</b> the report, prices will rise. → Rapora göre fiyatlar artacak.</p><p><span class=\"bad\">✘ According to me</span>: kendi fikriniz için <b>In my opinion</b> deyin.</p>"
+    },
+    {
+      "heading": "Haber ve basın",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>newspaper</td><td>«[nyuuz]-pey-pı»</td><td>gazete</td></tr><tr><td>journalist</td><td>«[cöö]-nı-list»</td><td>gazeteci</td></tr><tr><td>headline</td><td>«[hed]-layn»</td><td>manşet</td></tr><tr><td>article</td><td>«[aa]-ti-kıl»</td><td>makale, haber yazısı</td></tr><tr><td>report</td><td>«ri-[poot]»</td><td>rapor; haber vermek</td></tr><tr><td>source</td><td>«soos»</td><td>kaynak</td></tr><tr><td>claim</td><td>«kleym»</td><td>iddia etmek; iddia</td></tr><tr><td>rumour</td><td>«[ruu]-mı»</td><td>söylenti (British yazım; Amerikan: rumor)</td></tr><tr><td>reveal</td><td>«ri-[viil]»</td><td>açığa çıkarmak</td></tr><tr><td>broadcast</td><td>«[brood]-kaast»</td><td>yayın; yayınlamak</td></tr><tr><td>the press</td><td>«{d}ı [pres]»</td><td>basın</td></tr><tr><td>rise / fall</td><td>«rayz» / «fool»</td><td>artmak / düşmek (fiyat)</td></tr></table><p><b>British:</b> the BBC «{d}ı bii bii [sii]», tabloid «[t{a}b]-loyd» (magazin gazetesi), broadsheet «[brood]-şiit» (ciddi gazete).</p>"
+    }
+  ],
+  "words": [
+    { "en": "it is said", "tr": "söyleniyor ki", "read": "it iz [sed]" },
+    { "en": "believe", "tr": "inanmak", "read": "bi-[liiv]" },
+    { "en": "expect", "tr": "beklemek (olmasını)", "read": "ik-[spekt]" },
+    { "en": "according to", "tr": "…e göre", "read": "ı-[koo]-ding tı" },
+    { "en": "in my opinion", "tr": "bence", "read": "in may ı-[pi]-nyın" },
+    { "en": "newspaper", "tr": "gazete", "read": "[nyuuz]-pey-pı" },
+    { "en": "journalist", "tr": "gazeteci", "read": "[cöö]-nı-list" },
+    { "en": "headline", "tr": "manşet", "read": "[hed]-layn" },
+    { "en": "article", "tr": "makale", "read": "[aa]-ti-kıl" },
+    { "en": "report", "tr": "rapor; haber vermek", "read": "ri-[poot]" },
+    { "en": "source", "tr": "kaynak", "read": "soos" },
+    { "en": "claim", "tr": "iddia etmek", "read": "kleym" },
+    { "en": "rumour", "tr": "söylenti", "read": "[ruu]-mı", "note": "British yazım" },
+    { "en": "reveal", "tr": "açığa çıkarmak", "read": "ri-[viil]" },
+    { "en": "broadcast", "tr": "yayın; yayınlamak", "read": "[brood]-kaast" },
+    { "en": "the press", "tr": "basın", "read": "{d}ı [pres]" },
+    { "en": "rise", "tr": "artmak, yükselmek", "read": "rayz", "note": "rose, risen" },
+    { "en": "tabloid", "tr": "magazin gazetesi", "read": "[t{a}b]-loyd" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Evin perili olduğu söyleniyor.", "options": ["It is said that the house is haunted.", "It says that the house is haunted.", "They are said the house haunted."], "answer": "It is said that the house is haunted." },
+    { "type": "choice", "prompt": "İspanya'da olduğuna inanılıyor.", "options": ["He is believed to be in Spain.", "He is believed being in Spain.", "He believes to be in Spain."], "answer": "He is believed to be in Spain." },
+    { "type": "choice", "prompt": "Ülkeyi terk ettiği düşünülüyor.", "options": ["She is thought to have left the country.", "She is thought to leave the country yesterday."], "answer": "She is thought to have left the country." },
+    { "type": "choice", "prompt": "Bence bu yanlış.", "options": ["In my opinion, this is wrong.", "According to me, this is wrong."], "answer": "In my opinion, this is wrong." },
+    { "type": "choice", "prompt": "Söylenti (British yazım)", "options": ["rumour", "rumor"], "answer": "rumour" },
+    { "type": "choice", "prompt": "Rapora göre fiyatlar artacak.", "options": ["According to the report, prices will rise.", "According the report, prices will raise."], "answer": "According to the report, prices will rise." },
+    { "type": "write", "prompt": "BBC'ye göre bir deprem oldu.", "answers": ["According to the BBC, there was an earthquake", "According to the BBC there was an earthquake", "According to the BBC, there has been an earthquake"] },
+    { "type": "write", "prompt": "Fiyatların artması bekleniyor.", "answers": ["Prices are expected to rise", "It is expected that prices will rise"] },
+    { "type": "write", "prompt": "Bir gazeteci olarak çalışıyor. (o, kadın)", "answers": ["She works as a journalist"] },
+    { "type": "write", "prompt": "Manşeti okudun mu?", "answers": ["Did you read the headline", "Have you read the headline"] },
+    { "type": "write", "prompt": "Bu sadece bir söylenti.", "answers": ["It's just a rumour", "It is just a rumour", "It's only a rumour", "It's just a rumor"] },
+    { "type": "write", "prompt": "Bence haklısın.", "answers": ["In my opinion, you're right", "In my opinion you are right", "I think you're right", "I think you are right"] },
+    { "type": "listen", "say": "It is believed that he is innocent", "answers": ["It is believed that he is innocent"] },
+    { "type": "listen", "say": "According to the article", "answers": ["According to the article"] },
+    { "type": "listen", "say": "The news was broadcast live", "answers": ["The news was broadcast live"] },
+    { "type": "speak", "say": "According to the news", "accept": ["According to the news"] },
+    { "type": "speak", "say": "In my opinion, it's true", "accept": ["In my opinion it's true", "In my opinion it is true"] },
+    { "type": "speak", "say": "It is said to be the best", "accept": ["It is said to be the best", "It's said to be the best"] },
+    { "type": "speak", "say": "Don't believe everything you read", "accept": ["Don't believe everything you read", "Do not believe everything you read"] },
+    { "type": "speak", "say": "What's the source?", "accept": ["What's the source", "What is the source"] }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a1-23",
+  "stage": 9,
+  "title": "Emir cümleleri + yol tarifi: Sola dönün!",
+  "sections": [
+    {
+      "heading": "Emir: fiil tek başına",
+      "body": "<p>Emir cümlesinde özne yoktur, fiil yalın haliyle başa gelir (1. aşamadaki tek istisna):</p><p class=\"ex\">Sit down! → Otur!<br>Open the window, please. → Pencereyi açın, lütfen.<br>Turn left. → Sola dönün.</p><table><tr><th></th><th>Kalıp</th><th>Örnek</th></tr><tr><td>Olumsuz</td><td><b>Don't</b> + fiil</td><td>Don't touch! (Dokunma!) Don't worry. (Merak etme.)</td></tr><tr><td>Öneri</td><td><b>Let's</b> + fiil</td><td>Let's go! (Hadi gidelim!) Let's eat. (Hadi yiyelim.)</td></tr></table><p>Kibar olmak için <b>please</b> ekleyin: Please speak slowly. (Lütfen yavaş konuşun.)</p>"
+    },
+    {
+      "heading": "Yol tarifi",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>turn left / turn right</td><td>«töön [left]» / «töön [rayt]»</td><td>sola / sağa dönün</td></tr><tr><td>go straight on</td><td>«gou [streyt] on»</td><td>düz gidin (British)</td></tr><tr><td>it's on the left / right</td><td>«its on {d}ı [left]»</td><td>solda / sağda</td></tr><tr><td>opposite</td><td>«[o]-pı-zit»</td><td>karşısında</td></tr><tr><td>near / far</td><td>«nii» / «faa»</td><td>yakın / uzak</td></tr><tr><td>on the corner</td><td>«on {d}ı [koo]-nı»</td><td>köşede</td></tr><tr><td>at the traffic lights</td><td>«ıt {d}ı [tr{a}]-fik layts»</td><td>trafik ışıklarında</td></tr></table><p class=\"ex\">Excuse me, where's the station? → Afedersiniz, istasyon nerede?<br>Go straight on and turn left at the traffic lights. It's opposite the bank.<br>→ Düz gidin, trafik ışıklarında sola dönün. Bankanın karşısında.</p><p><b>opposite</b>'ten sonra of gelmez: <span class=\"bad\">✘ opposite of the bank</span>.</p>"
+    },
+    {
+      "heading": "Şehirde: British kelimeler",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>street / road</td><td>«striit» / «roud»</td><td>sokak, cadde / yol</td></tr><tr><td>station</td><td>«[stey]-şın»</td><td>istasyon</td></tr><tr><td>bank</td><td>«b{a}nk»</td><td>banka</td></tr><tr><td>shop / supermarket</td><td>«şop» / «[suu]-pı-maa-kıt»</td><td>dükkân / süpermarket</td></tr><tr><td>hospital</td><td>«[hos]-pi-tıl»</td><td>hastane</td></tr><tr><td>chemist's</td><td>«[ke]-mists»</td><td>eczane (British; Amerikan: drugstore)</td></tr><tr><td>post office</td><td>«[poust] o-fis»</td><td>postane</td></tr><tr><td>car park</td><td>«[kaa] paak»</td><td>otopark (British; Amerikan: parking lot)</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "turn", "tr": "dönmek", "read": "töön" },
+    { "en": "left", "tr": "sol, sola", "read": "left", "opposite": "right" },
+    { "en": "straight on", "tr": "dümdüz ileri", "read": "[streyt] on", "note": "British" },
+    { "en": "opposite", "tr": "karşısında", "read": "[o]-pı-zit" },
+    { "en": "near", "tr": "yakın", "read": "nii", "opposite": "far" },
+    { "en": "far", "tr": "uzak", "read": "faa", "opposite": "near" },
+    { "en": "corner", "tr": "köşe", "read": "[koo]-nı" },
+    { "en": "traffic lights", "tr": "trafik ışıkları", "read": "[tr{a}]-fik layts" },
+    { "en": "street", "tr": "sokak, cadde", "read": "striit" },
+    { "en": "road", "tr": "yol", "read": "roud" },
+    { "en": "station", "tr": "istasyon", "read": "[stey]-şın" },
+    { "en": "bank", "tr": "banka", "read": "b{a}nk" },
+    { "en": "shop", "tr": "dükkân, mağaza", "read": "şop" },
+    { "en": "supermarket", "tr": "süpermarket", "read": "[suu]-pı-maa-kıt" },
+    { "en": "hospital", "tr": "hastane", "read": "[hos]-pi-tıl" },
+    { "en": "chemist's", "tr": "eczane", "read": "[ke]-mists", "note": "British; Amerikan: drugstore" },
+    { "en": "post office", "tr": "postane", "read": "[poust] o-fis" },
+    { "en": "car park", "tr": "otopark", "read": "[kaa] paak", "note": "British; Amerikan: parking lot" },
+    { "en": "touch", "tr": "dokunmak", "read": "taç" },
+    { "en": "worry", "tr": "endişelenmek", "read": "[{w}a]-ri", "note": "Don't worry: merak etme" },
+    { "en": "slowly", "tr": "yavaşça", "read": "[slou]-li" },
+    { "en": "let's", "tr": "hadi …-elim", "read": "lets" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Otur!", "options": ["Sit down!", "You sit down!", "Sitting down!"], "answer": "Sit down!" },
+    { "type": "choice", "prompt": "Dokunma!", "options": ["Don't touch!", "No touch!", "Not touch!"], "answer": "Don't touch!" },
+    { "type": "choice", "prompt": "Hadi gidelim!", "options": ["Let's go!", "Let us going!", "Go we!"], "answer": "Let's go!" },
+    { "type": "choice", "prompt": "Sola dönün.", "options": ["Turn left.", "Turn to left side.", "You turn the left."], "answer": "Turn left." },
+    { "type": "choice", "prompt": "Banka postanenin karşısında.", "options": ["The bank is opposite the post office.", "The bank is opposite of the post office."], "answer": "The bank is opposite the post office.", "explain": "opposite'ten sonra of yok." },
+    { "type": "choice", "prompt": "Eczane (British)", "options": ["chemist's", "drugstore"], "answer": "chemist's" },
+    { "type": "choice", "prompt": "Otopark (British)", "options": ["car park", "parking lot"], "answer": "car park" },
+    { "type": "write", "prompt": "Kapıyı kapatma!", "answers": ["Don't close the door", "Do not close the door"] },
+    { "type": "write", "prompt": "Sağa dönün.", "answers": ["Turn right"] },
+    { "type": "write", "prompt": "Afedersiniz, istasyon nerede?", "answers": ["Excuse me, where is the station", "Excuse me, where's the station"] },
+    { "type": "write", "prompt": "Hastane yakın mı?", "answers": ["Is the hospital near", "Is the hospital near here", "Is the hospital far"] },
+    { "type": "write", "prompt": "Süpermarket köşede.", "answers": ["The supermarket is on the corner", "The supermarket's on the corner"] },
+    { "type": "write", "prompt": "Lütfen yavaş konuşun.", "answers": ["Please speak slowly", "Speak slowly please", "Speak slowly, please"] },
+    { "type": "write", "prompt": "Merak etme.", "answers": ["Don't worry", "Do not worry"] },
+    { "type": "listen", "say": "Turn left at the traffic lights", "answers": ["Turn left at the traffic lights"] },
+    { "type": "listen", "say": "It's on the right", "answers": ["It's on the right", "It is on the right"] },
+    { "type": "listen", "say": "Go straight on", "answers": ["Go straight on"] },
+    { "type": "speak", "say": "Turn right", "accept": ["Turn right"] },
+    { "type": "speak", "say": "Where's the station?", "accept": ["Where's the station", "Where is the station"] },
+    { "type": "speak", "say": "Please speak slowly", "accept": ["Please speak slowly", "Speak slowly please"] },
+    { "type": "speak", "say": "Let's go", "accept": ["Let's go", "Let us go"] },
+    { "type": "speak", "say": "Don't worry", "accept": ["Don't worry", "Do not worry"] }
+  ]
+}

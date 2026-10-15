@@ -1,0 +1,59 @@
+{
+  "id": "b2-05",
+  "stage": 27,
+  "title": "Aktarma fiilleri: suggest, advise, refuse, apologise",
+  "sections": [
+    {
+      "heading": "said / told yerine daha zengin fiiller",
+      "body": "<p>B2'de konuşmayı aktarırken sadece said / told değil, <b>ne tür bir söz</b> olduğunu gösteren fiiller kullanılır. Her fiilin kendi kalıbı vardır:</p><table><tr><th>Kalıp</th><th>Fiiller</th><th>Örnek</th></tr><tr><td>fiil + <b>to</b> + fiil</td><td>agree, promise, refuse, offer, threaten</td><td>She <b>refused to help</b>. → Yardım etmeyi reddetti.<br>He <b>offered to carry</b> my bag. → Çantamı taşımayı teklif etti.</td></tr><tr><td>fiil + <b>kişi + to</b> + fiil</td><td>advise, warn, remind, persuade, ask, tell</td><td>The doctor <b>advised me to rest</b>. → Doktor dinlenmemi tavsiye etti.<br>She <b>reminded me to call</b> Mum. → Annemi aramamı hatırlattı.</td></tr><tr><td>fiil + <b>-ing</b></td><td>suggest, admit, deny</td><td>He <b>suggested going</b> to the cinema. → Sinemaya gitmeyi önerdi.<br>She <b>denied taking</b> the money. → Parayı aldığını inkâr etti.</td></tr><tr><td>fiil + <b>edat + -ing</b></td><td>apologise for, accuse … of, insist on</td><td>He <b>apologised for being</b> late. → Geç kaldığı için özür diledi.<br>They <b>accused him of lying</b>. → Onu yalan söylemekle suçladılar.</td></tr></table>"
+    },
+    {
+      "heading": "suggest dikkat",
+      "body": "<p class=\"ex\">✔ She <b>suggested going</b> out.<br>✔ She <b>suggested that we go</b> out.<br><span class=\"bad\">✘ She suggested me to go out.</span></p><p><b>warn not to:</b> He <b>warned us not to</b> swim there. (Orada yüzmememiz konusunda uyardı.)</p>"
+    },
+    {
+      "heading": "British yazım: -ise",
+      "body": "<p>İngilizler birçok fiili <b>-ise</b> ile yazar, Amerikalılar -ize: apolog<b>ise</b> / apologize, real<b>ise</b> / realize, organ<b>ise</b> / organize, recogn<b>ise</b> / recognize.</p>"
+    }
+  ],
+  "words": [
+    { "en": "suggest", "tr": "önermek", "read": "sı-[cest]", "note": "suggest + -ing" },
+    { "en": "advise", "tr": "tavsiye etmek", "read": "ıd-[vayz]", "note": "advise sb to…" },
+    { "en": "warn", "tr": "uyarmak", "read": "{w}oon" },
+    { "en": "remind", "tr": "hatırlatmak", "read": "ri-[maynd]" },
+    { "en": "persuade", "tr": "ikna etmek", "read": "pı-[s{w}eyd]" },
+    { "en": "refuse", "tr": "reddetmek", "read": "ri-[fyuuz]" },
+    { "en": "offer", "tr": "teklif etmek", "read": "[o]-fı" },
+    { "en": "threaten", "tr": "tehdit etmek", "read": "[{t}re]-tın" },
+    { "en": "admit", "tr": "kabul etmek, itiraf etmek", "read": "ıd-[mit]", "opposite": "deny" },
+    { "en": "deny", "tr": "inkâr etmek", "read": "di-[nay]", "opposite": "admit" },
+    { "en": "apologise", "tr": "özür dilemek", "read": "ı-[po]-lı-cayz", "note": "British yazım: -ise" },
+    { "en": "accuse", "tr": "suçlamak", "read": "ı-[kyuuz]", "note": "accuse sb of -ing" },
+    { "en": "insist", "tr": "ısrar etmek", "read": "in-[sist]", "note": "insist on -ing" },
+    { "en": "lie", "tr": "yalan söylemek; yalan", "read": "lay", "note": "lying" },
+    { "en": "organise", "tr": "düzenlemek, organize etmek", "read": "[oo]-gı-nayz", "note": "British yazım" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Yardım etmeyi reddetti.", "options": ["She refused to help.", "She refused helping.", "She refused me to help."], "answer": "She refused to help." },
+    { "type": "choice", "prompt": "Doktor dinlenmemi tavsiye etti.", "options": ["The doctor advised me to rest.", "The doctor advised me resting.", "The doctor advised to me rest."], "answer": "The doctor advised me to rest." },
+    { "type": "choice", "prompt": "Sinemaya gitmeyi önerdi.", "options": ["He suggested going to the cinema.", "He suggested me to go to the cinema.", "He suggested to going to the cinema."], "answer": "He suggested going to the cinema." },
+    { "type": "choice", "prompt": "Geç kaldığı için özür diledi.", "options": ["He apologised for being late.", "He apologised to be late.", "He apologised being late."], "answer": "He apologised for being late." },
+    { "type": "choice", "prompt": "Parayı aldığını inkâr etti.", "options": ["She denied taking the money.", "She denied to take the money."], "answer": "She denied taking the money." },
+    { "type": "choice", "prompt": "Onu yalan söylemekle suçladılar.", "options": ["They accused him of lying.", "They accused him to lie.", "They accused him for lying."], "answer": "They accused him of lying." },
+    { "type": "choice", "prompt": "Özür dilemek (British yazım)", "options": ["apologise", "apologize"], "answer": "apologise" },
+    { "type": "write", "prompt": "Çantamı taşımayı teklif etti. (o, erkek)", "answers": ["He offered to carry my bag"] },
+    { "type": "write", "prompt": "Bana annemi aramamı hatırlattı. (o, kadın)", "answers": ["She reminded me to call my mum", "She reminded me to call my mother", "She reminded me to call Mum"] },
+    { "type": "write", "prompt": "Bizi orada yüzmememiz konusunda uyardı.", "answers": ["He warned us not to swim there", "She warned us not to swim there"] },
+    { "type": "write", "prompt": "Hata yaptığını kabul etti.", "answers": ["He admitted making a mistake", "She admitted making a mistake", "He admitted that he had made a mistake", "She admitted that she had made a mistake"] },
+    { "type": "write", "prompt": "Gelmeye söz verdi.", "answers": ["He promised to come", "She promised to come"] },
+    { "type": "write", "prompt": "Ödemede ısrar etti.", "answers": ["He insisted on paying", "She insisted on paying"] },
+    { "type": "listen", "say": "She refused to answer", "answers": ["She refused to answer"] },
+    { "type": "listen", "say": "He apologised for the delay", "answers": ["He apologised for the delay", "He apologized for the delay"] },
+    { "type": "listen", "say": "They persuaded me to stay", "answers": ["They persuaded me to stay"] },
+    { "type": "speak", "say": "I apologise for being late", "accept": ["I apologise for being late", "I apologize for being late"] },
+    { "type": "speak", "say": "He suggested going out", "accept": ["He suggested going out"] },
+    { "type": "speak", "say": "Remind me to call her", "accept": ["Remind me to call her"] },
+    { "type": "speak", "say": "I insist", "accept": ["I insist"] },
+    { "type": "speak", "say": "She admitted it", "accept": ["She admitted it"] }
+  ]
+}

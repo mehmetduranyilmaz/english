@@ -1,0 +1,63 @@
+{
+  "id": "a2-14",
+  "stage": 16,
+  "title": "just / already / yet + ev işleri",
+  "sections": [
+    {
+      "heading": "Yeni olmuş şeyler",
+      "body": "<table><tr><th>Kelime</th><th>Anlam</th><th>Yeri</th><th>Örnek</th></tr><tr><td><b>just</b> «cast»</td><td>az önce, yeni</td><td>have ile fiil arasında</td><td>I'<b>ve just</b> finished. → Az önce bitirdim.</td></tr><tr><td><b>already</b> «ool-[re]-di»</td><td>çoktan, zaten</td><td>have ile fiil arasında</td><td>She'<b>s already</b> eaten. → Çoktan yedi.</td></tr><tr><td><b>yet</b> «yet»</td><td>henüz (olumsuz), -di mi (soru)</td><td>cümle sonunda</td><td>I haven't finished <b>yet</b>. → Henüz bitirmedim.<br>Have you finished <b>yet</b>? → Bitirdin mi?</td></tr></table><p><b>British İngilizce:</b> İngilizler just / already / yet ile neredeyse her zaman Present Perfect kullanır. Amerikalılar çoğu zaman geçmiş zaman der (“Did you eat yet?”). Siz British kalıbı kullanın: <b>Have you eaten yet?</b></p>"
+    },
+    {
+      "heading": "Haber verirken",
+      "body": "<p>Şu anki sonucu önemli olan yakın geçmiş olaylar:</p><p class=\"ex\">Oh no! I'<b>ve lost</b> my keys! → Eyvah! Anahtarlarımı kaybettim! (şu an yoklar)<br><b>Have</b> you <b>seen</b> my phone? → Telefonumu gördün mü?<br>Someone <b>has broken</b> the window. → Biri camı kırmış.</p>"
+    },
+    {
+      "heading": "been mi gone mu?",
+      "body": "<p class=\"ex\">She's <b>gone</b> to the shops. → Markete gitti. (şu an orada, dönmedi)<br>She's <b>been</b> to the shops. → Markete gidip geldi. (şu an döndü)</p><p><b>British:</b> “the shops” = market, alışveriş yerleri. I'm going to the shops. (Markete gidiyorum.)</p>"
+    },
+    {
+      "heading": "Ev işleri: British kelimeler",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>housework</td><td>«[haus]-{w}öök»</td><td>ev işi (sayılamaz)</td></tr><tr><td>do the washing-up</td><td>«duu {d}ı [{w}o]-şing [ap]»</td><td>bulaşık yıkamak (British)</td></tr><tr><td>do the washing</td><td>«duu {d}ı [{w}o]-şing»</td><td>çamaşır yıkamak (British)</td></tr><tr><td>hoover</td><td>«[huu]-vı»</td><td>elektrik süpürgesi; süpürmek (British)</td></tr><tr><td>tidy</td><td>«[tay]-di»</td><td>düzenli; toplamak (tidy your room)</td></tr><tr><td>iron</td><td>«[ay]-ın»</td><td>ütü; ütülemek (r okunmaz)</td></tr><tr><td>make the bed</td><td>«meyk {d}ı [bed]»</td><td>yatağı toplamak</td></tr><tr><td>rubbish / bin</td><td>«[ra]-biş» / «bin»</td><td>çöp / çöp kutusu (British; Amerikan: trash)</td></tr><tr><td>take out the rubbish</td><td>«teyk [aut] {d}ı [ra]-biş»</td><td>çöpü çıkarmak</td></tr></table><p>Ev işlerinde <b>do</b> kullanılır (do the housework, do the washing-up); bazılarında <b>make</b> (make the bed, make dinner).</p>"
+    }
+  ],
+  "words": [
+    { "en": "just", "tr": "az önce; sadece", "read": "cast" },
+    { "en": "already", "tr": "çoktan, zaten", "read": "ool-[re]-di" },
+    { "en": "yet", "tr": "henüz; -di mi", "read": "yet", "note": "cümle sonunda" },
+    { "en": "someone", "tr": "biri", "read": "[sam]-{w}an" },
+    { "en": "the shops", "tr": "market, dükkânlar", "read": "{d}ı [şops]", "note": "British" },
+    { "en": "housework", "tr": "ev işi", "read": "[haus]-{w}öök" },
+    { "en": "washing-up", "tr": "bulaşık", "read": "[{w}o]-şing [ap]", "note": "British: do the washing-up" },
+    { "en": "washing", "tr": "çamaşır", "read": "[{w}o]-şing", "note": "British: do the washing" },
+    { "en": "hoover", "tr": "elektrik süpürgesi; süpürmek", "read": "[huu]-vı", "note": "British" },
+    { "en": "tidy", "tr": "düzenli; toplamak", "read": "[tay]-di" },
+    { "en": "iron", "tr": "ütü; ütülemek", "read": "[ay]-ın", "note": "r okunmaz" },
+    { "en": "make the bed", "tr": "yatağı toplamak", "read": "meyk {d}ı [bed]" },
+    { "en": "rubbish", "tr": "çöp", "read": "[ra]-biş", "note": "British; Amerikan: trash" },
+    { "en": "bin", "tr": "çöp kutusu", "read": "bin", "note": "British" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Az önce bitirdim.", "options": ["I've just finished.", "I've finished just.", "I just have finished."], "answer": "I've just finished." },
+    { "type": "choice", "prompt": "Henüz bitirmedim.", "options": ["I haven't finished yet.", "I haven't yet finished already.", "I didn't finish already."], "answer": "I haven't finished yet." },
+    { "type": "choice", "prompt": "Yedin mi? (British)", "options": ["Have you eaten yet?", "Did you eat yet?"], "answer": "Have you eaten yet?" },
+    { "type": "choice", "prompt": "Markete gitti (henüz dönmedi).", "options": ["She's gone to the shops.", "She's been to the shops."], "answer": "She's gone to the shops." },
+    { "type": "choice", "prompt": "Bulaşık yıkamak (British)", "options": ["do the washing-up", "make the dishes", "wash the up"], "answer": "do the washing-up" },
+    { "type": "choice", "prompt": "Çöp (British)", "options": ["rubbish", "trash"], "answer": "rubbish" },
+    { "type": "choice", "prompt": "___ the bed", "options": ["make", "do"], "answer": "make" },
+    { "type": "write", "prompt": "Anahtarlarımı kaybettim! (şu an yoklar)", "answers": ["I've lost my keys", "I have lost my keys"] },
+    { "type": "write", "prompt": "Telefonumu gördün mü?", "answers": ["Have you seen my phone"] },
+    { "type": "write", "prompt": "O (kadın) çoktan gitti.", "answers": ["She's already left", "She has already left", "She's already gone", "She has already gone"] },
+    { "type": "write", "prompt": "Henüz yemedim.", "answers": ["I haven't eaten yet", "I have not eaten yet"] },
+    { "type": "write", "prompt": "Odanı topla!", "answers": ["Tidy your room"] },
+    { "type": "write", "prompt": "Çöpü çıkardın mı?", "answers": ["Have you taken out the rubbish", "Have you taken the rubbish out", "Did you take out the rubbish"] },
+    { "type": "write", "prompt": "Az önce bulaşıkları yıkadım.", "answers": ["I've just done the washing-up", "I have just done the washing-up", "I've just done the washing up"] },
+    { "type": "listen", "say": "Have you finished yet?", "answers": ["Have you finished yet"] },
+    { "type": "listen", "say": "I've already done it", "answers": ["I've already done it", "I have already done it"] },
+    { "type": "listen", "say": "She's gone to the shops", "answers": ["She's gone to the shops", "She has gone to the shops"] },
+    { "type": "speak", "say": "I've just arrived", "accept": ["I've just arrived", "I have just arrived"] },
+    { "type": "speak", "say": "Have you eaten yet?", "accept": ["Have you eaten yet"] },
+    { "type": "speak", "say": "Not yet", "accept": ["Not yet"] },
+    { "type": "speak", "say": "I've lost my phone", "accept": ["I've lost my phone", "I have lost my phone"] },
+    { "type": "speak", "say": "I'm going to the shops", "accept": ["I'm going to the shops", "I am going to the shops"] }
+  ]
+}

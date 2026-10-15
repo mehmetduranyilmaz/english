@@ -1,0 +1,312 @@
+{
+  "id": "a2-10",
+  "stage": 14,
+  "title": "Tarihler: aylar, mevsimler, in / on / at",
+  "sections": [
+    {
+      "heading": "Aylar ve mevsimler",
+      "body": "<table><tr><th>Ay</th><th>Okunuş</th><th>Ay</th><th>Okunuş</th></tr><tr><td>January</td><td>«[c{a}]-nyu-ı-ri»</td><td>July</td><td>«cu-[lay]»</td></tr><tr><td>February</td><td>«[feb]-ru-ı-ri»</td><td>August</td><td>«[oo]-gıst»</td></tr><tr><td>March</td><td>«maaç»</td><td>September</td><td>«sep-[tem]-bı»</td></tr><tr><td>April</td><td>«[ey]-prıl»</td><td>October</td><td>«ok-[tou]-bı»</td></tr><tr><td>May</td><td>«mey»</td><td>November</td><td>«nou-[vem]-bı»</td></tr><tr><td>June</td><td>«cuun»</td><td>December</td><td>«di-[sem]-bı»</td></tr></table><p>Mevsimler: <b>spring</b> «spring» (ilkbahar), <b>summer</b> (yaz), <b>autumn</b> «[oo]-tım» (sonbahar; British, Amerikan: fall), <b>winter</b> «[{w}in]-tı» (kış).</p><p>Ay isimleri <b>büyük harfle</b> yazılır, mevsimler küçük.</p>"
+    },
+    {
+      "heading": "Sıra sayıları",
+      "body": "<table><tr><th>Sayı</th><th>Sıra</th><th>Okunuş</th></tr><tr><td>1</td><td><b>first</b> (1st)</td><td>«föst»</td></tr><tr><td>2</td><td><b>second</b> (2nd)</td><td>«[se]-kınd»</td></tr><tr><td>3</td><td><b>third</b> (3rd)</td><td>«{t}ööd»</td></tr><tr><td>4, 5</td><td>fourth, fifth (4th, 5th)</td><td>«foo{t}», «fif{t}»</td></tr><tr><td>12</td><td>twelfth</td><td>«t{w}elf{t}»</td></tr><tr><td>20, 21</td><td>twentieth, twenty-first</td><td>«[t{w}en]-ti-ı{t}», «[t{w}en]-ti [föst]»</td></tr></table><p>Çoğu sayıya <b>-th</b> eklenir: sixth, tenth, fifteenth.</p>"
+    },
+    {
+      "heading": "British tarih söyleme",
+      "body": "<p class=\"ex\">Yazılış: <b>5 May 2025</b> veya 5/5/2025 (gün / ay / yıl, Türkçedeki gibi)<br>Okunuş: “<b>the fifth of May</b>, twenty twenty-five”<br><br>When's your birthday? → Doğum günün ne zaman?<br>It's <b>on the twelfth of March</b>. → 12 Mart'ta.</p><p><b>Dikkat:</b> Amerikalılar ayı önce yazar: 5/12 Amerika'da 12 Mayıs, Britanya'da 5 Aralık'tır!</p>"
+    },
+    {
+      "heading": "in / on / at: tam liste",
+      "body": "<table><tr><th></th><th>Ne için?</th><th>Örnek</th></tr><tr><td><b>at</b></td><td>saat, bayram dönemi, gece</td><td>at 6 o'clock, at Christmas, at night, at the weekend</td></tr><tr><td><b>on</b></td><td>gün, tarih</td><td>on Monday, on 5 May, on my birthday</td></tr><tr><td><b>in</b></td><td>ay, mevsim, yıl, günün bölümü</td><td>in May, in summer, in 2020, in the morning</td></tr></table><p><b>Hiçbiri gelmez:</b> this, next, last, every, yesterday, tomorrow'dan önce: <span class=\"bad\">✘ on next Monday</span> → ✔ next Monday.</p>"
+    }
+  ],
+  "words": [
+    {
+      "en": "January",
+      "tr": "ocak",
+      "read": "[c{a}]-nyu-ı-ri"
+    },
+    {
+      "en": "February",
+      "tr": "şubat",
+      "read": "[feb]-ru-ı-ri"
+    },
+    {
+      "en": "March",
+      "tr": "mart",
+      "read": "maaç"
+    },
+    {
+      "en": "April",
+      "tr": "nisan",
+      "read": "[ey]-prıl"
+    },
+    {
+      "en": "May",
+      "tr": "mayıs",
+      "read": "mey",
+      "note": "küçük harfle “may” = -ebilir (28. aşama)"
+    },
+    {
+      "en": "June",
+      "tr": "haziran",
+      "read": "cuun"
+    },
+    {
+      "en": "July",
+      "tr": "temmuz",
+      "read": "cu-[lay]"
+    },
+    {
+      "en": "August",
+      "tr": "ağustos",
+      "read": "[oo]-gıst"
+    },
+    {
+      "en": "September",
+      "tr": "eylül",
+      "read": "sep-[tem]-bı"
+    },
+    {
+      "en": "October",
+      "tr": "ekim",
+      "read": "ok-[tou]-bı"
+    },
+    {
+      "en": "November",
+      "tr": "kasım",
+      "read": "nou-[vem]-bı"
+    },
+    {
+      "en": "December",
+      "tr": "aralık",
+      "read": "di-[sem]-bı"
+    },
+    {
+      "en": "spring",
+      "tr": "ilkbahar",
+      "read": "spring"
+    },
+    {
+      "en": "autumn",
+      "tr": "sonbahar",
+      "read": "[oo]-tım",
+      "note": "British; Amerikan: fall"
+    },
+    {
+      "en": "winter",
+      "tr": "kış",
+      "read": "[{w}in]-tı",
+      "opposite": "summer"
+    },
+    {
+      "en": "second",
+      "tr": "ikinci; saniye",
+      "read": "[se]-kınd"
+    },
+    {
+      "en": "third",
+      "tr": "üçüncü",
+      "read": "{t}ööd"
+    },
+    {
+      "en": "fifth",
+      "tr": "beşinci",
+      "read": "fif{t}"
+    },
+    {
+      "en": "birthday",
+      "tr": "doğum günü",
+      "read": "[böö{t}]-dey"
+    },
+    {
+      "en": "Christmas",
+      "tr": "Noel",
+      "read": "[kris]-mıs",
+      "note": "h ve t okunmaz; at Christmas"
+    },
+    {
+      "en": "date",
+      "tr": "tarih",
+      "read": "deyt"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "___ May",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": "in"
+    },
+    {
+      "type": "choice",
+      "prompt": "___ 5 May",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": "on"
+    },
+    {
+      "type": "choice",
+      "prompt": "___ Christmas",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": "at"
+    },
+    {
+      "type": "choice",
+      "prompt": "___ summer",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": "in"
+    },
+    {
+      "type": "choice",
+      "prompt": "gelecek pazartesi",
+      "options": [
+        "on next Monday",
+        "next Monday",
+        "in next Monday"
+      ],
+      "answer": "next Monday"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sonbahar (British)",
+      "options": [
+        "autumn",
+        "fall"
+      ],
+      "answer": "autumn"
+    },
+    {
+      "type": "choice",
+      "prompt": "5 Mayıs British İngilizcede nasıl söylenir?",
+      "options": [
+        "the fifth of May",
+        "May five"
+      ],
+      "answer": "the fifth of May"
+    },
+    {
+      "type": "write",
+      "prompt": "Doğum günün ne zaman?",
+      "answers": [
+        "When's your birthday",
+        "When is your birthday"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Doğum günüm martta.",
+      "answers": [
+        "My birthday is in March",
+        "My birthday's in March"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Kışın çok soğuk.",
+      "answers": [
+        "It's very cold in winter",
+        "It is very cold in winter",
+        "In winter it's very cold"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Ağustosta tatile gidiyoruz.",
+      "answers": [
+        "We're going on holiday in August",
+        "We are going on holiday in August",
+        "We're going to go on holiday in August"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "1990 yılında doğdum.",
+      "answers": [
+        "I was born in 1990"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "üçüncü kat",
+      "answers": [
+        "the third floor"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "the twelfth of March",
+      "answers": [
+        "the twelfth of March",
+        "12 March",
+        "the 12th of March"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "in autumn",
+      "answers": [
+        "in autumn"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "on my birthday",
+      "answers": [
+        "on my birthday"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "the first of January",
+      "accept": [
+        "the first of January",
+        "the 1st of January"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "When's your birthday?",
+      "accept": [
+        "When's your birthday",
+        "When is your birthday"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "in February",
+      "accept": [
+        "in February"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Happy birthday!",
+      "accept": [
+        "Happy birthday"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Merry Christmas!",
+      "accept": [
+        "Merry Christmas"
+      ]
+    }
+  ]
+}

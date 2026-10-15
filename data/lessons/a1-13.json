@@ -1,0 +1,60 @@
+{
+  "id": "a1-13",
+  "stage": 5,
+  "title": "Ayşe's, whose, mine: Ayşe'nin arabası, bu benim",
+  "sections": [
+    {
+      "heading": "'s = -nin, -nın",
+      "body": "<p>Bir ismin sahibini söylemek için sahibin sonuna <b>'s</b> eklenir. Sıra Türkçeyle aynıdır: önce sahip, sonra sahip olunan.</p><p class=\"ex\">Ayşe<b>'s</b> car → Ayşe'nin arabası<br>my father<b>'s</b> name → babamın adı<br>the teacher<b>'s</b> bag → öğretmenin çantası</p>"
+    },
+    {
+      "heading": "Çoğul sahipler",
+      "body": "<table><tr><th>Sahip</th><th>Ne eklenir?</th><th>Örnek</th></tr><tr><td>Tekil</td><td><b>'s</b></td><td>the student<b>'s</b> book (öğrencinin kitabı)</td></tr><tr><td>-s ile biten çoğul</td><td>sadece <b>'</b></td><td>the students<b>'</b> books (öğrencilerin kitapları)</td></tr><tr><td>Düzensiz çoğul</td><td><b>'s</b></td><td>the children<b>'s</b> teacher (çocukların öğretmeni)<br>people<b>'s</b> names (insanların adları)</td></tr></table><p>student's ile students' aynı okunur; fark sadece yazıda.</p>"
+    },
+    {
+      "heading": "whose? = kimin?",
+      "body": "<p class=\"ex\"><b>Whose</b> bag is this? → Bu kimin çantası?<br>It's Ayşe's. → Ayşe'nin.</p><p><b>whose</b> «huuz» ile <b>who's</b> (= who is, kim) aynı okunur.</p>"
+    },
+    {
+      "heading": "mine, yours: benimki, seninki",
+      "body": "<p>İsim söylenmeden “benim, benimki” demek için ayrı kelimeler vardır:</p><table><tr><th>İsimle</th><th>İsimsiz</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>my bag</td><td><b>mine</b></td><td>«mayn»</td><td>benim, benimki</td></tr><tr><td>your bag</td><td><b>yours</b></td><td>«yooz»</td><td>senin, seninki</td></tr><tr><td>his bag</td><td><b>his</b></td><td>«hiz»</td><td>onun (erkek)</td></tr><tr><td>her bag</td><td><b>hers</b></td><td>«hööz»</td><td>onun (kadın)</td></tr><tr><td>our bag</td><td><b>ours</b></td><td>«auız»</td><td>bizim, bizimki</td></tr><tr><td>their bag</td><td><b>theirs</b></td><td>«{d}eez»</td><td>onların</td></tr></table><p class=\"ex\">This bag is <b>mine</b>. → Bu çanta benim.<br><span class=\"bad\">✘ This bag is my.</span> <span class=\"bad\">✘ This is mine bag.</span></p>"
+    },
+    {
+      "heading": "British telaffuz: 's de üç şekilde okunur",
+      "body": "<p>Çoğuldaki -s gibi (1. aşama):</p><ul><li><b>“s”</b>: Mehmet's «[meh]-mets»</li><li><b>“z”</b>: Ayşe's «[ay]-şez», the teacher's «{d}ı [tii]-çız»</li><li><b>“ız”</b>: s, ş, ç sesinden sonra bir hece ekler: the boss's «{d}ı [bo]-sız» (patronun)</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "whose", "tr": "kimin", "read": "huuz", "note": "who's ile aynı okunur" },
+    { "en": "mine", "tr": "benim, benimki", "read": "mayn" },
+    { "en": "yours", "tr": "senin, seninki", "read": "yooz" },
+    { "en": "hers", "tr": "onun, onunki (kadın)", "read": "hööz" },
+    { "en": "ours", "tr": "bizim, bizimki", "read": "auız" },
+    { "en": "theirs", "tr": "onların, onlarınki", "read": "{d}eez" },
+    { "en": "boss", "tr": "patron", "read": "bos" },
+    { "en": "here", "tr": "burada", "read": "hiı", "opposite": "there" },
+    { "en": "there", "tr": "orada", "read": "{d}ee", "opposite": "here", "note": "their ve they're ile aynı okunur" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Ayşe'nin arabası", "options": ["Ayşe's car", "car Ayşe's", "Ayşe car"], "answer": "Ayşe's car" },
+    { "type": "choice", "prompt": "öğrencilerin kitapları", "options": ["the student's books", "the students' books"], "answer": "the students' books", "explain": "-s ile biten çoğulda sadece ' eklenir." },
+    { "type": "choice", "prompt": "çocukların öğretmeni", "options": ["the childrens' teacher", "the children's teacher"], "answer": "the children's teacher", "explain": "children düzensiz çoğul: 's eklenir." },
+    { "type": "choice", "prompt": "Bu çanta benim.", "options": ["This bag is my.", "This bag is mine.", "This bag is me."], "answer": "This bag is mine." },
+    { "type": "choice", "prompt": "___ phone is this? (Bu kimin telefonu?)", "options": ["Who", "Whose", "Who's"], "answer": "Whose" },
+    { "type": "choice", "prompt": "Is this your bag? — Yes, it's ___.", "options": ["my", "mine", "me"], "answer": "mine" },
+    { "type": "choice", "prompt": "Bu araba onların.", "options": ["This car is their.", "This car is theirs."], "answer": "This car is theirs." },
+    { "type": "write", "prompt": "Mehmet'in kız kardeşi", "answers": ["Mehmet's sister"] },
+    { "type": "write", "prompt": "babamın arabası", "answers": ["my father's car"] },
+    { "type": "write", "prompt": "öğretmenin adı", "answers": ["the teacher's name"] },
+    { "type": "write", "prompt": "Bu kimin kitabı?", "answers": ["Whose book is this"] },
+    { "type": "write", "prompt": "Çanta onun (kadın).", "answers": ["The bag is hers", "The bag's hers"] },
+    { "type": "write", "prompt": "Bu benim değil.", "answers": ["It's not mine", "It isn't mine", "It is not mine", "This is not mine", "This isn't mine"] },
+    { "type": "listen", "say": "whose", "answers": ["whose", "who's"] },
+    { "type": "listen", "say": "Ayşe's brother", "answers": ["Ayşe's brother", "Ayse's brother"] },
+    { "type": "listen", "say": "It's mine", "answers": ["It's mine", "It is mine"] },
+    { "type": "speak", "say": "Whose bag is this?", "accept": ["whose bag is this", "who's bag is this"] },
+    { "type": "speak", "say": "It's mine", "accept": ["It's mine", "It is mine"] },
+    { "type": "speak", "say": "my father's car", "accept": ["my father's car", "my fathers car"] },
+    { "type": "speak", "say": "It's hers", "accept": ["It's hers", "It is hers"] }
+  ]
+}

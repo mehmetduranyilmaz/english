@@ -1,0 +1,68 @@
+{
+  "id": "a2-04",
+  "stage": 11,
+  "title": "Düzensiz fiiller 2 + hikâye anlatma",
+  "sections": [
+    {
+      "heading": "Daha fazla düzensiz fiil",
+      "body": "<table><tr><th>Yalın</th><th>Geçmiş</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>write / speak</td><td><b>wrote</b> / <b>spoke</b></td><td>«rout» / «spouk»</td><td>yazdı / konuştu</td></tr><tr><td>sleep / sit / stand</td><td><b>slept</b> / <b>sat</b> / <b>stood</b></td><td>«slept» / «s{a}t» / «stud»</td><td>uyudu / oturdu / durdu</td></tr><tr><td>run / swim</td><td><b>ran</b> / <b>swam</b></td><td>«r{a}n» / «s{w}{a}m»</td><td>koştu / yüzdü</td></tr><tr><td>meet</td><td><b>met</b></td><td>«met»</td><td>tanıştı, buluştu</td></tr><tr><td>sell / wear</td><td><b>sold</b> / <b>wore</b></td><td>«sould» / «{w}oo»</td><td>sattı / giydi</td></tr><tr><td>drive / sing</td><td><b>drove</b> / <b>sang</b></td><td>«drouv» / «s{a}ng»</td><td>sürdü / şarkı söyledi</td></tr><tr><td>understand</td><td><b>understood</b></td><td>«an-dı-[stud]»</td><td>anladı</td></tr><tr><td>begin</td><td><b>began</b></td><td>«bi-[g{a}n]»</td><td>başladı</td></tr><tr><td>lose / forget</td><td><b>lost</b> / <b>forgot</b></td><td>«lost» / «fı-[got]»</td><td>kaybetti / unuttu</td></tr><tr><td>feel</td><td><b>felt</b></td><td>«felt»</td><td>hissetti</td></tr><tr><td>bring</td><td><b>brought</b></td><td>«broot»</td><td>getirdi</td></tr><tr><td>send / spend</td><td><b>sent</b> / <b>spent</b></td><td>«sent» / «spent»</td><td>gönderdi / harcadı</td></tr><tr><td>pay</td><td><b>paid</b></td><td>«peyd»</td><td>ödedi</td></tr><tr><td>fly</td><td><b>flew</b></td><td>«fluu»</td><td>uçtu, uçakla gitti</td></tr><tr><td>teach</td><td><b>taught</b></td><td>«toot»</td><td>öğretti</td></tr><tr><td>win</td><td><b>won</b></td><td>«{w}an»</td><td>kazandı</td></tr><tr><td>become</td><td><b>became</b></td><td>«bi-[keym]»</td><td>oldu (dönüştü)</td></tr><tr><td>cost</td><td><b>cost</b></td><td>«kost»</td><td>(fiyatı) tuttu</td></tr></table><p><b>bought</b> «boot» (satın aldı) ile <b>brought</b> «broot» (getirdi) karıştırılmamalı.</p>"
+    },
+    {
+      "heading": "Hikâye anlatma: sıralama kelimeleri",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>first</td><td>«föst»</td><td>önce, ilk olarak</td></tr><tr><td>then</td><td>«{d}en»</td><td>sonra</td></tr><tr><td>after that</td><td>«aaf-tı [{d}{a}t]»</td><td>ondan sonra</td></tr><tr><td>later</td><td>«[ley]-tı»</td><td>daha sonra</td></tr><tr><td>finally</td><td>«[fay]-nı-li»</td><td>sonunda, en son</td></tr></table><p class=\"ex\">Last summer I <b>flew</b> to London. <b>First</b>, I <b>visited</b> the British Museum. <b>Then</b> I <b>had</b> lunch in a small café. <b>After that</b>, I <b>walked</b> along the river. <b>Finally</b>, I <b>took</b> the tube back to the hotel. It <b>was</b> lovely!</p><p>→ Geçen yaz Londra'ya uçtum. Önce British Museum'u gezdim. Sonra küçük bir kafede öğle yemeği yedim. Ondan sonra nehir boyunca yürüdüm. En son metroyla otele döndüm. Harikaydı!</p>"
+    }
+  ],
+  "words": [
+    { "en": "begin", "tr": "başlamak", "read": "bi-[gin]", "note": "geçmiş: began «bi-[g{a}n]»" },
+    { "en": "lose", "tr": "kaybetmek", "read": "luuz", "note": "geçmiş: lost «lost»" },
+    { "en": "forget", "tr": "unutmak", "read": "fı-[get]", "note": "geçmiş: forgot «fı-[got]»" },
+    { "en": "feel", "tr": "hissetmek", "read": "fiil", "note": "geçmiş: felt «felt»" },
+    { "en": "bring", "tr": "getirmek", "read": "bring", "note": "geçmiş: brought «broot»" },
+    { "en": "send", "tr": "göndermek", "read": "send", "note": "geçmiş: sent «sent»" },
+    { "en": "spend", "tr": "harcamak; (zaman) geçirmek", "read": "spend", "note": "geçmiş: spent «spent»" },
+    { "en": "pay", "tr": "ödemek", "read": "pey", "note": "geçmiş: paid «peyd»" },
+    { "en": "fly", "tr": "uçmak", "read": "flay", "note": "geçmiş: flew «fluu»" },
+    { "en": "teach", "tr": "öğretmek", "read": "tiiç", "note": "geçmiş: taught «toot»" },
+    { "en": "win", "tr": "kazanmak", "read": "{w}in", "opposite": "lose", "note": "geçmiş: won «{w}an»" },
+    { "en": "become", "tr": "olmak (dönüşmek)", "read": "bi-[kam]", "note": "geçmiş: became «bi-[keym]»" },
+    { "en": "cost", "tr": "(fiyatı) tutmak", "read": "kost", "note": "geçmiş: cost (aynı)" },
+    { "en": "wrote", "tr": "yazdı (write)", "read": "rout" },
+    { "en": "spoke", "tr": "konuştu (speak)", "read": "spouk" },
+    { "en": "slept", "tr": "uyudu (sleep)", "read": "slept" },
+    { "en": "met", "tr": "tanıştı, buluştu (meet)", "read": "met" },
+    { "en": "drove", "tr": "sürdü (drive)", "read": "drouv" },
+    { "en": "understood", "tr": "anladı (understand)", "read": "an-dı-[stud]" },
+    { "en": "first", "tr": "önce, ilk", "read": "föst" },
+    { "en": "then", "tr": "sonra", "read": "{d}en" },
+    { "en": "finally", "tr": "sonunda", "read": "[fay]-nı-li" },
+    { "en": "later", "tr": "daha sonra", "read": "[ley]-tı" },
+    { "en": "summer", "tr": "yaz", "read": "[sa]-mı" },
+    { "en": "well", "tr": "iyi (zarf)", "read": "{w}el", "note": "I slept well." },
+    { "en": "message", "tr": "mesaj", "read": "[me]-sic" },
+    { "en": "match", "tr": "maç", "read": "m{a}ç" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "write → geçmiş?", "options": ["writed", "wrote", "written"], "answer": "wrote" },
+    { "type": "choice", "prompt": "Uçakla gittik.", "options": ["We flew.", "We flied.", "We flyed."], "answer": "We flew." },
+    { "type": "choice", "prompt": "Çok para harcadım.", "options": ["I spent a lot of money.", "I spended a lot of money."], "answer": "I spent a lot of money." },
+    { "type": "choice", "prompt": "Anahtarlarımı kaybettim.", "options": ["I lost my keys.", "I losed my keys.", "I loose my keys."], "answer": "I lost my keys." },
+    { "type": "choice", "prompt": "bought ile brought farkı?", "options": ["bought = satın aldı, brought = getirdi", "İkisi aynı anlamda"], "answer": "bought = satın aldı, brought = getirdi" },
+    { "type": "choice", "prompt": "First I had breakfast, ___ I went to work.", "options": ["then", "ago", "last"], "answer": "then" },
+    { "type": "choice", "prompt": "I ___ to bring my umbrella.", "options": ["forgot", "forget", "forgotted"], "answer": "forgot" },
+    { "type": "write", "prompt": "Dün gece iyi uyudum.", "answers": ["I slept well last night", "Last night I slept well"] },
+    { "type": "write", "prompt": "Onunla (erkek) geçen yıl tanıştım.", "answers": ["I met him last year", "Last year I met him"] },
+    { "type": "write", "prompt": "Kendimi yorgun hissettim.", "answers": ["I felt tired"] },
+    { "type": "write", "prompt": "Bana bir mesaj gönderdi. (o, kadın)", "answers": ["She sent me a message"] },
+    { "type": "write", "prompt": "Maçı kazandık.", "answers": ["We won the match"] },
+    { "type": "write", "prompt": "Önce kahvaltı yaptım, sonra işe gittim.", "answers": ["First I had breakfast, then I went to work", "First I had breakfast and then I went to work", "First, I had breakfast, then I went to work"] },
+    { "type": "write", "prompt": "Ödedin mi?", "answers": ["Did you pay"] },
+    { "type": "listen", "say": "I forgot my phone", "answers": ["I forgot my phone"] },
+    { "type": "listen", "say": "We flew to London", "answers": ["We flew to London"] },
+    { "type": "listen", "say": "Then we had lunch", "answers": ["Then we had lunch"] },
+    { "type": "speak", "say": "I lost my keys", "accept": ["I lost my keys"] },
+    { "type": "speak", "say": "We met last year", "accept": ["We met last year"] },
+    { "type": "speak", "say": "I felt tired", "accept": ["I felt tired"] },
+    { "type": "speak", "say": "First, I had breakfast", "accept": ["First I had breakfast"] },
+    { "type": "speak", "say": "It was lovely", "accept": ["It was lovely"] }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "a1-01",
+  "stage": 1,
+  "title": "Özneler: I, you, he, she, it, we, they",
+  "sections": [
+    {
+      "heading": "Neden özne şart?",
+      "body": "<p>Türkçede <b>“Geliyorum”</b> dediğimizde kimin geldiği fiilin sonundaki <b>-um</b> ekinden anlaşılır. Özneyi ayrıca söylemeye gerek yoktur.</p><p>İngilizcede fiiller kişiye göre böyle ek almaz. Bu yüzden özne <b>her zaman yazılır ve söylenir</b>:</p><p class=\"ex\"><b>I</b> am coming. → Geliyorum.<br><span class=\"bad\">✘ Am coming.</span></p><p><b>Tek istisna emir cümleleridir:</b> <i>Sit down!</i> (Otur!) cümlesinde özne yoktur.</p>"
+    },
+    {
+      "heading": "Özneler",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th><th>Not</th></tr><tr><td><b>I</b></td><td>«ay»</td><td>ben</td><td>Cümlenin ortasında bile her zaman <b>büyük harfle</b> yazılır.</td></tr><tr><td><b>you</b></td><td>«yuu»</td><td>sen / siz</td><td>Tekil ve çoğul için aynı kelime.</td></tr><tr><td><b>he</b></td><td>«hii»</td><td>o</td><td>Erkek için.</td></tr><tr><td><b>she</b></td><td>«şii»</td><td>o</td><td>Kadın için.</td></tr><tr><td><b>it</b></td><td>«it»</td><td>o</td><td>Cansız şeyler, hayvanlar, fikirler. Evcil hayvanınız için he / she da denebilir.</td></tr><tr><td><b>we</b></td><td>«{w}ii»</td><td>biz</td><td></td></tr><tr><td><b>they</b></td><td>«{d}ey»</td><td>onlar</td><td>İnsanlar ve şeyler için aynı kelime.</td></tr></table>"
+    },
+    {
+      "heading": "İsmin yerine özne koymak",
+      "body": "<p class=\"ex\">Ayşe → <b>she</b><br>Mehmet → <b>he</b><br>the computer (bilgisayar) → <b>it</b><br>Ayşe and Mehmet → <b>they</b><br>Ayşe and I (Ayşe ve ben) → <b>we</b></p><p>İngilizcede kibarlık gereği kendinizi sona koyarsınız: <b>Ayşe and I</b> denir, “I and Ayşe” denmez.</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<p>Renkli harfler Türkçede olmayan sesleri gösterir.</p><ul><li><b>they</b> «{d}ey»: Dilinizin ucunu üst ön dişlerinizin arasına koyun ve öyle “d” deyin. Düz “dey” veya “zey” değil.</li><li><b>we</b> «{w}ii»: Dudaklarınızı “u” der gibi yuvarlayıp hemen açın. Alt dudak dişe değmez, yani “vi” değil.</li><li><b>he, she, we</b>: hepsinde uzun bir “ii” var: «hii», «şii», «{w}ii».</li><li><b>it</b> «it»: kısa ve gevşek bir “i”.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "I", "tr": "ben", "read": "ay" },
+    { "en": "you", "tr": "sen / siz", "read": "yuu" },
+    { "en": "he", "tr": "o (erkek)", "read": "hii" },
+    { "en": "she", "tr": "o (kadın)", "read": "şii" },
+    { "en": "it", "tr": "o (cansız, hayvan)", "read": "it" },
+    { "en": "we", "tr": "biz", "read": "{w}ii" },
+    { "en": "they", "tr": "onlar", "read": "{d}ey" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Ayşe → ?", "options": ["he", "she", "it", "they"], "answer": "she" },
+    { "type": "choice", "prompt": "Mehmet → ?", "options": ["he", "she", "it", "we"], "answer": "he" },
+    { "type": "choice", "prompt": "the computer (bilgisayar) → ?", "options": ["he", "she", "it", "they"], "answer": "it" },
+    { "type": "choice", "prompt": "Ayşe and Mehmet → ?", "options": ["he", "we", "they", "you"], "answer": "they" },
+    { "type": "choice", "prompt": "Ayşe and I (Ayşe ve ben) → ?", "options": ["they", "we", "I", "you"], "answer": "we" },
+    { "type": "choice", "prompt": "“Geliyorum.” İngilizcede hangisi doğru?", "options": ["Am coming.", "I am coming.", "Coming am."], "answer": "I am coming.", "explain": "İngilizcede özne her zaman söylenir." },
+    { "type": "write", "prompt": "biz", "answers": ["we"] },
+    { "type": "write", "prompt": "onlar", "answers": ["they"] },
+    { "type": "write", "prompt": "ben", "answers": ["I"], "strictCase": true, "explain": "“I” her zaman büyük harfle yazılır." },
+    { "type": "write", "prompt": "o (kadın)", "answers": ["she"] },
+    { "type": "listen", "say": "they", "answers": ["they"] },
+    { "type": "listen", "say": "she", "answers": ["she"] },
+    { "type": "speak", "say": "they", "accept": ["they"], "mistakes": { "day": "Baştaki sesi düz “d” gibi söylediniz. Dil ucunu dişlerin arasına koyup öyle “d” deyin.", "the": "Sonu “ey” olmalı: “dey”.", "say": "Baştaki sesi “s/z” gibi söylediniz. Dil ucunu dişlerin arasına koyup “d” deyin." } },
+    { "type": "speak", "say": "we", "accept": ["we", "wee"], "mistakes": { "v": "“v” gibi söylediniz. Alt dudak dişe değmesin, dudakları yuvarlayın.", "vee": "“v” gibi söylediniz. Alt dudak dişe değmesin, dudakları yuvarlayın." } },
+    { "type": "speak", "say": "she", "accept": ["she"], "mistakes": { "see": "“ş” yerine “s” söylediniz. “şii” deyin.", "sea": "“ş” yerine “s” söylediniz. “şii” deyin." } }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "id": "b1-04",
+  "stage": 19,
+  "title": "Past Perfect: Vardığımda film başlamıştı + yolculuk sorunları",
+  "sections": [
+    {
+      "heading": "had + 3. hal = …mıştı",
+      "body": "<p>Geçmişteki iki olaydan <b>daha önce olanı</b> anlatır. Türkçedeki “-mıştı”:</p><p class=\"ex\">When I arrived, the film <b>had</b> already <b>started</b>. → Vardığımda film çoktan başlamıştı.<br>I couldn't get in because I'<b>d lost</b> my keys. → İçeri giremedim çünkü anahtarlarımı kaybetmiştim.<br>She <b>had never seen</b> the sea before. → Daha önce hiç deniz görmemişti.</p><p>Tüm öznelerle <b>had</b> (kısa hali 'd). Olumsuz: hadn't «[h{a}]-dınt». Soru: <b>Had</b> you <b>met</b> him before?</p>"
+    },
+    {
+      "heading": "Sıra önemli",
+      "body": "<table><tr><th>Cümle</th><th>Anlam</th></tr><tr><td>When I arrived, the train <b>left</b>.</td><td>Ben vardım, <b>sonra</b> tren kalktı (aynı anda gibi).</td></tr><tr><td>When I arrived, the train <b>had left</b>.</td><td>Ben vardığımda tren <b>çoktan</b> gitmişti (kaçırdım).</td></tr></table><p><b>before, after, already, by the time</b> ile çok kullanılır: <b>By the time</b> we got there, everyone <b>had gone</b> home. (Oraya vardığımızda herkes eve gitmişti.)</p>"
+    },
+    {
+      "heading": "Yolculuk sorunları: British kelimeler",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>delay / delayed</td><td>«di-[ley]» / «di-[leyd]»</td><td>gecikme / gecikmeli</td></tr><tr><td>cancel / cancelled</td><td>«[k{a}n]-sıl» / «[k{a}n]-sıld»</td><td>iptal etmek / iptal (British: çift l)</td></tr><tr><td>platform</td><td>«[pl{a}t]-foom»</td><td>peron</td></tr><tr><td>luggage</td><td>«[la]-gic»</td><td>bagaj (British; sayılamaz)</td></tr><tr><td>timetable</td><td>«[taym]-tey-bıl»</td><td>sefer çizelgesi (British; Amerikan: schedule)</td></tr><tr><td>return ticket</td><td>«ri-[töön] [ti]-kıt»</td><td>gidiş-dönüş (British; Amerikan: round-trip)</td></tr><tr><td>single ticket</td><td>«[sin]-gıl [ti]-kıt»</td><td>tek yön (British; Amerikan: one-way)</td></tr><tr><td>check in</td><td>«çek [in]»</td><td>check-in yapmak</td></tr><tr><td>boarding pass</td><td>«[boo]-ding paas»</td><td>biniş kartı</td></tr><tr><td>gate</td><td>«geyt»</td><td>kapı (havalimanı)</td></tr><tr><td>departure / arrival</td><td>«di-[paa]-çı» / «ı-[ray]-vıl»</td><td>kalkış / varış</td></tr><tr><td>lost property</td><td>«lost [pro]-pı-ti»</td><td>kayıp eşya bürosu (British)</td></tr></table>"
+    }
+  ],
+  "words": [
+    {
+      "en": "hadn't",
+      "tr": "…memişti",
+      "read": "[h{a}]-dınt"
+    },
+    {
+      "en": "by the time",
+      "tr": "-diğinde (artık)",
+      "read": "bay {d}ı [taym]"
+    },
+    {
+      "en": "before",
+      "tr": "önce",
+      "read": "bi-[foo]",
+      "opposite": "after"
+    },
+    {
+      "en": "after",
+      "tr": "sonra",
+      "read": "[aaf]-tı",
+      "opposite": "before"
+    },
+    {
+      "en": "delay",
+      "tr": "gecikme; geciktirmek",
+      "read": "di-[ley]"
+    },
+    {
+      "en": "cancel",
+      "tr": "iptal etmek",
+      "read": "[k{a}n]-sıl",
+      "note": "British: cancelled"
+    },
+    {
+      "en": "platform",
+      "tr": "peron; platform",
+      "read": "[pl{a}t]-foom"
+    },
+    {
+      "en": "luggage",
+      "tr": "bagaj",
+      "read": "[la]-gic",
+      "note": "British; sayılamaz"
+    },
+    {
+      "en": "timetable",
+      "tr": "sefer çizelgesi; ders programı",
+      "read": "[taym]-tey-bıl",
+      "note": "British"
+    },
+    {
+      "en": "return ticket",
+      "tr": "gidiş-dönüş bilet",
+      "read": "ri-[töön] [ti]-kıt",
+      "note": "British"
+    },
+    {
+      "en": "single ticket",
+      "tr": "tek yön bilet",
+      "read": "[sin]-gıl [ti]-kıt",
+      "note": "British"
+    },
+    {
+      "en": "check in",
+      "tr": "check-in yapmak",
+      "read": "çek [in]"
+    },
+    {
+      "en": "boarding pass",
+      "tr": "biniş kartı",
+      "read": "[boo]-ding paas"
+    },
+    {
+      "en": "gate",
+      "tr": "kapı (havalimanı, bahçe)",
+      "read": "geyt"
+    },
+    {
+      "en": "departure",
+      "tr": "kalkış",
+      "read": "di-[paa]-çı",
+      "opposite": "arrival"
+    },
+    {
+      "en": "arrival",
+      "tr": "varış",
+      "read": "ı-[ray]-vıl",
+      "opposite": "departure"
+    },
+    {
+      "en": "lost property",
+      "tr": "kayıp eşya bürosu",
+      "read": "lost [pro]-pı-ti",
+      "note": "British"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Vardığımda film çoktan başlamıştı.",
+      "options": [
+        "When I arrived, the film had already started.",
+        "When I arrived, the film already started.",
+        "When I had arrived, the film started."
+      ],
+      "answer": "When I arrived, the film had already started."
+    },
+    {
+      "type": "choice",
+      "prompt": "She ___ never seen the sea before.",
+      "options": [
+        "had",
+        "has",
+        "was"
+      ],
+      "answer": "had"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vardığımda tren gitmişti (kaçırdım).",
+      "options": [
+        "When I arrived, the train left.",
+        "When I arrived, the train had left."
+      ],
+      "answer": "When I arrived, the train had left."
+    },
+    {
+      "type": "choice",
+      "prompt": "Gidiş-dönüş bilet (British)",
+      "options": [
+        "a return ticket",
+        "a round-trip ticket"
+      ],
+      "answer": "a return ticket"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bagajım ağır.",
+      "options": [
+        "My luggage is heavy.",
+        "My luggages are heavy."
+      ],
+      "answer": "My luggage is heavy.",
+      "explain": "luggage sayılamaz."
+    },
+    {
+      "type": "choice",
+      "prompt": "İptal edildi (British yazım)",
+      "options": [
+        "cancelled",
+        "canceled"
+      ],
+      "answer": "cancelled"
+    },
+    {
+      "type": "write",
+      "prompt": "Anahtarlarımı kaybetmiştim.",
+      "answers": [
+        "I'd lost my keys",
+        "I had lost my keys"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Daha önce onunla hiç tanışmamıştım.",
+      "answers": [
+        "I'd never met him before",
+        "I had never met him before",
+        "I'd never met her before",
+        "I had never met her before"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Uçuşumuz iptal edildi.",
+      "answers": [
+        "Our flight was cancelled",
+        "Our flight has been cancelled",
+        "Our flight was canceled"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Tren yirmi dakika gecikmeli.",
+      "answers": [
+        "The train is delayed by twenty minutes",
+        "The train is twenty minutes late",
+        "The train's twenty minutes late"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Londra'ya bir tek yön bilet, lütfen.",
+      "answers": [
+        "A single ticket to London, please",
+        "A single to London, please",
+        "One single ticket to London, please"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Biniş kartınız lütfen.",
+      "answers": [
+        "Your boarding pass, please",
+        "Can I see your boarding pass, please",
+        "Boarding pass, please"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "The train had already left",
+      "answers": [
+        "The train had already left"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Which platform is it?",
+      "answers": [
+        "Which platform is it"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Your flight is delayed",
+      "answers": [
+        "Your flight is delayed",
+        "Your flight's delayed"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I had never been there before",
+      "accept": [
+        "I had never been there before",
+        "I'd never been there before"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "A return ticket, please",
+      "accept": [
+        "A return ticket please",
+        "Return ticket please"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Where is the lost property office?",
+      "accept": [
+        "Where is the lost property office",
+        "Where's the lost property office"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "The flight was cancelled",
+      "accept": [
+        "The flight was cancelled",
+        "The flight was canceled"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "By the time I arrived, they had left",
+      "accept": [
+        "By the time I arrived they had left",
+        "By the time I arrived they'd left"
+      ]
+    }
+  ]
+}

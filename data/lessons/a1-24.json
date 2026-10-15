@@ -1,0 +1,61 @@
+{
+  "id": "a1-24",
+  "stage": 10,
+  "title": "like + -ing, want + to: yüzmeyi severim, gitmek istiyorum",
+  "sections": [
+    {
+      "heading": "İki fiil yan yana",
+      "body": "<p>Türkçede “yüzme<b>yi</b> severim”, “git<b>mek</b> istiyorum” deriz. İngilizcede ikinci fiilin şekli <b>birinci fiile</b> göre değişir:</p><table><tr><th>Birinci fiil</th><th>İkinci fiil</th><th>Örnek</th></tr><tr><td>like, love, hate, enjoy</td><td><b>-ing</b></td><td>I like swim<b>ming</b>. (Yüzmeyi severim.)<br>She hates cook<b>ing</b>. (Yemek yapmaktan nefret eder.)</td></tr><tr><td>want, need, would like</td><td><b>to</b> + fiil</td><td>I want <b>to go</b>. (Gitmek istiyorum.)<br>We need <b>to buy</b> milk. (Süt almamız lazım.)</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ I want go.</span> <span class=\"bad\">✘ I want going.</span> → ✔ I want <b>to</b> go.</p>"
+    },
+    {
+      "heading": "would like = kibar istemek",
+      "body": "<p><b>want</b> doğrudan ve biraz sert duyulabilir. Restoranda, dükkânda, misafirlikte İngilizler <b>would like</b> kullanır. Kısa hali: <b>I'd like</b> «ayd [layk]».</p><p class=\"ex\">I'd like a coffee, please. → Bir kahve rica ediyorum.<br>I'd like to book a table. → Bir masa ayırtmak istiyorum.<br><b>Would you like</b> a tea? → Çay ister misiniz?<br>— Yes, please. / No, thank you.</p>"
+    },
+    {
+      "heading": "Olumsuz ve soru",
+      "body": "<p class=\"ex\">Do you like cooking? → Yemek yapmayı sever misin?<br>I don't want to go. → Gitmek istemiyorum.<br>She doesn't like getting up early. → Erken kalkmayı sevmez.</p>"
+    },
+    {
+      "heading": "Boş zaman",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>travel</td><td>«[tr{a}]-vıl»</td><td>seyahat etmek</td></tr><tr><td>go shopping</td><td>«gou [şo]-ping»</td><td>alışverişe gitmek</td></tr><tr><td>go swimming</td><td>«gou [s{w}i]-ming»</td><td>yüzmeye gitmek</td></tr><tr><td>meet friends</td><td>«miit [frendz]»</td><td>arkadaşlarla buluşmak</td></tr><tr><td>take photos</td><td>«teyk [fou]-touz»</td><td>fotoğraf çekmek</td></tr><tr><td>relax</td><td>«ri-[l{a}ks]»</td><td>dinlenmek, rahatlamak</td></tr><tr><td>visit</td><td>«[vi]-zit»</td><td>ziyaret etmek</td></tr><tr><td>learn</td><td>«löön»</td><td>öğrenmek</td></tr><tr><td>enjoy</td><td>«in-[coy]»</td><td>zevk almak, keyfini çıkarmak</td></tr><tr><td>holiday</td><td>«[ho]-lı-dey»</td><td>tatil (British; Amerikan: vacation)</td></tr></table><p><b>British yazım:</b> travelling (çift l). Amerikan: traveling.</p>"
+    }
+  ],
+  "words": [
+    { "en": "enjoy", "tr": "zevk almak", "read": "in-[coy]", "note": "enjoy + -ing" },
+    { "en": "would like", "tr": "istemek (kibar)", "read": "{w}ud [layk]", "note": "I'd like: “ayd layk”" },
+    { "en": "travel", "tr": "seyahat etmek", "read": "[tr{a}]-vıl", "note": "British: travelling" },
+    { "en": "shopping", "tr": "alışveriş", "read": "[şo]-ping", "note": "go shopping" },
+    { "en": "meet", "tr": "buluşmak, tanışmak", "read": "miit" },
+    { "en": "photo", "tr": "fotoğraf", "read": "[fou]-tou", "note": "take photos", "plural": { "en": "photos", "read": "[fou]-touz" } },
+    { "en": "relax", "tr": "dinlenmek", "read": "ri-[l{a}ks]" },
+    { "en": "visit", "tr": "ziyaret etmek", "read": "[vi]-zit" },
+    { "en": "learn", "tr": "öğrenmek", "read": "löön" },
+    { "en": "holiday", "tr": "tatil", "read": "[ho]-lı-dey", "note": "British; go on holiday" },
+    { "en": "book a table", "tr": "masa ayırtmak", "read": "buk ı [tey]-bıl" },
+    { "en": "free time", "tr": "boş zaman", "read": "frii [taym]" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Yüzmeyi severim.", "options": ["I like swimming.", "I like swim.", "I like to swimming."], "answer": "I like swimming." },
+    { "type": "choice", "prompt": "Gitmek istiyorum.", "options": ["I want going.", "I want to go.", "I want go."], "answer": "I want to go." },
+    { "type": "choice", "prompt": "Bir kahve rica ediyorum. (kibar)", "options": ["I'd like a coffee, please.", "Give coffee.", "I want coffee give."], "answer": "I'd like a coffee, please." },
+    { "type": "choice", "prompt": "Would you like a tea? — Yes, ___", "options": ["please.", "thanks you.", "I would like."], "answer": "please." },
+    { "type": "choice", "prompt": "She enjoys ___.", "options": ["cooking", "to cook", "cook"], "answer": "cooking" },
+    { "type": "choice", "prompt": "I need ___ a new phone.", "options": ["buy", "to buy", "buying"], "answer": "to buy" },
+    { "type": "choice", "prompt": "Tatil (British)", "options": ["holiday", "vacation"], "answer": "holiday" },
+    { "type": "write", "prompt": "Okumayı severim.", "answers": ["I like reading", "I love reading"] },
+    { "type": "write", "prompt": "Erken kalkmaktan nefret ederim.", "answers": ["I hate getting up early"] },
+    { "type": "write", "prompt": "İngilizce öğrenmek istiyorum.", "answers": ["I want to learn English"] },
+    { "type": "write", "prompt": "Bir çay rica ediyorum. (kibar)", "answers": ["I'd like a tea", "I would like a tea", "I'd like some tea", "I would like some tea", "I'd like a tea please", "I would like a tea please"] },
+    { "type": "write", "prompt": "Alışverişe gitmeyi sever misin?", "answers": ["Do you like going shopping", "Do you like shopping"] },
+    { "type": "write", "prompt": "O (kadın) tatile gitmek istiyor.", "answers": ["She wants to go on holiday"] },
+    { "type": "write", "prompt": "Çay ister misiniz?", "answers": ["Would you like a tea", "Would you like some tea", "Would you like tea"] },
+    { "type": "listen", "say": "I'd like a coffee, please", "answers": ["I'd like a coffee please", "I would like a coffee please"] },
+    { "type": "listen", "say": "Do you like travelling?", "answers": ["Do you like travelling", "Do you like traveling"] },
+    { "type": "listen", "say": "I want to relax", "answers": ["I want to relax"] },
+    { "type": "speak", "say": "I like reading", "accept": ["I like reading"] },
+    { "type": "speak", "say": "I want to learn English", "accept": ["I want to learn English"] },
+    { "type": "speak", "say": "I'd like a tea, please", "accept": ["I'd like a tea please", "I would like a tea please"] },
+    { "type": "speak", "say": "Would you like a coffee?", "accept": ["Would you like a coffee"] },
+    { "type": "speak", "say": "I enjoy travelling", "accept": ["I enjoy travelling", "I enjoy traveling"] }
+  ]
+}

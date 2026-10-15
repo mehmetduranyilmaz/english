@@ -1,0 +1,257 @@
+{
+  "id": "b1-09",
+  "stage": 22,
+  "title": "Edilgen çatı: İngilizce konuşulur, ev 1900'de yapıldı",
+  "sections": [
+    {
+      "heading": "am / is / are / was / were + 3. hal",
+      "body": "<p>Türkçedeki <b>“-ılmak, -ınmak”</b> eki (yap<b>ıl</b>dı, konuş<b>ul</b>ur). Eylemi <b>kimin yaptığı</b> önemli değilse veya bilinmiyorsa kullanılır:</p><table><tr><th>Zaman</th><th>Kalıp</th><th>Örnek</th></tr><tr><td>Geniş zaman</td><td>am / is / are + 3. hal</td><td>English <b>is spoken</b> all over the world. → İngilizce tüm dünyada konuşulur.</td></tr><tr><td>Geçmiş zaman</td><td>was / were + 3. hal</td><td>This house <b>was built</b> in 1900. → Bu ev 1900'de yapıldı.</td></tr><tr><td>Gelecek</td><td>will be + 3. hal</td><td>The results <b>will be announced</b> tomorrow. → Sonuçlar yarın açıklanacak.</td></tr></table>"
+    },
+    {
+      "heading": "Yapanı söylemek: by",
+      "body": "<p class=\"ex\">Hamlet <b>was written by</b> Shakespeare. → Hamlet Shakespeare tarafından yazıldı.<br>The telephone <b>was invented by</b> Bell. → Telefon Bell tarafından icat edildi.</p><p class=\"ex\">Olumsuz: The bridge <b>wasn't finished</b> on time.<br>Soru: Where <b>was</b> this photo <b>taken</b>? → Bu fotoğraf nerede çekildi?<br>Made in: This phone <b>is made in</b> China. → Bu telefon Çin'de üretiliyor.</p>"
+    },
+    {
+      "heading": "Üretim ve tarih",
+      "body": "<table><tr><th>Fiil</th><th>3. hal</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>build</td><td>built</td><td>«bild» → «bilt»</td><td>inşa etmek</td></tr><tr><td>invent</td><td>invented</td><td>«in-[vent]»</td><td>icat etmek</td></tr><tr><td>discover</td><td>discovered</td><td>«di-[ska]-vı»</td><td>keşfetmek</td></tr><tr><td>produce</td><td>produced</td><td>«prı-[dyuus]»</td><td>üretmek</td></tr><tr><td>design</td><td>designed</td><td>«di-[zayn]»</td><td>tasarlamak (g okunmaz)</td></tr><tr><td>grow</td><td>grown</td><td>«grou» → «groun»</td><td>yetiştirmek</td></tr><tr><td>announce</td><td>announced</td><td>«ı-[nauns]»</td><td>duyurmak</td></tr></table><p><b>İsimler:</b> factory «[f{a}k]-tı-ri» (fabrika), century «[sen]-çı-ri» (yüzyıl), invention «in-[ven]-şın» (icat), bridge «bric» (köprü), castle «[kaa]-sıl» (kale, t okunmaz).</p>"
+    }
+  ],
+  "words": [
+    {
+      "en": "build",
+      "tr": "inşa etmek",
+      "read": "bild",
+      "note": "built «bilt»"
+    },
+    {
+      "en": "invent",
+      "tr": "icat etmek",
+      "read": "in-[vent]"
+    },
+    {
+      "en": "invention",
+      "tr": "icat",
+      "read": "in-[ven]-şın"
+    },
+    {
+      "en": "discover",
+      "tr": "keşfetmek",
+      "read": "di-[ska]-vı"
+    },
+    {
+      "en": "produce",
+      "tr": "üretmek",
+      "read": "prı-[dyuus]"
+    },
+    {
+      "en": "design",
+      "tr": "tasarlamak; tasarım",
+      "read": "di-[zayn]",
+      "note": "g okunmaz"
+    },
+    {
+      "en": "grow",
+      "tr": "yetiştirmek; büyümek",
+      "read": "grou",
+      "note": "grew, grown «groun»"
+    },
+    {
+      "en": "announce",
+      "tr": "duyurmak",
+      "read": "ı-[nauns]"
+    },
+    {
+      "en": "result",
+      "tr": "sonuç",
+      "read": "ri-[zalt]"
+    },
+    {
+      "en": "factory",
+      "tr": "fabrika",
+      "read": "[f{a}k]-tı-ri"
+    },
+    {
+      "en": "century",
+      "tr": "yüzyıl",
+      "read": "[sen]-çı-ri"
+    },
+    {
+      "en": "bridge",
+      "tr": "köprü",
+      "read": "bric"
+    },
+    {
+      "en": "castle",
+      "tr": "kale, şato",
+      "read": "[kaa]-sıl",
+      "note": "t okunmaz"
+    },
+    {
+      "en": "all over the world",
+      "tr": "tüm dünyada",
+      "read": "ool [ou]-vı {d}ı [{w}öold]"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "İngilizce tüm dünyada konuşulur.",
+      "options": [
+        "English is spoken all over the world.",
+        "English speaks all over the world.",
+        "English is speaking all over the world."
+      ],
+      "answer": "English is spoken all over the world."
+    },
+    {
+      "type": "choice",
+      "prompt": "Bu ev 1900'de yapıldı.",
+      "options": [
+        "This house was built in 1900.",
+        "This house built in 1900.",
+        "This house is built in 1900."
+      ],
+      "answer": "This house was built in 1900."
+    },
+    {
+      "type": "choice",
+      "prompt": "Hamlet Shakespeare tarafından yazıldı.",
+      "options": [
+        "Hamlet was written by Shakespeare.",
+        "Hamlet was written from Shakespeare.",
+        "Hamlet wrote by Shakespeare."
+      ],
+      "answer": "Hamlet was written by Shakespeare."
+    },
+    {
+      "type": "choice",
+      "prompt": "Sonuçlar yarın açıklanacak.",
+      "options": [
+        "The results will be announced tomorrow.",
+        "The results will announce tomorrow."
+      ],
+      "answer": "The results will be announced tomorrow."
+    },
+    {
+      "type": "choice",
+      "prompt": "Bu fotoğraf nerede çekildi?",
+      "options": [
+        "Where was this photo taken?",
+        "Where did this photo take?",
+        "Where this photo was taken?"
+      ],
+      "answer": "Where was this photo taken?"
+    },
+    {
+      "type": "choice",
+      "prompt": "“castle” nasıl okunur?",
+      "options": [
+        "kas-tıl",
+        "kaa-sıl"
+      ],
+      "answer": "kaa-sıl"
+    },
+    {
+      "type": "write",
+      "prompt": "Bu telefon Çin'de üretiliyor.",
+      "answers": [
+        "This phone is made in China"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Telefon Bell tarafından icat edildi.",
+      "answers": [
+        "The telephone was invented by Bell",
+        "The phone was invented by Bell"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Köprü zamanında bitirilmedi.",
+      "answers": [
+        "The bridge wasn't finished on time",
+        "The bridge was not finished on time"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Türkiye'de çay yetiştirilir.",
+      "answers": [
+        "Tea is grown in Turkey"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Kale 13. yüzyılda inşa edildi.",
+      "answers": [
+        "The castle was built in the 13th century",
+        "The castle was built in the thirteenth century"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Bu uygulama benim tarafımdan tasarlandı.",
+      "answers": [
+        "This app was designed by me"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "It was built in the 19th century",
+      "answers": [
+        "It was built in the 19th century",
+        "It was built in the nineteenth century"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Where is it made?",
+      "answers": [
+        "Where is it made"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "The results were announced",
+      "answers": [
+        "The results were announced"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "English is spoken here",
+      "accept": [
+        "English is spoken here"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It was made in Italy",
+      "accept": [
+        "It was made in Italy"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "When was it built?",
+      "accept": [
+        "When was it built"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It was designed by a woman",
+      "accept": [
+        "It was designed by a woman"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "an old castle",
+      "accept": [
+        "an old castle"
+      ]
+    }
+  ]
+}

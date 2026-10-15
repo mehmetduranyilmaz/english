@@ -1,0 +1,74 @@
+{
+  "id": "a1-25",
+  "stage": 10,
+  "title": "A1 finali: Kendini tanıtma + ülkeler",
+  "sections": [
+    {
+      "heading": "Tanışma",
+      "body": "<p class=\"ex\"><b>A:</b> Hello, I'm Mehmet. → Merhaba, ben Mehmet.<br><b>B:</b> Hi, I'm Kate. Nice to meet you. → Selam, ben Kate. Tanıştığıma memnun oldum.<br><b>A:</b> Nice to meet you, too. Where are you from? → Ben de. Nerelisin?<br><b>B:</b> I'm from London. And you? → Londralıyım. Ya sen?<br><b>A:</b> I'm from Turkey. I'm Turkish. → Türkiye'denim. Türk'üm.<br><b>B:</b> How are you? → Nasılsın?<br><b>A:</b> I'm fine, thanks. And you? → İyiyim, teşekkürler. Ya sen?<br><b>B:</b> Not bad. See you later! → Fena değil. Görüşürüz!</p>"
+    },
+    {
+      "heading": "Kendinizi anlatın: A1'de öğrendikleriniz bir arada",
+      "body": "<p class=\"ex\">My name is Mehmet. I'm thirty. → Adım Mehmet. Otuz yaşındayım. (3. aşama)<br>I'm from İzmir, but I live in Istanbul. → İzmirliyim ama İstanbul'da yaşıyorum. (7. aşama)<br>I'm a programmer. I usually work at home. → Programcıyım. Genelde evde çalışırım. (2, 6, 7)<br>I'm married. I've got a son. → Evliyim. Bir oğlum var.<br>I like reading and travelling. → Okumayı ve seyahat etmeyi severim. (10)<br>I want to learn English. → İngilizce öğrenmek istiyorum. (10)</p><p><b>British:</b> “sahip olmak” için konuşmada çok sık <b>have got</b> kullanılır: I've got a sister. = I have a sister. (Bir kız kardeşim var.)</p>"
+    },
+    {
+      "heading": "Ülkeler ve milliyetler",
+      "body": "<table><tr><th>Ülke</th><th>Okunuş</th><th>Milliyet / dil</th><th>Okunuş</th></tr><tr><td>Turkey</td><td>«[töö]-ki»</td><td>Turkish</td><td>«[töö]-kiş»</td></tr><tr><td>England</td><td>«[in]-glınd»</td><td>English</td><td>«[in]-gliş»</td></tr><tr><td>Britain</td><td>«[bri]-tın»</td><td>British</td><td>«[bri]-tiş»</td></tr><tr><td>Germany</td><td>«[cöö]-mı-ni»</td><td>German</td><td>«[cöö]-mın»</td></tr><tr><td>France</td><td>«fraans»</td><td>French</td><td>«frenç»</td></tr><tr><td>Spain</td><td>«speyn»</td><td>Spanish</td><td>«[sp{a}]-niş»</td></tr><tr><td>Italy</td><td>«[i]-tı-li»</td><td>Italian</td><td>«i-[t{a}]-lyın»</td></tr><tr><td>America</td><td>«ı-[me]-ri-kı»</td><td>American</td><td>«ı-[me]-ri-kın»</td></tr></table><p>Ülke ve milliyet <b>her zaman büyük harfle</b> yazılır. “Ben İngilizim” → I'm English (İngiltere) veya I'm British (Birleşik Krallık).</p>"
+    },
+    {
+      "heading": "British günlük ifadeler",
+      "body": "<table><tr><th>İfade</th><th>Okunuş</th><th>Anlamı</th></tr><tr><td>Cheers!</td><td>«çiız»</td><td>Sağ ol! (teşekkür); kadeh kaldırırken: Şerefe!</td></tr><tr><td>Alright?</td><td>«ool-[rayt]»</td><td>Selam, naber? (cevap: Yeah, alright.)</td></tr><tr><td>Lovely!</td><td>«[lav]-li»</td><td>Harika! Çok güzel!</td></tr><tr><td>Brilliant!</td><td>«[bril]-yınt»</td><td>Süper!</td></tr><tr><td>Sorry?</td><td>«[so]-ri»</td><td>Efendim? Anlamadım, tekrar eder misiniz?</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "hello", "tr": "merhaba", "read": "hı-[lou]" },
+    { "en": "hi", "tr": "selam", "read": "hay" },
+    { "en": "goodbye", "tr": "hoşça kal", "read": "gud-[bay]" },
+    { "en": "see you later", "tr": "görüşürüz", "read": "[sii] yuu [ley]-tı" },
+    { "en": "nice to meet you", "tr": "tanıştığıma memnun oldum", "read": "nays tı [miit] yuu" },
+    { "en": "how are you", "tr": "nasılsın", "read": "[hau] aa yuu" },
+    { "en": "fine", "tr": "iyi", "read": "fayn", "note": "I'm fine, thanks." },
+    { "en": "from", "tr": "-den, -dan", "read": "from", "note": "I'm from Turkey." },
+    { "en": "married", "tr": "evli", "read": "[m{a}]-rid", "opposite": "single" },
+    { "en": "single", "tr": "bekâr", "read": "[sin]-gıl", "opposite": "married" },
+    { "en": "country", "tr": "ülke", "read": "[kan]-tri" },
+    { "en": "England", "tr": "İngiltere", "read": "[in]-glınd" },
+    { "en": "Britain", "tr": "Britanya", "read": "[bri]-tın" },
+    { "en": "British", "tr": "Britanyalı", "read": "[bri]-tiş" },
+    { "en": "Germany", "tr": "Almanya", "read": "[cöö]-mı-ni" },
+    { "en": "German", "tr": "Alman, Almanca", "read": "[cöö]-mın" },
+    { "en": "France", "tr": "Fransa", "read": "fraans" },
+    { "en": "French", "tr": "Fransız, Fransızca", "read": "frenç" },
+    { "en": "Spain", "tr": "İspanya", "read": "speyn" },
+    { "en": "Spanish", "tr": "İspanyol, İspanyolca", "read": "[sp{a}]-niş" },
+    { "en": "Italian", "tr": "İtalyan, İtalyanca", "read": "i-[t{a}]-lyın" },
+    { "en": "American", "tr": "Amerikalı", "read": "ı-[me]-ri-kın" },
+    { "en": "cheers", "tr": "sağ ol; şerefe", "read": "çiız", "note": "British" },
+    { "en": "lovely", "tr": "harika, çok güzel", "read": "[lav]-li", "note": "British" },
+    { "en": "brilliant", "tr": "süper", "read": "[bril]-yınt" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Tanıştığıma memnun oldum.", "options": ["Nice to meet you.", "Nice to see you first.", "Happy meeting."], "answer": "Nice to meet you." },
+    { "type": "choice", "prompt": "Where are you from? — I'm ___ Turkey.", "options": ["from", "in", "of"], "answer": "from" },
+    { "type": "choice", "prompt": "I'm from ___. (İspanya)", "options": ["Spain", "Spanish"], "answer": "Spain" },
+    { "type": "choice", "prompt": "She is ___. (Alman)", "options": ["Germany", "German"], "answer": "German" },
+    { "type": "choice", "prompt": "How are you? — ___", "options": ["I'm fine, thanks. And you?", "I'm thirty years.", "I'm from fine."], "answer": "I'm fine, thanks. And you?" },
+    { "type": "choice", "prompt": "Bir kız kardeşim var. (British)", "options": ["I've got a sister.", "I've a sister got.", "I got have a sister."], "answer": "I've got a sister." },
+    { "type": "choice", "prompt": "British konuşmada “Cheers!” genelde ne demek?", "options": ["Sağ ol / teşekkürler", "Hoşça kal", "Özür dilerim"], "answer": "Sağ ol / teşekkürler" },
+    { "type": "write", "prompt": "Benim adım Mehmet.", "answers": ["My name is Mehmet", "My name's Mehmet", "I'm Mehmet", "I am Mehmet"] },
+    { "type": "write", "prompt": "Türkiye'denim.", "answers": ["I'm from Turkey", "I am from Turkey"] },
+    { "type": "write", "prompt": "Nerelisin?", "answers": ["Where are you from"] },
+    { "type": "write", "prompt": "Evliyim.", "answers": ["I'm married", "I am married"] },
+    { "type": "write", "prompt": "İyiyim, teşekkürler.", "answers": ["I'm fine, thanks", "I am fine, thanks", "I'm fine, thank you", "I am fine, thank you"] },
+    { "type": "write", "prompt": "Görüşürüz.", "answers": ["See you later", "See you", "Bye"] },
+    { "type": "write", "prompt": "İki erkek kardeşim var.", "answers": ["I've got two brothers", "I have got two brothers", "I have two brothers"] },
+    { "type": "listen", "say": "Nice to meet you", "answers": ["Nice to meet you"] },
+    { "type": "listen", "say": "Where are you from?", "answers": ["Where are you from"] },
+    { "type": "listen", "say": "I'm from Turkey", "answers": ["I'm from Turkey", "I am from Turkey"] },
+    { "type": "speak", "say": "Nice to meet you", "accept": ["Nice to meet you"] },
+    { "type": "speak", "say": "I'm from Turkey", "accept": ["I'm from Turkey", "I am from Turkey"] },
+    { "type": "speak", "say": "How are you?", "accept": ["How are you"] },
+    { "type": "speak", "say": "I'm fine, thanks", "accept": ["I'm fine thanks", "I am fine thanks", "I'm fine thank you"] },
+    { "type": "speak", "say": "See you later", "accept": ["See you later"] }
+  ]
+}

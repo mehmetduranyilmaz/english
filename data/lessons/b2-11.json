@@ -1,0 +1,60 @@
+{
+  "id": "b2-11",
+  "stage": 30,
+  "title": "although / despite / however: bağlaçlar ve fikir bildirme",
+  "sections": [
+    {
+      "heading": "-e rağmen: although / despite",
+      "body": "<table><tr><th>Kelime</th><th>Arkasından ne gelir?</th><th>Örnek</th></tr><tr><td><b>although</b> «ool-[{d}ou]» / <b>even though</b></td><td>tam cümle (özne + fiil)</td><td><b>Although</b> it was raining, we went out. → Yağmur yağmasına rağmen dışarı çıktık.</td></tr><tr><td><b>despite</b> «di-[spayt]» / <b>in spite of</b></td><td>isim veya -ing</td><td><b>Despite</b> the rain, we went out.<br><b>Despite being</b> tired, she kept working.</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ Despite it was raining</span> → ✔ Despite <b>the rain</b> / Although <b>it was raining</b><br><span class=\"bad\">✘ despite of</span> → ✔ despite / in spite of</p>"
+    },
+    {
+      "heading": "Cümleleri bağlayan zarflar",
+      "body": "<table><tr><th>Kelime</th><th>Okunuş</th><th>Anlam</th><th>Örnek</th></tr><tr><td>however</td><td>«hau-[e]-vı»</td><td>ancak, yine de</td><td>It's expensive. <b>However</b>, it's worth it.</td></tr><tr><td>whereas</td><td>«{w}ee-[r{a}z]»</td><td>oysa, -ken</td><td>I like tea, <b>whereas</b> my wife prefers coffee.</td></tr><tr><td>on the other hand</td><td>«on {d}i [a]-{d}ı h{a}nd»</td><td>öte yandan</td><td>Cities are exciting. <b>On the other hand</b>, they're noisy.</td></tr><tr><td>therefore</td><td>«[{d}ee]-foo»</td><td>bu nedenle (resmi)</td><td>Sales fell. <b>Therefore</b>, we cut costs.</td></tr><tr><td>as a result</td><td>«ız ı ri-[zalt]»</td><td>sonuç olarak</td><td><b>As a result</b>, many people lost their jobs.</td></tr><tr><td>moreover / in addition</td><td>«moo-[rou]-vı» / «in ı-[di]-şın»</td><td>ayrıca, üstelik (resmi)</td><td><b>Moreover</b>, it's bad for the environment.</td></tr></table><p>however, therefore, moreover cümle başında gelir ve arkasından <b>virgül</b> konur.</p>"
+    },
+    {
+      "heading": "Fikir bildirme ve tartışma",
+      "body": "<p class=\"ex\"><b>As far as I'm concerned</b>, … → Bana kalırsa, …<br><b>To be honest</b>, … → Açıkçası, … (British konuşmada çok yaygın)<br><b>I see your point, but</b> … → Ne demek istediğini anlıyorum ama …<br><b>I'm not sure about that.</b> → Bundan emin değilim. (kibar itiraz)<br><b>That's a good point.</b> → İyi bir nokta.<br><b>It depends.</b> → Duruma bağlı.</p><p>İngilizler doğrudan “You're wrong” (Yanılıyorsun) demek yerine <b>I'm not sure about that</b> veya <b>I see what you mean, but…</b> der.</p>"
+    }
+  ],
+  "words": [
+    { "en": "although", "tr": "-e rağmen (+ cümle)", "read": "ool-[{d}ou]" },
+    { "en": "even though", "tr": "-diği halde", "read": "[ii]-vın {d}ou" },
+    { "en": "despite", "tr": "-e rağmen (+ isim)", "read": "di-[spayt]", "note": "✘ despite of" },
+    { "en": "in spite of", "tr": "-e rağmen", "read": "in [spayt] ıv" },
+    { "en": "however", "tr": "ancak, yine de", "read": "hau-[e]-vı" },
+    { "en": "whereas", "tr": "oysa", "read": "{w}ee-[r{a}z]" },
+    { "en": "on the other hand", "tr": "öte yandan", "read": "on {d}i [a]-{d}ı h{a}nd" },
+    { "en": "therefore", "tr": "bu nedenle", "read": "[{d}ee]-foo" },
+    { "en": "as a result", "tr": "sonuç olarak", "read": "ız ı ri-[zalt]" },
+    { "en": "moreover", "tr": "üstelik", "read": "moo-[rou]-vı" },
+    { "en": "in addition", "tr": "ek olarak", "read": "in ı-[di]-şın" },
+    { "en": "to be honest", "tr": "açıkçası", "read": "tı bi [o]-nist" },
+    { "en": "as far as I'm concerned", "tr": "bana kalırsa", "read": "ız [faa] ız aym kın-[söönd]" },
+    { "en": "point", "tr": "nokta, mesele", "read": "poynt", "note": "That's a good point." },
+    { "en": "depend", "tr": "bağlı olmak", "read": "di-[pend]", "note": "It depends." },
+    { "en": "worth", "tr": "değer", "read": "{w}öö{t}", "note": "It's worth it." },
+    { "en": "prefer", "tr": "tercih etmek", "read": "pri-[föö]" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Yağmur yağmasına rağmen dışarı çıktık.", "options": ["Although it was raining, we went out.", "Despite it was raining, we went out.", "Despite of the rain, we went out."], "answer": "Although it was raining, we went out." },
+    { "type": "choice", "prompt": "Yağmura rağmen dışarı çıktık.", "options": ["Despite the rain, we went out.", "Although the rain, we went out.", "Despite of the rain, we went out."], "answer": "Despite the rain, we went out." },
+    { "type": "choice", "prompt": "Yorgun olmasına rağmen çalışmaya devam etti.", "options": ["Despite being tired, she kept working.", "Despite she was tired, she kept working."], "answer": "Despite being tired, she kept working." },
+    { "type": "choice", "prompt": "Pahalı. ___, buna değer.", "options": ["However", "Although", "Despite"], "answer": "However" },
+    { "type": "choice", "prompt": "Ben çayı severim, oysa eşim kahveyi tercih eder.", "options": ["I like tea, whereas my wife prefers coffee.", "I like tea, therefore my wife prefers coffee."], "answer": "I like tea, whereas my wife prefers coffee." },
+    { "type": "choice", "prompt": "Kibar itiraz (British)", "options": ["I'm not sure about that.", "You're wrong.", "No, it's false."], "answer": "I'm not sure about that." },
+    { "type": "write", "prompt": "Açıkçası, bilmiyorum.", "answers": ["To be honest, I don't know", "To be honest I don't know", "Honestly, I don't know"] },
+    { "type": "write", "prompt": "Duruma bağlı.", "answers": ["It depends"] },
+    { "type": "write", "prompt": "İyi bir nokta.", "answers": ["That's a good point", "That is a good point", "Good point"] },
+    { "type": "write", "prompt": "Buna değer.", "answers": ["It's worth it", "It is worth it"] },
+    { "type": "write", "prompt": "Hastaydı; bu nedenle gelemedi.", "answers": ["He was ill; therefore, he couldn't come", "He was ill. Therefore, he couldn't come", "She was ill; therefore, she couldn't come", "She was ill. Therefore, she couldn't come", "He was ill, therefore he couldn't come"] },
+    { "type": "write", "prompt": "Ne demek istediğini anlıyorum ama katılmıyorum.", "answers": ["I see what you mean, but I don't agree", "I see your point, but I don't agree", "I see what you mean, but I disagree", "I see your point, but I disagree"] },
+    { "type": "listen", "say": "However, it's not cheap", "answers": ["However, it's not cheap", "However it is not cheap", "However, it isn't cheap"] },
+    { "type": "listen", "say": "In spite of the weather", "answers": ["In spite of the weather"] },
+    { "type": "listen", "say": "As far as I'm concerned, it's fine", "answers": ["As far as I'm concerned, it's fine", "As far as I am concerned it is fine"] },
+    { "type": "speak", "say": "To be honest, I'm not sure", "accept": ["To be honest I'm not sure", "To be honest I am not sure"] },
+    { "type": "speak", "say": "Although it was late, we stayed", "accept": ["Although it was late we stayed"] },
+    { "type": "speak", "say": "It depends", "accept": ["It depends"] },
+    { "type": "speak", "say": "That's a good point", "accept": ["That's a good point", "That is a good point"] },
+    { "type": "speak", "say": "On the other hand", "accept": ["On the other hand"] }
+  ]
+}

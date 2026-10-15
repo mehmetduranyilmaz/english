@@ -1,0 +1,130 @@
+{
+  "id": "basics-colours",
+  "group": "basics",
+  "title": "Renkler ve şekiller",
+  "level": "A1",
+  "intro": "<p><b>British yazım:</b> colour (Amerikan: color), grey (Amerikan: gray). Açık / koyu için <b>light</b> ve <b>dark</b>: light blue, dark green.</p>",
+  "words": [
+    {
+      "en": "colour",
+      "tr": "renk",
+      "read": "[ka]-lı",
+      "type": "isim",
+      "level": "A1",
+      "example": "What colour is your car?",
+      "exampleTr": "Araban ne renk?",
+      "note": "British yazım"
+    },
+    {
+      "ref": "red"
+    },
+    {
+      "ref": "blue"
+    },
+    {
+      "ref": "green"
+    },
+    {
+      "ref": "yellow"
+    },
+    {
+      "ref": "orange"
+    },
+    {
+      "ref": "pink"
+    },
+    {
+      "ref": "brown"
+    },
+    {
+      "ref": "grey"
+    },
+    {
+      "ref": "black"
+    },
+    {
+      "ref": "white"
+    },
+    {
+      "en": "purple",
+      "tr": "mor",
+      "read": "[pöö]-pıl",
+      "type": "sıfat",
+      "level": "A1",
+      "example": "She's wearing a purple dress.",
+      "exampleTr": "Mor bir elbise giyiyor."
+    },
+    {
+      "en": "gold",
+      "tr": "altın; altın rengi",
+      "read": "gould",
+      "type": "isim",
+      "level": "A2",
+      "example": "He won a gold medal.",
+      "exampleTr": "Altın madalya kazandı."
+    },
+    {
+      "en": "silver",
+      "tr": "gümüş",
+      "read": "[sil]-vı",
+      "type": "isim",
+      "level": "A2",
+      "example": "I've got a silver laptop.",
+      "exampleTr": "Gümüş renkli bir laptopum var."
+    },
+    {
+      "en": "shape",
+      "tr": "şekil",
+      "read": "şeyp",
+      "type": "isim",
+      "level": "A2",
+      "example": "What shape is the table?",
+      "exampleTr": "Masa ne şekilde?"
+    },
+    {
+      "en": "circle",
+      "tr": "daire, çember",
+      "read": "[söö]-kıl",
+      "type": "isim",
+      "level": "A2",
+      "example": "Draw a circle.",
+      "exampleTr": "Bir daire çiz."
+    },
+    {
+      "en": "square",
+      "tr": "kare; meydan",
+      "read": "sk{w}ee",
+      "type": "isim",
+      "level": "A2",
+      "example": "The garden is square.",
+      "exampleTr": "Bahçe kare şeklinde."
+    },
+    {
+      "en": "triangle",
+      "tr": "üçgen",
+      "read": "[tray]-{a}n-gıl",
+      "type": "isim",
+      "level": "A2",
+      "example": "A triangle has three sides.",
+      "exampleTr": "Üçgenin üç kenarı vardır."
+    },
+    {
+      "en": "line",
+      "tr": "çizgi; satır; hat",
+      "read": "layn",
+      "type": "isim",
+      "level": "A2",
+      "example": "Read the first line.",
+      "exampleTr": "İlk satırı oku."
+    },
+    {
+      "en": "round",
+      "tr": "yuvarlak",
+      "read": "raund",
+      "type": "sıfat",
+      "level": "A2",
+      "example": "We've got a round table in the kitchen.",
+      "exampleTr": "Mutfakta yuvarlak bir masamız var."
+    }
+  ]
+}

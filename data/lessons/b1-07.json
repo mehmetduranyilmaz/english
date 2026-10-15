@@ -1,0 +1,62 @@
+{
+  "id": "b1-07",
+  "stage": 21,
+  "title": "who / which / that: yan dairede yaşayan adam + kişilik",
+  "sections": [
+    {
+      "heading": "Sıra Türkçenin tam tersi",
+      "body": "<p>Türkçede tarif eden kısım <b>isimden önce</b> gelir: “yan dairede yaşayan <b>adam</b>”. İngilizcede önce <b>isim</b>, sonra <b>who / which / that</b> ve tarif gelir:</p><p class=\"ex\">the <b>man</b> <b>who</b> lives next door → yan dairede yaşayan adam<br>the <b>book</b> <b>which</b> I bought yesterday → dün aldığım kitap<br>the <b>film</b> <b>that</b> won the award → ödülü kazanan film</p><p>Bu, 1. yol haritasında konuştuğumuz <b>“sondan başa zincir kurma”</b> mantığıdır: Türkçe cümleyi sondan okuyun → önce “adam”, sonra “who…”.</p>"
+    },
+    {
+      "heading": "Hangisi?",
+      "body": "<table><tr><th>Kelime</th><th>Ne için?</th><th>Örnek</th></tr><tr><td><b>who</b></td><td>insanlar</td><td>A nurse is someone <b>who</b> looks after patients.</td></tr><tr><td><b>which</b> «{w}iç»</td><td>şeyler, hayvanlar</td><td>This is the phone <b>which</b> I told you about.</td></tr><tr><td><b>that</b></td><td>insan ve şey (konuşmada çok yaygın)</td><td>the man <b>that</b> called / the car <b>that</b> broke down</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ The man who he lives next door…</span> → who zaten özne; he eklenmez.</p>"
+    },
+    {
+      "heading": "Kişilik",
+      "body": "<table><tr><th>Sıfat</th><th>Okunuş</th><th>Zıttı</th><th>Okunuş</th></tr><tr><td>honest (dürüst)</td><td>«[o]-nist» (h okunmaz)</td><td>dishonest</td><td>«dis-[o]-nist»</td></tr><tr><td>polite (kibar)</td><td>«pı-[layt]»</td><td>rude (kaba)</td><td>«ruud»</td></tr><tr><td>patient (sabırlı)</td><td>«[pey]-şınt»</td><td>impatient</td><td>«im-[pey]-şınt»</td></tr><tr><td>hard-working (çalışkan)</td><td>«haad-[{w}öö]-king»</td><td>lazy (tembel)</td><td>«[ley]-zi»</td></tr><tr><td>generous (cömert)</td><td>«[ce]-nı-rıs»</td><td>mean (cimri; British)</td><td>«miin»</td></tr><tr><td>confident (kendine güvenen)</td><td>«[kon]-fi-dınt»</td><td>shy (utangaç)</td><td>«şay»</td></tr><tr><td>reliable (güvenilir)</td><td>«ri-[lay]-ı-bıl»</td><td>selfish (bencil)</td><td>«[sel]-fiş»</td></tr><tr><td>calm (sakin)</td><td>«kaam» (l okunmaz)</td><td>cheerful (neşeli)</td><td>«[çiı]-fıl»</td></tr></table><p>Zıt anlam yapmak için başa <b>dis-, im-, un-</b> eklenebilir: dishonest, impatient, unfriendly, unkind.</p>"
+    }
+  ],
+  "words": [
+    { "en": "which", "tr": "-en, -dığı (şeyler için)", "read": "{w}iç" },
+    { "en": "next door", "tr": "yan daire, yan ev", "read": "nekst [doo]" },
+    { "en": "look after", "tr": "bakmak, ilgilenmek", "read": "luk [aaf]-tı" },
+    { "en": "patient", "tr": "sabırlı; hasta (hastanede)", "read": "[pey]-şınt", "opposite": "impatient" },
+    { "en": "personality", "tr": "kişilik", "read": "pöö-sı-[n{a}]-li-ti" },
+    { "en": "honest", "tr": "dürüst", "read": "[o]-nist", "opposite": "dishonest", "note": "h okunmaz" },
+    { "en": "polite", "tr": "kibar", "read": "pı-[layt]", "opposite": "rude" },
+    { "en": "rude", "tr": "kaba", "read": "ruud", "opposite": "polite" },
+    { "en": "hard-working", "tr": "çalışkan", "read": "haad-[{w}öö]-king", "opposite": "lazy" },
+    { "en": "lazy", "tr": "tembel", "read": "[ley]-zi", "opposite": "hard-working" },
+    { "en": "generous", "tr": "cömert", "read": "[ce]-nı-rıs", "opposite": "mean" },
+    { "en": "mean", "tr": "cimri (British); anlamına gelmek", "read": "miin", "opposite": "generous" },
+    { "en": "confident", "tr": "kendine güvenen", "read": "[kon]-fi-dınt", "opposite": "shy" },
+    { "en": "shy", "tr": "utangaç", "read": "şay", "opposite": "confident" },
+    { "en": "reliable", "tr": "güvenilir", "read": "ri-[lay]-ı-bıl" },
+    { "en": "selfish", "tr": "bencil", "read": "[sel]-fiş", "opposite": "generous" },
+    { "en": "calm", "tr": "sakin", "read": "kaam", "note": "l okunmaz" },
+    { "en": "cheerful", "tr": "neşeli", "read": "[çiı]-fıl" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "yan dairede yaşayan adam", "options": ["the man who lives next door", "the next door living man", "the man which lives next door"], "answer": "the man who lives next door" },
+    { "type": "choice", "prompt": "dün aldığım kitap", "options": ["the book which I bought yesterday", "the yesterday I bought book", "the book who I bought yesterday"], "answer": "the book which I bought yesterday" },
+    { "type": "choice", "prompt": "A nurse is someone ___ looks after patients.", "options": ["who", "which", "where"], "answer": "who" },
+    { "type": "choice", "prompt": "The man who ___ next door is a doctor.", "options": ["lives", "he lives"], "answer": "lives", "explain": "who zaten özne; he eklenmez." },
+    { "type": "choice", "prompt": "honest ↔ ?", "options": ["dishonest", "unhonest", "inhonest"], "answer": "dishonest" },
+    { "type": "choice", "prompt": "“honest” nasıl okunur?", "options": ["ho-nest", "o-nist"], "answer": "o-nist" },
+    { "type": "choice", "prompt": "Cimri (British)", "options": ["mean", "rude", "shy"], "answer": "mean" },
+    { "type": "write", "prompt": "Bana yardım eden kadın", "answers": ["the woman who helped me", "the woman that helped me"] },
+    { "type": "write", "prompt": "Sevdiğim film", "answers": ["the film which I like", "the film that I like", "the film I like", "the film which I love", "the film that I love", "the film I love"] },
+    { "type": "write", "prompt": "Çok sabırlı bir öğretmen", "answers": ["a very patient teacher"] },
+    { "type": "write", "prompt": "Kaba olma!", "answers": ["Don't be rude", "Do not be rude"] },
+    { "type": "write", "prompt": "İngilizce konuşan birini arıyorum.", "answers": ["I'm looking for someone who speaks English", "I am looking for someone who speaks English", "I'm looking for somebody who speaks English"] },
+    { "type": "write", "prompt": "Erkek kardeşim çok çalışkan ama biraz utangaç.", "answers": ["My brother is very hard-working but a bit shy", "My brother is very hard working but a bit shy", "My brother's very hard-working but a bit shy"] },
+    { "type": "listen", "say": "the man who lives next door", "answers": ["the man who lives next door"] },
+    { "type": "listen", "say": "She's very reliable", "answers": ["She's very reliable", "She is very reliable"] },
+    { "type": "listen", "say": "Keep calm", "answers": ["Keep calm"] },
+    { "type": "speak", "say": "the woman who helped me", "accept": ["the woman who helped me", "the woman that helped me"] },
+    { "type": "speak", "say": "He's very generous", "accept": ["He's very generous", "He is very generous"] },
+    { "type": "speak", "say": "Don't be shy", "accept": ["Don't be shy", "Do not be shy"] },
+    { "type": "speak", "say": "an honest person", "accept": ["an honest person"] },
+    { "type": "speak", "say": "the car that broke down", "accept": ["the car that broke down", "the car which broke down"] }
+  ]
+}

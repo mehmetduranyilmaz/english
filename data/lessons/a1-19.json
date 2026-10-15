@@ -1,0 +1,76 @@
+{
+  "id": "a1-19",
+  "stage": 7,
+  "title": "always, never + günler ve saatler",
+  "sections": [
+    {
+      "heading": "Ne sıklıkla?",
+      "body": "<table><tr><th>Kelime</th><th>Okunuş</th><th>Türkçe</th><th>Sıklık</th></tr><tr><td>always</td><td>«[ool]-{w}eyz»</td><td>her zaman</td><td>%100</td></tr><tr><td>usually</td><td>«[yuu]-jı-li»</td><td>genellikle</td><td>%80</td></tr><tr><td>often</td><td>«[o]-fın»</td><td>sık sık</td><td>%60</td></tr><tr><td>sometimes</td><td>«[sam]-taymz»</td><td>bazen</td><td>%40</td></tr><tr><td>never</td><td>«[ne]-vı»</td><td>asla, hiç</td><td>%0</td></tr></table>"
+    },
+    {
+      "heading": "Yeri: fiilden önce, am / is / are'dan sonra",
+      "body": "<p class=\"ex\">I <b>always</b> get up at seven. → Her zaman yedide kalkarım.<br>She <b>never</b> drinks coffee. → Asla kahve içmez.<br>He is <b>often</b> late. → Sık sık geç kalır. (is'ten sonra)</p><p><span class=\"bad\">✘ I get up always at seven.</span><br><b>sometimes</b> cümle başına da gelebilir: Sometimes I walk to work.</p><p><b>never</b> zaten olumsuzdur, don't ile kullanılmaz: <span class=\"bad\">✘ I don't never</span>.</p>"
+    },
+    {
+      "heading": "Zaman edatları: at, in, on",
+      "body": "<table><tr><th></th><th>Ne için?</th><th>Örnek</th></tr><tr><td><b>at</b></td><td>Saat, gece, hafta sonu</td><td>at seven o'clock, at night, at the weekend</td></tr><tr><td><b>in</b></td><td>Günün bölümleri, aylar, yıllar</td><td>in the morning, in the afternoon, in the evening</td></tr><tr><td><b>on</b></td><td>Günler</td><td>on Monday, on Sundays (her pazar)</td></tr></table><p><b>British:</b> at the weekend. Amerikalılar “on the weekend” der.</p><p>Gün isimleri <b>her zaman büyük harfle</b> yazılır: Monday.</p>"
+    },
+    {
+      "heading": "Haftanın günleri",
+      "body": "<table><tr><th>Gün</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>Monday</td><td>«[man]-dey»</td><td>pazartesi</td></tr><tr><td>Tuesday</td><td>«[tyuuz]-dey»</td><td>salı</td></tr><tr><td>Wednesday</td><td>«[{w}enz]-dey»</td><td>çarşamba (d okunmaz!)</td></tr><tr><td>Thursday</td><td>«[{t}ööz]-dey»</td><td>perşembe</td></tr><tr><td>Friday</td><td>«[fray]-dey»</td><td>cuma</td></tr><tr><td>Saturday</td><td>«[s{a}]-tı-dey»</td><td>cumartesi</td></tr><tr><td>Sunday</td><td>«[san]-dey»</td><td>pazar</td></tr></table>"
+    },
+    {
+      "heading": "Saat kaç?",
+      "body": "<p class=\"ex\">What time is it? → Saat kaç?<br>It's seven o'clock. → Saat yedi. (7:00)<br>It's half past seven. → Saat yedi buçuk. (7:30)<br>It's quarter past seven. → Yediyi çeyrek geçiyor. (7:15)<br>It's quarter to eight. → Sekize çeyrek var. (7:45)</p><p><b>British:</b> half «haaf», past «paast»: l okunmaz, uzun “aa”.</p>"
+    }
+  ],
+  "words": [
+    { "en": "always", "tr": "her zaman", "read": "[ool]-{w}eyz", "opposite": "never" },
+    { "en": "usually", "tr": "genellikle", "read": "[yuu]-jı-li" },
+    { "en": "often", "tr": "sık sık", "read": "[o]-fın", "note": "British: t okunmaz" },
+    { "en": "sometimes", "tr": "bazen", "read": "[sam]-taymz" },
+    { "en": "never", "tr": "asla, hiç", "read": "[ne]-vı", "opposite": "always" },
+    { "en": "morning", "tr": "sabah", "read": "[moo]-ning", "note": "in the morning" },
+    { "en": "afternoon", "tr": "öğleden sonra", "read": "aaf-tı-[nuun]" },
+    { "en": "evening", "tr": "akşam", "read": "[iiv]-ning" },
+    { "en": "night", "tr": "gece", "read": "nayt", "note": "at night" },
+    { "en": "week", "tr": "hafta", "read": "{w}iik" },
+    { "en": "weekend", "tr": "hafta sonu", "read": "{w}iik-[end]", "note": "British: at the weekend" },
+    { "en": "o'clock", "tr": "saat (tam)", "read": "ı-[klok]" },
+    { "en": "half past", "tr": "buçuk", "read": "haaf paast" },
+    { "en": "quarter", "tr": "çeyrek", "read": "[k{w}oo]-tı" },
+    { "en": "Monday", "tr": "pazartesi", "read": "[man]-dey" },
+    { "en": "Tuesday", "tr": "salı", "read": "[tyuuz]-dey" },
+    { "en": "Wednesday", "tr": "çarşamba", "read": "[{w}enz]-dey", "note": "ortadaki d okunmaz" },
+    { "en": "Thursday", "tr": "perşembe", "read": "[{t}ööz]-dey" },
+    { "en": "Friday", "tr": "cuma", "read": "[fray]-dey" },
+    { "en": "Saturday", "tr": "cumartesi", "read": "[s{a}]-tı-dey" },
+    { "en": "Sunday", "tr": "pazar", "read": "[san]-dey" },
+    { "en": "seven", "tr": "yedi", "read": "[se]-vın" },
+    { "en": "eight", "tr": "sekiz", "read": "eyt" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Her zaman yedide kalkarım.", "options": ["I always get up at seven.", "I get up always at seven.", "Always I get up at seven."], "answer": "I always get up at seven.", "explain": "Sıklık kelimesi fiilden önce." },
+    { "type": "choice", "prompt": "O her zaman geç kalır.", "options": ["She is always late.", "She always is late."], "answer": "She is always late.", "explain": "am / is / are'dan sonra." },
+    { "type": "choice", "prompt": "___ Monday", "options": ["in", "on", "at"], "answer": "on" },
+    { "type": "choice", "prompt": "___ the morning", "options": ["in", "on", "at"], "answer": "in" },
+    { "type": "choice", "prompt": "___ eight o'clock", "options": ["in", "on", "at"], "answer": "at" },
+    { "type": "choice", "prompt": "___ the weekend (British)", "options": ["at", "on"], "answer": "at" },
+    { "type": "choice", "prompt": "“Wednesday” nasıl okunur?", "options": ["wed-nıs-dey", "wenz-dey"], "answer": "wenz-dey" },
+    { "type": "choice", "prompt": "half past seven = ?", "options": ["7:30", "6:30", "7:15"], "answer": "7:30" },
+    { "type": "write", "prompt": "Asla kahve içmem.", "answers": ["I never drink coffee"] },
+    { "type": "write", "prompt": "Genellikle yedide kalkarım.", "answers": ["I usually get up at seven", "I usually get up at seven o'clock"] },
+    { "type": "write", "prompt": "Pazartesi günleri çalışırım.", "answers": ["I work on Mondays", "I work on Monday"] },
+    { "type": "write", "prompt": "Bazen televizyon izlerim.", "answers": ["Sometimes I watch TV", "I sometimes watch TV"] },
+    { "type": "write", "prompt": "Saat sekiz.", "answers": ["It's eight o'clock", "It is eight o'clock", "It's eight"] },
+    { "type": "write", "prompt": "Hafta sonu evdeyim.", "answers": ["I'm at home at the weekend", "I am at home at the weekend", "At the weekend I'm at home", "At the weekend I am at home"] },
+    { "type": "listen", "say": "Wednesday", "answers": ["Wednesday"] },
+    { "type": "listen", "say": "half past seven", "answers": ["half past seven"] },
+    { "type": "listen", "say": "I often walk to work", "answers": ["I often walk to work"] },
+    { "type": "speak", "say": "I always get up at seven", "accept": ["I always get up at seven"] },
+    { "type": "speak", "say": "What time is it?", "accept": ["What time is it"] },
+    { "type": "speak", "say": "on Wednesday", "accept": ["on Wednesday"] },
+    { "type": "speak", "say": "at the weekend", "accept": ["at the weekend"] },
+    { "type": "speak", "say": "I never eat fish", "accept": ["I never eat fish"] }
+  ]
+}

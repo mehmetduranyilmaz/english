@@ -1,0 +1,67 @@
+{
+  "id": "a2-12",
+  "stage": 15,
+  "title": "must / have to: zorunda olmak + iş ve kurallar",
+  "sections": [
+    {
+      "heading": "must ve have to = zorunda olmak",
+      "body": "<table><tr><th></th><th>Kalıp</th><th>Örnek</th></tr><tr><td><b>must</b> «mast»</td><td>must + yalın fiil<br>(konuşanın kendi kararı, kesin kurallar)</td><td>I <b>must</b> call my mum. → Annemi aramam lazım.<br>You <b>must</b> wear a seatbelt. → Emniyet kemeri takmalısınız.</td></tr><tr><td><b>have to</b> «[h{a}f] tı»</td><td>have / has to + yalın fiil<br>(dışarıdan gelen zorunluluk; günlük konuşmada daha yaygın)</td><td>I <b>have to</b> work on Saturdays. → Cumartesi çalışmak zorundayım.<br>She <b>has to</b> get up early. → Erken kalkmak zorunda.</td></tr></table><p>Geçmişte <b>must</b> kullanılmaz, <b>had to</b> kullanılır: I had to wait an hour. (Bir saat beklemek zorunda kaldım.)</p>"
+    },
+    {
+      "heading": "En önemli fark: mustn't ≠ don't have to",
+      "body": "<table><tr><th></th><th>Anlam</th><th>Örnek</th></tr><tr><td><b>mustn't</b> «[ma]-sınt»</td><td><b>YASAK</b>, yapma!</td><td>You <b>mustn't</b> smoke here. → Burada sigara içmemelisin. (yasak)</td></tr><tr><td><b>don't have to</b></td><td><b>GEREK YOK</b>, istersen yap</td><td>You <b>don't have to</b> come. → Gelmek zorunda değilsin. (gelmesen de olur)</td></tr></table><p>Türkçede ikisi de “-mek zorunda değil / -memeli” gibi karışabilir. Yanlış kullanırsanız anlam tamamen değişir!</p><p class=\"ex\">Soru: <b>Do</b> I <b>have to</b> pay? → Ödemem gerekiyor mu?<br>Cevap: No, you don't. It's free. → Hayır, bedava.</p>"
+    },
+    {
+      "heading": "British: queue",
+      "body": "<p>İngilizler sıra beklemeye çok önem verir. <b>queue</b> «kyuu» = sıra; sıraya girmek. (Amerikan: line)</p><p class=\"ex\">You have to <b>queue</b>. → Sıraya girmeniz gerekiyor.<br>Sorry, are you in the <b>queue</b>? → Pardon, siz sırada mısınız?<br>Sıraya kaynak yapmak (<b>jump the queue</b>) çok kaba sayılır!</p>"
+    },
+    {
+      "heading": "İş ve kurallar",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>office / meeting</td><td>«[o]-fis» / «[mii]-ting»</td><td>ofis / toplantı</td></tr><tr><td>colleague</td><td>«[ko]-liig»</td><td>iş arkadaşı</td></tr><tr><td>email</td><td>«[ii]-meyl»</td><td>e-posta</td></tr><tr><td>deadline</td><td>«[ded]-layn»</td><td>son teslim tarihi</td></tr><tr><td>on time</td><td>«on [taym]»</td><td>zamanında</td></tr><tr><td>exam / homework</td><td>«ig-[z{a}m]» / «[houm]-{w}öök»</td><td>sınav / ödev (sayılamaz)</td></tr><tr><td>rule / uniform</td><td>«ruul» / «[yuu]-ni-foom»</td><td>kural / üniforma</td></tr><tr><td>smoke / park</td><td>«smouk» / «paak»</td><td>sigara içmek / park etmek</td></tr><tr><td>seatbelt</td><td>«[siit]-belt»</td><td>emniyet kemeri</td></tr><tr><td>free</td><td>«frii»</td><td>ücretsiz; boş, serbest</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "must", "tr": "-meli, zorunda", "read": "mast" },
+    { "en": "mustn't", "tr": "-memeli (YASAK)", "read": "[ma]-sınt", "note": "ilk t okunmaz" },
+    { "en": "have to", "tr": "zorunda olmak", "read": "[h{a}f] tı", "note": "had to: zorunda kaldı" },
+    { "en": "don't have to", "tr": "zorunda değil (GEREK YOK)", "read": "dount [h{a}f] tı" },
+    { "en": "queue", "tr": "sıra; sıraya girmek", "read": "kyuu", "note": "British; Amerikan: line" },
+    { "en": "office", "tr": "ofis", "read": "[o]-fis" },
+    { "en": "meeting", "tr": "toplantı", "read": "[mii]-ting" },
+    { "en": "colleague", "tr": "iş arkadaşı", "read": "[ko]-liig" },
+    { "en": "email", "tr": "e-posta", "read": "[ii]-meyl" },
+    { "en": "deadline", "tr": "son teslim tarihi", "read": "[ded]-layn" },
+    { "en": "on time", "tr": "zamanında", "read": "on [taym]" },
+    { "en": "exam", "tr": "sınav", "read": "ig-[z{a}m]" },
+    { "en": "homework", "tr": "ev ödevi", "read": "[houm]-{w}öök", "note": "sayılamaz" },
+    { "en": "rule", "tr": "kural", "read": "ruul" },
+    { "en": "uniform", "tr": "üniforma", "read": "[yuu]-ni-foom" },
+    { "en": "smoke", "tr": "sigara içmek; duman", "read": "smouk" },
+    { "en": "park", "tr": "park; park etmek", "read": "paak" },
+    { "en": "seatbelt", "tr": "emniyet kemeri", "read": "[siit]-belt" },
+    { "en": "free", "tr": "ücretsiz; boş, serbest", "read": "frii" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Burada sigara içmemelisin. (YASAK)", "options": ["You mustn't smoke here.", "You don't have to smoke here."], "answer": "You mustn't smoke here." },
+    { "type": "choice", "prompt": "Gelmek zorunda değilsin. (gelmesen de olur)", "options": ["You mustn't come.", "You don't have to come."], "answer": "You don't have to come.", "explain": "mustn't yasak demek olurdu!" },
+    { "type": "choice", "prompt": "She ___ get up early.", "options": ["has to", "have to", "must to"], "answer": "has to" },
+    { "type": "choice", "prompt": "Dün bir saat beklemek zorunda kaldım.", "options": ["I must wait an hour yesterday.", "I had to wait an hour yesterday."], "answer": "I had to wait an hour yesterday." },
+    { "type": "choice", "prompt": "Ödemem gerekiyor mu?", "options": ["Do I have to pay?", "Must I to pay?", "Have I to pay?"], "answer": "Do I have to pay?" },
+    { "type": "choice", "prompt": "Sıra (British)", "options": ["queue", "line"], "answer": "queue" },
+    { "type": "choice", "prompt": "“queue” nasıl okunur?", "options": ["kyuu", "kuvu"], "answer": "kyuu" },
+    { "type": "write", "prompt": "Cumartesi günleri çalışmak zorundayım.", "answers": ["I have to work on Saturdays", "I have to work on Saturday"] },
+    { "type": "write", "prompt": "Annemi aramam lazım.", "answers": ["I must call my mum", "I must call my mother", "I have to call my mum", "I have to call my mother"] },
+    { "type": "write", "prompt": "Zamanında gelmek zorundasın.", "answers": ["You have to come on time", "You must come on time", "You have to be on time", "You must be on time"] },
+    { "type": "write", "prompt": "Bugün çalışmak zorunda değilim.", "answers": ["I don't have to work today", "I do not have to work today"] },
+    { "type": "write", "prompt": "Saat üçte toplantım var.", "answers": ["I've got a meeting at three", "I have a meeting at three", "I have got a meeting at three"] },
+    { "type": "write", "prompt": "Bedava.", "answers": ["It's free", "It is free"] },
+    { "type": "listen", "say": "You mustn't park here", "answers": ["You mustn't park here", "You must not park here"] },
+    { "type": "listen", "say": "We had to queue", "answers": ["We had to queue"] },
+    { "type": "listen", "say": "The deadline is on Friday", "answers": ["The deadline is on Friday"] },
+    { "type": "speak", "say": "I have to go", "accept": ["I have to go", "I've got to go"] },
+    { "type": "speak", "say": "You don't have to pay", "accept": ["You don't have to pay", "You do not have to pay"] },
+    { "type": "speak", "say": "I must call my mum", "accept": ["I must call my mum", "I must call my mom"] },
+    { "type": "speak", "say": "Are you in the queue?", "accept": ["Are you in the queue"] },
+    { "type": "speak", "say": "I've got a meeting", "accept": ["I've got a meeting", "I have got a meeting", "I have a meeting"] }
+  ]
+}

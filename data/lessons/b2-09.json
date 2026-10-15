@@ -1,0 +1,274 @@
+{
+  "id": "b2-09",
+  "stage": 29,
+  "title": "will be doing: Yarın bu saatte uçuyor olacağım + iş dünyası",
+  "sections": [
+    {
+      "heading": "Gelecekte belirli bir anda devam eden eylem",
+      "body": "<p><b>will be + -ing</b>: Gelecekte belli bir anda <b>ortasında olacağınız</b> eylemler. Türkçedeki “-iyor olacağım”:</p><p class=\"ex\">This time tomorrow I'<b>ll be flying</b> to London. → Yarın bu saatte Londra'ya uçuyor olacağım.<br>Don't call at eight; I'<b>ll be having</b> dinner. → Sekizde arama; akşam yemeği yiyor olacağım.<br>In ten years, we'<b>ll</b> all <b>be driving</b> electric cars. → On yıl sonra hepimiz elektrikli araba kullanıyor olacağız.</p>"
+    },
+    {
+      "heading": "Kibar soru: Will you be…?",
+      "body": "<p>Birinin planını <b>kibarca</b> sormak için İngilizler bu yapıyı sık kullanır; “Will you…?” ricası gibi değil, sadece bilgi sorar:</p><p class=\"ex\"><b>Will you be using</b> the car tonight? → Bu akşam arabayı kullanacak mısın? (lazımsa ben alayım)<br><b>Will you be joining</b> us for lunch? → Öğle yemeğinde bize katılacak mısınız?</p>"
+    },
+    {
+      "heading": "İş dünyası",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>project</td><td>«[pro]-cekt»</td><td>proje (British: “pro”)</td></tr><tr><td>schedule</td><td>«[şe]-dyuul»</td><td>program, takvim (British: “şe”; Amerikan: “ske”)</td></tr><tr><td>conference</td><td>«[kon]-fı-rıns»</td><td>konferans</td></tr><tr><td>presentation</td><td>«pre-zın-[tey]-şın»</td><td>sunum (give a presentation)</td></tr><tr><td>client / customer</td><td>«[klay]-ınt» / «[kas]-tı-mı»</td><td>müşteri (hizmet) / müşteri (mağaza)</td></tr><tr><td>contract</td><td>«[kon]-tr{a}kt»</td><td>sözleşme</td></tr><tr><td>negotiate</td><td>«ni-[gou]-şi-eyt»</td><td>pazarlık etmek, müzakere etmek</td></tr><tr><td>budget</td><td>«[ba]-cit»</td><td>bütçe</td></tr><tr><td>target</td><td>«[taa]-git»</td><td>hedef (satış vb.)</td></tr><tr><td>launch</td><td>«loonç»</td><td>piyasaya sürmek</td></tr><tr><td>deal</td><td>«diil»</td><td>anlaşma</td></tr><tr><td>join</td><td>«coyn»</td><td>katılmak</td></tr></table>"
+    }
+  ],
+  "words": [
+    {
+      "en": "this time tomorrow",
+      "tr": "yarın bu saatte",
+      "read": "{d}is [taym] tı-[mo]-rou"
+    },
+    {
+      "en": "electric",
+      "tr": "elektrikli",
+      "read": "i-[lek]-trik"
+    },
+    {
+      "en": "join",
+      "tr": "katılmak",
+      "read": "coyn"
+    },
+    {
+      "en": "project",
+      "tr": "proje",
+      "read": "[pro]-cekt",
+      "note": "British: “pro”"
+    },
+    {
+      "en": "schedule",
+      "tr": "program, takvim",
+      "read": "[şe]-dyuul",
+      "note": "British: “şe”; Amerikan: “ske”"
+    },
+    {
+      "en": "conference",
+      "tr": "konferans",
+      "read": "[kon]-fı-rıns"
+    },
+    {
+      "en": "presentation",
+      "tr": "sunum",
+      "read": "pre-zın-[tey]-şın",
+      "note": "give a presentation"
+    },
+    {
+      "en": "client",
+      "tr": "müşteri (hizmet); (yazılım) istemci",
+      "read": "[klay]-ınt"
+    },
+    {
+      "en": "customer",
+      "tr": "müşteri (mağaza)",
+      "read": "[kas]-tı-mı"
+    },
+    {
+      "en": "contract",
+      "tr": "sözleşme",
+      "read": "[kon]-tr{a}kt"
+    },
+    {
+      "en": "negotiate",
+      "tr": "müzakere etmek",
+      "read": "ni-[gou]-şi-eyt"
+    },
+    {
+      "en": "budget",
+      "tr": "bütçe",
+      "read": "[ba]-cit"
+    },
+    {
+      "en": "target",
+      "tr": "hedef",
+      "read": "[taa]-git"
+    },
+    {
+      "en": "launch",
+      "tr": "piyasaya sürmek",
+      "read": "loonç"
+    },
+    {
+      "en": "deal",
+      "tr": "anlaşma",
+      "read": "diil",
+      "note": "It's a deal! Anlaştık!"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Yarın bu saatte Londra'ya uçuyor olacağım.",
+      "options": [
+        "This time tomorrow I'll be flying to London.",
+        "This time tomorrow I'll fly to London.",
+        "This time tomorrow I'm flying to London now."
+      ],
+      "answer": "This time tomorrow I'll be flying to London."
+    },
+    {
+      "type": "choice",
+      "prompt": "Sekizde arama; yemek yiyor olacağım.",
+      "options": [
+        "Don't call at eight; I'll be having dinner.",
+        "Don't call at eight; I'll have dinner.",
+        "Don't call at eight; I have dinner."
+      ],
+      "answer": "Don't call at eight; I'll be having dinner."
+    },
+    {
+      "type": "choice",
+      "prompt": "Bu akşam arabayı kullanacak mısın? (kibar)",
+      "options": [
+        "Will you be using the car tonight?",
+        "Will you use the car tonight?",
+        "Do you use the car tonight?"
+      ],
+      "answer": "Will you be using the car tonight?",
+      "explain": "Kibar bilgi sorusu → will be + -ing."
+    },
+    {
+      "type": "choice",
+      "prompt": "“schedule” British İngilizcede nasıl okunur?",
+      "options": [
+        "şe-dyuul",
+        "ske-cul"
+      ],
+      "answer": "şe-dyuul"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sunum yapmak",
+      "options": [
+        "give a presentation",
+        "do a presentation of",
+        "make presentation"
+      ],
+      "answer": "give a presentation"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anlaştık!",
+      "options": [
+        "It's a deal!",
+        "It's a deals!",
+        "Deal it!"
+      ],
+      "answer": "It's a deal!"
+    },
+    {
+      "type": "write",
+      "prompt": "Gelecek hafta bu saatte tatilde olacağım. (dinleniyor olacağım)",
+      "answers": [
+        "This time next week I'll be relaxing on holiday",
+        "This time next week I will be relaxing on holiday",
+        "This time next week I'll be on holiday"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Öğle yemeğinde bize katılacak mısınız?",
+      "answers": [
+        "Will you be joining us for lunch"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Yarın bir sunum yapacağım.",
+      "answers": [
+        "I'm giving a presentation tomorrow",
+        "I'll be giving a presentation tomorrow",
+        "I'm going to give a presentation tomorrow",
+        "I will give a presentation tomorrow"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Sözleşmeyi imzaladık.",
+      "answers": [
+        "We've signed the contract",
+        "We signed the contract",
+        "We have signed the contract"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Bütçemiz çok küçük.",
+      "answers": [
+        "Our budget is very small",
+        "Our budget is too small"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Yeni ürünü gelecek ay piyasaya süreceğiz.",
+      "answers": [
+        "We'll launch the new product next month",
+        "We will launch the new product next month",
+        "We're launching the new product next month",
+        "We're going to launch the new product next month"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "I'll be working late tonight",
+      "answers": [
+        "I'll be working late tonight",
+        "I will be working late tonight"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Let me check my schedule",
+      "answers": [
+        "Let me check my schedule"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "The client wants a new contract",
+      "answers": [
+        "The client wants a new contract"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I'll be waiting for you",
+      "accept": [
+        "I'll be waiting for you",
+        "I will be waiting for you"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Will you be joining us?",
+      "accept": [
+        "Will you be joining us"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It's a deal",
+      "accept": [
+        "It's a deal",
+        "It is a deal"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Let me check my schedule",
+      "accept": [
+        "Let me check my schedule"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "We need a bigger budget",
+      "accept": [
+        "We need a bigger budget"
+      ]
+    }
+  ]
+}

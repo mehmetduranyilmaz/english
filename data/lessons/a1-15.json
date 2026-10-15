@@ -1,0 +1,69 @@
+{
+  "id": "a1-15",
+  "stage": 6,
+  "title": "there is / there are: Mutfakta bir buzdolabı var",
+  "sections": [
+    {
+      "heading": "var = there is / there are",
+      "body": "<p>Türkçedeki <b>“var”</b> için İngilizcede iki şekil vardır:</p><table><tr><th></th><th>Ne zaman?</th><th>Örnek</th></tr><tr><td><b>there is</b> (there's)</td><td>Tekil veya sayılamayan</td><td>There is a fridge in the kitchen. → Mutfakta bir buzdolabı var.</td></tr><tr><td><b>there are</b></td><td>Çoğul</td><td>There are two bedrooms. → İki yatak odası var.</td></tr></table><p><b>Sıra Türkçeden farklı:</b> Türkçede önce yer, sonra “var” gelir. İngilizcede önce <b>there is</b>, sonra şey, en sonda yer:</p><p class=\"ex\">Mutfakta / bir buzdolabı / var.<br><b>There is</b> / a fridge / in the kitchen.</p><p class=\"ex\"><span class=\"bad\">✘ There is two chairs.</span> → ✔ There <b>are</b> two chairs.</p>"
+    },
+    {
+      "heading": "yok ve var mı?",
+      "body": "<table><tr><th></th><th>Tekil</th><th>Çoğul</th></tr><tr><td><b>Olumsuz</b> (yok)</td><td>There isn't a garden.</td><td>There aren't any chairs.</td></tr><tr><td><b>Soru</b> (var mı?)</td><td>Is there a garden?</td><td>Are there any chairs?</td></tr><tr><td><b>Kısa cevap</b></td><td>Yes, there is. / No, there isn't.</td><td>Yes, there are. / No, there aren't.</td></tr></table><p><b>any</b> «[e]-ni» çoğul olumsuz ve sorularda “hiç” anlamı katar. Bir sonraki derste ayrıntılı göreceğiz.</p>"
+    },
+    {
+      "heading": "Kaç tane var? How many",
+      "body": "<p class=\"ex\"><b>How many</b> rooms are there? → Kaç oda var?<br>There are four rooms. → Dört oda var.</p><p><b>how</b> «hau» = nasıl, <b>many</b> «[me]-ni» = çok (sayılabilen); birlikte “kaç tane”.</p>"
+    },
+    {
+      "heading": "Evdeki eşyalar",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>cupboard</td><td>«[ka]-bıd»</td><td>dolap (mutfak)</td></tr><tr><td>wardrobe</td><td>«[{w}oo]-droub»</td><td>gardırop, elbise dolabı</td></tr><tr><td>mirror</td><td>«[mi]-rı»</td><td>ayna</td></tr><tr><td>carpet</td><td>«[kaa]-pıt»</td><td>halı</td></tr><tr><td>clock</td><td>«klok»</td><td>duvar / masa saati</td></tr><tr><td>cooker</td><td>«[ku]-kı»</td><td>ocak (British; Amerikan: stove)</td></tr><tr><td>oven</td><td>«[a]-vın»</td><td>fırın</td></tr><tr><td>washing machine</td><td>«[{w}o]-şing mı-[şiin]»</td><td>çamaşır makinesi</td></tr><tr><td>sink</td><td>«sink»</td><td>lavabo, evye</td></tr><tr><td>shower</td><td>«[şau]-ı»</td><td>duş</td></tr><tr><td>toilet</td><td>«[toy]-lıt»</td><td>tuvalet</td></tr><tr><td>stairs</td><td>«steez»</td><td>merdiven</td></tr></table>"
+    },
+    {
+      "heading": "British telaffuz: bağlayan r",
+      "body": "<p>British İngilizcede sondaki r normalde okunmaz: there «{d}ee». Ama <b>sonraki kelime ünlüyle başlıyorsa</b> r okunur ve iki kelime birleşir:</p><p class=\"ex\">there is → «{d}e-riz»<br>there are → «{d}e-rı»<br>there aren't → «{d}e-raant»</p><p><b>cupboard</b> «[ka]-bıd»: p okunmaz!</p>"
+    }
+  ],
+  "words": [
+    { "en": "there is", "tr": "var (tekil)", "read": "{d}e-riz", "note": "kısa hali there's: “deez”" },
+    { "en": "there are", "tr": "var (çoğul)", "read": "{d}e-rı" },
+    { "en": "any", "tr": "hiç (olumsuz / soru)", "read": "[e]-ni" },
+    { "en": "how", "tr": "nasıl", "read": "hau" },
+    { "en": "many", "tr": "çok (sayılabilen)", "read": "[me]-ni", "note": "how many: kaç tane" },
+    { "en": "cupboard", "tr": "dolap (mutfak)", "read": "[ka]-bıd", "note": "p okunmaz" },
+    { "en": "wardrobe", "tr": "gardırop", "read": "[{w}oo]-droub" },
+    { "en": "mirror", "tr": "ayna", "read": "[mi]-rı" },
+    { "en": "carpet", "tr": "halı", "read": "[kaa]-pıt" },
+    { "en": "clock", "tr": "duvar / masa saati", "read": "klok", "note": "kol saati: watch" },
+    { "en": "cooker", "tr": "ocak", "read": "[ku]-kı", "note": "British; Amerikan: stove" },
+    { "en": "oven", "tr": "fırın", "read": "[a]-vın" },
+    { "en": "washing machine", "tr": "çamaşır makinesi", "read": "[{w}o]-şing mı-[şiin]" },
+    { "en": "sink", "tr": "lavabo, evye", "read": "sink" },
+    { "en": "shower", "tr": "duş", "read": "[şau]-ı" },
+    { "en": "toilet", "tr": "tuvalet", "read": "[toy]-lıt" },
+    { "en": "stairs", "tr": "merdiven", "read": "steez" },
+    { "en": "four", "tr": "dört", "read": "foo" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "There ___ a fridge in the kitchen.", "options": ["is", "are"], "answer": "is" },
+    { "type": "choice", "prompt": "There ___ two bedrooms.", "options": ["is", "are"], "answer": "are" },
+    { "type": "choice", "prompt": "Mutfakta bir buzdolabı var.", "options": ["In the kitchen is a fridge.", "There is a fridge in the kitchen.", "A fridge there is in the kitchen."], "answer": "There is a fridge in the kitchen.", "explain": "Önce there is, sonra şey, en sonda yer." },
+    { "type": "choice", "prompt": "___ there a garden?", "options": ["Is", "Are"], "answer": "Is" },
+    { "type": "choice", "prompt": "Is there a lamp? — No, ___", "options": ["there isn't.", "there aren't.", "it isn't."], "answer": "there isn't." },
+    { "type": "choice", "prompt": "Kaç oda var?", "options": ["How many rooms are there?", "How many rooms there are?", "How many room is there?"], "answer": "How many rooms are there?" },
+    { "type": "choice", "prompt": "“cupboard” nasıl okunur?", "options": ["kap-bord", "ka-bıd"], "answer": "ka-bıd", "explain": "p okunmaz, sondaki r de okunmaz." },
+    { "type": "write", "prompt": "Banyoda bir ayna var.", "answers": ["There is a mirror in the bathroom", "There's a mirror in the bathroom"] },
+    { "type": "write", "prompt": "Odada iki sandalye var.", "answers": ["There are two chairs in the room"] },
+    { "type": "write", "prompt": "Mutfakta bir fırın var mı?", "answers": ["Is there an oven in the kitchen"] },
+    { "type": "write", "prompt": "Duvarda bir saat var.", "answers": ["There is a clock on the wall", "There's a clock on the wall"] },
+    { "type": "write", "prompt": "Burada bir dolap yok.", "answers": ["There isn't a cupboard here", "There is not a cupboard here", "There's no cupboard here"] },
+    { "type": "write", "prompt": "Evet, var. (çoğul)", "answers": ["Yes, there are"] },
+    { "type": "listen", "say": "There's a sofa", "answers": ["There's a sofa", "There is a sofa"] },
+    { "type": "listen", "say": "Are there any chairs?", "answers": ["Are there any chairs"] },
+    { "type": "listen", "say": "There are three bedrooms", "answers": ["There are three bedrooms", "There are 3 bedrooms"] },
+    { "type": "speak", "say": "There is a garden", "accept": ["There is a garden", "There's a garden"] },
+    { "type": "speak", "say": "Is there a toilet?", "accept": ["Is there a toilet"] },
+    { "type": "speak", "say": "There are two bathrooms", "accept": ["There are two bathrooms"] },
+    { "type": "speak", "say": "How many rooms are there?", "accept": ["How many rooms are there"] }
+  ]
+}

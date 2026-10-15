@@ -1,0 +1,385 @@
+{
+  "id": "a1-11",
+  "stage": 4,
+  "title": "Sıfatlar 3: Eşyalar, durumlar ve renkler",
+  "sections": [
+    {
+      "heading": "“Uzun”: tall mı, long mu?",
+      "body": "<table><tr><th></th><th>Ne için?</th><th>Örnek</th></tr><tr><td><b>tall</b> «tool»</td><td>Yukarı doğru uzun: insan, bina, ağaç</td><td>a tall man, a tall tree (ağaç)</td></tr><tr><td><b>long</b> «long»</td><td>Yana doğru veya süre olarak uzun: yol, saç, film</td><td>long hair (uzun saç), a long film (uzun bir film)</td></tr></table><p>İkisinin zıttı da <b>short</b> «şoot»: a short man, a short film.</p><p><b>British not:</b> İngilizler “film” der; Amerikalılar “movie” der.</p>"
+    },
+    {
+      "heading": "Zıt anlamlı çiftler",
+      "body": "<table><tr><th>Sıfat</th><th>Okunuş</th><th>Zıttı</th><th>Okunuş</th></tr><tr><td>heavy (ağır)</td><td>«[he]-vi»</td><td>light (hafif)</td><td>«layt»</td></tr><tr><td>fast (hızlı)</td><td>«faast»</td><td>slow (yavaş)</td><td>«slou»</td></tr><tr><td>clean (temiz)</td><td>«kliin»</td><td>dirty (kirli)</td><td>«[döö]-ti»</td></tr><tr><td>full (dolu, tok)</td><td>«ful»</td><td>empty (boş)</td><td>«[emp]-ti»</td></tr><tr><td>quiet (sessiz)</td><td>«[k{w}ay]-ıt»</td><td>noisy (gürültülü)</td><td>«[noy]-zi»</td></tr><tr><td>right (doğru)</td><td>«rayt»</td><td>wrong (yanlış)</td><td>«rong»</td></tr><tr><td>interesting (ilginç)</td><td>«[in]-trıs-ting»</td><td>boring (sıkıcı)</td><td>«[boo]-ring»</td></tr><tr><td>warm (ılık, sıcak)</td><td>«{w}oom»</td><td>cool (serin)</td><td>«kuul»</td></tr></table><p>Önceki derstekiler de unutulmasın: big / small, new / old, hot / cold, cheap / expensive, easy / difficult.</p>"
+    },
+    {
+      "heading": "light ve dark: iki anlam",
+      "body": "<p class=\"ex\"><b>light</b> = hafif → a light bag (hafif bir çanta)<br><b>light</b> = açık (renk) → light blue (açık mavi)<br><b>dark</b> «daak» = karanlık → It's dark. (Hava karanlık.)<br><b>dark</b> = koyu (renk) → dark blue (koyu mavi)</p>"
+    },
+    {
+      "heading": "Renkler",
+      "body": "<table><tr><th>Renk</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>red</td><td>«red»</td><td>kırmızı</td></tr><tr><td>blue</td><td>«bluu»</td><td>mavi</td></tr><tr><td>green</td><td>«griin»</td><td>yeşil</td></tr><tr><td>yellow</td><td>«[ye]-lou»</td><td>sarı</td></tr><tr><td>orange</td><td>«[o]-rinc»</td><td>turuncu</td></tr><tr><td>pink</td><td>«pink»</td><td>pembe</td></tr><tr><td>brown</td><td>«braun»</td><td>kahverengi</td></tr><tr><td>grey</td><td>«grey»</td><td>gri</td></tr><tr><td>black</td><td>«bl{a}k»</td><td>siyah</td></tr><tr><td>white</td><td>«{w}ayt»</td><td>beyaz</td></tr></table><p><b>British yazım:</b> İngilizler <b>grey</b> yazar, Amerikalılar <b>gray</b>.</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>fast</b> «faast»: British İngilizcede uzun ve geniş “aa”. Amerikalılar kısa “fest” gibi der.</li><li><b>quiet</b> «[k{w}ay]-ıt»: iki hece. “kayt” değil.</li><li><b>dirty</b> «[döö]-ti», <b>warm</b> «{w}oom», <b>dark</b> «daak»: r okunmaz, önündeki ses uzar.</li><li><b>wrong</b> «rong»: baştaki w okunmaz.</li></ul>"
+    }
+  ],
+  "words": [
+    {
+      "en": "long",
+      "tr": "uzun (eşya, süre)",
+      "read": "long",
+      "opposite": "short"
+    },
+    {
+      "en": "heavy",
+      "tr": "ağır",
+      "read": "[he]-vi",
+      "opposite": "light"
+    },
+    {
+      "en": "light",
+      "tr": "hafif; açık (renk); ışık",
+      "read": "layt",
+      "opposite": "heavy / dark"
+    },
+    {
+      "en": "dark",
+      "tr": "karanlık; koyu (renk)",
+      "read": "daak",
+      "opposite": "light"
+    },
+    {
+      "en": "fast",
+      "tr": "hızlı",
+      "read": "faast",
+      "opposite": "slow",
+      "note": "British: uzun aa"
+    },
+    {
+      "en": "slow",
+      "tr": "yavaş",
+      "read": "slou",
+      "opposite": "fast"
+    },
+    {
+      "en": "clean",
+      "tr": "temiz",
+      "read": "kliin",
+      "opposite": "dirty"
+    },
+    {
+      "en": "dirty",
+      "tr": "kirli",
+      "read": "[döö]-ti",
+      "opposite": "clean"
+    },
+    {
+      "en": "full",
+      "tr": "dolu; tok",
+      "read": "ful",
+      "opposite": "empty"
+    },
+    {
+      "en": "empty",
+      "tr": "boş",
+      "read": "[emp]-ti",
+      "opposite": "full"
+    },
+    {
+      "en": "quiet",
+      "tr": "sessiz",
+      "read": "[k{w}ay]-ıt",
+      "opposite": "noisy"
+    },
+    {
+      "en": "noisy",
+      "tr": "gürültülü",
+      "read": "[noy]-zi",
+      "opposite": "quiet"
+    },
+    {
+      "en": "right",
+      "tr": "doğru",
+      "read": "rayt",
+      "opposite": "wrong"
+    },
+    {
+      "en": "wrong",
+      "tr": "yanlış",
+      "read": "rong",
+      "opposite": "right",
+      "note": "baştaki w okunmaz"
+    },
+    {
+      "en": "interesting",
+      "tr": "ilginç",
+      "read": "[in]-trıs-ting",
+      "opposite": "boring"
+    },
+    {
+      "en": "boring",
+      "tr": "sıkıcı",
+      "read": "[boo]-ring",
+      "opposite": "interesting"
+    },
+    {
+      "en": "warm",
+      "tr": "ılık, sıcak",
+      "read": "{w}oom",
+      "opposite": "cool"
+    },
+    {
+      "en": "cool",
+      "tr": "serin",
+      "read": "kuul",
+      "opposite": "warm"
+    },
+    {
+      "en": "film",
+      "tr": "film",
+      "read": "film",
+      "note": "British; Amerikalılar movie der"
+    },
+    {
+      "en": "blue",
+      "tr": "mavi",
+      "read": "bluu"
+    },
+    {
+      "en": "green",
+      "tr": "yeşil",
+      "read": "griin"
+    },
+    {
+      "en": "yellow",
+      "tr": "sarı",
+      "read": "[ye]-lou"
+    },
+    {
+      "en": "orange",
+      "tr": "turuncu; portakal",
+      "read": "[o]-rinc"
+    },
+    {
+      "en": "pink",
+      "tr": "pembe",
+      "read": "pink"
+    },
+    {
+      "en": "brown",
+      "tr": "kahverengi",
+      "read": "braun"
+    },
+    {
+      "en": "grey",
+      "tr": "gri",
+      "read": "grey",
+      "note": "British yazım; Amerikan: gray"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "uzun bir film",
+      "options": [
+        "a tall film",
+        "a long film"
+      ],
+      "answer": "a long film",
+      "explain": "Süre olarak uzun: long."
+    },
+    {
+      "type": "choice",
+      "prompt": "uzun bir ağaç (tree)",
+      "options": [
+        "a long tree",
+        "a tall tree"
+      ],
+      "answer": "a tall tree",
+      "explain": "Yukarı doğru uzun: tall."
+    },
+    {
+      "type": "choice",
+      "prompt": "heavy ↔ ?",
+      "options": [
+        "light",
+        "dark",
+        "slow"
+      ],
+      "answer": "light"
+    },
+    {
+      "type": "choice",
+      "prompt": "clean ↔ ?",
+      "options": [
+        "empty",
+        "dirty",
+        "wrong"
+      ],
+      "answer": "dirty"
+    },
+    {
+      "type": "choice",
+      "prompt": "full ↔ ?",
+      "options": [
+        "empty",
+        "light",
+        "quiet"
+      ],
+      "answer": "empty"
+    },
+    {
+      "type": "choice",
+      "prompt": "boring ↔ ?",
+      "options": [
+        "noisy",
+        "quiet",
+        "interesting"
+      ],
+      "answer": "interesting"
+    },
+    {
+      "type": "choice",
+      "prompt": "açık mavi",
+      "options": [
+        "light blue",
+        "dark blue",
+        "blue light"
+      ],
+      "answer": "light blue"
+    },
+    {
+      "type": "choice",
+      "prompt": "British İngilizcesinde “gri” nasıl yazılır?",
+      "options": [
+        "grey",
+        "gray"
+      ],
+      "answer": "grey"
+    },
+    {
+      "type": "write",
+      "prompt": "hızlı bir araba",
+      "answers": [
+        "a fast car"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Çanta ağır.",
+      "answers": [
+        "The bag is heavy",
+        "The bag's heavy"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "boş bir sandalye",
+      "answers": [
+        "an empty chair"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "kirli su",
+      "answers": [
+        "dirty water"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "yeşil bir çanta",
+      "answers": [
+        "a green bag"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Film çok sıkıcı.",
+      "answers": [
+        "The film is very boring",
+        "The film's very boring"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Ev sessiz.",
+      "answers": [
+        "The house is quiet"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Bu yanlış.",
+      "answers": [
+        "This is wrong",
+        "That's wrong",
+        "That is wrong",
+        "It's wrong",
+        "It is wrong"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "interesting",
+      "answers": [
+        "interesting"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "a dark blue car",
+      "answers": [
+        "a dark blue car"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "It's very noisy",
+      "answers": [
+        "It's very noisy",
+        "It is very noisy"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "a fast car",
+      "accept": [
+        "a fast car"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "a long film",
+      "accept": [
+        "a long film"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "light blue",
+      "accept": [
+        "light blue"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It's very interesting",
+      "accept": [
+        "It's very interesting",
+        "It is very interesting"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "quiet",
+      "accept": [
+        "quiet"
+      ],
+      "mistakes": {
+        "quite": "“quite” (oldukça) anlaşıldı. quiet iki hecedir: “kway-ıt”."
+      }
+    }
+  ]
+}

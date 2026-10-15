@@ -1,0 +1,261 @@
+{
+  "id": "dev-code",
+  "group": "dev",
+  "title": "Yazılım 6: kod dili (değişken, fonksiyon…)",
+  "level": "B1",
+  "intro": "<p>Kodunuzu sesli anlatırken kullanacağınız kelimeler. <b>Okunuş:</b> integer «[in]-ti-cı», boolean «[buu]-li-ın», algorithm «[{a}l]-gı-ri-{d}ım», array «ı-[rey]», null «nal».</p>",
+  "words": [
+    {
+      "en": "variable",
+      "tr": "değişken",
+      "read": "[vee]-ri-ı-bıl",
+      "type": "isim",
+      "level": "B1",
+      "example": "Declare a new variable.",
+      "exampleTr": "Yeni bir değişken tanımla."
+    },
+    {
+      "en": "function",
+      "tr": "fonksiyon",
+      "read": "[fank]-şın",
+      "type": "isim",
+      "level": "B1",
+      "example": "This function is too long.",
+      "exampleTr": "Bu fonksiyon çok uzun."
+    },
+    {
+      "en": "method",
+      "tr": "metot, yöntem",
+      "read": "[me]-{t}ıd",
+      "type": "isim",
+      "level": "B1",
+      "example": "Call the save method.",
+      "exampleTr": "Save metodunu çağır."
+    },
+    {
+      "en": "class",
+      "tr": "sınıf",
+      "read": "klaas",
+      "type": "isim",
+      "level": "A2",
+      "example": "Create a new class for users.",
+      "exampleTr": "Kullanıcılar için yeni bir sınıf oluştur.",
+      "note": "British: uzun aa"
+    },
+    {
+      "en": "object",
+      "tr": "nesne",
+      "read": "[ob]-cikt",
+      "type": "isim",
+      "level": "B1",
+      "example": "It returns an object.",
+      "exampleTr": "Bir nesne döndürüyor."
+    },
+    {
+      "en": "array",
+      "tr": "dizi",
+      "read": "ı-[rey]",
+      "type": "isim",
+      "level": "B2",
+      "example": "Loop through the array.",
+      "exampleTr": "Dizide döngüyle gez."
+    },
+    {
+      "en": "string",
+      "tr": "metin (string); ip",
+      "read": "string",
+      "type": "isim",
+      "level": "B1",
+      "example": "Convert the number to a string.",
+      "exampleTr": "Sayıyı string'e çevir."
+    },
+    {
+      "en": "integer",
+      "tr": "tam sayı",
+      "read": "[in]-ti-cı",
+      "type": "isim",
+      "level": "B2",
+      "example": "The ID must be an integer.",
+      "exampleTr": "ID tam sayı olmalı."
+    },
+    {
+      "en": "boolean",
+      "tr": "mantıksal (true/false)",
+      "read": "[buu]-li-ın",
+      "type": "isim",
+      "level": "B2",
+      "example": "It returns a boolean.",
+      "exampleTr": "Boolean değer döndürüyor."
+    },
+    {
+      "en": "parameter",
+      "tr": "parametre",
+      "read": "pı-[r{a}]-mi-tı",
+      "type": "isim",
+      "level": "B2",
+      "example": "The function takes two parameters.",
+      "exampleTr": "Fonksiyon iki parametre alıyor.",
+      "note": "vurgu ikinci hecede"
+    },
+    {
+      "en": "argument",
+      "tr": "argüman; tartışma",
+      "read": "[aa]-gyu-mınt",
+      "type": "isim",
+      "level": "B1",
+      "example": "Pass the user ID as an argument.",
+      "exampleTr": "Kullanıcı ID'sini argüman olarak ver."
+    },
+    {
+      "en": "loop",
+      "tr": "döngü",
+      "read": "luup",
+      "type": "isim",
+      "level": "B1",
+      "example": "It's stuck in an infinite loop.",
+      "exampleTr": "Sonsuz bir döngüde takıldı."
+    },
+    {
+      "en": "condition",
+      "tr": "koşul; (sağlık) rahatsızlık, hastalık",
+      "read": "kın-[di]-şın",
+      "type": "isim",
+      "level": "B1",
+      "example": "Check the condition first.",
+      "exampleTr": "Önce koşulu kontrol et."
+    },
+    {
+      "en": "statement",
+      "tr": "ifade, deyim; açıklama; hesap özeti",
+      "read": "[steyt]-mınt",
+      "type": "isim",
+      "level": "B2",
+      "example": "Add an if statement here.",
+      "exampleTr": "Buraya bir if ifadesi ekle."
+    },
+    {
+      "en": "syntax",
+      "tr": "sözdizimi",
+      "read": "[sin]-t{a}ks",
+      "type": "isim",
+      "level": "B2",
+      "example": "There's a syntax error.",
+      "exampleTr": "Bir sözdizimi hatası var."
+    },
+    {
+      "en": "compile",
+      "tr": "derlemek",
+      "read": "kım-[payl]",
+      "type": "fiil",
+      "level": "B2",
+      "example": "The code doesn't compile.",
+      "exampleTr": "Kod derlenmiyor."
+    },
+    {
+      "en": "execute",
+      "tr": "çalıştırmak, yürütmek",
+      "read": "[ek]-si-kyuut",
+      "type": "fiil",
+      "level": "B2",
+      "example": "Execute the script.",
+      "exampleTr": "Betiği çalıştır."
+    },
+    {
+      "en": "input",
+      "tr": "girdi",
+      "read": "[in]-put",
+      "type": "isim",
+      "level": "B1",
+      "example": "Validate the user input.",
+      "exampleTr": "Kullanıcı girdisini doğrula.",
+      "opposite": "output"
+    },
+    {
+      "en": "output",
+      "tr": "çıktı",
+      "read": "[aut]-put",
+      "type": "isim",
+      "level": "B1",
+      "example": "What's the expected output?",
+      "exampleTr": "Beklenen çıktı ne?",
+      "opposite": "input"
+    },
+    {
+      "en": "null",
+      "tr": "boş değer (null)",
+      "read": "nal",
+      "type": "isim",
+      "level": "B2",
+      "example": "The value is null.",
+      "exampleTr": "Değer null."
+    },
+    {
+      "en": "interface",
+      "tr": "arayüz",
+      "read": "[in]-tı-feys",
+      "type": "isim",
+      "level": "B2",
+      "example": "Implement the interface.",
+      "exampleTr": "Arayüzü uygula."
+    },
+    {
+      "en": "algorithm",
+      "tr": "algoritma",
+      "read": "[{a}l]-gı-ri-{d}ım",
+      "type": "isim",
+      "level": "B2",
+      "example": "We need a faster algorithm.",
+      "exampleTr": "Daha hızlı bir algoritmaya ihtiyacımız var."
+    },
+    {
+      "en": "data structure",
+      "tr": "veri yapısı",
+      "read": "[dey]-tı [strak]-çı",
+      "type": "isim",
+      "level": "B2",
+      "example": "Choose the right data structure.",
+      "exampleTr": "Doğru veri yapısını seç."
+    },
+    {
+      "en": "asynchronous",
+      "tr": "eşzamansız",
+      "read": "ey-[sin]-krı-nıs",
+      "type": "sıfat",
+      "level": "B2",
+      "example": "The call is asynchronous.",
+      "exampleTr": "Çağrı eşzamansız.",
+      "note": "kısaca: async «[ey]-sink»"
+    },
+    {
+      "en": "thread",
+      "tr": "iş parçacığı; (mesaj) zinciri",
+      "read": "{t}red",
+      "type": "isim",
+      "level": "B2",
+      "example": "Reply in the thread, please.",
+      "exampleTr": "Lütfen mesaj zincirinde cevap ver."
+    },
+    {
+      "en": "comment out",
+      "tr": "yorum satırına almak",
+      "read": "[ko]-ment [aut]",
+      "type": "fiil",
+      "level": "B2",
+      "example": "Comment out these lines for now.",
+      "exampleTr": "Bu satırları şimdilik yorum satırına al."
+    },
+    {
+      "en": "hard-coded",
+      "tr": "koda gömülü",
+      "read": "haad-[kou]-did",
+      "type": "sıfat",
+      "level": "B2",
+      "example": "The URL is hard-coded.",
+      "exampleTr": "URL koda gömülü."
+    },
+    {
+      "en": "return",
+      "ref": "return"
+    }
+  ]
+}

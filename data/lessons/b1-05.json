@@ -1,0 +1,289 @@
+{
+  "id": "b1-05",
+  "stage": 20,
+  "title": "If 0 ve 1: Yağmur yağarsa evde kalırım + çevre",
+  "sections": [
+    {
+      "heading": "0. tip: her zaman doğru olanlar",
+      "body": "<p><b>If + geniş zaman, geniş zaman</b>: bilimsel gerçekler, her zaman olan sonuçlar:</p><p class=\"ex\">If you heat ice, it melts. → Buzu ısıtırsan erir.<br>If I drink coffee at night, I can't sleep. → Gece kahve içersem uyuyamam.</p>"
+    },
+    {
+      "heading": "1. tip: gerçek olasılık",
+      "body": "<p><b>If + geniş zaman, will + fiil</b>: gelecekte olması muhtemel durumlar:</p><p class=\"ex\">If it rains, I'<b>ll</b> stay at home. → Yağmur yağarsa evde kalırım.<br>If you don't hurry, you'<b>ll</b> miss the bus. → Acele etmezsen otobüsü kaçırırsın.</p><p><b>Türklerin en sık hatası:</b> “yağar<b>sa</b>” gelecek gibi düşünülüp if'ten sonra will kullanılır. If'li kısımda <b>will yoktur</b>:</p><p class=\"ex\"><span class=\"bad\">✘ If it will rain, I'll stay at home.</span> → ✔ If it <b>rains</b>, I'll stay at home.</p><p>Sıra değişebilir: I'll stay at home if it rains. (if ortadaysa virgül yok)</p>"
+    },
+    {
+      "heading": "unless, when, as soon as",
+      "body": "<table><tr><th>Kelime</th><th>Okunuş</th><th>Türkçe</th><th>Örnek</th></tr><tr><td>unless</td><td>«ın-[les]»</td><td>-medikçe, -mezse</td><td>I won't go <b>unless</b> you come. (Sen gelmezsen gitmem.)</td></tr><tr><td>when</td><td>«{w}en»</td><td>-diğinde (kesin)</td><td><b>When</b> I get home, I'll call you. (Eve varınca ararım.)</td></tr><tr><td>as soon as</td><td>«ız [suun] ız»</td><td>-ir -mez</td><td>I'll tell you <b>as soon as</b> I know. (Öğrenir öğrenmez söylerim.)</td></tr></table><p>Bunlardan sonra da will gelmez: <span class=\"bad\">✘ when I will get home</span>.</p>"
+    },
+    {
+      "heading": "Çevre",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>environment</td><td>«in-[vay]-rın-mınt»</td><td>çevre</td></tr><tr><td>pollution</td><td>«pı-[luu]-şın»</td><td>kirlilik</td></tr><tr><td>climate</td><td>«[klay]-mıt»</td><td>iklim (climate change: iklim değişikliği)</td></tr><tr><td>recycle</td><td>«rii-[say]-kıl»</td><td>geri dönüştürmek</td></tr><tr><td>plastic</td><td>«[pl{a}s]-tik»</td><td>plastik</td></tr><tr><td>waste</td><td>«{w}eyst»</td><td>atık; israf etmek</td></tr><tr><td>energy</td><td>«[e]-nı-ci»</td><td>enerji</td></tr><tr><td>save</td><td>«seyv»</td><td>tasarruf etmek; kurtarmak</td></tr><tr><td>protect</td><td>«prı-[tekt]»</td><td>korumak</td></tr><tr><td>planet</td><td>«[pl{a}]-nit»</td><td>gezegen</td></tr><tr><td>nature</td><td>«[ney]-çı»</td><td>doğa</td></tr><tr><td>heat / melt / ice</td><td>«hiit» / «melt» / «ays»</td><td>ısıtmak / erimek / buz</td></tr></table>"
+    }
+  ],
+  "words": [
+    {
+      "en": "if",
+      "tr": "eğer, -se",
+      "read": "if"
+    },
+    {
+      "en": "unless",
+      "tr": "-mezse, -medikçe",
+      "read": "ın-[les]"
+    },
+    {
+      "en": "as soon as",
+      "tr": "-ir -mez",
+      "read": "ız [suun] ız"
+    },
+    {
+      "en": "hurry",
+      "tr": "acele etmek",
+      "read": "[ha]-ri",
+      "note": "Hurry up! Acele et!"
+    },
+    {
+      "en": "environment",
+      "tr": "çevre; (yazılım) ortam",
+      "read": "in-[vay]-rın-mınt"
+    },
+    {
+      "en": "pollution",
+      "tr": "kirlilik",
+      "read": "pı-[luu]-şın"
+    },
+    {
+      "en": "climate",
+      "tr": "iklim",
+      "read": "[klay]-mıt"
+    },
+    {
+      "en": "recycle",
+      "tr": "geri dönüştürmek",
+      "read": "rii-[say]-kıl"
+    },
+    {
+      "en": "plastic",
+      "tr": "plastik",
+      "read": "[pl{a}s]-tik"
+    },
+    {
+      "en": "waste",
+      "tr": "atık; israf etmek",
+      "read": "{w}eyst"
+    },
+    {
+      "en": "energy",
+      "tr": "enerji",
+      "read": "[e]-nı-ci"
+    },
+    {
+      "en": "save",
+      "tr": "tasarruf etmek; kurtarmak",
+      "read": "seyv"
+    },
+    {
+      "en": "protect",
+      "tr": "korumak",
+      "read": "prı-[tekt]"
+    },
+    {
+      "en": "planet",
+      "tr": "gezegen",
+      "read": "[pl{a}]-nit"
+    },
+    {
+      "en": "nature",
+      "tr": "doğa",
+      "read": "[ney]-çı"
+    },
+    {
+      "en": "heat",
+      "tr": "ısı; ısıtmak",
+      "read": "hiit"
+    },
+    {
+      "en": "melt",
+      "tr": "erimek",
+      "read": "melt"
+    },
+    {
+      "en": "ice",
+      "tr": "buz",
+      "read": "ays"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Yağmur yağarsa evde kalırım.",
+      "options": [
+        "If it rains, I'll stay at home.",
+        "If it will rain, I'll stay at home.",
+        "If it rains, I stay at home tomorrow."
+      ],
+      "answer": "If it rains, I'll stay at home.",
+      "explain": "if'li kısımda will yok."
+    },
+    {
+      "type": "choice",
+      "prompt": "Buzu ısıtırsan erir. (her zaman doğru)",
+      "options": [
+        "If you heat ice, it melts.",
+        "If you will heat ice, it melts."
+      ],
+      "answer": "If you heat ice, it melts."
+    },
+    {
+      "type": "choice",
+      "prompt": "Eve varınca seni ararım.",
+      "options": [
+        "When I get home, I'll call you.",
+        "When I'll get home, I'll call you."
+      ],
+      "answer": "When I get home, I'll call you."
+    },
+    {
+      "type": "choice",
+      "prompt": "Sen gelmezsen gitmem.",
+      "options": [
+        "I won't go unless you come.",
+        "I won't go unless you don't come."
+      ],
+      "answer": "I won't go unless you come.",
+      "explain": "unless zaten olumsuz anlam taşır."
+    },
+    {
+      "type": "choice",
+      "prompt": "If you don't hurry, you ___ the bus.",
+      "options": [
+        "miss",
+        "will miss",
+        "missed"
+      ],
+      "answer": "will miss"
+    },
+    {
+      "type": "choice",
+      "prompt": "Öğrenir öğrenmez sana söylerim.",
+      "options": [
+        "I'll tell you as soon as I know.",
+        "I'll tell you as soon as I'll know."
+      ],
+      "answer": "I'll tell you as soon as I know."
+    },
+    {
+      "type": "write",
+      "prompt": "Acele etmezsek geç kalacağız.",
+      "answers": [
+        "If we don't hurry, we'll be late",
+        "If we do not hurry, we will be late",
+        "We'll be late if we don't hurry"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Plastiği geri dönüştürmeliyiz.",
+      "answers": [
+        "We should recycle plastic",
+        "We must recycle plastic",
+        "We have to recycle plastic"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Su israf etme!",
+      "answers": [
+        "Don't waste water",
+        "Do not waste water"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Gece kahve içersem uyuyamam.",
+      "answers": [
+        "If I drink coffee at night, I can't sleep",
+        "If I drink coffee at night I can't sleep",
+        "I can't sleep if I drink coffee at night"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Yardım edersen bitiririz.",
+      "answers": [
+        "If you help, we'll finish",
+        "If you help me, we'll finish",
+        "If you help, we will finish",
+        "We'll finish if you help"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Doğayı korumalıyız.",
+      "answers": [
+        "We should protect nature",
+        "We must protect nature",
+        "We have to protect nature"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "If it's sunny, we'll go to the beach",
+      "answers": [
+        "If it's sunny, we'll go to the beach",
+        "If it is sunny, we will go to the beach"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "unless you hurry",
+      "answers": [
+        "unless you hurry"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "Pollution is a big problem",
+      "answers": [
+        "Pollution is a big problem"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "If it rains, I'll stay at home",
+      "accept": [
+        "If it rains I'll stay at home",
+        "If it rains I will stay at home"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I'll call you when I get home",
+      "accept": [
+        "I'll call you when I get home",
+        "I will call you when I get home"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "We should save energy",
+      "accept": [
+        "We should save energy"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Hurry up!",
+      "accept": [
+        "Hurry up"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "climate change",
+      "accept": [
+        "climate change"
+      ]
+    }
+  ]
+}

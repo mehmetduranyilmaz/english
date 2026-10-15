@@ -1,0 +1,292 @@
+{
+  "id": "core-verbs-2",
+  "group": "core",
+  "title": "Fiiller 2: hareket ve duyular",
+  "level": "A2",
+  "words": [
+    {
+      "en": "push",
+      "tr": "itmek; (Git) push etmek",
+      "read": "puş",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Push the door to open it.",
+      "exampleTr": "Açmak için kapıyı it.",
+      "opposite": "pull"
+    },
+    {
+      "en": "pull",
+      "tr": "çekmek; (Git) pull etmek",
+      "read": "pul",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Pull the handle.",
+      "exampleTr": "Kolu çek.",
+      "opposite": "push"
+    },
+    {
+      "en": "throw",
+      "tr": "atmak, fırlatmak",
+      "read": "{t}rou",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Throw me the ball.",
+      "exampleTr": "Topu bana at.",
+      "opposite": "catch",
+      "note": "threw «{t}ruu», thrown «{t}roun»"
+    },
+    {
+      "en": "catch",
+      "tr": "yakalamak; (otobüse) yetişmek",
+      "read": "k{a}ç",
+      "type": "fiil",
+      "level": "A2",
+      "example": "I need to catch the 8 o'clock train.",
+      "exampleTr": "Saat sekiz trenine yetişmem lazım.",
+      "note": "caught «koot»"
+    },
+    {
+      "en": "jump",
+      "tr": "zıplamak, atlamak",
+      "read": "camp",
+      "type": "fiil",
+      "level": "A2",
+      "example": "The cat jumped onto the table.",
+      "exampleTr": "Kedi masaya atladı."
+    },
+    {
+      "en": "shut",
+      "tr": "kapatmak",
+      "read": "şat",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Shut the door, please.",
+      "exampleTr": "Kapıyı kapat, lütfen.",
+      "note": "shut, shut (değişmez)"
+    },
+    {
+      "en": "lock",
+      "tr": "kilitlemek; kilit",
+      "read": "lok",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Did you lock the car?",
+      "exampleTr": "Arabayı kilitledin mi?"
+    },
+    {
+      "en": "fill",
+      "tr": "doldurmak",
+      "read": "fil",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Fill the glass with water.",
+      "exampleTr": "Bardağı suyla doldur."
+    },
+    {
+      "en": "cover",
+      "tr": "örtmek, kapsamak",
+      "read": "[ka]-vı",
+      "type": "fiil",
+      "level": "B1",
+      "example": "The course covers all the basics.",
+      "exampleTr": "Kurs tüm temel konuları kapsıyor."
+    },
+    {
+      "en": "cross",
+      "tr": "karşıdan karşıya geçmek",
+      "read": "kros",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Be careful when you cross the road.",
+      "exampleTr": "Yolun karşısına geçerken dikkatli ol."
+    },
+    {
+      "en": "enter",
+      "tr": "girmek",
+      "read": "[en]-tı",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Enter your password.",
+      "exampleTr": "Şifrenizi girin."
+    },
+    {
+      "en": "exist",
+      "tr": "var olmak",
+      "read": "ig-[zist]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "That file doesn't exist.",
+      "exampleTr": "O dosya yok."
+    },
+    {
+      "en": "fit",
+      "tr": "uymak, sığmak",
+      "read": "fit",
+      "type": "fiil",
+      "level": "B1",
+      "example": "These shoes don't fit me.",
+      "exampleTr": "Bu ayakkabılar bana olmuyor.",
+      "note": "sıfat olarak: fit = formda"
+    },
+    {
+      "en": "knock",
+      "tr": "(kapıyı) çalmak, vurmak",
+      "read": "nok",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Someone is knocking at the door.",
+      "exampleTr": "Biri kapıyı çalıyor.",
+      "note": "k okunmaz"
+    },
+    {
+      "en": "lift",
+      "tr": "kaldırmak; asansör (British)",
+      "read": "lift",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Take the lift to the fifth floor.",
+      "exampleTr": "Asansörle beşinci kata çıkın.",
+      "note": "British: lift = asansör (Amerikan: elevator)"
+    },
+    {
+      "en": "shake",
+      "tr": "sallamak, titremek",
+      "read": "şeyk",
+      "type": "fiil",
+      "level": "B1",
+      "example": "We shook hands.",
+      "exampleTr": "El sıkıştık.",
+      "note": "shook «şuk», shaken"
+    },
+    {
+      "en": "sign",
+      "tr": "imzalamak; tabela",
+      "read": "sayn",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Please sign here.",
+      "exampleTr": "Lütfen buraya imzalayın.",
+      "note": "g okunmaz"
+    },
+    {
+      "en": "spell",
+      "tr": "harf harf söylemek",
+      "read": "spel",
+      "type": "fiil",
+      "level": "A1",
+      "example": "How do you spell your name?",
+      "exampleTr": "Adınız nasıl yazılıyor?"
+    },
+    {
+      "en": "taste",
+      "tr": "tadına bakmak; tadı olmak",
+      "read": "teyst",
+      "type": "fiil",
+      "level": "A2",
+      "example": "This soup tastes great.",
+      "exampleTr": "Bu çorbanın tadı harika."
+    },
+    {
+      "en": "smell",
+      "tr": "kokmak, koklamak",
+      "read": "smel",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Something smells good.",
+      "exampleTr": "Bir şey güzel kokuyor."
+    },
+    {
+      "en": "sound",
+      "tr": "kulağa … gelmek; ses",
+      "read": "saund",
+      "type": "fiil",
+      "level": "B1",
+      "example": "That sounds like a good idea.",
+      "exampleTr": "Kulağa iyi bir fikir gibi geliyor."
+    },
+    {
+      "en": "kiss",
+      "tr": "öpmek",
+      "read": "kis",
+      "type": "fiil",
+      "level": "A2",
+      "example": "She kissed her son goodbye.",
+      "exampleTr": "Oğlunu öpüp vedalaştı."
+    },
+    {
+      "en": "hug",
+      "tr": "sarılmak",
+      "read": "hag",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Give me a hug!",
+      "exampleTr": "Sarıl bana!"
+    },
+    {
+      "en": "hide",
+      "tr": "saklamak, saklanmak",
+      "read": "hayd",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Where did you hide the keys?",
+      "exampleTr": "Anahtarları nereye sakladın?",
+      "note": "hid, hidden"
+    },
+    {
+      "en": "wonder",
+      "tr": "merak etmek",
+      "read": "[{w}an]-dı",
+      "type": "fiil",
+      "level": "B1",
+      "example": "I wonder what time it is.",
+      "exampleTr": "Saatin kaç olduğunu merak ediyorum."
+    },
+    {
+      "en": "guess",
+      "tr": "tahmin etmek",
+      "read": "ges",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Guess who I saw today!",
+      "exampleTr": "Bil bakalım bugün kimi gördüm!"
+    },
+    {
+      "en": "suppose",
+      "tr": "sanmak, farz etmek",
+      "read": "sı-[pouz]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "I suppose you're right.",
+      "exampleTr": "Sanırım haklısın."
+    },
+    {
+      "en": "trust",
+      "tr": "güvenmek",
+      "read": "trast",
+      "type": "fiil",
+      "level": "B1",
+      "example": "I trust you completely.",
+      "exampleTr": "Sana tamamen güveniyorum."
+    },
+    {
+      "en": "forgive",
+      "tr": "affetmek",
+      "read": "fı-[giv]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Please forgive me.",
+      "exampleTr": "Lütfen beni affet.",
+      "note": "forgave, forgiven"
+    },
+    {
+      "en": "marry",
+      "tr": "evlenmek (biriyle)",
+      "read": "[m{a}]-ri",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Will you marry me?",
+      "exampleTr": "Benimle evlenir misin?",
+      "note": "✘ marry with someone"
+    }
+  ]
+}

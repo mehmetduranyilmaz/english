@@ -1,0 +1,241 @@
+{
+  "groups": [
+    {
+      "id": "basics",
+      "title": "Temel kavramlar",
+      "desc": "Sayılar, zaman, takvim, ölçüler, renkler. Derslerde geçenler de burada bir arada."
+    },
+    {
+      "id": "core",
+      "title": "Günlük konuşma çekirdeği",
+      "desc": "Takılmadan konuşmak için en sık kullanılan fiiller, sıfatlar, isimler, bağlaçlar ve hazır kalıplar."
+    },
+    {
+      "id": "dev",
+      "title": "Yazılım geliştirici",
+      "desc": "İşinizi İngilizce rahatça anlatmak için: kod, süreç, toplantı, mülakat."
+    }
+  ],
+  "packs": [
+    {
+      "id": "basics-numbers",
+      "group": "basics"
+    },
+    {
+      "id": "basics-time",
+      "group": "basics"
+    },
+    {
+      "id": "basics-calendar",
+      "group": "basics"
+    },
+    {
+      "id": "basics-measures",
+      "group": "basics"
+    },
+    {
+      "id": "basics-colours",
+      "group": "basics"
+    },
+    {
+      "id": "core-verbs-1",
+      "group": "core"
+    },
+    {
+      "id": "core-verbs-2",
+      "group": "core"
+    },
+    {
+      "id": "core-verbs-3",
+      "group": "core"
+    },
+    {
+      "id": "core-verbs-4",
+      "group": "core"
+    },
+    {
+      "id": "core-verbs-5",
+      "group": "core"
+    },
+    {
+      "id": "core-adjectives-1",
+      "group": "core"
+    },
+    {
+      "id": "core-adjectives-2",
+      "group": "core"
+    },
+    {
+      "id": "core-adjectives-3",
+      "group": "core"
+    },
+    {
+      "id": "core-adjectives-4",
+      "group": "core"
+    },
+    {
+      "id": "core-adverbs",
+      "group": "core"
+    },
+    {
+      "id": "core-determiners",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-life",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-mind",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-places",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-home",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-food",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-nature",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-shopping",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-travel",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-health",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-media",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-society",
+      "group": "core"
+    },
+    {
+      "id": "core-nouns-work",
+      "group": "core"
+    },
+    {
+      "id": "core-phrases-fluency",
+      "group": "core"
+    },
+    {
+      "id": "core-phrases-clarify",
+      "group": "core"
+    },
+    {
+      "id": "core-phrases-opinion",
+      "group": "core"
+    },
+    {
+      "id": "core-phrases-smalltalk",
+      "group": "core"
+    },
+    {
+      "id": "core-phrases-reactions",
+      "group": "core"
+    },
+    {
+      "id": "dev-general",
+      "group": "dev"
+    },
+    {
+      "id": "dev-process",
+      "group": "dev"
+    },
+    {
+      "id": "dev-git",
+      "group": "dev"
+    },
+    {
+      "id": "dev-debug",
+      "group": "dev"
+    },
+    {
+      "id": "dev-architecture",
+      "group": "dev"
+    },
+    {
+      "id": "dev-code",
+      "group": "dev"
+    },
+    {
+      "id": "dev-testing",
+      "group": "dev"
+    },
+    {
+      "id": "dev-tools-data",
+      "group": "dev"
+    },
+    {
+      "id": "dev-meetings",
+      "group": "dev"
+    },
+    {
+      "id": "dev-writing",
+      "group": "dev"
+    },
+    {
+      "id": "dev-interview",
+      "group": "dev"
+    },
+    {
+      "id": "dev-describe",
+      "group": "dev"
+    },
+    {
+      "id": "core-collocations",
+      "group": "core"
+    },
+    {
+      "id": "dev-collocations",
+      "group": "dev"
+    },
+    {
+      "id": "core-health-symptoms",
+      "group": "core"
+    },
+    {
+      "id": "core-health-doctor",
+      "group": "core"
+    },
+    {
+      "id": "core-health-diabetes",
+      "group": "core"
+    },
+    {
+      "id": "core-health-bipolar",
+      "group": "core"
+    },
+    {
+      "id": "core-situation-bank",
+      "group": "core"
+    },
+    {
+      "id": "core-situation-home",
+      "group": "core"
+    },
+    {
+      "id": "core-situation-police",
+      "group": "core"
+    },
+    {
+      "id": "core-situation-hotel",
+      "group": "core"
+    }
+  ]
+}

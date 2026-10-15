@@ -1,0 +1,279 @@
+{
+  "id": "b2-10",
+  "stage": 29,
+  "title": "will have done: 2030'a kadar bitirmiş olacağım + eğitim",
+  "sections": [
+    {
+      "heading": "Gelecekte bir ana kadar tamamlanmış olacak",
+      "body": "<p><b>will have + 3. hal</b>: Gelecekteki bir zamandan <b>önce bitmiş olacak</b> eylemler. Türkçedeki “-miş olacağım”:</p><p class=\"ex\"><b>By</b> 2030, I'<b>ll have finished</b> university. → 2030'a kadar üniversiteyi bitirmiş olacağım.<br><b>By the time</b> you arrive, we'<b>ll have eaten</b>. → Sen gelene kadar biz yemiş olacağız.<br>Next month I'<b>ll have worked</b> here for ten years. → Gelecek ay burada on yılımı doldurmuş olacağım.</p><p><b>by</b> = -e kadar (en geç). <b>by then</b> = o zamana kadar. <b>by the time</b> + geniş zaman: by the time you <b>arrive</b> (✘ will arrive).</p>"
+    },
+    {
+      "heading": "Gelecek zamanların hepsi",
+      "body": "<table><tr><th>Yapı</th><th>Anlam</th><th>Örnek</th></tr><tr><td>will</td><td>anlık karar, tahmin</td><td>I'll help you.</td></tr><tr><td>going to</td><td>plan, kanıtlı tahmin</td><td>I'm going to study tonight.</td></tr><tr><td>şimdiki zaman</td><td>kesin randevu</td><td>I'm meeting Kate at six.</td></tr><tr><td>will be + -ing</td><td>gelecekte devam eden</td><td>At six I'll be studying.</td></tr><tr><td>will have + 3. hal</td><td>gelecekte bitmiş</td><td>By six I'll have finished.</td></tr></table>"
+    },
+    {
+      "heading": "Eğitim ve yeterlilik",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>graduate</td><td>«[gr{a}]-cu-eyt»</td><td>mezun olmak</td></tr><tr><td>degree</td><td>«di-[grii]»</td><td>üniversite diploması (lisans)</td></tr><tr><td>master's</td><td>«[maas]-tız»</td><td>yüksek lisans (British: uzun aa)</td></tr><tr><td>PhD</td><td>«pii eyç [dii]»</td><td>doktora</td></tr><tr><td>qualification</td><td>«k{w}o-li-fi-[key]-şın»</td><td>yeterlilik, belge</td></tr><tr><td>certificate</td><td>«sı-[ti]-fi-kıt»</td><td>sertifika</td></tr><tr><td>course</td><td>«koos»</td><td>kurs, ders</td></tr><tr><td>level</td><td>«[le]-vıl»</td><td>seviye</td></tr><tr><td>fluent</td><td>«[fluu]-ınt»</td><td>akıcı</td></tr><tr><td>native speaker</td><td>«[ney]-tiv [spii]-kı»</td><td>ana dili … olan</td></tr><tr><td>accent</td><td>«[{a}k]-sınt»</td><td>aksan</td></tr><tr><td>vocabulary</td><td>«vı-[k{a}]-byu-lı-ri»</td><td>kelime hazinesi</td></tr><tr><td>grammar</td><td>«[gr{a}]-mı»</td><td>dilbilgisi</td></tr></table>"
+    }
+  ],
+  "words": [
+    {
+      "en": "by then",
+      "tr": "o zamana kadar",
+      "read": "bay [{d}en]"
+    },
+    {
+      "en": "graduate",
+      "tr": "mezun olmak",
+      "read": "[gr{a}]-cu-eyt"
+    },
+    {
+      "en": "degree",
+      "tr": "üniversite diploması",
+      "read": "di-[grii]"
+    },
+    {
+      "en": "master's",
+      "tr": "yüksek lisans",
+      "read": "[maas]-tız",
+      "note": "British: uzun aa"
+    },
+    {
+      "en": "PhD",
+      "tr": "doktora",
+      "read": "pii eyç [dii]"
+    },
+    {
+      "en": "qualification",
+      "tr": "yeterlilik, belge",
+      "read": "k{w}o-li-fi-[key]-şın"
+    },
+    {
+      "en": "certificate",
+      "tr": "sertifika",
+      "read": "sı-[ti]-fi-kıt"
+    },
+    {
+      "en": "course",
+      "tr": "kurs, ders",
+      "read": "koos"
+    },
+    {
+      "en": "level",
+      "tr": "seviye",
+      "read": "[le]-vıl"
+    },
+    {
+      "en": "fluent",
+      "tr": "akıcı",
+      "read": "[fluu]-ınt"
+    },
+    {
+      "en": "native speaker",
+      "tr": "ana dili … olan",
+      "read": "[ney]-tiv [spii]-kı"
+    },
+    {
+      "en": "accent",
+      "tr": "aksan",
+      "read": "[{a}k]-sınt"
+    },
+    {
+      "en": "vocabulary",
+      "tr": "kelime hazinesi",
+      "read": "vı-[k{a}]-byu-lı-ri"
+    },
+    {
+      "en": "grammar",
+      "tr": "dilbilgisi",
+      "read": "[gr{a}]-mı"
+    },
+    {
+      "en": "end",
+      "tr": "son, bitiş",
+      "read": "end",
+      "opposite": "start",
+      "note": "by the end of the year"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "2030'a kadar üniversiteyi bitirmiş olacağım.",
+      "options": [
+        "By 2030, I'll have finished university.",
+        "By 2030, I'll finish university.",
+        "Until 2030, I'll be finishing university."
+      ],
+      "answer": "By 2030, I'll have finished university."
+    },
+    {
+      "type": "choice",
+      "prompt": "Sen gelene kadar biz yemiş olacağız.",
+      "options": [
+        "By the time you arrive, we'll have eaten.",
+        "By the time you will arrive, we'll have eaten.",
+        "Until you arrive, we eat."
+      ],
+      "answer": "By the time you arrive, we'll have eaten.",
+      "explain": "by the time + geniş zaman."
+    },
+    {
+      "type": "choice",
+      "prompt": "Saat altıda ders çalışıyor olacağım.",
+      "options": [
+        "At six I'll be studying.",
+        "At six I'll have studied.",
+        "At six I study."
+      ],
+      "answer": "At six I'll be studying."
+    },
+    {
+      "type": "choice",
+      "prompt": "Saat altıya kadar bitirmiş olacağım.",
+      "options": [
+        "By six I'll have finished.",
+        "By six I'll be finishing.",
+        "Until six I finish."
+      ],
+      "answer": "By six I'll have finished."
+    },
+    {
+      "type": "choice",
+      "prompt": "Akıcı İngilizce konuşuyor.",
+      "options": [
+        "She speaks fluent English.",
+        "She speaks English fluent.",
+        "She speaks fluently English."
+      ],
+      "answer": "She speaks fluent English."
+    },
+    {
+      "type": "choice",
+      "prompt": "“vocabulary” vurgusu nerede?",
+      "options": [
+        "VO-ka-bü-le-ri",
+        "vı-KA-byu-lı-ri"
+      ],
+      "answer": "vı-KA-byu-lı-ri"
+    },
+    {
+      "type": "write",
+      "prompt": "Gelecek yıl mezun olacağım.",
+      "answers": [
+        "I'll graduate next year",
+        "I will graduate next year",
+        "I'm going to graduate next year",
+        "I'm graduating next year"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "O zamana kadar B2 seviyesine ulaşmış olacağım.",
+      "answers": [
+        "By then I'll have reached B2 level",
+        "By then I will have reached B2 level",
+        "By then, I'll have reached B2 level",
+        "By then I'll have reached level B2"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Bilgisayar mühendisliği diploması var. (o, erkek)",
+      "answers": [
+        "He's got a degree in computer engineering",
+        "He has a degree in computer engineering",
+        "He has got a degree in computer engineering"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Kelime hazinemi geliştirmek istiyorum.",
+      "answers": [
+        "I want to improve my vocabulary",
+        "I'd like to improve my vocabulary",
+        "I would like to improve my vocabulary"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "British aksanını seviyorum.",
+      "answers": [
+        "I love the British accent",
+        "I like the British accent",
+        "I love British accents"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Gelecek ay burada beş yılımı doldurmuş olacağım.",
+      "answers": [
+        "Next month I'll have worked here for five years",
+        "Next month I will have worked here for five years",
+        "Next month I'll have been here for five years"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "By the end of the year, I'll have finished",
+      "answers": [
+        "By the end of the year, I'll have finished",
+        "By the end of the year I will have finished"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "She's a native speaker",
+      "answers": [
+        "She's a native speaker",
+        "She is a native speaker"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "What level are you?",
+      "answers": [
+        "What level are you"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I'll have finished by then",
+      "accept": [
+        "I'll have finished by then",
+        "I will have finished by then"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I want to be fluent",
+      "accept": [
+        "I want to be fluent"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "My vocabulary is improving",
+      "accept": [
+        "My vocabulary is improving"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "I've got a master's degree",
+      "accept": [
+        "I've got a master's degree",
+        "I have a master's degree",
+        "I've got a masters degree"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "Grammar isn't everything",
+      "accept": [
+        "Grammar isn't everything",
+        "Grammar is not everything"
+      ]
+    }
+  ]
+}

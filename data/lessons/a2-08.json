@@ -1,0 +1,338 @@
+{
+  "id": "a2-08",
+  "stage": 13,
+  "title": "En: the biggest, the best + as … as + coğrafya",
+  "sections": [
+    {
+      "heading": "En …: the + -est / the most",
+      "body": "<table><tr><th>Sıfat</th><th>Daha</th><th>En</th></tr><tr><td>big</td><td>bigger</td><td><b>the biggest</b></td></tr><tr><td>easy</td><td>easier</td><td><b>the easiest</b></td></tr><tr><td>expensive</td><td>more expensive</td><td><b>the most expensive</b></td></tr><tr><td>good</td><td>better</td><td><b>the best</b> «best»</td></tr><tr><td>bad</td><td>worse</td><td><b>the worst</b> «{w}ööst»</td></tr></table><p class=\"ex\">It's <b>the biggest</b> city <b>in</b> Turkey. → Türkiye'nin en büyük şehri.<br>She's <b>the best</b> teacher <b>in</b> the school. → Okuldaki en iyi öğretmen.<br>It's <b>the most beautiful</b> place <b>in</b> the world. → Dünyadaki en güzel yer.</p><p>“En”den önce <b>the</b> unutulmaz. Yer için <b>in</b> kullanılır: in the world, in London, in my family.</p>"
+    },
+    {
+      "heading": "“En” yazım kuralları",
+      "body": "<p>“Daha” kurallarının aynısı; -er yerine <b>-est</b>, more yerine <b>the most</b>:</p><table><tr><th>Sıfat</th><th>Kural</th><th>Örnek</th></tr><tr><td>Tek heceli</td><td>the + est</td><td>old → the old<b>est</b>, tall → the tall<b>est</b></td></tr><tr><td>-e ile biten</td><td>the + st</td><td>nice → the nice<b>st</b>, safe → the safe<b>st</b></td></tr><tr><td>Kısa: ünsüz + ünlü + ünsüz</td><td>son harf ikilenir</td><td>big → the bi<b>gg</b>est, hot → the ho<b>tt</b>est</td></tr><tr><td>-y ile biten</td><td>y → iest</td><td>easy → the eas<b>iest</b>, happy → the happ<b>iest</b></td></tr><tr><td>İki heceli (çoğu) ve uzun</td><td>the most</td><td>the <b>most</b> famous, the <b>most</b> expensive</td></tr><tr><td>Düzensiz</td><td></td><td>good → the <b>best</b>, bad → the <b>worst</b>, far → the <b>furthest</b>, little → the <b>least</b></td></tr></table><p><b>the least</b> «liist» = en az: the least expensive (en ucuz, en az pahalı).</p><p><b>one of the …</b> + çoğul isim = en …lerden biri: She's <b>one of the best</b> teachers. → En iyi öğretmenlerden biri.</p>"
+    },
+    {
+      "heading": "Eşitlik: as … as",
+      "body": "<p class=\"ex\">Tom is <b>as tall as</b> his father. → Tom babası kadar uzun.<br>My car isn't <b>as fast as</b> yours. → Arabam seninki kadar hızlı değil.<br>It's <b>not as expensive as</b> I thought. → Düşündüğüm kadar pahalı değil.</p><p>as … as arasında sıfat <b>yalın</b> kalır: <span class=\"bad\">✘ as taller as</span>.</p>"
+    },
+    {
+      "heading": "Coğrafya",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>mountain</td><td>«[maun]-tın»</td><td>dağ</td></tr><tr><td>river</td><td>«[ri]-vı»</td><td>nehir</td></tr><tr><td>sea</td><td>«sii»</td><td>deniz</td></tr><tr><td>lake</td><td>«leyk»</td><td>göl</td></tr><tr><td>island</td><td>«[ay]-lınd»</td><td>ada (s okunmaz!)</td></tr><tr><td>forest</td><td>«[fo]-rist»</td><td>orman</td></tr><tr><td>village / town</td><td>«[vi]-lic» / «taun»</td><td>köy / kasaba</td></tr><tr><td>building</td><td>«[bil]-ding»</td><td>bina</td></tr><tr><td>place</td><td>«pleys»</td><td>yer, mekân</td></tr><tr><td>north / south</td><td>«noo{t}» / «sau{t}»</td><td>kuzey / güney</td></tr><tr><td>east / west</td><td>«iist» / «{w}est»</td><td>doğu / batı</td></tr></table><p class=\"ex\">The Thames is the longest river in England. → Thames İngiltere'nin en uzun nehridir.<br>Ben Nevis is the highest mountain in Britain. → Ben Nevis Britanya'nın en yüksek dağıdır.</p><p><b>high</b> «hay» = yüksek (dağ); <b>tall</b> = uzun (bina, insan).</p>"
+    }
+  ],
+  "words": [
+    {
+      "en": "most",
+      "tr": "en (çok)",
+      "read": "moust",
+      "note": "the most expensive"
+    },
+    {
+      "en": "best",
+      "tr": "en iyi",
+      "read": "best",
+      "opposite": "worst"
+    },
+    {
+      "en": "worst",
+      "tr": "en kötü",
+      "read": "{w}ööst",
+      "opposite": "best"
+    },
+    {
+      "en": "least",
+      "tr": "en az",
+      "read": "liist",
+      "opposite": "most"
+    },
+    {
+      "en": "as … as",
+      "tr": "… kadar",
+      "read": "ız … ız"
+    },
+    {
+      "en": "high",
+      "tr": "yüksek",
+      "read": "hay",
+      "opposite": "low"
+    },
+    {
+      "en": "low",
+      "tr": "alçak, düşük",
+      "read": "lou",
+      "opposite": "high"
+    },
+    {
+      "en": "mountain",
+      "tr": "dağ",
+      "read": "[maun]-tın"
+    },
+    {
+      "en": "river",
+      "tr": "nehir",
+      "read": "[ri]-vı"
+    },
+    {
+      "en": "sea",
+      "tr": "deniz",
+      "read": "sii"
+    },
+    {
+      "en": "lake",
+      "tr": "göl",
+      "read": "leyk"
+    },
+    {
+      "en": "island",
+      "tr": "ada",
+      "read": "[ay]-lınd",
+      "note": "s okunmaz"
+    },
+    {
+      "en": "forest",
+      "tr": "orman",
+      "read": "[fo]-rist"
+    },
+    {
+      "en": "village",
+      "tr": "köy",
+      "read": "[vi]-lic"
+    },
+    {
+      "en": "town",
+      "tr": "kasaba",
+      "read": "taun"
+    },
+    {
+      "en": "building",
+      "tr": "bina",
+      "read": "[bil]-ding"
+    },
+    {
+      "en": "place",
+      "tr": "yer, mekân",
+      "read": "pleys"
+    },
+    {
+      "en": "north",
+      "tr": "kuzey",
+      "read": "noo{t}",
+      "opposite": "south"
+    },
+    {
+      "en": "south",
+      "tr": "güney",
+      "read": "sau{t}",
+      "opposite": "north"
+    },
+    {
+      "en": "east",
+      "tr": "doğu",
+      "read": "iist",
+      "opposite": "west"
+    },
+    {
+      "en": "west",
+      "tr": "batı",
+      "read": "{w}est",
+      "opposite": "east"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Türkiye'nin en büyük şehri",
+      "options": [
+        "the biggest city in Turkey",
+        "the bigger city in Turkey",
+        "biggest city of Turkey the"
+      ],
+      "answer": "the biggest city in Turkey"
+    },
+    {
+      "type": "choice",
+      "prompt": "good → en?",
+      "options": [
+        "the goodest",
+        "the best",
+        "the most good"
+      ],
+      "answer": "the best"
+    },
+    {
+      "type": "choice",
+      "prompt": "beautiful → en?",
+      "options": [
+        "the beautifulest",
+        "the most beautiful"
+      ],
+      "answer": "the most beautiful"
+    },
+    {
+      "type": "choice",
+      "prompt": "bad → en?",
+      "options": [
+        "the worst",
+        "the baddest",
+        "the worse"
+      ],
+      "answer": "the worst"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tom babası kadar uzun.",
+      "options": [
+        "Tom is as tall as his father.",
+        "Tom is as taller as his father.",
+        "Tom is tall like his father as."
+      ],
+      "answer": "Tom is as tall as his father."
+    },
+    {
+      "type": "choice",
+      "prompt": "yüksek bir dağ",
+      "options": [
+        "a tall mountain",
+        "a high mountain"
+      ],
+      "answer": "a high mountain",
+      "explain": "Dağ için high."
+    },
+    {
+      "type": "choice",
+      "prompt": "“island” nasıl okunur?",
+      "options": [
+        "is-lınd",
+        "ay-lınd"
+      ],
+      "answer": "ay-lınd"
+    },
+    {
+      "type": "choice",
+      "prompt": "En iyi öğretmenlerden biri",
+      "options": [
+        "one of the best teachers",
+        "one of the best teacher",
+        "the one best teacher"
+      ],
+      "answer": "one of the best teachers",
+      "explain": "one of the + çoğul isim."
+    },
+    {
+      "type": "choice",
+      "prompt": "nice → en?",
+      "options": [
+        "the nicest",
+        "the most nice",
+        "the nicest one most"
+      ],
+      "answer": "the nicest"
+    },
+    {
+      "type": "write",
+      "prompt": "Bu dünyanın en uzun nehri.",
+      "answers": [
+        "This is the longest river in the world",
+        "It's the longest river in the world",
+        "It is the longest river in the world"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "En iyi arkadaşım",
+      "answers": [
+        "my best friend"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Bu en pahalı otel.",
+      "answers": [
+        "This is the most expensive hotel",
+        "It's the most expensive hotel",
+        "It is the most expensive hotel"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Arabam seninki kadar hızlı değil.",
+      "answers": [
+        "My car isn't as fast as yours",
+        "My car is not as fast as yours"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Hayatımın en kötü günüydü.",
+      "answers": [
+        "It was the worst day of my life"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Güneyde küçük bir köyde yaşıyorlar.",
+      "answers": [
+        "They live in a small village in the south"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "the most beautiful place",
+      "answers": [
+        "the most beautiful place"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "It's not as cold as yesterday",
+      "answers": [
+        "It's not as cold as yesterday",
+        "It is not as cold as yesterday",
+        "It isn't as cold as yesterday"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "an island in the north",
+      "answers": [
+        "an island in the north"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It's the best",
+      "accept": [
+        "It's the best",
+        "It is the best"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "my best friend",
+      "accept": [
+        "my best friend"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "the highest mountain",
+      "accept": [
+        "the highest mountain"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "as tall as my father",
+      "accept": [
+        "as tall as my father"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It was the worst day",
+      "accept": [
+        "It was the worst day"
+      ]
+    }
+  ]
+}

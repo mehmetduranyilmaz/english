@@ -1,0 +1,71 @@
+{
+  "id": "a2-11",
+  "stage": 15,
+  "title": "should: tavsiye + sağlık ve vücut",
+  "sections": [
+    {
+      "heading": "should = -meli (tavsiye)",
+      "body": "<p><b>should</b> «şud» + yalın fiil: tavsiye, öneri. Tüm öznelerle aynı:</p><p class=\"ex\">You <b>should</b> see a doctor. → Doktora görünmelisin.<br>You <b>shouldn't</b> «[şu]-dınt» work so much. → Bu kadar çok çalışmamalısın.<br><b>Should</b> I call her? → Onu aramalı mıyım?<br>What <b>should</b> I do? → Ne yapmalıyım?</p><p class=\"ex\"><span class=\"bad\">✘ You should to go.</span> <span class=\"bad\">✘ He shoulds.</span><br>Fikir bildirirken: I think you should rest. / I don't think you should go.</p>"
+    },
+    {
+      "heading": "Doktorda",
+      "body": "<p class=\"ex\"><b>What's the matter?</b> → Neyin var? Ne oldu?<br>I don't feel well. → Kendimi iyi hissetmiyorum.<br>I've got a headache. → Başım ağrıyor.<br>I've got a cold. → Nezleyim / soğuk algınlığım var.<br>I've got a temperature. → Ateşim var. (British)<br>My back hurts. → Sırtım ağrıyor.</p><table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>headache / toothache</td><td>«[hed]-eyk» / «[tuu{t}]-eyk»</td><td>baş ağrısı / diş ağrısı</td></tr><tr><td>stomach ache</td><td>«[sta]-mık eyk»</td><td>mide ağrısı</td></tr><tr><td>a cold / flu</td><td>«ı [kould]» / «fluu»</td><td>soğuk algınlığı / grip</td></tr><tr><td>cough</td><td>«kof»</td><td>öksürük</td></tr><tr><td>sore throat</td><td>«soo [{t}rout]»</td><td>boğaz ağrısı</td></tr><tr><td>temperature</td><td>«[tem]-prı-çı»</td><td>ateş; sıcaklık</td></tr><tr><td>medicine</td><td>«[med]-sın»</td><td>ilaç (British: 2 hece)</td></tr><tr><td>hurt</td><td>«hööt»</td><td>ağrımak, acıtmak</td></tr><tr><td>GP</td><td>«cii [pii]»</td><td>aile hekimi (British)</td></tr><tr><td>appointment</td><td>«ı-[poynt]-mınt»</td><td>randevu</td></tr></table>"
+    },
+    {
+      "heading": "Vücut",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>head / face</td><td>«hed» / «feys»</td><td>baş / yüz</td></tr><tr><td>eye / ear / nose / mouth</td><td>«ay» / «iı» / «nouz» / «mau{t}»</td><td>göz / kulak / burun / ağız</td></tr><tr><td>hair</td><td>«hee»</td><td>saç (sayılamaz: Her hair is long.)</td></tr><tr><td>arm / hand</td><td>«aam» / «h{a}nd»</td><td>kol / el</td></tr><tr><td>leg / back</td><td>«leg» / «b{a}k»</td><td>bacak / sırt</td></tr><tr><td>stomach</td><td>«[sta]-mık»</td><td>mide, karın</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "should", "tr": "-meli (tavsiye)", "read": "şud", "note": "l okunmaz" },
+    { "en": "shouldn't", "tr": "-memeli", "read": "[şu]-dınt" },
+    { "en": "matter", "tr": "sorun", "read": "[m{a}]-tı", "note": "What's the matter? Neyin var?" },
+    { "en": "headache", "tr": "baş ağrısı", "read": "[hed]-eyk" },
+    { "en": "toothache", "tr": "diş ağrısı", "read": "[tuu{t}]-eyk" },
+    { "en": "stomach", "tr": "mide, karın", "read": "[sta]-mık" },
+    { "en": "flu", "tr": "grip", "read": "fluu" },
+    { "en": "cough", "tr": "öksürük; öksürmek", "read": "kof" },
+    { "en": "sore throat", "tr": "boğaz ağrısı", "read": "soo [{t}rout]" },
+    { "en": "temperature", "tr": "ateş; sıcaklık", "read": "[tem]-prı-çı", "note": "British: I've got a temperature." },
+    { "en": "medicine", "tr": "ilaç", "read": "[med]-sın", "note": "British: 2 hece" },
+    { "en": "hurt", "tr": "ağrımak, acıtmak", "read": "hööt" },
+    { "en": "rest", "tr": "dinlenmek", "read": "rest" },
+    { "en": "GP", "tr": "aile hekimi", "read": "cii [pii]", "note": "British" },
+    { "en": "appointment", "tr": "randevu", "read": "ı-[poynt]-mınt" },
+    { "en": "head", "tr": "baş", "read": "hed" },
+    { "en": "face", "tr": "yüz", "read": "feys" },
+    { "en": "eye", "tr": "göz", "read": "ay" },
+    { "en": "ear", "tr": "kulak", "read": "iı" },
+    { "en": "nose", "tr": "burun", "read": "nouz" },
+    { "en": "mouth", "tr": "ağız", "read": "mau{t}" },
+    { "en": "hair", "tr": "saç", "read": "hee", "note": "sayılamaz" },
+    { "en": "arm", "tr": "kol", "read": "aam" },
+    { "en": "hand", "tr": "el", "read": "h{a}nd" },
+    { "en": "leg", "tr": "bacak", "read": "leg" },
+    { "en": "back", "tr": "sırt; geri", "read": "b{a}k" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Doktora görünmelisin.", "options": ["You should see a doctor.", "You should to see a doctor.", "You shoulds see a doctor."], "answer": "You should see a doctor." },
+    { "type": "choice", "prompt": "Bu kadar çok çalışmamalısın.", "options": ["You shouldn't work so much.", "You don't should work so much."], "answer": "You shouldn't work so much." },
+    { "type": "choice", "prompt": "Neyin var?", "options": ["What's the matter?", "What's your problem?", "What do you have?"], "answer": "What's the matter?", "explain": "What's your problem? kaba duyulabilir." },
+    { "type": "choice", "prompt": "Başım ağrıyor.", "options": ["I've got a headache.", "My head is pain.", "I am headache."], "answer": "I've got a headache." },
+    { "type": "choice", "prompt": "Ateşim var. (British)", "options": ["I've got a temperature.", "I've got a fire."], "answer": "I've got a temperature." },
+    { "type": "choice", "prompt": "Saçları uzun. (o, kadın)", "options": ["Her hair is long.", "Her hairs are long."], "answer": "Her hair is long.", "explain": "hair sayılamaz." },
+    { "type": "choice", "prompt": "“should” nasıl okunur?", "options": ["şuld", "şud"], "answer": "şud" },
+    { "type": "write", "prompt": "Kendimi iyi hissetmiyorum.", "answers": ["I don't feel well", "I do not feel well"] },
+    { "type": "write", "prompt": "Dinlenmelisin.", "answers": ["You should rest"] },
+    { "type": "write", "prompt": "Ne yapmalıyım?", "answers": ["What should I do"] },
+    { "type": "write", "prompt": "Sırtım ağrıyor.", "answers": ["My back hurts"] },
+    { "type": "write", "prompt": "Boğazım ağrıyor.", "answers": ["I've got a sore throat", "I have a sore throat", "I have got a sore throat"] },
+    { "type": "write", "prompt": "Bence ilaç almalısın.", "answers": ["I think you should take some medicine", "I think you should take medicine"] },
+    { "type": "write", "prompt": "Randevu almak istiyorum.", "answers": ["I'd like to make an appointment", "I would like to make an appointment", "I want to make an appointment"] },
+    { "type": "listen", "say": "What's the matter?", "answers": ["What's the matter", "What is the matter"] },
+    { "type": "listen", "say": "I've got a cold", "answers": ["I've got a cold", "I have got a cold"] },
+    { "type": "listen", "say": "You should see a GP", "answers": ["You should see a GP"] },
+    { "type": "speak", "say": "I don't feel well", "accept": ["I don't feel well", "I do not feel well"] },
+    { "type": "speak", "say": "I've got a headache", "accept": ["I've got a headache", "I have got a headache", "I have a headache"] },
+    { "type": "speak", "say": "You should rest", "accept": ["You should rest"] },
+    { "type": "speak", "say": "My leg hurts", "accept": ["My leg hurts"] },
+    { "type": "speak", "say": "What should I do?", "accept": ["What should I do"] }
+  ]
+}

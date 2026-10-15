@@ -1,0 +1,260 @@
+{
+  "id": "core-nouns-travel",
+  "group": "core",
+  "title": "İsimler 8: seyahat ve ulaşım",
+  "level": "B1",
+  "words": [
+    {
+      "en": "journey",
+      "tr": "yolculuk",
+      "read": "[cöö]-ni",
+      "type": "isim",
+      "level": "A2",
+      "example": "How was your journey?",
+      "exampleTr": "Yolculuğun nasıldı?",
+      "note": "trip = gezi; journey = bir yerden bir yere gidiş"
+    },
+    {
+      "en": "tourist",
+      "tr": "turist",
+      "read": "[tuı]-rist",
+      "type": "isim",
+      "level": "A2",
+      "example": "London is full of tourists.",
+      "exampleTr": "Londra turist dolu."
+    },
+    {
+      "en": "guide",
+      "tr": "rehber",
+      "read": "gayd",
+      "type": "isim",
+      "level": "A2",
+      "example": "Our guide spoke three languages.",
+      "exampleTr": "Rehberimiz üç dil konuşuyordu."
+    },
+    {
+      "en": "map",
+      "tr": "harita",
+      "read": "m{a}p",
+      "type": "isim",
+      "level": "A1",
+      "example": "Can you show me on the map?",
+      "exampleTr": "Haritada gösterebilir misin?"
+    },
+    {
+      "en": "seat",
+      "tr": "koltuk, yer",
+      "read": "siit",
+      "type": "isim",
+      "level": "A2",
+      "example": "Is this seat free?",
+      "exampleTr": "Bu koltuk boş mu?"
+    },
+    {
+      "en": "aisle",
+      "tr": "koridor (uçak, market)",
+      "read": "ayl",
+      "type": "isim",
+      "level": "B1",
+      "example": "Window or aisle seat?",
+      "exampleTr": "Cam kenarı mı koridor mu?",
+      "note": "s okunmaz"
+    },
+    {
+      "en": "coach",
+      "tr": "şehirlerarası otobüs; antrenör",
+      "read": "kouç",
+      "type": "isim",
+      "level": "B1",
+      "example": "The coach to Oxford is cheaper than the train.",
+      "exampleTr": "Oxford otobüsü trenden ucuz.",
+      "note": "British"
+    },
+    {
+      "en": "underground",
+      "tr": "metro",
+      "read": "[an]-dı-graund",
+      "type": "isim",
+      "level": "A2",
+      "example": "Take the underground to King's Cross.",
+      "exampleTr": "King's Cross'a metroyla git.",
+      "note": "British; Londra'da: the tube"
+    },
+    {
+      "en": "tram",
+      "tr": "tramvay",
+      "read": "tr{a}m",
+      "type": "isim",
+      "level": "B1",
+      "example": "Manchester has trams.",
+      "exampleTr": "Manchester'da tramvay var."
+    },
+    {
+      "en": "ferry",
+      "tr": "feribot",
+      "read": "[fe]-ri",
+      "type": "isim",
+      "level": "B1",
+      "example": "We took the ferry to France.",
+      "exampleTr": "Fransa'ya feribotla gittik."
+    },
+    {
+      "en": "plane",
+      "tr": "uçak",
+      "read": "pleyn",
+      "type": "isim",
+      "level": "A1",
+      "example": "The plane landed on time.",
+      "exampleTr": "Uçak zamanında indi."
+    },
+    {
+      "en": "ship",
+      "tr": "gemi; (ürünü) yayınlamak",
+      "read": "şip",
+      "type": "isim",
+      "level": "A2",
+      "example": "It's a huge ship.",
+      "exampleTr": "Kocaman bir gemi.",
+      "note": "sheep «şiip» (koyun) ile karışmasın: kısa i; Yazılımda: ship a feature = bir özelliği yayına almak"
+    },
+    {
+      "en": "boat",
+      "tr": "tekne",
+      "read": "bout",
+      "type": "isim",
+      "level": "A1",
+      "example": "We went on a boat trip.",
+      "exampleTr": "Tekne gezisine çıktık."
+    },
+    {
+      "en": "bike",
+      "tr": "bisiklet",
+      "read": "bayk",
+      "type": "isim",
+      "level": "A1",
+      "example": "I go to work by bike.",
+      "exampleTr": "İşe bisikletle giderim."
+    },
+    {
+      "en": "motorbike",
+      "tr": "motosiklet",
+      "read": "[mou]-tı-bayk",
+      "type": "isim",
+      "level": "A2",
+      "example": "He rides a motorbike.",
+      "exampleTr": "Motosiklet kullanıyor.",
+      "note": "British"
+    },
+    {
+      "en": "driving licence",
+      "tr": "ehliyet",
+      "read": "[dray]-ving [lay]-sıns",
+      "type": "isim",
+      "level": "B1",
+      "example": "Can I see your driving licence?",
+      "exampleTr": "Ehliyetinizi görebilir miyim?",
+      "note": "British yazım; Amerikan: driver's license"
+    },
+    {
+      "en": "petrol station",
+      "tr": "benzin istasyonu",
+      "read": "[pet]-rıl [stey]-şın",
+      "type": "isim",
+      "level": "B1",
+      "example": "We need to stop at a petrol station.",
+      "exampleTr": "Bir benzin istasyonunda durmamız lazım.",
+      "note": "British; Amerikan: gas station"
+    },
+    {
+      "en": "speed",
+      "tr": "hız",
+      "read": "spiid",
+      "type": "isim",
+      "level": "B1",
+      "example": "What's the speed limit here?",
+      "exampleTr": "Buradaki hız sınırı ne?"
+    },
+    {
+      "en": "traffic",
+      "tr": "trafik",
+      "read": "[tr{a}]-fik",
+      "type": "isim",
+      "level": "A2",
+      "example": "The traffic is bad today.",
+      "exampleTr": "Bugün trafik kötü."
+    },
+    {
+      "en": "visa",
+      "tr": "vize",
+      "read": "[vii]-zı",
+      "type": "isim",
+      "level": "B1",
+      "example": "Do I need a visa for the UK?",
+      "exampleTr": "Birleşik Krallık için vize gerekiyor mu?"
+    },
+    {
+      "en": "currency",
+      "tr": "para birimi, döviz",
+      "read": "[ka]-rın-si",
+      "type": "isim",
+      "level": "B1",
+      "example": "The local currency is the pound.",
+      "exampleTr": "Yerel para birimi pound."
+    },
+    {
+      "en": "souvenir",
+      "tr": "hediyelik eşya",
+      "read": "suu-vı-[niı]",
+      "type": "isim",
+      "level": "B1",
+      "example": "I bought some souvenirs.",
+      "exampleTr": "Birkaç hediyelik eşya aldım."
+    },
+    {
+      "en": "sightseeing",
+      "tr": "gezip görme",
+      "read": "[sayt]-sii-ing",
+      "type": "isim",
+      "level": "B1",
+      "example": "We went sightseeing in Edinburgh.",
+      "exampleTr": "Edinburgh'da gezip dolaştık."
+    },
+    {
+      "en": "accommodation",
+      "tr": "konaklama",
+      "read": "ı-ko-mı-[dey]-şın",
+      "type": "isim",
+      "level": "B1",
+      "example": "Accommodation in London is expensive.",
+      "exampleTr": "Londra'da konaklama pahalı.",
+      "note": "British: sayılamaz"
+    },
+    {
+      "en": "reservation",
+      "tr": "rezervasyon",
+      "read": "re-zı-[vey]-şın",
+      "type": "isim",
+      "level": "B1",
+      "example": "I have a reservation under Yılmaz.",
+      "exampleTr": "Yılmaz adına rezervasyonum var."
+    },
+    {
+      "en": "view",
+      "tr": "manzara; görüş",
+      "read": "vyuu",
+      "type": "isim",
+      "level": "B1",
+      "example": "The room has a sea view.",
+      "exampleTr": "Odanın deniz manzarası var."
+    },
+    {
+      "en": "destination",
+      "tr": "varış yeri",
+      "read": "des-ti-[ney]-şın",
+      "type": "isim",
+      "level": "B1",
+      "example": "Paris is a popular destination.",
+      "exampleTr": "Paris popüler bir tatil yeri."
+    }
+  ]
+}

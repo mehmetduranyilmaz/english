@@ -1,0 +1,68 @@
+{
+  "id": "a2-03",
+  "stage": 11,
+  "title": "Düzensiz fiiller 1: went, ate, bought, saw",
+  "sections": [
+    {
+      "heading": "-ed almayan fiiller",
+      "body": "<p>En sık kullanılan fiillerin çoğu geçmişte <b>-ed almaz</b>, şekil değiştirir. Bunlar ezberlenir ama iyi haber: sadece <b>olumlu</b> cümlede değişirler. Olumsuz ve soruda did / didn't + yalın fiil kullanılır:</p><p class=\"ex\">I <b>went</b> to London. → Londra'ya gittim.<br>I <b>didn't go</b> to London. <span class=\"bad\">✘ I didn't went.</span><br><b>Did</b> you <b>go</b> to London?</p>"
+    },
+    {
+      "heading": "En sık 20 düzensiz fiil",
+      "body": "<table><tr><th>Yalın</th><th>Geçmiş</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>go</td><td><b>went</b></td><td>«{w}ent»</td><td>gitti</td></tr><tr><td>come</td><td><b>came</b></td><td>«keym»</td><td>geldi</td></tr><tr><td>have</td><td><b>had</b></td><td>«h{a}d»</td><td>vardı; yedi / içti</td></tr><tr><td>do</td><td><b>did</b></td><td>«did»</td><td>yaptı</td></tr><tr><td>make</td><td><b>made</b></td><td>«meyd»</td><td>yaptı, hazırladı</td></tr><tr><td>get</td><td><b>got</b></td><td>«got»</td><td>aldı, oldu, vardı</td></tr><tr><td>see</td><td><b>saw</b></td><td>«soo»</td><td>gördü</td></tr><tr><td>eat</td><td><b>ate</b></td><td>«et»</td><td>yedi</td></tr><tr><td>drink</td><td><b>drank</b></td><td>«dr{a}nk»</td><td>içti</td></tr><tr><td>buy</td><td><b>bought</b></td><td>«boot»</td><td>satın aldı</td></tr><tr><td>take</td><td><b>took</b></td><td>«tuk»</td><td>aldı, götürdü</td></tr><tr><td>give</td><td><b>gave</b></td><td>«geyv»</td><td>verdi</td></tr><tr><td>say</td><td><b>said</b></td><td>«sed»</td><td>dedi</td></tr><tr><td>tell</td><td><b>told</b></td><td>«tould»</td><td>anlattı, söyledi</td></tr><tr><td>know</td><td><b>knew</b></td><td>«nyuu»</td><td>biliyordu</td></tr><tr><td>think</td><td><b>thought</b></td><td>«{t}oot»</td><td>düşündü</td></tr><tr><td>find</td><td><b>found</b></td><td>«faund»</td><td>buldu</td></tr><tr><td>leave</td><td><b>left</b></td><td>«left»</td><td>ayrıldı, çıktı</td></tr><tr><td>read</td><td><b>read</b></td><td>«red»</td><td>okudu (yazılış aynı, okunuş farklı!)</td></tr><tr><td>put</td><td><b>put</b></td><td>«put»</td><td>koydu (değişmez)</td></tr></table>"
+    },
+    {
+      "heading": "say mı tell mi?",
+      "body": "<p class=\"ex\"><b>say</b> + söz: She said “hello”. / He said that he was tired.<br><b>tell</b> + kişi: She <b>told me</b> the news. → Bana haberi anlattı.<br><span class=\"bad\">✘ She said me.</span> → ✔ She told me.</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>ate</b> «et»: British İngilizcede “et” okunur. Amerikalılar “eyt” der.</li><li><b>said</b> «sed»: “seyd” değil.</li><li><b>bought</b> «boot», <b>thought</b> «{t}oot»: gh okunmaz, uzun “oo”.</li><li><b>read</b> geçmişte «red» okunur, şimdiki «riid».</li><li><b>knew</b> «nyuu»: k okunmaz, British'te hafif “y”.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "see", "tr": "görmek", "read": "sii", "note": "geçmiş: saw «soo»" },
+    { "en": "take", "tr": "almak, götürmek", "read": "teyk", "note": "geçmiş: took «tuk»" },
+    { "en": "give", "tr": "vermek", "read": "giv", "note": "geçmiş: gave «geyv»" },
+    { "en": "say", "tr": "demek, söylemek", "read": "sey", "note": "geçmiş: said «sed»" },
+    { "en": "tell", "tr": "anlatmak, söylemek (birine)", "read": "tel", "note": "geçmiş: told «tould»" },
+    { "en": "think", "tr": "düşünmek", "read": "{t}ink", "note": "geçmiş: thought «{t}oot»" },
+    { "en": "find", "tr": "bulmak", "read": "faynd", "note": "geçmiş: found «faund»" },
+    { "en": "get", "tr": "almak, olmak, varmak", "read": "get", "note": "geçmiş: got «got»" },
+    { "en": "leave", "tr": "ayrılmak, çıkmak, bırakmak", "read": "liiv", "note": "geçmiş: left «left»" },
+    { "en": "put", "tr": "koymak", "read": "put", "note": "geçmiş: put (aynı)" },
+    { "en": "went", "tr": "gitti (go)", "read": "{w}ent" },
+    { "en": "came", "tr": "geldi (come)", "read": "keym" },
+    { "en": "had", "tr": "vardı; yedi (have)", "read": "h{a}d" },
+    { "en": "made", "tr": "yaptı (make)", "read": "meyd" },
+    { "en": "ate", "tr": "yedi (eat)", "read": "et", "note": "British: “et”; Amerikan: “eyt”" },
+    { "en": "drank", "tr": "içti (drink)", "read": "dr{a}nk" },
+    { "en": "bought", "tr": "satın aldı (buy)", "read": "boot" },
+    { "en": "knew", "tr": "biliyordu (know)", "read": "nyuu" },
+    { "en": "great", "tr": "harika, büyük", "read": "greyt", "note": "We had a great time." }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Dün sinemaya gittim.", "options": ["I goed to the cinema yesterday.", "I went to the cinema yesterday.", "I go to the cinema yesterday."], "answer": "I went to the cinema yesterday." },
+    { "type": "choice", "prompt": "eat → geçmiş?", "options": ["eated", "ate", "eaten"], "answer": "ate" },
+    { "type": "choice", "prompt": "buy → geçmiş?", "options": ["buyed", "bought", "brought"], "answer": "bought", "explain": "brought, bring (getirmek) fiilinin geçmişidir." },
+    { "type": "choice", "prompt": "“ate” British İngilizcede nasıl okunur?", "options": ["et", "eyt"], "answer": "et" },
+    { "type": "choice", "prompt": "“said” nasıl okunur?", "options": ["seyd", "sed"], "answer": "sed" },
+    { "type": "choice", "prompt": "I didn't ___ him.", "options": ["see", "saw"], "answer": "see", "explain": "didn't'ten sonra yalın fiil." },
+    { "type": "choice", "prompt": "Bana anlattı.", "options": ["She said me.", "She told me."], "answer": "She told me." },
+    { "type": "write", "prompt": "Dün sinemaya gittim.", "answers": ["I went to the cinema yesterday", "Yesterday I went to the cinema"] },
+    { "type": "write", "prompt": "Yeni bir telefon aldı. (o, erkek)", "answers": ["He bought a new phone"] },
+    { "type": "write", "prompt": "Ne dedi? (o, kadın)", "answers": ["What did she say"] },
+    { "type": "write", "prompt": "Seni gördüm.", "answers": ["I saw you"] },
+    { "type": "write", "prompt": "Anahtarlarımı buldum.", "answers": ["I found my keys"] },
+    { "type": "write", "prompt": "Bana söylemedi. (o, erkek)", "answers": ["He didn't tell me", "He did not tell me"] },
+    { "type": "write", "prompt": "Saat sekizde evden çıktım.", "answers": ["I left home at eight", "I left home at eight o'clock", "I left the house at eight"] },
+    { "type": "listen", "say": "We went to the beach", "answers": ["We went to the beach"] },
+    { "type": "listen", "say": "She bought a new dress", "answers": ["She bought a new dress"] },
+    { "type": "listen", "say": "I thought so", "answers": ["I thought so"] },
+    { "type": "speak", "say": "I went home", "accept": ["I went home"] },
+    { "type": "speak", "say": "I saw a film", "accept": ["I saw a film", "I saw a movie"] },
+    { "type": "speak", "say": "What did you say?", "accept": ["What did you say"] },
+    { "type": "speak", "say": "She gave me a book", "accept": ["She gave me a book"] },
+    { "type": "speak", "say": "We had a great time", "accept": ["We had a great time"] }
+  ]
+}

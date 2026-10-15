@@ -1,0 +1,58 @@
+{
+  "id": "a1-05",
+  "stage": 2,
+  "title": "the: bildiğimiz o şey",
+  "sections": [
+    {
+      "heading": "a / an mı, the mı?",
+      "body": "<table><tr><th></th><th>Anlamı</th><th>Örnek</th></tr><tr><td><b>a / an</b></td><td><b>Herhangi bir</b>; hangisi olduğu önemli değil</td><td>Call <b>a</b> taxi! → Bir taksi çağır!</td></tr><tr><td><b>the</b></td><td><b>O bildiğimiz</b>; hangisi olduğunu ikimiz de biliyoruz</td><td>Open <b>the</b> door! → Kapıyı aç! (odadaki kapı)</td></tr></table><p><b>Türkçeden bir ipucu:</b> Türkçede “kapı<b>yı</b> aç” dediğimizde -yı eki hangi kapının kastedildiğinin belli olduğunu gösterir. Bu tür durumlarda İngilizcede çoğu zaman <b>the</b> kullanılır.</p>"
+    },
+    {
+      "heading": "Ne zaman the?",
+      "body": "<ul><li><b>Ortamda belli olan:</b> the door, the window, the teacher (sınıftaki öğretmen).</li><li><b>Dünyada tek olan:</b> the sun (güneş), the moon (ay), the world (dünya).</li><li><b>Daha önce bahsedilen:</b> İlk söylenişte a / an, sonra the. Cümle yapısını ileride öğreneceğiz, şimdilik mantığa bakın:<p class=\"ex\">There is <b>a</b> cat. <b>The</b> cat is black.<br>Bir kedi var. (O) kedi siyah.</p></li></ul>"
+    },
+    {
+      "heading": "the hiç kullanılmayan yerler",
+      "body": "<p class=\"ex\">İsimler, şehirler, çoğu ülke: <b>Ayşe, London, Turkey</b> <span class=\"bad\">(✘ the Turkey)</span><br>Diller: <b>English, Turkish</b><br>Genel anlamda çoğul ve sayılamayanlar: <b>cats</b> (genel olarak kediler), <b>water</b> (genel olarak su)</p><p>Karşılaştırın: <b>cats</b> → genel olarak kediler, <b>the cats</b> → o bildiğimiz kediler.</p>"
+    },
+    {
+      "heading": "British telaffuz: the iki türlü okunur",
+      "body": "<table><tr><th>Sonraki kelime</th><th>the okunuşu</th><th>Örnek</th></tr><tr><td>Ünsüz sesle başlıyorsa</td><td>«{d}ı» (kısa)</td><td>the door → «{d}ı doo»</td></tr><tr><td>Ünlü sesle başlıyorsa</td><td>«{d}i»</td><td>the apple → «{d}i [{a}]-pıl»</td></tr></table><p>İkisinde de renkli d: dil ucunu dişlerin arasına koyup öyle “d” deyin. Düz “dı” değil.</p>"
+    }
+  ],
+  "words": [
+    { "en": "the", "tr": "o bildiğimiz", "read": "{d}ı", "note": "ünlü sesten önce “di”: the apple" },
+    { "en": "sun", "tr": "güneş", "read": "san", "note": "the sun" },
+    { "en": "moon", "tr": "ay (gökyüzündeki)", "read": "muun", "note": "the moon" },
+    { "en": "world", "tr": "dünya", "read": "{w}öold", "note": "the world" },
+    { "en": "door", "tr": "kapı", "read": "doo", "note": "sondaki r okunmaz" },
+    { "en": "window", "tr": "pencere", "read": "[{w}in]-dou" },
+    { "en": "taxi", "tr": "taksi", "read": "[t{a}k]-si" },
+    { "en": "doctor", "tr": "doktor", "read": "[dok]-tı" },
+    { "en": "open", "tr": "açmak", "read": "[ou]-pın" },
+    { "en": "close", "tr": "kapatmak", "read": "klouz" },
+    { "en": "English", "tr": "İngilizce", "read": "[in]-gliş", "note": "dil isimlerinden önce the gelmez" },
+    { "en": "London", "tr": "Londra", "read": "[lan]-dın", "note": "şehir isimlerinden önce the gelmez" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Gökyüzündeki güneş → ___ sun", "options": ["a", "the"], "answer": "the", "explain": "Dünyada tek olan şeylerle the kullanılır." },
+    { "type": "choice", "prompt": "Kapıyı aç! (odadaki kapı) → Open ___ door!", "options": ["a", "the"], "answer": "the" },
+    { "type": "choice", "prompt": "Bir taksi çağır! (herhangi biri) → Call ___ taxi!", "options": ["a", "the"], "answer": "a" },
+    { "type": "choice", "prompt": "___ London", "options": ["the", "a", "(hiçbiri)"], "answer": "(hiçbiri)", "explain": "Şehir isimlerinden önce the gelmez." },
+    { "type": "choice", "prompt": "___ English (İngilizce dili)", "options": ["the", "an", "(hiçbiri)"], "answer": "(hiçbiri)", "explain": "Dil isimlerinden önce the gelmez." },
+    { "type": "choice", "prompt": "“the door” derken the nasıl okunur?", "options": ["dı", "di"], "answer": "dı", "explain": "door ünsüz sesle başlıyor." },
+    { "type": "choice", "prompt": "“the apple” derken the nasıl okunur?", "options": ["dı", "di"], "answer": "di", "explain": "apple ünlü sesle başlıyor." },
+    { "type": "write", "prompt": "güneş (gökyüzündeki)", "answers": ["the sun"] },
+    { "type": "write", "prompt": "ay (gökyüzündeki)", "answers": ["the moon"] },
+    { "type": "write", "prompt": "Kapıyı kapat!", "answers": ["close the door"] },
+    { "type": "write", "prompt": "Pencereyi aç!", "answers": ["open the window"] },
+    { "type": "write", "prompt": "Bir doktor çağır!", "answers": ["call a doctor"] },
+    { "type": "listen", "say": "the window", "answers": ["the window"] },
+    { "type": "listen", "say": "the apple", "answers": ["the apple"] },
+    { "type": "listen", "say": "Call a doctor", "answers": ["call a doctor"] },
+    { "type": "speak", "say": "the sun", "accept": ["the sun"] },
+    { "type": "speak", "say": "the apple", "accept": ["the apple"] },
+    { "type": "speak", "say": "Open the door", "accept": ["open the door"] },
+    { "type": "speak", "say": "Call a taxi", "accept": ["call a taxi"] }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "a1-17",
+  "stage": 7,
+  "title": "Geniş zaman: I work, she works + günlük rutin",
+  "sections": [
+    {
+      "heading": "Ne zaman kullanılır?",
+      "body": "<p>Geniş zaman (Present Simple) <b>alışkanlıkları, rutinleri ve genel doğruları</b> anlatır:</p><p class=\"ex\">I <b>work</b> in London. → Londra'da çalışıyorum (genel olarak).<br>She <b>drinks</b> tea every day. → Her gün çay içer.<br>Cats <b>like</b> fish. → Kediler balığı sever.</p><p><b>Türklerin en sık hatası:</b> Türkçede alışkanlıklar için de “-yor” deriz: “Her gün kahve içiyorum”. İngilizcede bu <b>geniş zamandır</b>, “-ing” kullanılmaz:</p><p class=\"ex\">✔ I <b>drink</b> coffee every day.<br><span class=\"bad\">✘ I am drinking coffee every day.</span></p>"
+    },
+    {
+      "heading": "Kural: he / she / it ile fiile -s",
+      "body": "<table><tr><th>Özne</th><th>Fiil</th><th>Örnek</th></tr><tr><td>I / you / we / they</td><td>yalın</td><td>I <b>work</b>. They <b>live</b> here.</td></tr><tr><td>he / she / it</td><td><b>+ s</b></td><td>She <b>works</b>. He <b>lives</b> here.</td></tr></table><p>Bu -s'yi unutmak en yaygın hatadır: <span class=\"bad\">✘ She work.</span></p>"
+    },
+    {
+      "heading": "-s nasıl eklenir?",
+      "body": "<table><tr><th>Fiilin sonu</th><th>Ne olur?</th><th>Örnek</th></tr><tr><td>Çoğu fiil</td><td>+ s</td><td>work → works, live → lives</td></tr><tr><td>-s, -sh, -ch, -x, -o</td><td>+ es</td><td>watch → watch<b>es</b>, finish → finish<b>es</b>, go → go<b>es</b>, do → do<b>es</b></td></tr><tr><td>sessiz harf + y</td><td>y gider, + ies</td><td>study → stud<b>ies</b></td></tr><tr><td>sesli harf + y</td><td>+ s</td><td>play → play<b>s</b></td></tr><tr><td>Düzensiz</td><td></td><td>have → <b>has</b></td></tr></table><p>Okunuşu çoğul -s gibidir (1. aşama): works «{w}ööks», lives «livz», watches «[{w}o]-çız». <b>does</b> «daz» ve <b>goes</b> «gouz» özel okunur.</p>"
+    },
+    {
+      "heading": "Günlük rutin",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>wake up</td><td>«{w}eyk [ap]»</td><td>uyanmak</td></tr><tr><td>get up</td><td>«get [ap]»</td><td>kalkmak (yataktan)</td></tr><tr><td>have breakfast</td><td>«h{a}v [brek]-fıst»</td><td>kahvaltı yapmak</td></tr><tr><td>take a shower</td><td>«teyk ı [şau]-ı»</td><td>duş almak</td></tr><tr><td>go to work</td><td>«gou tı [{w}öök]»</td><td>işe gitmek</td></tr><tr><td>start / finish</td><td>«staat» / «[fi]-niş»</td><td>başlamak / bitirmek</td></tr><tr><td>come home</td><td>«kam [houm]»</td><td>eve gelmek</td></tr><tr><td>cook / eat / drink</td><td>«kuk» / «iit» / «drink»</td><td>yemek pişirmek / yemek / içmek</td></tr><tr><td>watch TV</td><td>«{w}oç tii-[vii]»</td><td>televizyon izlemek</td></tr><tr><td>read / sleep</td><td>«riid» / «sliip»</td><td>okumak / uyumak</td></tr></table><p><b>Türkçede “yemek yemek”, “kahvaltı yapmak”:</b> İngilizcede <b>have</b> kullanılır: have breakfast / lunch / dinner.</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>walk</b> «{w}ook» ve <b>talk</b> «took»: l okunmaz.</li><li><b>listen</b> «[li]-sın»: t okunmaz.</li><li><b>read</b> «riid» (okumak), <b>live</b> «liv» (yaşamak): kısa / uzun i farkına dikkat; <b>leave</b> «liiv» (ayrılmak) başka kelimedir.</li><li><b>start</b> «staat»: British uzun “aa”, r okunmaz.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "live", "tr": "yaşamak, oturmak", "read": "liv", "note": "kısa i; leave (ayrılmak) uzun ii" },
+    { "en": "speak", "tr": "konuşmak (bir dili)", "read": "spiik" },
+    { "en": "study", "tr": "ders çalışmak, okumak (okulda)", "read": "[sta]-di", "note": "she studies" },
+    { "en": "drive", "tr": "araba kullanmak", "read": "drayv" },
+    { "en": "walk", "tr": "yürümek", "read": "{w}ook", "note": "l okunmaz" },
+    { "en": "go", "tr": "gitmek", "read": "gou", "note": "she goes «gouz»" },
+    { "en": "come", "tr": "gelmek", "read": "kam" },
+    { "en": "have", "tr": "sahip olmak; (yemek) yemek", "read": "h{a}v", "note": "he / she has «h{a}z»" },
+    { "en": "do", "tr": "yapmak", "read": "duu", "note": "she does «daz»" },
+    { "en": "wake up", "tr": "uyanmak", "read": "{w}eyk [ap]" },
+    { "en": "get up", "tr": "kalkmak", "read": "get [ap]" },
+    { "en": "breakfast", "tr": "kahvaltı", "read": "[brek]-fıst", "note": "have breakfast" },
+    { "en": "lunch", "tr": "öğle yemeği", "read": "lanç" },
+    { "en": "dinner", "tr": "akşam yemeği", "read": "[di]-nı" },
+    { "en": "start", "tr": "başlamak", "read": "staat", "opposite": "finish" },
+    { "en": "finish", "tr": "bitirmek, bitmek", "read": "[fi]-niş", "opposite": "start" },
+    { "en": "cook", "tr": "yemek pişirmek; aşçı", "read": "kuk" },
+    { "en": "eat", "tr": "yemek", "read": "iit" },
+    { "en": "drink", "tr": "içmek", "read": "drink" },
+    { "en": "watch TV", "tr": "televizyon izlemek", "read": "{w}oç tii-[vii]" },
+    { "en": "read", "tr": "okumak", "read": "riid" },
+    { "en": "sleep", "tr": "uyumak", "read": "sliip" },
+    { "en": "listen", "tr": "dinlemek", "read": "[li]-sın", "note": "t okunmaz; listen to music" },
+    { "en": "music", "tr": "müzik", "read": "[myuu]-zik" },
+    { "en": "play", "tr": "oynamak; çalmak", "read": "pley" },
+    { "en": "like", "tr": "sevmek, hoşlanmak", "read": "layk" },
+    { "en": "every day", "tr": "her gün", "read": "[ev]-ri dey" },
+    { "en": "early", "tr": "erken", "read": "[öö]-li", "opposite": "late" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "She ___ in London.", "options": ["live", "lives", "living"], "answer": "lives" },
+    { "type": "choice", "prompt": "I ___ coffee every day.", "options": ["drink", "drinks"], "answer": "drink" },
+    { "type": "choice", "prompt": "He ___ TV in the evening.", "options": ["watchs", "watches", "watch"], "answer": "watches" },
+    { "type": "choice", "prompt": "My father ___ a car.", "options": ["have", "has", "haves"], "answer": "has" },
+    { "type": "choice", "prompt": "She ___ English.", "options": ["studys", "studies", "study"], "answer": "studies" },
+    { "type": "choice", "prompt": "Mehmet ___ to work at eight.", "options": ["go", "goes", "gos"], "answer": "goes" },
+    { "type": "choice", "prompt": "“Her gün kahve içiyorum.”", "options": ["I am drinking coffee every day.", "I drink coffee every day."], "answer": "I drink coffee every day.", "explain": "Alışkanlık → geniş zaman, Türkçede -yor desek bile." },
+    { "type": "write", "prompt": "Londra'da yaşıyorum.", "answers": ["I live in London"] },
+    { "type": "write", "prompt": "O (kadın) İngilizce konuşuyor.", "answers": ["She speaks English"] },
+    { "type": "write", "prompt": "Babam çay içer.", "answers": ["My father drinks tea"] },
+    { "type": "write", "prompt": "Erken kalkarım.", "answers": ["I get up early"] },
+    { "type": "write", "prompt": "Onlar Türkçe konuşur.", "answers": ["They speak Turkish"] },
+    { "type": "write", "prompt": "O (erkek) her gün yürür.", "answers": ["He walks every day"] },
+    { "type": "write", "prompt": "Kız kardeşim İngilizce çalışıyor.", "answers": ["My sister studies English"] },
+    { "type": "listen", "say": "She works at home", "answers": ["She works at home"] },
+    { "type": "listen", "say": "He goes to work", "answers": ["He goes to work"] },
+    { "type": "listen", "say": "I have breakfast", "answers": ["I have breakfast"] },
+    { "type": "speak", "say": "I live in Istanbul", "accept": ["I live in Istanbul"] },
+    { "type": "speak", "say": "She speaks English", "accept": ["She speaks English"] },
+    { "type": "speak", "say": "He watches TV", "accept": ["He watches TV", "He watches tv", "He watches t.v."] },
+    { "type": "speak", "say": "I drink tea every day", "accept": ["I drink tea every day"] },
+    { "type": "speak", "say": "My brother studies English", "accept": ["My brother studies English"] }
+  ]
+}

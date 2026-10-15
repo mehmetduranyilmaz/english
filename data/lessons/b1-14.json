@@ -1,0 +1,59 @@
+{
+  "id": "b1-14",
+  "stage": 24,
+  "title": "Phrasal verbs 2: run out of, carry on, sort out + B1 finali",
+  "sections": [
+    {
+      "heading": "İş ve sosyal hayat",
+      "body": "<table><tr><th>Phrasal verb</th><th>Okunuş</th><th>Türkçe</th><th>Örnek</th></tr><tr><td>run out of</td><td>«ran [aut] ıv»</td><td>tükenmek, bitmek</td><td>We've run out of milk. (Süt bitti.)</td></tr><tr><td>carry on</td><td>«[k{a}]-ri [on]»</td><td>devam etmek (British)</td><td>Carry on, please. (Devam edin.)</td></tr><tr><td>sort out</td><td>«soot [aut]»</td><td>halletmek, çözmek (British)</td><td>I'll sort it out. (Ben hallederim.)</td></tr><tr><td>put off</td><td>«put [of]»</td><td>ertelemek</td><td>Don't put it off! (Erteleme!)</td></tr><tr><td>call off</td><td>«kool [of]»</td><td>iptal etmek</td><td>The match was called off.</td></tr><tr><td>set up</td><td>«set [ap]»</td><td>kurmak (şirket, sistem)</td><td>She set up her own company.</td></tr><tr><td>work out</td><td>«{w}öök [aut]»</td><td>çözmek; spor yapmak</td><td>I can't work out the answer.</td></tr><tr><td>deal with</td><td>«[diil] {w}i{d}»</td><td>ilgilenmek, başa çıkmak</td><td>I'll deal with it.</td></tr><tr><td>catch up (with)</td><td>«k{a}ç [ap]»</td><td>yetişmek; hasret gidermek</td><td>Let's catch up soon!</td></tr><tr><td>fall out (with)</td><td>«fool [aut]»</td><td>küsmek, bozuşmak (British)</td><td>They fell out last year.</td></tr><tr><td>get over</td><td>«get [ou]-vı»</td><td>atlatmak (hastalık, üzüntü)</td><td>I can't get over it.</td></tr><tr><td>look forward to</td><td>«luk [foo]-{w}ıd tı»</td><td>dört gözle beklemek</td><td>I'm looking forward to the weekend.</td></tr></table>"
+    },
+    {
+      "heading": "look forward to + -ing",
+      "body": "<p>Buradaki <b>to</b> bir edattır; arkasından fiil gelirse <b>-ing</b> alır:</p><p class=\"ex\">I'm looking forward to <b>seeing</b> you. → Seni görmeyi dört gözle bekliyorum.<br><span class=\"bad\">✘ looking forward to see you</span></p><p>E-postaların sonunda çok kullanılır: <b>I look forward to hearing from you.</b> (Cevabınızı bekliyorum.)</p>"
+    },
+    {
+      "heading": "B1 tamam: neler öğrendiniz?",
+      "body": "<p class=\"ex\">I've been learning English <b>for</b> a few months. (18) I <b>used to</b> think it was difficult, but I was wrong. (19) <b>If</b> I keep studying, I'<b>ll</b> reach B2 soon. (20) The app <b>which</b> I use every day helps me a lot. (21) It <b>was designed</b> by a programmer. (22) My teacher <b>told me</b> that I <b>was</b> making progress. (23) I'm not going to <b>give up</b>! (24)</p><p>→ Birkaç aydır İngilizce öğreniyorum. Eskiden zor olduğunu düşünürdüm ama yanılmışım. Çalışmaya devam edersem yakında B2'ye ulaşacağım. Her gün kullandığım uygulama bana çok yardımcı oluyor. Bir programcı tarafından tasarlandı. Öğretmenim ilerleme kaydettiğimi söyledi. Vazgeçmeyeceğim!</p>"
+    }
+  ],
+  "words": [
+    { "en": "run out of", "tr": "tükenmek, bitmek", "read": "ran [aut] ıv" },
+    { "en": "carry on", "tr": "devam etmek", "read": "[k{a}]-ri [on]", "note": "British" },
+    { "en": "sort out", "tr": "halletmek", "read": "soot [aut]", "note": "British" },
+    { "en": "put off", "tr": "ertelemek", "read": "put [of]" },
+    { "en": "call off", "tr": "iptal etmek", "read": "kool [of]" },
+    { "en": "set up", "tr": "kurmak", "read": "set [ap]" },
+    { "en": "work out", "tr": "çözmek; spor yapmak", "read": "{w}öök [aut]" },
+    { "en": "deal with", "tr": "ilgilenmek, başa çıkmak", "read": "[diil] {w}i{d}" },
+    { "en": "catch up", "tr": "yetişmek; hasret gidermek", "read": "k{a}ç [ap]" },
+    { "en": "fall out", "tr": "küsmek, bozuşmak", "read": "fool [aut]", "note": "British" },
+    { "en": "get over", "tr": "atlatmak", "read": "get [ou]-vı" },
+    { "en": "look forward to", "tr": "dört gözle beklemek", "read": "luk [foo]-{w}ıd tı", "note": "+ -ing" },
+    { "en": "progress", "tr": "ilerleme", "read": "[prou]-gres", "note": "British: “prou”" },
+    { "en": "reach", "tr": "ulaşmak", "read": "riiç" },
+    { "en": "keep", "tr": "devam etmek; tutmak", "read": "kiip", "note": "keep + -ing: keep studying" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Süt bitti.", "options": ["We've run out of milk.", "We've finished out milk.", "The milk ran out of."], "answer": "We've run out of milk." },
+    { "type": "choice", "prompt": "Seni görmeyi dört gözle bekliyorum.", "options": ["I'm looking forward to seeing you.", "I'm looking forward to see you.", "I look forward seeing you."], "answer": "I'm looking forward to seeing you." },
+    { "type": "choice", "prompt": "Maç iptal edildi.", "options": ["The match was called off.", "The match was put on.", "The match was turned off."], "answer": "The match was called off." },
+    { "type": "choice", "prompt": "Ben hallederim. (British)", "options": ["I'll sort it out.", "I'll sort out it.", "I'll solve out it."], "answer": "I'll sort it out." },
+    { "type": "choice", "prompt": "Devam edin, lütfen. (British)", "options": ["Carry on, please.", "Carry up, please.", "Go off, please."], "answer": "Carry on, please." },
+    { "type": "choice", "prompt": "Toplantıyı ertelediler.", "options": ["They put off the meeting.", "They put on the meeting.", "They set off the meeting."], "answer": "They put off the meeting." },
+    { "type": "write", "prompt": "Kendi şirketini kurdu. (o, kadın)", "answers": ["She set up her own company", "She's set up her own company"] },
+    { "type": "write", "prompt": "Ben ilgilenirim.", "answers": ["I'll deal with it", "I will deal with it"] },
+    { "type": "write", "prompt": "Yakında hasret giderelim!", "answers": ["Let's catch up soon"] },
+    { "type": "write", "prompt": "Erteleme!", "answers": ["Don't put it off", "Do not put it off"] },
+    { "type": "write", "prompt": "Cevabınızı bekliyorum. (resmi e-posta)", "answers": ["I look forward to hearing from you", "I'm looking forward to hearing from you"] },
+    { "type": "write", "prompt": "Vaktimiz tükeniyor.", "answers": ["We're running out of time", "We are running out of time"] },
+    { "type": "write", "prompt": "Çalışmaya devam et!", "answers": ["Keep studying", "Keep working", "Carry on studying", "Carry on working"] },
+    { "type": "listen", "say": "We've run out of coffee", "answers": ["We've run out of coffee", "We have run out of coffee"] },
+    { "type": "listen", "say": "I'm looking forward to the holiday", "answers": ["I'm looking forward to the holiday", "I am looking forward to the holiday"] },
+    { "type": "listen", "say": "They fell out last year", "answers": ["They fell out last year"] },
+    { "type": "speak", "say": "I'll sort it out", "accept": ["I'll sort it out", "I will sort it out"] },
+    { "type": "speak", "say": "Carry on", "accept": ["Carry on"] },
+    { "type": "speak", "say": "I'm looking forward to seeing you", "accept": ["I'm looking forward to seeing you", "I am looking forward to seeing you"] },
+    { "type": "speak", "say": "We've run out of milk", "accept": ["We've run out of milk", "We have run out of milk"] },
+    { "type": "speak", "say": "Let's catch up soon", "accept": ["Let's catch up soon"] }
+  ]
+}

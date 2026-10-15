@@ -1,0 +1,258 @@
+{
+  "id": "core-nouns-media",
+  "group": "core",
+  "title": "İsimler 10: iletişim, medya, eğlence",
+  "level": "B1",
+  "words": [
+    {
+      "en": "conversation",
+      "tr": "sohbet, konuşma",
+      "read": "kon-vı-[sey]-şın",
+      "type": "isim",
+      "level": "A2",
+      "example": "We had a long conversation.",
+      "exampleTr": "Uzun bir sohbet ettik."
+    },
+    {
+      "en": "language",
+      "tr": "dil",
+      "read": "[l{a}n]-g{w}ic",
+      "type": "isim",
+      "level": "A1",
+      "example": "How many languages do you speak?",
+      "exampleTr": "Kaç dil konuşuyorsun?"
+    },
+    {
+      "en": "meaning",
+      "tr": "anlam",
+      "read": "[mii]-ning",
+      "type": "isim",
+      "level": "A2",
+      "example": "What's the meaning of this word?",
+      "exampleTr": "Bu kelimenin anlamı ne?"
+    },
+    {
+      "en": "sentence",
+      "tr": "cümle; ceza (mahkeme)",
+      "read": "[sen]-tıns",
+      "type": "isim",
+      "level": "A1",
+      "example": "Write a sentence with this word.",
+      "exampleTr": "Bu kelimeyle bir cümle yaz."
+    },
+    {
+      "en": "letter",
+      "tr": "mektup; harf",
+      "read": "[le]-tı",
+      "type": "isim",
+      "level": "A1",
+      "example": "The word has five letters.",
+      "exampleTr": "Kelime beş harfli."
+    },
+    {
+      "en": "social media",
+      "tr": "sosyal medya",
+      "read": "[sou]-şıl [mii]-di-ı",
+      "type": "isim",
+      "level": "B1",
+      "example": "I don't spend much time on social media.",
+      "exampleTr": "Sosyal medyada çok vakit geçirmem."
+    },
+    {
+      "en": "comment",
+      "tr": "yorum",
+      "read": "[ko]-ment",
+      "type": "isim",
+      "level": "B1",
+      "example": "Thanks for your comment.",
+      "exampleTr": "Yorumun için teşekkürler."
+    },
+    {
+      "en": "video",
+      "tr": "video",
+      "read": "[vi]-di-ou",
+      "type": "isim",
+      "level": "A1",
+      "example": "I watched a video on YouTube.",
+      "exampleTr": "YouTube'da bir video izledim."
+    },
+    {
+      "en": "channel",
+      "tr": "kanal",
+      "read": "[ç{a}]-nıl",
+      "type": "isim",
+      "level": "B1",
+      "example": "What channel is the match on?",
+      "exampleTr": "Maç hangi kanalda?"
+    },
+    {
+      "en": "programme",
+      "tr": "program (TV, radyo)",
+      "read": "[prou]-gr{a}m",
+      "type": "isim",
+      "level": "A2",
+      "example": "It's my favourite TV programme.",
+      "exampleTr": "En sevdiğim TV programı.",
+      "note": "British yazım; bilgisayar programı: program"
+    },
+    {
+      "en": "telly",
+      "tr": "televizyon (günlük)",
+      "read": "[te]-li",
+      "type": "isim",
+      "level": "B1",
+      "example": "What's on telly tonight?",
+      "exampleTr": "Bu akşam televizyonda ne var?",
+      "note": "British"
+    },
+    {
+      "en": "series",
+      "tr": "dizi",
+      "read": "[siı]-riiz",
+      "type": "isim",
+      "level": "B1",
+      "example": "I'm watching a British series.",
+      "exampleTr": "Bir İngiliz dizisi izliyorum.",
+      "note": "çoğulu da series"
+    },
+    {
+      "en": "episode",
+      "tr": "bölüm (dizi); (sağlık) atak, dönem",
+      "read": "[e]-pi-soud",
+      "type": "isim",
+      "level": "B1",
+      "example": "Don't tell me what happens in the last episode!",
+      "exampleTr": "Son bölümde ne olduğunu söyleme!"
+    },
+    {
+      "en": "advert",
+      "tr": "reklam",
+      "read": "[{a}d]-vööt",
+      "type": "isim",
+      "level": "B1",
+      "example": "There are too many adverts on TV.",
+      "exampleTr": "Televizyonda çok fazla reklam var.",
+      "note": "British; kısaca: ad"
+    },
+    {
+      "en": "magazine",
+      "tr": "dergi",
+      "read": "m{a}-gı-[ziin]",
+      "type": "isim",
+      "level": "A2",
+      "example": "I read it in a magazine.",
+      "exampleTr": "Bir dergide okudum.",
+      "note": "Sahte arkadaş! mağaza = shop"
+    },
+    {
+      "en": "game",
+      "tr": "oyun; maç",
+      "read": "geym",
+      "type": "isim",
+      "level": "A1",
+      "example": "Let's play a game.",
+      "exampleTr": "Bir oyun oynayalım."
+    },
+    {
+      "en": "hobby",
+      "tr": "hobi",
+      "read": "[ho]-bi",
+      "type": "isim",
+      "level": "A1",
+      "example": "What are your hobbies?",
+      "exampleTr": "Hobilerin neler?"
+    },
+    {
+      "en": "sport",
+      "tr": "spor",
+      "read": "spoot",
+      "type": "isim",
+      "level": "A1",
+      "example": "Do you do any sport?",
+      "exampleTr": "Spor yapar mısın?",
+      "note": "British: do sport"
+    },
+    {
+      "en": "player",
+      "tr": "oyuncu",
+      "read": "[pley]-ı",
+      "type": "isim",
+      "level": "A2",
+      "example": "He's a great football player.",
+      "exampleTr": "Harika bir futbolcu."
+    },
+    {
+      "en": "fan",
+      "tr": "taraftar, hayran; vantilatör",
+      "read": "f{a}n",
+      "type": "isim",
+      "level": "A2",
+      "example": "I'm a big Arsenal fan.",
+      "exampleTr": "Büyük bir Arsenal taraftarıyım."
+    },
+    {
+      "en": "concert",
+      "tr": "konser",
+      "read": "[kon]-sıt",
+      "type": "isim",
+      "level": "A2",
+      "example": "We went to a concert last night.",
+      "exampleTr": "Dün gece bir konsere gittik."
+    },
+    {
+      "en": "festival",
+      "tr": "festival",
+      "read": "[fes]-ti-vıl",
+      "type": "isim",
+      "level": "A2",
+      "example": "Glastonbury is a famous music festival.",
+      "exampleTr": "Glastonbury ünlü bir müzik festivali."
+    },
+    {
+      "en": "novel",
+      "tr": "roman",
+      "read": "[no]-vıl",
+      "type": "isim",
+      "level": "B1",
+      "example": "I'm reading a novel by Agatha Christie.",
+      "exampleTr": "Agatha Christie'nin bir romanını okuyorum."
+    },
+    {
+      "en": "story",
+      "tr": "hikâye",
+      "read": "[stoo]-ri",
+      "type": "isim",
+      "level": "A1",
+      "example": "Tell me a story.",
+      "exampleTr": "Bana bir hikâye anlat."
+    },
+    {
+      "en": "camera",
+      "tr": "kamera, fotoğraf makinesi",
+      "read": "[k{a}m]-rı",
+      "type": "isim",
+      "level": "A2",
+      "example": "Turn your camera on, please.",
+      "exampleTr": "Kameranı aç, lütfen."
+    },
+    {
+      "en": "headphones",
+      "tr": "kulaklık",
+      "read": "[hed]-founz",
+      "type": "isim",
+      "level": "A2",
+      "example": "I can't hear you, I've got headphones on.",
+      "exampleTr": "Seni duyamıyorum, kulaklık takılı."
+    },
+    {
+      "en": "podcast",
+      "tr": "podcast",
+      "read": "[pod]-kaast",
+      "type": "isim",
+      "level": "B1",
+      "example": "I listen to English podcasts.",
+      "exampleTr": "İngilizce podcast dinlerim.",
+      "note": "British: uzun aa"
+    }
+  ]
+}

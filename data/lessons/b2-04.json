@@ -1,0 +1,58 @@
+{
+  "id": "b2-04",
+  "stage": 26,
+  "title": "have something done: Saçımı kestirdim + hizmetler",
+  "sections": [
+    {
+      "heading": "Türkçedeki “-tırmak, -dırmak”",
+      "body": "<p>Bir işi <b>kendiniz yapmayıp başkasına yaptırdığınızda</b>: <b>have + nesne + 3. hal</b>.</p><p class=\"ex\">I cut my hair. → Saçımı (kendim) kestim.<br>I <b>had my hair cut</b>. → Saçımı kestirdim. (kuaförde)<br>We'<b>re having</b> the kitchen <b>painted</b>. → Mutfağı boyatıyoruz.<br>She <b>has</b> her car <b>serviced</b> every year. → Arabasını her yıl bakıma götürür.<br>I need to <b>have</b> my eyes <b>tested</b>. → Gözlerimi kontrol ettirmem lazım.</p><p>Konuşmada <b>get</b> de kullanılır: I <b>got</b> my phone <b>fixed</b>. (Telefonumu tamir ettirdim.)</p>"
+    },
+    {
+      "heading": "Sıra önemli",
+      "body": "<p class=\"ex\">I had <b>my hair cut</b>. (nesne ortada) <span class=\"bad\">✘ I had cut my hair.</span> (bu Past Perfect: kendim kesmiştim)</p><p>Kötü bir olay için de kullanılır: She <b>had</b> her bag <b>stolen</b>. (Çantası çalındı.)</p>"
+    },
+    {
+      "heading": "Hizmetler",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>hairdresser's</td><td>«[hee]-dre-sız»</td><td>kuaför</td></tr><tr><td>barber's</td><td>«[baa]-bız»</td><td>berber</td></tr><tr><td>mechanic</td><td>«mı-[k{a}]-nik»</td><td>tamirci (araba)</td></tr><tr><td>plumber</td><td>«[pla]-mı»</td><td>tesisatçı (b okunmaz)</td></tr><tr><td>electrician</td><td>«i-lek-[tri]-şın»</td><td>elektrikçi</td></tr><tr><td>dry cleaner's</td><td>«dray [klii]-nız»</td><td>kuru temizleme</td></tr><tr><td>service</td><td>«[söö]-vis»</td><td>(araba) bakım; hizmet</td></tr><tr><td>deliver</td><td>«di-[li]-vı»</td><td>teslim etmek, getirmek</td></tr><tr><td>install</td><td>«in-[stool]»</td><td>kurmak (cihaz, yazılım)</td></tr><tr><td>decorate</td><td>«[de]-kı-reyt»</td><td>boyamak, dekore etmek (British: evi boyamak)</td></tr><tr><td>quote</td><td>«k{w}out»</td><td>fiyat teklifi (British)</td></tr><tr><td>leak</td><td>«liik»</td><td>sızıntı; sızdırmak</td></tr></table><p>İngilizler dükkân adlarında 's kullanır: I'm going to the hairdresser's / the chemist's / the dentist's.</p>"
+    }
+  ],
+  "words": [
+    { "en": "have it done", "tr": "yaptırmak", "read": "h{a}v it [dan]" },
+    { "en": "hairdresser's", "tr": "kuaför", "read": "[hee]-dre-sız" },
+    { "en": "barber's", "tr": "berber", "read": "[baa]-bız" },
+    { "en": "dentist", "tr": "diş hekimi", "read": "[den]-tist" },
+    { "en": "mechanic", "tr": "araba tamircisi", "read": "mı-[k{a}]-nik" },
+    { "en": "plumber", "tr": "tesisatçı", "read": "[pla]-mı", "note": "b okunmaz" },
+    { "en": "electrician", "tr": "elektrikçi", "read": "i-lek-[tri]-şın" },
+    { "en": "dry cleaner's", "tr": "kuru temizleme", "read": "dray [klii]-nız" },
+    { "en": "service", "tr": "bakım; hizmet", "read": "[söö]-vis" },
+    { "en": "deliver", "tr": "teslim etmek", "read": "di-[li]-vı" },
+    { "en": "install", "tr": "kurmak (cihaz, yazılım)", "read": "in-[stool]" },
+    { "en": "decorate", "tr": "boyamak, dekore etmek", "read": "[de]-kı-reyt" },
+    { "en": "quote", "tr": "fiyat teklifi", "read": "k{w}out", "note": "British" },
+    { "en": "leak", "tr": "sızıntı; sızdırmak", "read": "liik" },
+    { "en": "test", "tr": "test etmek, kontrol etmek", "read": "test" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Saçımı kestirdim.", "options": ["I had my hair cut.", "I had cut my hair.", "I cut my hair."], "answer": "I had my hair cut." },
+    { "type": "choice", "prompt": "Mutfağı boyatıyoruz.", "options": ["We're having the kitchen painted.", "We're painting having the kitchen.", "We have painted the kitchen."], "answer": "We're having the kitchen painted." },
+    { "type": "choice", "prompt": "Telefonumu tamir ettirdim. (konuşma dili)", "options": ["I got my phone fixed.", "I got fixed my phone.", "I fixed got my phone."], "answer": "I got my phone fixed." },
+    { "type": "choice", "prompt": "Çantası çalındı. (have ile)", "options": ["She had her bag stolen.", "She had stolen her bag."], "answer": "She had her bag stolen.", "explain": "She had stolen her bag = çantayı kendisi çalmıştı!" },
+    { "type": "choice", "prompt": "“plumber” nasıl okunur?", "options": ["plam-bır", "pla-mı"], "answer": "pla-mı" },
+    { "type": "choice", "prompt": "Kuaföre gidiyorum.", "options": ["I'm going to the hairdresser's.", "I'm going to the hairdresser."], "answer": "I'm going to the hairdresser's.", "explain": "Dükkân anlamında 's (ikisi de duyulur; British'te 's yaygın)." },
+    { "type": "write", "prompt": "Gözlerimi kontrol ettirmem lazım.", "answers": ["I need to have my eyes tested", "I need to get my eyes tested", "I have to have my eyes tested"] },
+    { "type": "write", "prompt": "Arabasını bakıma götürdü. (o, erkek)", "answers": ["He had his car serviced", "He got his car serviced"] },
+    { "type": "write", "prompt": "Bir tesisatçı çağırmalıyız; sızıntı var.", "answers": ["We should call a plumber; there's a leak", "We need to call a plumber, there's a leak", "We should call a plumber, there is a leak", "We must call a plumber, there's a leak"] },
+    { "type": "write", "prompt": "Yeni bir buzdolabı teslim ettirdik.", "answers": ["We had a new fridge delivered", "We got a new fridge delivered"] },
+    { "type": "write", "prompt": "Bana bir fiyat teklifi verebilir misiniz?", "answers": ["Can you give me a quote", "Could you give me a quote"] },
+    { "type": "write", "prompt": "Yazılımı kurdum.", "answers": ["I've installed the software", "I installed the software", "I have installed the software"] },
+    { "type": "listen", "say": "I'm having my hair cut tomorrow", "answers": ["I'm having my hair cut tomorrow", "I am having my hair cut tomorrow"] },
+    { "type": "listen", "say": "You should get it checked", "answers": ["You should get it checked"] },
+    { "type": "listen", "say": "It will be delivered on Monday", "answers": ["It will be delivered on Monday"] },
+    { "type": "speak", "say": "I had my hair cut", "accept": ["I had my hair cut"] },
+    { "type": "speak", "say": "I need to get my car repaired", "accept": ["I need to get my car repaired", "I need to have my car repaired"] },
+    { "type": "speak", "say": "Can you give me a quote?", "accept": ["Can you give me a quote"] },
+    { "type": "speak", "say": "There's a leak in the bathroom", "accept": ["There's a leak in the bathroom", "There is a leak in the bathroom"] },
+    { "type": "speak", "say": "I'm going to the dentist's", "accept": ["I'm going to the dentist's", "I'm going to the dentist", "I am going to the dentist"] }
+  ]
+}

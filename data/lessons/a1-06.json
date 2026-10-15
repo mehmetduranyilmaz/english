@@ -1,0 +1,58 @@
+{
+  "id": "a1-06",
+  "stage": 3,
+  "title": "am / is / are: Programcıyım, o öğretmen",
+  "sections": [
+    {
+      "heading": "Türkçedeki “-im, -sin, -dir” ekleri",
+      "body": "<p>Türkçede “Programcı<b>yım</b>”, “Yorgun<b>sun</b>”, “O öğretmen<b>dir</b>” derken kişi ekleri kullanırız. İngilizcede bu eklerin yerine ayrı bir kelime gelir: <b>am, is, are</b>.</p><p class=\"ex\">I <b>am</b> a programmer. → Programcıyım.<br>You <b>are</b> tired. → Yorgunsun.<br>She <b>is</b> a teacher. → O öğretmen.</p><p>Bu cümlelerde başka fiil yoktur. am / is / are, “olmak” anlamındaki <b>to be</b> fiilinin halleridir.</p>"
+    },
+    {
+      "heading": "Hangi özneyle hangisi?",
+      "body": "<table><tr><th>Özne</th><th>to be</th><th>Kısa hali</th><th>Kısa halin okunuşu</th></tr><tr><td>I</td><td><b>am</b></td><td>I'm</td><td>«aym»</td></tr><tr><td>you</td><td><b>are</b></td><td>you're</td><td>«yoo»</td></tr><tr><td>he / she / it</td><td><b>is</b></td><td>he's / she's / it's</td><td>«hiiz» / «şiiz» / «its»</td></tr><tr><td>we</td><td><b>are</b></td><td>we're</td><td>«{w}iı»</td></tr><tr><td>they</td><td><b>are</b></td><td>they're</td><td>«{d}ee»</td></tr></table><p><b>Konuşmada neredeyse hep kısa hali kullanılır:</b> I'm tired, she's a teacher. Yazıda ikisi de doğru.</p>"
+    },
+    {
+      "heading": "Nerelerde kullanılır?",
+      "body": "<table><tr><th>Ne anlatır?</th><th>Örnek</th><th>Türkçe</th></tr><tr><td>Kim / ne olduğu, meslek</td><td>I'm <b>a</b> programmer.</td><td>Programcıyım.</td></tr><tr><td>Milliyet</td><td>I'm Turkish.</td><td>Türk'üm.</td></tr><tr><td>Durum, his</td><td>We're tired. She's happy.</td><td>Yorgunuz. O mutlu.</td></tr><tr><td>Yer</td><td>They're in London. I'm at home.</td><td>Onlar Londra'da. Evdeyim.</td></tr><tr><td>Yaş</td><td>I'm thirty.</td><td>Otuz yaşındayım.</td></tr></table><p><b>Dikkat, iki sık hata:</b></p><p class=\"ex\"><span class=\"bad\">✘ I programmer.</span> → am unutulmaz.<br><span class=\"bad\">✘ I am programmer.</span> → meslekten önce a gelir (2. aşama): I am <b>a</b> programmer.</p>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>are</b> «aa»: British İngilizcede r okunmaz, uzun bir “aa”.</li><li><b>you're</b> «yoo», <b>they're</b> «{d}ee»: sondaki r yine okunmaz.</li><li><b>is</b> «iz»: sonu “z” sesi, “is” değil.</li><li>Cümle içinde am / is / are çok kısa ve vurgusuz söylenir. Vurgu asıl bilgi veren kelimeye gelir: I'm a <b>PRO</b>grammer.</li></ul>"
+    }
+  ],
+  "words": [
+    { "en": "am", "tr": "-im (I ile)", "read": "{a}m" },
+    { "en": "is", "tr": "-dir (he / she / it ile)", "read": "iz" },
+    { "en": "are", "tr": "-sin, -iz, -ler (you / we / they ile)", "read": "aa", "note": "sondaki r okunmaz" },
+    { "en": "I'm", "tr": "ben -im (I am)", "read": "aym" },
+    { "en": "you're", "tr": "sen -sin (you are)", "read": "yoo" },
+    { "en": "she's", "tr": "o -dir (she is)", "read": "şiiz" },
+    { "en": "they're", "tr": "onlar -dir (they are)", "read": "{d}ee" },
+    { "en": "Turkish", "tr": "Türk, Türkçe", "read": "[töö]-kiş" },
+    { "en": "tired", "tr": "yorgun", "read": "[tay]-ıd" },
+    { "en": "happy", "tr": "mutlu", "read": "[h{a}]-pi" },
+    { "en": "student", "tr": "öğrenci", "read": "[styuu]-dınt" },
+    { "en": "home", "tr": "ev", "read": "houm", "note": "at home: evde" },
+    { "en": "thirty", "tr": "otuz", "read": "[{t}öö]-ti" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "I ___ a programmer.", "options": ["am", "is", "are"], "answer": "am" },
+    { "type": "choice", "prompt": "She ___ a teacher.", "options": ["am", "is", "are"], "answer": "is" },
+    { "type": "choice", "prompt": "They ___ students.", "options": ["am", "is", "are"], "answer": "are" },
+    { "type": "choice", "prompt": "We ___ in London.", "options": ["am", "is", "are"], "answer": "are" },
+    { "type": "choice", "prompt": "It ___ an apple.", "options": ["am", "is", "are"], "answer": "is" },
+    { "type": "choice", "prompt": "“Programcıyım.” Hangisi doğru?", "options": ["I programmer.", "I am programmer.", "I am a programmer."], "answer": "I am a programmer.", "explain": "am unutulmaz, meslekten önce a gelir." },
+    { "type": "write", "prompt": "Türk'üm.", "answers": ["I am Turkish", "I'm Turkish"] },
+    { "type": "write", "prompt": "O (kadın) öğretmen.", "answers": ["She is a teacher", "She's a teacher"] },
+    { "type": "write", "prompt": "Evdeyiz.", "answers": ["We are at home", "We're at home"] },
+    { "type": "write", "prompt": "Yorgunum.", "answers": ["I am tired", "I'm tired"] },
+    { "type": "write", "prompt": "Onlar Londra'da.", "answers": ["They are in London", "They're in London"] },
+    { "type": "listen", "say": "I'm a programmer", "answers": ["I'm a programmer", "I am a programmer"] },
+    { "type": "listen", "say": "She's tired", "answers": ["She's tired", "She is tired"] },
+    { "type": "listen", "say": "We're at home", "answers": ["We're at home", "We are at home"] },
+    { "type": "speak", "say": "I'm a programmer", "accept": ["I'm a programmer", "I am a programmer"] },
+    { "type": "speak", "say": "She's a teacher", "accept": ["She's a teacher", "She is a teacher"] },
+    { "type": "speak", "say": "They're students", "accept": ["They're students", "They are students"], "mistakes": { "there students": "Okunuş aynı (“dee”), cümle doğru söylenmiş olabilir. Bir daha deneyin.", "their students": "Okunuş aynı (“dee”), cümle doğru söylenmiş olabilir. Bir daha deneyin." } },
+    { "type": "speak", "say": "I'm tired", "accept": ["I'm tired", "I am tired"] }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "b1-02",
+  "stage": 18,
+  "title": "Present Perfect Continuous: Saatlerdir çalışıyorum + iş hayatı",
+  "sections": [
+    {
+      "heading": "have / has been + -ing",
+      "body": "<p>Geçmişte başlayıp hâlâ devam eden <b>eylemlerin süresini</b> vurgular:</p><p class=\"ex\">I'<b>ve been working</b> for hours. → Saatlerdir çalışıyorum.<br>How long <b>have</b> you <b>been learning</b> English? → Ne zamandır İngilizce öğreniyorsun?<br>It'<b>s been raining</b> since this morning. → Sabahtan beri yağmur yağıyor.</p><p>Az önce bitmiş ama izi görünen eylemler için de: You look tired. — I'<b>ve been running</b>. (Yorgun görünüyorsun. — Koşuyordum.)</p>"
+    },
+    {
+      "heading": "Simple mı Continuous mu?",
+      "body": "<table><tr><th>Present Perfect Simple</th><th>Present Perfect Continuous</th></tr><tr><td>Sonuç, kaç tane</td><td>Süre, devamlılık</td></tr><tr><td>I'<b>ve written</b> three emails.<br>(Üç e-posta yazdım.)</td><td>I'<b>ve been writing</b> emails all morning.<br>(Bütün sabah e-posta yazıyorum.)</td></tr><tr><td>know, have, like, be gibi -ing almayan fiiller</td><td>work, wait, learn, live gibi eylem fiilleri</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ I've been knowing her for years.</span> → ✔ I've known her for years.<br>live ve work ile ikisi de olur: I've lived / I've been living here for two years.</p>"
+    },
+    {
+      "heading": "İş hayatı",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>company</td><td>«[kam]-pı-ni»</td><td>şirket</td></tr><tr><td>career</td><td>«kı-[riı]»</td><td>kariyer (vurgu sonda!)</td></tr><tr><td>experience</td><td>«ik-[spiı]-ri-ıns»</td><td>deneyim</td></tr><tr><td>skill</td><td>«skil»</td><td>beceri</td></tr><tr><td>salary</td><td>«[s{a}]-lı-ri»</td><td>maaş</td></tr><tr><td>interview</td><td>«[in]-tı-vyuu»</td><td>mülakat, röportaj</td></tr><tr><td>CV</td><td>«sii [vii]»</td><td>özgeçmiş (British; Amerikan: résumé)</td></tr><tr><td>apply (for)</td><td>«ı-[play]»</td><td>başvurmak</td></tr><tr><td>employee / employer</td><td>«im-[ploy]-ii» / «im-[ploy]-ı»</td><td>çalışan / işveren</td></tr><tr><td>promotion</td><td>«prı-[mou]-şın»</td><td>terfi</td></tr><tr><td>full-time / part-time</td><td>«ful-[taym]» / «paat-[taym]»</td><td>tam zamanlı / yarı zamanlı</td></tr><tr><td>retire</td><td>«ri-[tay]-ı»</td><td>emekli olmak</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "for hours", "tr": "saatlerdir", "read": "foo [au]-ız" },
+    { "en": "all morning", "tr": "bütün sabah", "read": "ool [moo]-ning" },
+    { "en": "company", "tr": "şirket", "read": "[kam]-pı-ni" },
+    { "en": "career", "tr": "kariyer", "read": "kı-[riı]", "note": "vurgu sonda" },
+    { "en": "experience", "tr": "deneyim", "read": "ik-[spiı]-ri-ıns" },
+    { "en": "skill", "tr": "beceri", "read": "skil" },
+    { "en": "salary", "tr": "maaş", "read": "[s{a}]-lı-ri" },
+    { "en": "interview", "tr": "mülakat, röportaj", "read": "[in]-tı-vyuu" },
+    { "en": "CV", "tr": "özgeçmiş", "read": "sii [vii]", "note": "British; Amerikan: résumé" },
+    { "en": "apply", "tr": "başvurmak", "read": "ı-[play]", "note": "apply for a job" },
+    { "en": "employee", "tr": "çalışan", "read": "im-[ploy]-ii", "opposite": "employer" },
+    { "en": "employer", "tr": "işveren", "read": "im-[ploy]-ı", "opposite": "employee" },
+    { "en": "promotion", "tr": "terfi", "read": "prı-[mou]-şın" },
+    { "en": "full-time", "tr": "tam zamanlı", "read": "ful-[taym]", "opposite": "part-time" },
+    { "en": "part-time", "tr": "yarı zamanlı", "read": "paat-[taym]", "opposite": "full-time" },
+    { "en": "retire", "tr": "emekli olmak", "read": "ri-[tay]-ı" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Saatlerdir çalışıyorum.", "options": ["I've been working for hours.", "I'm working for hours.", "I work since hours."], "answer": "I've been working for hours." },
+    { "type": "choice", "prompt": "Ne zamandır İngilizce öğreniyorsun?", "options": ["How long have you been learning English?", "How long are you learning English?", "Since when do you learn English?"], "answer": "How long have you been learning English?" },
+    { "type": "choice", "prompt": "Bugün üç e-posta yazdım. (sonuç, sayı)", "options": ["I've written three emails today.", "I've been writing three emails today."], "answer": "I've written three emails today." },
+    { "type": "choice", "prompt": "Onu yıllardır tanıyorum.", "options": ["I've been knowing her for years.", "I've known her for years."], "answer": "I've known her for years.", "explain": "know -ing almaz." },
+    { "type": "choice", "prompt": "Özgeçmiş (British)", "options": ["CV", "résumé"], "answer": "CV" },
+    { "type": "choice", "prompt": "“career” vurgusu nerede?", "options": ["KA-ri-yer", "kı-RİI"], "answer": "kı-RİI" },
+    { "type": "write", "prompt": "Sabahtan beri yağmur yağıyor.", "answers": ["It's been raining since this morning", "It has been raining since this morning"] },
+    { "type": "write", "prompt": "Yirmi dakikadır bekliyorum.", "answers": ["I've been waiting for twenty minutes", "I have been waiting for twenty minutes"] },
+    { "type": "write", "prompt": "Yeni bir işe başvurdum.", "answers": ["I've applied for a new job", "I applied for a new job", "I have applied for a new job"] },
+    { "type": "write", "prompt": "Yarı zamanlı çalışıyor. (o, kadın)", "answers": ["She works part-time", "She works part time"] },
+    { "type": "write", "prompt": "Bu şirkette ne zamandır çalışıyorsun?", "answers": ["How long have you been working for this company", "How long have you worked for this company", "How long have you been working at this company", "How long have you worked at this company"] },
+    { "type": "write", "prompt": "Babam geçen yıl emekli oldu.", "answers": ["My father retired last year", "My dad retired last year"] },
+    { "type": "listen", "say": "I've been waiting for ages", "answers": ["I've been waiting for ages", "I have been waiting for ages"] },
+    { "type": "listen", "say": "She got a promotion", "answers": ["She got a promotion"] },
+    { "type": "listen", "say": "Send me your CV", "answers": ["Send me your CV"] },
+    { "type": "speak", "say": "I've been working all day", "accept": ["I've been working all day", "I have been working all day"] },
+    { "type": "speak", "say": "How long have you been learning English?", "accept": ["How long have you been learning English"] },
+    { "type": "speak", "say": "I've got a job interview", "accept": ["I've got a job interview", "I have got a job interview", "I have a job interview"] },
+    { "type": "speak", "say": "It's been raining all morning", "accept": ["It's been raining all morning", "It has been raining all morning"] },
+    { "type": "speak", "say": "a good salary", "accept": ["a good salary"] }
+  ]
+}

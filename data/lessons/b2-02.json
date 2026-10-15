@@ -1,0 +1,58 @@
+{
+  "id": "b2-02",
+  "stage": 25,
+  "title": "wish / if only: Keşke + hedefler ve başarı",
+  "sections": [
+    {
+      "heading": "wish = keşke",
+      "body": "<table><tr><th>Ne hakkında?</th><th>Kalıp</th><th>Örnek</th></tr><tr><td><b>Şimdi</b> (şu an farklı olsa)</td><td>wish + geçmiş zaman</td><td>I wish I <b>had</b> more time. → Keşke daha çok vaktim olsa.<br>I wish I <b>were</b> taller. → Keşke daha uzun olsam.<br>I wish I <b>could</b> speak French. → Keşke Fransızca konuşabilsem.</td></tr><tr><td><b>Geçmiş</b> (pişmanlık)</td><td>wish + had + 3. hal</td><td>I wish I <b>had studied</b> harder. → Keşke daha çok çalışsaydım.<br>I wish I <b>hadn't said</b> that. → Keşke onu söylemeseydim.</td></tr><tr><td><b>Şikâyet</b> (başkası değişsin)</td><td>wish + would</td><td>I wish you <b>would stop</b> talking. → Keşke konuşmayı bıraksan.</td></tr></table><p>2. ve 3. tip if gibi düşünün: şimdi için bir zaman geri, geçmiş için had + 3. hal.</p>"
+    },
+    {
+      "heading": "if only: daha güçlü keşke",
+      "body": "<p class=\"ex\"><b>If only</b> I had more money! → Ah bir param olsa!<br><b>If only</b> I'd listened to you! → Ah seni dinleseydim!</p><p><b>wish</b> ile <b>hope</b> karışmasın: <b>hope</b> = olabilecek şeyler (I hope you pass. Umarım geçersin.), <b>wish</b> = olmayan şeyler.</p>"
+    },
+    {
+      "heading": "Hedefler ve başarı",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>goal</td><td>«goul»</td><td>hedef</td></tr><tr><td>ambition</td><td>«{a}m-[bi]-şın»</td><td>hırs, büyük hedef</td></tr><tr><td>achieve</td><td>«ı-[çiiv]»</td><td>başarmak, elde etmek</td></tr><tr><td>succeed / fail</td><td>«sık-[siid]» / «feyl»</td><td>başarmak / başarısız olmak</td></tr><tr><td>success / failure</td><td>«sık-[ses]» / «[fey]-lyı»</td><td>başarı / başarısızlık</td></tr><tr><td>opportunity</td><td>«o-pı-[tyuu]-ni-ti»</td><td>fırsat (British: “tyuu”)</td></tr><tr><td>decision</td><td>«di-[si]-jın»</td><td>karar (make a decision)</td></tr><tr><td>risk</td><td>«risk»</td><td>risk (take a risk)</td></tr><tr><td>improve</td><td>«im-[pruuv]»</td><td>geliştirmek, gelişmek</td></tr><tr><td>effort</td><td>«[e]-fıt»</td><td>çaba</td></tr><tr><td>challenge</td><td>«[ç{a}]-linc»</td><td>zorluk, meydan okuma</td></tr></table><p><b>make</b> ile: make a decision, make a mistake, make progress, make an effort. <b>take</b> ile: take a risk, take a chance.</p>"
+    }
+  ],
+  "words": [
+    { "en": "wish", "tr": "keşke; dilemek", "read": "{w}iş" },
+    { "en": "if only", "tr": "ah bir …, keşke", "read": "if [oun]-li" },
+    { "en": "goal", "tr": "hedef; gol", "read": "goul" },
+    { "en": "ambition", "tr": "hırs, büyük hedef", "read": "{a}m-[bi]-şın" },
+    { "en": "achieve", "tr": "başarmak, elde etmek", "read": "ı-[çiiv]" },
+    { "en": "succeed", "tr": "başarmak", "read": "sık-[siid]", "opposite": "fail" },
+    { "en": "fail", "tr": "başarısız olmak; (sınavdan) kalmak", "read": "feyl", "opposite": "succeed" },
+    { "en": "success", "tr": "başarı", "read": "sık-[ses]", "opposite": "failure" },
+    { "en": "failure", "tr": "başarısızlık", "read": "[fey]-lyı", "opposite": "success" },
+    { "en": "opportunity", "tr": "fırsat", "read": "o-pı-[tyuu]-ni-ti", "note": "British: “tyuu”" },
+    { "en": "decision", "tr": "karar", "read": "di-[si]-jın", "note": "make a decision" },
+    { "en": "risk", "tr": "risk", "read": "risk", "note": "take a risk" },
+    { "en": "improve", "tr": "geliştirmek", "read": "im-[pruuv]" },
+    { "en": "effort", "tr": "çaba", "read": "[e]-fıt", "note": "make an effort" },
+    { "en": "challenge", "tr": "zorluk, meydan okuma", "read": "[ç{a}]-linc" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Keşke daha çok vaktim olsa.", "options": ["I wish I had more time.", "I wish I have more time.", "I hope I had more time."], "answer": "I wish I had more time." },
+    { "type": "choice", "prompt": "Keşke onu söylemeseydim.", "options": ["I wish I hadn't said that.", "I wish I didn't say that.", "I wish I don't say that."], "answer": "I wish I hadn't said that." },
+    { "type": "choice", "prompt": "Keşke konuşmayı bıraksan. (şikâyet)", "options": ["I wish you would stop talking.", "I wish you stop talking.", "I hope you stopped talking."], "answer": "I wish you would stop talking." },
+    { "type": "choice", "prompt": "Umarım sınavı geçersin.", "options": ["I hope you pass the exam.", "I wish you passed the exam."], "answer": "I hope you pass the exam.", "explain": "Olabilecek şey → hope." },
+    { "type": "choice", "prompt": "Bir karar vermeliyiz.", "options": ["We must make a decision.", "We must do a decision.", "We must take a decision of."], "answer": "We must make a decision." },
+    { "type": "choice", "prompt": "Risk almak", "options": ["take a risk", "make a risk", "do a risk"], "answer": "take a risk" },
+    { "type": "write", "prompt": "Keşke Fransızca konuşabilsem.", "answers": ["I wish I could speak French"] },
+    { "type": "write", "prompt": "Keşke daha çok çalışsaydım.", "answers": ["I wish I had studied harder", "I wish I'd studied harder", "I wish I had studied more", "I wish I'd studied more", "I wish I had worked harder"] },
+    { "type": "write", "prompt": "Ah bir seni dinleseydim!", "answers": ["If only I had listened to you", "If only I'd listened to you"] },
+    { "type": "write", "prompt": "Hedefime ulaştım.", "answers": ["I've achieved my goal", "I achieved my goal", "I have achieved my goal", "I've reached my goal"] },
+    { "type": "write", "prompt": "İngilizcemi geliştirmek istiyorum.", "answers": ["I want to improve my English", "I'd like to improve my English", "I would like to improve my English"] },
+    { "type": "write", "prompt": "Bu harika bir fırsat.", "answers": ["This is a great opportunity", "It's a great opportunity", "It is a great opportunity"] },
+    { "type": "listen", "say": "I wish I were on holiday", "answers": ["I wish I were on holiday", "I wish I was on holiday"] },
+    { "type": "listen", "say": "If only I had more time", "answers": ["If only I had more time"] },
+    { "type": "listen", "say": "It was a difficult decision", "answers": ["It was a difficult decision"] },
+    { "type": "speak", "say": "I wish I could help you", "accept": ["I wish I could help you"] },
+    { "type": "speak", "say": "I wish I hadn't done that", "accept": ["I wish I hadn't done that", "I wish I had not done that"] },
+    { "type": "speak", "say": "It's a great opportunity", "accept": ["It's a great opportunity", "It is a great opportunity"] },
+    { "type": "speak", "say": "Never give up on your goals", "accept": ["Never give up on your goals"] },
+    { "type": "speak", "say": "I've made a decision", "accept": ["I've made a decision", "I have made a decision"] }
+  ]
+}

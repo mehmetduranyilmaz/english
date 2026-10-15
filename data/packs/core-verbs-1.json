@@ -1,0 +1,289 @@
+{
+  "id": "core-verbs-1",
+  "group": "core",
+  "title": "Fiiller 1: her gün kullanılanlar",
+  "level": "A1",
+  "intro": "<p>Derslerde görmediğiniz, günlük konuşmada en sık geçen fiiller. Düzensiz olanların geçmiş hali notta yazıyor.</p>",
+  "words": [
+    {
+      "en": "use",
+      "tr": "kullanmak",
+      "read": "yuuz",
+      "type": "fiil",
+      "level": "A1",
+      "example": "Can I use your phone?",
+      "exampleTr": "Telefonunu kullanabilir miyim?",
+      "note": "isim olarak “yuus” okunur: What's the use?"
+    },
+    {
+      "en": "show",
+      "tr": "göstermek",
+      "read": "şou",
+      "type": "fiil",
+      "level": "A1",
+      "example": "Can you show me how it works?",
+      "exampleTr": "Nasıl çalıştığını bana gösterebilir misin?",
+      "note": "showed, shown"
+    },
+    {
+      "en": "let",
+      "tr": "izin vermek, bırakmak",
+      "read": "let",
+      "type": "fiil",
+      "level": "A1",
+      "example": "Let me help you.",
+      "exampleTr": "Sana yardım edeyim.",
+      "note": "let, let (değişmez)"
+    },
+    {
+      "en": "check",
+      "tr": "kontrol etmek",
+      "read": "çek",
+      "type": "fiil",
+      "level": "A1",
+      "example": "Let me check my emails.",
+      "exampleTr": "E-postalarıma bakayım."
+    },
+    {
+      "en": "choose",
+      "tr": "seçmek",
+      "read": "çuuz",
+      "type": "fiil",
+      "level": "A2",
+      "example": "You can choose any colour.",
+      "exampleTr": "İstediğin rengi seçebilirsin.",
+      "note": "chose «çouz», chosen «[çou]-zın»"
+    },
+    {
+      "en": "continue",
+      "tr": "devam etmek",
+      "read": "kın-[ti]-nyuu",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Let's continue tomorrow.",
+      "exampleTr": "Yarın devam edelim."
+    },
+    {
+      "en": "create",
+      "tr": "oluşturmak, yaratmak",
+      "read": "kri-[eyt]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "I created a new account.",
+      "exampleTr": "Yeni bir hesap oluşturdum."
+    },
+    {
+      "en": "describe",
+      "tr": "tarif etmek, anlatmak",
+      "read": "di-[skrayb]",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Can you describe the man?",
+      "exampleTr": "Adamı tarif edebilir misin?"
+    },
+    {
+      "en": "follow",
+      "tr": "takip etmek, izlemek",
+      "read": "[fo]-lou",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Follow me, please.",
+      "exampleTr": "Beni takip edin, lütfen."
+    },
+    {
+      "en": "hold",
+      "tr": "tutmak",
+      "read": "hould",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Can you hold my bag?",
+      "exampleTr": "Çantamı tutar mısın?",
+      "note": "held, held"
+    },
+    {
+      "en": "include",
+      "tr": "içermek, dahil etmek",
+      "read": "in-[kluud]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Breakfast is included.",
+      "exampleTr": "Kahvaltı dahil."
+    },
+    {
+      "en": "increase",
+      "tr": "artmak, artırmak",
+      "read": "in-[kriis]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Prices have increased.",
+      "exampleTr": "Fiyatlar arttı.",
+      "opposite": "reduce",
+      "note": "isimde vurgu başta: an «[in]-kriis»"
+    },
+    {
+      "en": "lead",
+      "tr": "yönetmek, liderlik etmek",
+      "read": "liid",
+      "type": "fiil",
+      "level": "B1",
+      "example": "She leads a team of ten.",
+      "exampleTr": "On kişilik bir ekibi yönetiyor.",
+      "note": "led, led"
+    },
+    {
+      "en": "provide",
+      "tr": "sağlamak",
+      "read": "prı-[vayd]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "The company provides laptops.",
+      "exampleTr": "Şirket dizüstü bilgisayar sağlıyor."
+    },
+    {
+      "en": "seem",
+      "tr": "gibi görünmek",
+      "read": "siim",
+      "type": "fiil",
+      "level": "B1",
+      "example": "You seem tired.",
+      "exampleTr": "Yorgun görünüyorsun."
+    },
+    {
+      "en": "allow",
+      "tr": "izin vermek",
+      "read": "ı-[lau]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Dogs aren't allowed here.",
+      "exampleTr": "Buraya köpek girmesi yasak."
+    },
+    {
+      "en": "appear",
+      "tr": "görünmek, ortaya çıkmak",
+      "read": "ı-[piı]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "An error message appeared.",
+      "exampleTr": "Bir hata mesajı çıktı.",
+      "opposite": "disappear"
+    },
+    {
+      "en": "consider",
+      "tr": "düşünmek, göz önüne almak",
+      "read": "kın-[si]-dı",
+      "type": "fiil",
+      "level": "B1",
+      "example": "I'm considering a new job.",
+      "exampleTr": "Yeni bir iş düşünüyorum."
+    },
+    {
+      "en": "develop",
+      "tr": "geliştirmek",
+      "read": "di-[ve]-lıp",
+      "type": "fiil",
+      "level": "B1",
+      "example": "We develop mobile apps.",
+      "exampleTr": "Mobil uygulamalar geliştiriyoruz."
+    },
+    {
+      "en": "share",
+      "tr": "paylaşmak",
+      "read": "şee",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Can you share your screen?",
+      "exampleTr": "Ekranını paylaşabilir misin?"
+    },
+    {
+      "en": "support",
+      "tr": "desteklemek",
+      "read": "sı-[poot]",
+      "type": "fiil",
+      "level": "B1",
+      "example": "My family always supports me.",
+      "exampleTr": "Ailem beni hep destekler."
+    },
+    {
+      "en": "manage",
+      "tr": "yönetmek; başarmak",
+      "read": "[m{a}]-nic",
+      "type": "fiil",
+      "level": "B1",
+      "example": "I managed to finish on time.",
+      "exampleTr": "Zamanında bitirmeyi başardım."
+    },
+    {
+      "en": "notice",
+      "tr": "fark etmek; ihbar (işten / evden çıkış bildirimi)",
+      "read": "[nou]-tis",
+      "type": "fiil",
+      "level": "B1",
+      "example": "Did you notice anything strange?",
+      "exampleTr": "Tuhaf bir şey fark ettin mi?"
+    },
+    {
+      "en": "return",
+      "tr": "geri dönmek; iade etmek",
+      "read": "ri-[töön]",
+      "type": "fiil",
+      "level": "A2",
+      "example": "I'll return the book tomorrow.",
+      "exampleTr": "Kitabı yarın iade ederim."
+    },
+    {
+      "en": "compare",
+      "tr": "karşılaştırmak",
+      "read": "kım-[pee]",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Compare the two prices.",
+      "exampleTr": "İki fiyatı karşılaştır."
+    },
+    {
+      "en": "imagine",
+      "tr": "hayal etmek",
+      "read": "i-[m{a}]-cin",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Imagine you're in London.",
+      "exampleTr": "Londra'da olduğunu hayal et."
+    },
+    {
+      "en": "laugh",
+      "tr": "gülmek",
+      "read": "laaf",
+      "type": "fiil",
+      "level": "A2",
+      "example": "We laughed a lot.",
+      "exampleTr": "Çok güldük.",
+      "note": "British: uzun aa; gh = f"
+    },
+    {
+      "en": "cry",
+      "tr": "ağlamak",
+      "read": "kray",
+      "type": "fiil",
+      "level": "A2",
+      "example": "The baby is crying.",
+      "exampleTr": "Bebek ağlıyor."
+    },
+    {
+      "en": "smile",
+      "tr": "gülümsemek",
+      "read": "smayl",
+      "type": "fiil",
+      "level": "A2",
+      "example": "Smile for the photo!",
+      "exampleTr": "Fotoğraf için gülümse!"
+    },
+    {
+      "en": "thank",
+      "tr": "teşekkür etmek",
+      "read": "{t}{a}nk",
+      "type": "fiil",
+      "level": "A1",
+      "example": "I want to thank everyone.",
+      "exampleTr": "Herkese teşekkür etmek istiyorum."
+    }
+  ]
+}

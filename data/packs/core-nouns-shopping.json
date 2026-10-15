@@ -1,0 +1,33 @@
+{
+  "id": "core-nouns-shopping",
+  "group": "core",
+  "title": "İsimler 7: alışveriş, banka, posta",
+  "level": "B1",
+  "words": [
+    { "en": "till", "tr": "kasa (mağazada)", "read": "til", "type": "isim", "level": "B1", "example": "Please pay at the till.", "exampleTr": "Lütfen kasada ödeyin.", "note": "British" },
+    { "en": "checkout", "tr": "kasa (markette)", "read": "[çek]-aut", "type": "isim", "level": "B1", "example": "There's a long queue at the checkout.", "exampleTr": "Kasada uzun bir sıra var." },
+    { "en": "trolley", "tr": "market arabası", "read": "[tro]-li", "type": "isim", "level": "B1", "example": "I need a trolley.", "exampleTr": "Bir market arabasına ihtiyacım var.", "note": "British; Amerikan: cart" },
+    { "en": "basket", "tr": "sepet", "read": "[baas]-kit", "type": "isim", "level": "A2", "example": "I only need a basket.", "exampleTr": "Sadece bir sepete ihtiyacım var.", "note": "British: uzun aa" },
+    { "en": "bargain", "tr": "kelepir; pazarlık", "read": "[baa]-gin", "type": "isim", "level": "B1", "example": "Only five pounds? What a bargain!", "exampleTr": "Sadece beş pound mu? Tam kelepir!" },
+    { "en": "brand", "tr": "marka", "read": "br{a}nd", "type": "isim", "level": "B1", "example": "Which brand do you prefer?", "exampleTr": "Hangi markayı tercih edersin?" },
+    { "en": "quality", "tr": "kalite", "read": "[k{w}o]-lı-ti", "type": "isim", "level": "B1", "example": "The quality is excellent.", "exampleTr": "Kalitesi mükemmel." },
+    { "en": "refund", "tr": "para iadesi", "read": "[rii]-fand", "type": "isim", "level": "B1", "example": "Can I get a refund?", "exampleTr": "Paramı geri alabilir miyim?" },
+    { "en": "exchange", "tr": "değiştirmek; değişim", "read": "iks-[çeync]", "type": "isim", "level": "B1", "example": "Can I exchange this for a bigger size?", "exampleTr": "Bunu daha büyük bir bedenle değiştirebilir miyim?" },
+    { "en": "guarantee", "tr": "garanti", "read": "g{a}-rın-[tii]", "type": "isim", "level": "B1", "example": "It has a two-year guarantee.", "exampleTr": "İki yıl garantisi var.", "note": "u okunmaz" },
+    { "en": "delivery", "tr": "teslimat", "read": "di-[li]-vı-ri", "type": "isim", "level": "B1", "example": "Delivery is free.", "exampleTr": "Teslimat ücretsiz." },
+    { "en": "parcel", "tr": "koli, paket", "read": "[paa]-sıl", "type": "isim", "level": "B1", "example": "A parcel arrived for you.", "exampleTr": "Sana bir paket geldi.", "note": "British; Amerikan: package" },
+    { "en": "post", "tr": "posta; göndermek", "read": "poust", "type": "isim", "level": "A2", "example": "I'll send it by post.", "exampleTr": "Postayla gönderirim.", "note": "British; Amerikan: mail" },
+    { "en": "stamp", "tr": "pul; damga", "read": "st{a}mp", "type": "isim", "level": "A2", "example": "I need a stamp for this letter.", "exampleTr": "Bu mektup için pul lazım." },
+    { "en": "envelope", "tr": "zarf", "read": "[en]-vı-loup", "type": "isim", "level": "B1", "example": "Put it in an envelope.", "exampleTr": "Bir zarfa koy." },
+    { "en": "bank account", "tr": "banka hesabı", "read": "b{a}nk ı-[kaunt]", "type": "isim", "level": "B1", "example": "I want to open a bank account.", "exampleTr": "Banka hesabı açmak istiyorum." },
+    { "en": "loan", "tr": "kredi, borç", "read": "loun", "type": "isim", "level": "B1", "example": "We took out a loan.", "exampleTr": "Kredi çektik." },
+    { "en": "cash machine", "tr": "ATM, bankamatik", "read": "[k{a}ş] mı-şiin", "type": "isim", "level": "B1", "example": "Is there a cash machine nearby?", "exampleTr": "Yakında bankamatik var mı?", "note": "British; Amerikan: ATM" },
+    { "en": "PIN", "tr": "şifre (kart)", "read": "pin", "type": "isim", "level": "B1", "example": "Please enter your PIN.", "exampleTr": "Lütfen şifrenizi girin." },
+    { "en": "tip", "tr": "bahşiş; ipucu", "read": "tip", "type": "isim", "level": "B1", "example": "Should I leave a tip?", "exampleTr": "Bahşiş bırakmalı mıyım?" },
+    { "en": "complaint", "tr": "şikâyet", "read": "kım-[pleynt]", "type": "isim", "level": "B1", "example": "I'd like to make a complaint.", "exampleTr": "Şikâyette bulunmak istiyorum." },
+    { "en": "customer service", "tr": "müşteri hizmetleri", "read": "[kas]-tı-mı [söö]-vis", "type": "isim", "level": "B1", "example": "I called customer service.", "exampleTr": "Müşteri hizmetlerini aradım." },
+    { "en": "opening hours", "tr": "çalışma saatleri", "read": "[ou]-pı-ning [au]-ız", "type": "isim", "level": "B1", "example": "What are your opening hours?", "exampleTr": "Çalışma saatleriniz ne?" },
+    { "en": "closed", "tr": "kapalı", "read": "klouzd", "type": "sıfat", "level": "A1", "example": "The shop is closed on Sundays.", "exampleTr": "Dükkân pazar günleri kapalı.", "opposite": "open" },
+    { "en": "label", "tr": "etiket", "read": "[ley]-bıl", "type": "isim", "level": "B1", "example": "Read the label first.", "exampleTr": "Önce etiketi oku." }
+  ]
+}

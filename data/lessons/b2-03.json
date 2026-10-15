@@ -1,0 +1,59 @@
+{
+  "id": "b2-03",
+  "stage": 26,
+  "title": "Tüm zamanlarda edilgen + şehir ve ulaşım",
+  "sections": [
+    {
+      "heading": "Her zamanın edilgeni: be + 3. hal",
+      "body": "<p>Kural hep aynı: <b>be</b> fiilini zamana göre çekin, arkasına <b>3. hal</b> koyun.</p><table><tr><th>Zaman</th><th>Edilgen</th><th>Örnek</th></tr><tr><td>Şimdiki zaman</td><td>is / are <b>being</b> + 3. hal</td><td>A new bridge <b>is being built</b>. → Yeni bir köprü inşa ediliyor.</td></tr><tr><td>Present Perfect</td><td>has / have <b>been</b> + 3. hal</td><td>The house <b>has been sold</b>. → Ev satıldı.</td></tr><tr><td>Past Continuous</td><td>was / were <b>being</b> + 3. hal</td><td>The road <b>was being repaired</b>. → Yol tamir ediliyordu.</td></tr><tr><td>Past Perfect</td><td>had <b>been</b> + 3. hal</td><td>The shop <b>had been closed</b>. → Dükkân kapatılmıştı.</td></tr><tr><td>Gelecek</td><td>will <b>be</b> + 3. hal</td><td>It <b>will be finished</b> next year. → Gelecek yıl bitirilecek.</td></tr><tr><td>Modal</td><td>can / must / should <b>be</b> + 3. hal</td><td>Tickets <b>can be bought</b> online. → Biletler internetten alınabilir.</td></tr></table>"
+    },
+    {
+      "heading": "Resmi dil ve tabelalar",
+      "body": "<p>Edilgen resmi yazılarda ve tabelalarda çok sık görülür:</p><p class=\"ex\">Smoking <b>is not permitted</b>. → Sigara içilmez.<br>Passengers <b>are requested</b> to… → Yolcuların … rica olunur.<br>This area <b>is monitored</b> by CCTV. → Bu alan kamerayla izlenmektedir.<br>Mobile phones <b>must be switched off</b>. → Cep telefonları kapatılmalıdır.</p>"
+    },
+    {
+      "heading": "Şehir ve ulaşım: British kelimeler",
+      "body": "<table><tr><th>British</th><th>Okunuş</th><th>Türkçe</th><th>Amerikan</th></tr><tr><td>pavement</td><td>«[peyv]-mınt»</td><td>kaldırım</td><td>sidewalk</td></tr><tr><td>roundabout</td><td>«[raund]-ı-baut»</td><td>göbek, döner kavşak</td><td>traffic circle</td></tr><tr><td>motorway</td><td>«[mou]-tı-{w}ey»</td><td>otoyol</td><td>highway</td></tr><tr><td>lorry</td><td>«[lo]-ri»</td><td>kamyon</td><td>truck</td></tr><tr><td>petrol</td><td>«[pet]-rıl»</td><td>benzin</td><td>gas</td></tr><tr><td>traffic jam</td><td>«[tr{a}]-fik c{a}m»</td><td>trafik sıkışıklığı</td><td></td></tr><tr><td>public transport</td><td>«[pab]-lik [tr{a}ns]-poot»</td><td>toplu taşıma</td><td>public transportation</td></tr><tr><td>council</td><td>«[kaun]-sıl»</td><td>belediye (British)</td><td></td></tr><tr><td>construction</td><td>«kın-[strak]-şın»</td><td>inşaat</td><td></td></tr><tr><td>repair</td><td>«ri-[pee]»</td><td>tamir etmek</td><td></td></tr><tr><td>permit</td><td>«pı-[mit]»</td><td>izin vermek</td><td></td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "being", "tr": "-ılmakta (edilgen devam)", "read": "[bii]-ing" },
+    { "en": "pavement", "tr": "kaldırım", "read": "[peyv]-mınt", "note": "British; Amerikan: sidewalk" },
+    { "en": "roundabout", "tr": "döner kavşak", "read": "[raund]-ı-baut", "note": "British" },
+    { "en": "motorway", "tr": "otoyol", "read": "[mou]-tı-{w}ey", "note": "British; Amerikan: highway" },
+    { "en": "lorry", "tr": "kamyon", "read": "[lo]-ri", "note": "British; Amerikan: truck" },
+    { "en": "petrol", "tr": "benzin", "read": "[pet]-rıl", "note": "British; Amerikan: gas" },
+    { "en": "traffic jam", "tr": "trafik sıkışıklığı", "read": "[tr{a}]-fik c{a}m" },
+    { "en": "public transport", "tr": "toplu taşıma", "read": "[pab]-lik [tr{a}ns]-poot" },
+    { "en": "council", "tr": "belediye", "read": "[kaun]-sıl", "note": "British" },
+    { "en": "construction", "tr": "inşaat", "read": "kın-[strak]-şın" },
+    { "en": "repair", "tr": "tamir etmek; tamir", "read": "ri-[pee]" },
+    { "en": "permit", "tr": "izin vermek", "read": "pı-[mit]", "note": "resmi dil" },
+    { "en": "switch off", "tr": "kapatmak (British)", "read": "s{w}iç [of]", "opposite": "switch on" },
+    { "en": "passenger", "tr": "yolcu", "read": "[p{a}]-sin-cı" },
+    { "en": "online", "tr": "internetten, çevrimiçi", "read": "on-[layn]" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "Yeni bir köprü inşa ediliyor.", "options": ["A new bridge is being built.", "A new bridge is building.", "A new bridge has building."], "answer": "A new bridge is being built." },
+    { "type": "choice", "prompt": "Ev satıldı. (az önce, sonuç şu an)", "options": ["The house has been sold.", "The house has sold.", "The house is been sold."], "answer": "The house has been sold." },
+    { "type": "choice", "prompt": "Gelecek yıl bitirilecek.", "options": ["It will be finished next year.", "It will finished next year.", "It will be finish next year."], "answer": "It will be finished next year." },
+    { "type": "choice", "prompt": "Biletler internetten alınabilir.", "options": ["Tickets can be bought online.", "Tickets can bought online.", "Tickets can be buy online."], "answer": "Tickets can be bought online." },
+    { "type": "choice", "prompt": "Kaldırım (British)", "options": ["pavement", "sidewalk"], "answer": "pavement" },
+    { "type": "choice", "prompt": "Benzin (British)", "options": ["petrol", "gas"], "answer": "petrol" },
+    { "type": "choice", "prompt": "Kamyon (British)", "options": ["lorry", "truck"], "answer": "lorry" },
+    { "type": "write", "prompt": "Yol tamir ediliyor.", "answers": ["The road is being repaired"] },
+    { "type": "write", "prompt": "Arabam tamir edildi.", "answers": ["My car has been repaired", "My car was repaired"] },
+    { "type": "write", "prompt": "Telefonlar kapatılmalıdır.", "answers": ["Phones must be switched off", "Mobile phones must be switched off", "Phones must be turned off"] },
+    { "type": "write", "prompt": "Burada sigara içilmez.", "answers": ["Smoking is not permitted here", "Smoking is not allowed here", "Smoking isn't allowed here"] },
+    { "type": "write", "prompt": "Otoyolda trafik sıkışıklığı var.", "answers": ["There's a traffic jam on the motorway", "There is a traffic jam on the motorway"] },
+    { "type": "write", "prompt": "İkinci çıkıştan çıkın. (göbekte)", "answers": ["Take the second exit at the roundabout", "Take the second exit"] },
+    { "type": "listen", "say": "The museum is being renovated", "answers": ["The museum is being renovated"] },
+    { "type": "listen", "say": "It has already been sold", "answers": ["It has already been sold", "It's already been sold"] },
+    { "type": "listen", "say": "Turn left at the roundabout", "answers": ["Turn left at the roundabout"] },
+    { "type": "speak", "say": "It's being repaired", "accept": ["It's being repaired", "It is being repaired"] },
+    { "type": "speak", "say": "It will be finished soon", "accept": ["It will be finished soon"] },
+    { "type": "speak", "say": "I'm stuck in a traffic jam", "accept": ["I'm stuck in a traffic jam", "I am stuck in a traffic jam"] },
+    { "type": "speak", "say": "Walk on the pavement", "accept": ["Walk on the pavement"] },
+    { "type": "speak", "say": "Public transport is cheaper", "accept": ["Public transport is cheaper"] }
+  ]
+}

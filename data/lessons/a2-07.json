@@ -1,0 +1,333 @@
+{
+  "id": "a2-07",
+  "stage": 13,
+  "title": "Karşılaştırma: bigger, more expensive, better",
+  "sections": [
+    {
+      "heading": "-den daha …",
+      "body": "<p>Türkçede “İstanbul Ankara'<b>dan daha</b> büyük” deriz. İngilizcede sıfat değişir ve “-den” yerine <b>than</b> «{d}{a}n» gelir:</p><p class=\"ex\">Istanbul is <b>bigger than</b> Ankara. → İstanbul Ankara'dan daha büyük.<br>A car is <b>more expensive than</b> a bike. → Araba bisikletten daha pahalı.</p>"
+    },
+    {
+      "heading": "Kurallar",
+      "body": "<table><tr><th>Sıfat</th><th>Kural</th><th>Örnek</th></tr><tr><td>Tek heceli</td><td>+ er</td><td>old → old<b>er</b>, cheap → cheap<b>er</b>, tall → tall<b>er</b></td></tr><tr><td>-e ile biten</td><td>+ r</td><td>nice → nice<b>r</b>, safe → safe<b>r</b></td></tr><tr><td>Kısa: ünsüz + ünlü + ünsüz</td><td>son harf ikilenir</td><td>big → bi<b>gg</b>er, hot → ho<b>tt</b>er, thin → thi<b>nn</b>er</td></tr><tr><td>-y ile biten</td><td>y → ier</td><td>easy → eas<b>ier</b>, happy → happ<b>ier</b>, busy → bus<b>ier</b></td></tr><tr><td>İki heceli (çoğu) ve daha uzun</td><td><b>more</b> + sıfat</td><td><b>more</b> famous, <b>more</b> expensive, <b>more</b> interesting, <b>more</b> comfortable</td></tr><tr><td>Düzensiz</td><td></td><td>good → <b>better</b>, bad → <b>worse</b>, far → <b>further</b>, much / many → <b>more</b>, little → <b>less</b></td></tr></table><p><b>Hece sayısı nasıl sayılır?</b> Okunuştaki ünlü seslere bakın: big «big» 1 hece, fa-mous «[fey]-mıs» 2 hece, ex-pen-sive «ik-[spen]-siv» 3 hece.</p><p><b>İki şekli de olan iki heceliler:</b> clever → clever<b>er</b> / <b>more</b> clever, quiet → quiet<b>er</b> / <b>more</b> quiet, simple → simple<b>r</b>, narrow → narrow<b>er</b>. Emin değilseniz iki heceli sıfatta <b>more</b> kullanın; -y ile bitenler hariç (happier, easier).</p><p class=\"ex\"><span class=\"bad\">✘ more bigger</span> <span class=\"bad\">✘ gooder</span> <span class=\"bad\">✘ expensiver</span></p>"
+    },
+    {
+      "heading": "Daha az: less",
+      "body": "<p>“Daha az” için hece sayısına bakılmaz, her sıfatta <b>less</b> «les» kullanılır:</p><p class=\"ex\">The bus is <b>less expensive than</b> the train. → Otobüs trenden daha az pahalı.<br>This film is <b>less interesting</b>. → Bu film daha az ilginç.</p>"
+    },
+    {
+      "heading": "Çok daha: much",
+      "body": "<p class=\"ex\">London is <b>much</b> bigger than Oxford. → Londra Oxford'dan <b>çok daha</b> büyük.<br>English is <b>a bit</b> easier than German. → İngilizce Almancadan <b>biraz daha</b> kolay.</p><p><span class=\"bad\">✘ very bigger</span>: karşılaştırmada very değil, much kullanılır.</p>"
+    },
+    {
+      "heading": "Yeni sıfatlar",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>safe / dangerous</td><td>«seyf» / «[deyn]-cı-rıs»</td><td>güvenli / tehlikeli</td></tr><tr><td>healthy</td><td>«[hel]-{t}i»</td><td>sağlıklı</td></tr><tr><td>comfortable</td><td>«[kamf]-tı-bıl»</td><td>rahat, konforlu</td></tr><tr><td>modern</td><td>«[mo]-dın»</td><td>modern</td></tr><tr><td>popular</td><td>«[po]-pyu-lı»</td><td>popüler, sevilen</td></tr><tr><td>famous</td><td>«[fey]-mıs»</td><td>ünlü</td></tr><tr><td>important</td><td>«im-[poo]-tınt»</td><td>önemli</td></tr><tr><td>friendly</td><td>«[frend]-li»</td><td>arkadaş canlısı</td></tr><tr><td>clever</td><td>«[kle]-vı»</td><td>zeki (British)</td></tr><tr><td>funny</td><td>«[fa]-ni»</td><td>komik</td></tr><tr><td>crowded</td><td>«[krau]-did»</td><td>kalabalık</td></tr></table>"
+    },
+    {
+      "heading": "British telaffuz ipuçları",
+      "body": "<ul><li><b>than</b> cümle içinde çok zayıf okunur: «{d}ın». bigger than → «[bi]-gı {d}ın».</li><li><b>comfortable</b> «[kamf]-tı-bıl»: yazıldığı gibi “kom-for-ta-bıl” değil, 3 hece.</li><li><b>-er</b> ekindeki r okunmaz: bigger «[bi]-gı», older «[oul]-dı».</li></ul>"
+    }
+  ],
+  "words": [
+    {
+      "en": "than",
+      "tr": "-den, -dan (daha)",
+      "read": "{d}{a}n",
+      "note": "cümle içinde zayıf: «{d}ın»"
+    },
+    {
+      "en": "more",
+      "tr": "daha (çok)",
+      "read": "moo"
+    },
+    {
+      "en": "better",
+      "tr": "daha iyi",
+      "read": "[be]-tı",
+      "opposite": "worse"
+    },
+    {
+      "en": "less",
+      "tr": "daha az",
+      "read": "les",
+      "opposite": "more"
+    },
+    {
+      "en": "worse",
+      "tr": "daha kötü",
+      "read": "{w}öös",
+      "opposite": "better"
+    },
+    {
+      "en": "further",
+      "tr": "daha uzak",
+      "read": "[föö]-{d}ı"
+    },
+    {
+      "en": "a bit",
+      "tr": "biraz",
+      "read": "ı [bit]"
+    },
+    {
+      "en": "safe",
+      "tr": "güvenli",
+      "read": "seyf",
+      "opposite": "dangerous"
+    },
+    {
+      "en": "dangerous",
+      "tr": "tehlikeli",
+      "read": "[deyn]-cı-rıs",
+      "opposite": "safe"
+    },
+    {
+      "en": "healthy",
+      "tr": "sağlıklı",
+      "read": "[hel]-{t}i"
+    },
+    {
+      "en": "comfortable",
+      "tr": "rahat, konforlu",
+      "read": "[kamf]-tı-bıl"
+    },
+    {
+      "en": "modern",
+      "tr": "modern",
+      "read": "[mo]-dın"
+    },
+    {
+      "en": "popular",
+      "tr": "popüler",
+      "read": "[po]-pyu-lı"
+    },
+    {
+      "en": "famous",
+      "tr": "ünlü",
+      "read": "[fey]-mıs"
+    },
+    {
+      "en": "important",
+      "tr": "önemli",
+      "read": "im-[poo]-tınt"
+    },
+    {
+      "en": "friendly",
+      "tr": "arkadaş canlısı",
+      "read": "[frend]-li"
+    },
+    {
+      "en": "clever",
+      "tr": "zeki",
+      "read": "[kle]-vı",
+      "note": "British; Amerikan: smart"
+    },
+    {
+      "en": "funny",
+      "tr": "komik",
+      "read": "[fa]-ni"
+    },
+    {
+      "en": "crowded",
+      "tr": "kalabalık",
+      "read": "[krau]-did"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "İstanbul Ankara'dan daha büyük.",
+      "options": [
+        "Istanbul is bigger than Ankara.",
+        "Istanbul is more big than Ankara.",
+        "Istanbul is bigger from Ankara."
+      ],
+      "answer": "Istanbul is bigger than Ankara."
+    },
+    {
+      "type": "choice",
+      "prompt": "expensive → ?",
+      "options": [
+        "expensiver",
+        "more expensive"
+      ],
+      "answer": "more expensive"
+    },
+    {
+      "type": "choice",
+      "prompt": "good → ?",
+      "options": [
+        "gooder",
+        "better",
+        "more good"
+      ],
+      "answer": "better"
+    },
+    {
+      "type": "choice",
+      "prompt": "bad → ?",
+      "options": [
+        "worse",
+        "badder",
+        "worst"
+      ],
+      "answer": "worse"
+    },
+    {
+      "type": "choice",
+      "prompt": "easy → ?",
+      "options": [
+        "easyer",
+        "easier",
+        "more easy"
+      ],
+      "answer": "easier"
+    },
+    {
+      "type": "choice",
+      "prompt": "Londra Oxford'dan çok daha büyük.",
+      "options": [
+        "London is very bigger than Oxford.",
+        "London is much bigger than Oxford."
+      ],
+      "answer": "London is much bigger than Oxford.",
+      "explain": "Karşılaştırmada very değil much."
+    },
+    {
+      "type": "choice",
+      "prompt": "hot → ?",
+      "options": [
+        "hoter",
+        "hotter"
+      ],
+      "answer": "hotter"
+    },
+    {
+      "type": "choice",
+      "prompt": "Otobüs trenden daha az pahalı.",
+      "options": [
+        "The bus is less expensive than the train.",
+        "The bus is expensiveless than the train."
+      ],
+      "answer": "The bus is less expensive than the train."
+    },
+    {
+      "type": "choice",
+      "prompt": "famous → ?",
+      "options": [
+        "famouser",
+        "more famous"
+      ],
+      "answer": "more famous",
+      "explain": "İki heceli: fa-mous → more."
+    },
+    {
+      "type": "write",
+      "prompt": "Kardeşim benden daha uzun boylu.",
+      "answers": [
+        "My brother is taller than me",
+        "My brother is taller than I am",
+        "My sister is taller than me"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Bu kanepe daha rahat.",
+      "answers": [
+        "This sofa is more comfortable"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Trenler arabalardan daha güvenli.",
+      "answers": [
+        "Trains are safer than cars"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Bugün dünden daha iyiyim.",
+      "answers": [
+        "I'm better than yesterday",
+        "I am better than yesterday",
+        "I'm better today than yesterday",
+        "I feel better today than yesterday"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "Hava dünden daha kötü.",
+      "answers": [
+        "The weather is worse than yesterday",
+        "The weather's worse than yesterday"
+      ]
+    },
+    {
+      "type": "write",
+      "prompt": "İngilizce Almancadan biraz daha kolay.",
+      "answers": [
+        "English is a bit easier than German"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "It's more expensive",
+      "answers": [
+        "It's more expensive",
+        "It is more expensive"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "She's cleverer than me",
+      "answers": [
+        "She's cleverer than me",
+        "She is cleverer than me",
+        "She's more clever than me"
+      ]
+    },
+    {
+      "type": "listen",
+      "say": "much better",
+      "answers": [
+        "much better"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It's much better",
+      "accept": [
+        "It's much better",
+        "It is much better"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "London is bigger than Paris",
+      "accept": [
+        "London is bigger than Paris"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "more comfortable",
+      "accept": [
+        "more comfortable"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "It's more important",
+      "accept": [
+        "It's more important",
+        "It is more important"
+      ]
+    },
+    {
+      "type": "speak",
+      "say": "The bus is cheaper",
+      "accept": [
+        "The bus is cheaper"
+      ]
+    }
+  ]
+}

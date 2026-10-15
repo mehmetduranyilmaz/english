@@ -1,0 +1,62 @@
+{
+  "id": "b1-12",
+  "stage": 23,
+  "title": "Dolaylı soru ve emir: Nerede yaşadığımı sordu + ilişkiler",
+  "sections": [
+    {
+      "heading": "Dolaylı soru: soru sırası bozulur",
+      "body": "<p>Soru aktarılırken <b>asked</b> kullanılır ve cümle <b>düz cümle sırasına</b> döner (do / did kalkar):</p><table><tr><th>Söylenen</th><th>Aktarılan</th></tr><tr><td>“Where <b>do you live</b>?”</td><td>She asked me where <b>I lived</b>.</td></tr><tr><td>“What time <b>is it</b>?”</td><td>He asked what time <b>it was</b>.</td></tr><tr><td>“<b>Are you</b> OK?” (evet / hayır)</td><td>He asked <b>if</b> I <b>was</b> OK.</td></tr><tr><td>“<b>Do you</b> like it?”</td><td>She asked <b>if</b> I <b>liked</b> it.</td></tr></table><p class=\"ex\"><span class=\"bad\">✘ She asked me where did I live.</span> → ✔ She asked me where I lived.<br>Evet / hayır sorularında <b>if</b> (veya whether «[{w}e]-{d}ı») eklenir.</p>"
+    },
+    {
+      "heading": "Kibar soru: Do you know where…?",
+      "body": "<p>Aynı kural kibar sorularda da geçerlidir. İngilizler doğrudan soru yerine sık kullanır:</p><p class=\"ex\">Where is the station? → <b>Do you know where the station is?</b><br>What time does it open? → <b>Could you tell me what time it opens?</b></p>"
+    },
+    {
+      "heading": "Dolaylı emir ve rica: to / not to",
+      "body": "<p class=\"ex\">“Wait here.” → He <b>told me to wait</b> there.<br>“Don't be late.” → She <b>told us not to be</b> late.<br>“Can you help me?” → He <b>asked me to help</b> him.</p>"
+    },
+    {
+      "heading": "İlişkiler",
+      "body": "<table><tr><th>İngilizce</th><th>Okunuş</th><th>Türkçe</th></tr><tr><td>relationship</td><td>«ri-[ley]-şın-şip»</td><td>ilişki</td></tr><tr><td>boyfriend / girlfriend</td><td>«[boy]-frend» / «[gööl]-frend»</td><td>erkek arkadaş / kız arkadaş (sevgili)</td></tr><tr><td>partner</td><td>«[paat]-nı»</td><td>partner, hayat arkadaşı</td></tr><tr><td>go out with</td><td>«gou [aut] {w}i{d}»</td><td>biriyle çıkmak</td></tr><tr><td>fall in love (with)</td><td>«fool in [lav]»</td><td>âşık olmak</td></tr><tr><td>get on (well) with</td><td>«get [on] {w}i{d}»</td><td>biriyle iyi anlaşmak (British)</td></tr><tr><td>break up</td><td>«breyk [ap]»</td><td>ayrılmak (sevgililer)</td></tr><tr><td>engaged</td><td>«in-[geycd]»</td><td>nişanlı</td></tr><tr><td>wedding</td><td>«[{w}e]-ding»</td><td>düğün</td></tr><tr><td>divorced</td><td>«di-[voost]»</td><td>boşanmış</td></tr><tr><td>anniversary</td><td>«{a}-ni-[vöö]-sı-ri»</td><td>yıldönümü</td></tr></table>"
+    }
+  ],
+  "words": [
+    { "en": "asked", "tr": "sordu", "read": "aaskt", "note": "British: uzun aa" },
+    { "en": "whether", "tr": "-ip -mediği", "read": "[{w}e]-{d}ı", "note": "weather ile aynı okunur" },
+    { "en": "relationship", "tr": "ilişki", "read": "ri-[ley]-şın-şip" },
+    { "en": "boyfriend", "tr": "erkek arkadaş (sevgili)", "read": "[boy]-frend" },
+    { "en": "girlfriend", "tr": "kız arkadaş (sevgili)", "read": "[gööl]-frend" },
+    { "en": "partner", "tr": "partner, hayat arkadaşı", "read": "[paat]-nı" },
+    { "en": "go out with", "tr": "biriyle çıkmak", "read": "gou [aut] {w}i{d}" },
+    { "en": "fall in love", "tr": "âşık olmak", "read": "fool in [lav]" },
+    { "en": "get on with", "tr": "iyi anlaşmak", "read": "get [on] {w}i{d}", "note": "British" },
+    { "en": "break up", "tr": "ayrılmak (sevgililer)", "read": "breyk [ap]" },
+    { "en": "engaged", "tr": "nişanlı", "read": "in-[geycd]" },
+    { "en": "wedding", "tr": "düğün", "read": "[{w}e]-ding" },
+    { "en": "divorced", "tr": "boşanmış", "read": "di-[voost]" },
+    { "en": "anniversary", "tr": "yıldönümü", "read": "{a}-ni-[vöö]-sı-ri" }
+  ],
+  "exercises": [
+    { "type": "choice", "prompt": "“Where do you live?” → She asked me where ___.", "options": ["I lived", "did I live", "do I live"], "answer": "I lived" },
+    { "type": "choice", "prompt": "“Are you OK?” → He asked ___ I was OK.", "options": ["if", "that", "what"], "answer": "if" },
+    { "type": "choice", "prompt": "“Wait here.” → He told me ___ there.", "options": ["to wait", "wait", "waiting"], "answer": "to wait" },
+    { "type": "choice", "prompt": "“Don't be late.” → She told us ___ late.", "options": ["not to be", "don't be", "to not being"], "answer": "not to be" },
+    { "type": "choice", "prompt": "İstasyonun nerede olduğunu biliyor musunuz?", "options": ["Do you know where the station is?", "Do you know where is the station?"], "answer": "Do you know where the station is?" },
+    { "type": "choice", "prompt": "Patronumla iyi anlaşırım. (British)", "options": ["I get on well with my boss.", "I agree well my boss.", "I go out with my boss."], "answer": "I get on well with my boss." },
+    { "type": "write", "prompt": "Bana nerede çalıştığımı sordu. (o, kadın)", "answers": ["She asked me where I worked", "She asked where I worked"] },
+    { "type": "write", "prompt": "İyi olup olmadığımı sordu. (o, erkek)", "answers": ["He asked if I was OK", "He asked me if I was OK", "He asked whether I was OK", "He asked if I was okay"] },
+    { "type": "write", "prompt": "Bana beklememi söyledi.", "answers": ["He told me to wait", "She told me to wait"] },
+    { "type": "write", "prompt": "Saat kaçta açıldığını söyleyebilir misiniz?", "answers": ["Could you tell me what time it opens", "Can you tell me what time it opens"] },
+    { "type": "write", "prompt": "Geçen ay ayrıldılar.", "answers": ["They broke up last month", "Last month they broke up"] },
+    { "type": "write", "prompt": "Nişanlıyız!", "answers": ["We're engaged", "We are engaged"] },
+    { "type": "write", "prompt": "Ona âşık oldum.", "answers": ["I fell in love with her", "I fell in love with him", "I've fallen in love with her", "I've fallen in love with him"] },
+    { "type": "listen", "say": "She asked me if I was married", "answers": ["She asked me if I was married"] },
+    { "type": "listen", "say": "Do you know where it is?", "answers": ["Do you know where it is"] },
+    { "type": "listen", "say": "They got married last year", "answers": ["They got married last year"] },
+    { "type": "speak", "say": "He asked me where I lived", "accept": ["He asked me where I lived"] },
+    { "type": "speak", "say": "Do you know where the station is?", "accept": ["Do you know where the station is"] },
+    { "type": "speak", "say": "She told me to wait", "accept": ["She told me to wait"] },
+    { "type": "speak", "say": "I get on well with my sister", "accept": ["I get on well with my sister"] },
+    { "type": "speak", "say": "Happy anniversary!", "accept": ["Happy anniversary"] }
+  ]
+}
