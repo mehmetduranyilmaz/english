@@ -52,7 +52,7 @@ for (const id of ids) {
 console.log(`${ids.length} ders, ${words} kelime kartı, ${exercises} ödev`);
 
 // ---------- Kelime paketleri ----------
-const TYPES = new Set(["isim", "fiil", "sıfat", "zarf", "zamir", "edat", "bağlaç", "ünlem", "sayı", "kalıp", "deyim"]);
+const TYPES = new Set(["isim", "fiil", "sıfat", "zarf", "zamir", "edat", "bağlaç", "ünlem", "sayı", "kalıp", "deyim", "cümle"]);
 const LEVELS = new Set(["A1", "A2", "B1", "B2"]);
 let packIndex = null;
 try {
@@ -79,6 +79,7 @@ if (packIndex) {
     if (pack.id !== meta.id) problems.push(`${where}: dosyadaki id "${pack.id}"`);
     if (!groups.has(pack.group)) problems.push(`${where}: bilinmeyen grup "${pack.group}"`);
     if (!LEVELS.has(pack.level)) problems.push(`${where}: geçersiz seviye "${pack.level}"`);
+    if (pack.stage !== undefined && !curriculum.levels.some(l => l.stages.some(s => s.id === pack.stage))) problems.push(`${where}: müfredatta olmayan aşama "${pack.stage}"`);
     if (pack.intro && IPA.test(pack.intro.replace(/«[^»]*»/g, ""))) problems.push(`${where}: giriş metninde fonetik sembol var`);
     for (const r of [...(pack.intro || "").matchAll(/«([^»]+)»/g)].map(m => m[1])) if (badReading(r)) problems.push(`${where}: giriş okunuşu hatalı: ${r}`);
     for (const w of pack.words) {

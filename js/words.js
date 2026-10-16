@@ -9,6 +9,10 @@ const LEVELS = ["A1", "A2", "B1", "B2"];
 const PAGE_SIZE = 100;
 
 const groupTitle = id => packIndex.groups.find(g => g.id === id)?.title ?? id;
+// Grubun sayma birimi (ör. Konuşma cümleleri → "cümle"); yoksa "kelime".
+const unitOf = pack => packIndex.groups.find(g => g.id === pack.group)?.unit ?? "kelime";
+// Paket bir müfredat aşamasına bağlıysa: "3. aşamadan sonra · "
+const stageLabel = pack => (pack.stage ? `${pack.stage}. aşamadan sonra · ` : "");
 
 function statusBadge(key) {
   const s = srs.status(key);
@@ -79,7 +83,7 @@ function renderPackList(body) {
         const pct = pr.total ? Math.round((pr.inList / pr.total) * 100) : 0;
         return `<a class="pack" href="#/pack/${p.id}">
           <div class="pack-head"><span class="pack-title">${esc(pack.title)}</span><span class="badge">${esc(pack.level)}</span></div>
-          <div class="muted small">${pr.total} kelime · ${pr.inList} listemde · ${pr.learned} öğrenildi</div>
+          <div class="muted small">${stageLabel(pack)}${pr.total} ${unitOf(pack)} · ${pr.inList} listemde · ${pr.learned} öğrenildi</div>
           <div class="bar"><span style="width:${pct}%"></span></div>
         </a>`;
       }).join("")}</div>
@@ -172,7 +176,7 @@ export function renderPack(app, id) {
       <h1 class="lesson-title">${esc(pack.title)} <span class="badge">${esc(pack.level)}</span></h1>
       ${pack.intro ? `<section class="card">${withReadings(pack.intro)}</section>` : ""}
       <section class="card pack-actions">
-        <div class="muted small">${pr.total} kelime · ${pr.inList} listemde · ${pr.learned} öğrenildi<br>Günde en fazla ${srs.NEW_PER_DAY} yeni kelime tekrar sırasına girer.</div>
+        <div class="muted small">${stageLabel(pack)}${pr.total} ${unitOf(pack)} · ${pr.inList} listemde · ${pr.learned} öğrenildi<br>Günde en fazla ${srs.NEW_PER_DAY} yeni ${unitOf(pack)} tekrar sırasına girer.</div>
         ${waiting ? `<button class="primary" data-add-all>Hepsini tekrar listeme ekle (${waiting})</button>` : `<span class="badge ok">Hepsi listende ✔</span>`}
       </section>
       <div class="wlist">${words.map(w => wordRow(wordKey(w), w, { example: true })).join("")}</div>

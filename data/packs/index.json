@@ -6,6 +6,12 @@
       "desc": "Sayılar, zaman, takvim, ölçüler, renkler. Derslerde geçenler de burada bir arada."
     },
     {
+      "id": "talk",
+      "title": "Konuşma cümleleri",
+      "desc": "Günlük hayatta hazır kullanılan cümleler, kısa karşılıklı konuşmalarla. Paketler ders sırasını izler: her paket, yanında yazan aşamaya kadar öğrendiğiniz dilbilgisiyle kurulur.",
+      "unit": "cümle"
+    },
+    {
       "id": "core",
       "title": "Günlük konuşma çekirdeği",
       "desc": "Takılmadan konuşmak için en sık kullanılan fiiller, sıfatlar, isimler, bağlaçlar ve hazır kalıplar."
@@ -236,6 +242,10 @@
     {
       "id": "core-situation-hotel",
       "group": "core"
+    },
+    {
+      "id": "talk-01",
+      "group": "talk"
     }
   ]
 }

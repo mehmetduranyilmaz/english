@@ -63,11 +63,12 @@ Sonra Chrome veya Edge'de: http://localhost:8000
 
 Ana sayfadaki **📚 Kelimeler** kartı kelime bankasını açar (derslerdeki ve paketlerdeki tüm kelimeler):
 
-- **Paketler:** Temel kavramlar (sayılar, zaman, takvim, ölçüler, renkler), Günlük konuşma çekirdeği (en sık fiil, sıfat, isim, zarf ve konuşma kalıpları), Yazılım geliştirici (kod, süreç, Git, toplantı, mülakat). “Hepsini tekrar listeme ekle” ile paket tekrar listesine girer.
+- **Paketler:** Temel kavramlar (sayılar, zaman, takvim, ölçüler, renkler), Konuşma cümleleri (konulara göre hazır cümleler, ders sırasıyla), Günlük konuşma çekirdeği (en sık fiil, sıfat, isim, zarf ve konuşma kalıpları), Yazılım geliştirici (kod, süreç, Git, toplantı, mülakat). “Hepsini tekrar listeme ekle” ile paket tekrar listesine girer.
 - **Tüm kelimeler:** arama (İngilizce / Türkçe), kaynak, seviye ve durum süzgeci; tek tek “+ Listeme ekle”.
 - **Isınma:** her dersin başında, tekrar listenizdeki önceki kelimelerden 5 tanesi sorulur; her girişte farklı kelimeler gelir.
 
 **Paket kelimesi alanları:** `en`, `tr`, `read` (okunuş), `type` (isim, fiil, sıfat, zarf, zamir, edat, bağlaç, kalıp, sayı…), `level` (A1–B2), `example` + `exampleTr` (örnek cümle), isteğe bağlı `note`, `opposite`, `plural`.
+**Konuşma cümleleri** (`talk-*` paketleri) aynı alanları kullanır: `en` cümlenin kendisi, `type` = `cümle`, `example` kısa bir karşılıklı konuşma (“Soru? — Cevap.”). Paketteki `stage` alanı, cümlelerin hangi müfredat aşamasına kadarki dilbilgisiyle kurulduğunu gösterir. Grubun `unit` alanı (`index.json`) sayfada “kelime” yerine “cümle” yazdırır.
 Derslerde zaten olan bir kelime pakette `{ "ref": "monday" }` diye **atıfla** gösterilir; böylece aynı kelimenin iki ayrı tekrar kartı oluşmaz.
 
 Veri değişikliğinden sonra: `node tools/check-lessons.mjs`

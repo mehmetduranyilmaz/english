@@ -30,7 +30,7 @@ function reviewCardHtml() {
 function wordsCardHtml() {
   return `<a class="card review-home words-home" href="#/words">
     <div><h3>📚 Kelimeler</h3>
-      <div class="muted small">Kelime bankası: ${wordIndex.size} kelime · ${packIndex.packs.length} paket (temel, günlük konuşma, yazılım)</div></div>
+      <div class="muted small">Kelime bankası: ${wordIndex.size} kelime · ${packIndex.packs.length} paket (temel, konuşma cümleleri, günlük konuşma, yazılım)</div></div>
     <span class="btn">Aç →</span>
   </a>`;
 }
