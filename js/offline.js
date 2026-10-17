@@ -10,7 +10,9 @@ let installPrompt = null;
 let downloading = null; // { done, total } indirme sürerken
 let lastError = "";
 
-const standalone = () => matchMedia("(display-mode: standalone)").matches;
+const standalone = () => matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+// iPhone/iPad'de yükleme penceresi kodla açılamaz; Safari'nin Paylaş menüsünden yapılır. iPad kendini Mac gibi tanıtır, dokunmatik olmasından ayırt edilir.
+const isIOS = () => /iPhone|iPad|iPod/.test(navigator.userAgent) || (/Macintosh/.test(navigator.userAgent) && navigator.maxTouchPoints > 1);
 
 export function registerOffline() {
   if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
@@ -92,7 +94,15 @@ export async function refresh() {
     ? `<div class="small">✔ Uygulama olarak açık.</div>`
     : installPrompt
       ? `<button class="primary" id="installBtn">📲 Uygulamayı yükle</button>`
-      : `<div class="small muted">Yüklemek için: Chrome menüsü <b>⋮</b> → <b>Uygulamayı yükle</b> (ya da <b>Ana ekrana ekle</b>).</div>`;
+      : isIOS()
+        ? `<div class="small"><b>📲 iPhone/iPad'e yüklemek için:</b></div>
+           <ol class="small ios-steps">
+             <li>Sayfayı <b>Safari</b>'de aç.</li>
+             <li><b>Paylaş</b> düğmesine bas (kare ve yukarı ok; görmüyorsan önce <b>•••</b> düğmesine bas).</li>
+             <li>Listeden <b>Ana Ekrana Ekle</b>'yi seç, sonra <b>Ekle</b>'ye bas.</li>
+           </ol>
+           <div class="small muted">Sonra uygulamayı ana ekrandaki simgeden aç.</div>`
+        : `<div class="small muted">Yüklemek için: Chrome menüsü <b>⋮</b> → <b>Uygulamayı yükle</b> (ya da <b>Ana ekrana ekle</b>).</div>`;
 
   const audio = downloading
     ? `<div class="bar"><span style="width:${((count / files.length) * 100).toFixed(1)}%"></span></div>

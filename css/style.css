@@ -204,4 +204,6 @@ button.bad-btn { border-color: var(--bad); }
 .offline .row { margin: 6px 0; }
 .offline .bar { margin: 8px 0 4px; height: 8px; }
 .offline button + .small { margin-top: 6px; }
+.offline .ios-steps { margin: 4px 0 6px; padding-left: 20px; }
+.offline .ios-steps li { margin: 2px 0; }
 .bad-text { color: var(--bad); }

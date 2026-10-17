@@ -29,6 +29,7 @@ Sonra Chrome veya Edge'de: http://localhost:8000
 ## Telefona yükleme ve çevrimdışı kullanım
 
 - **Yükleme (Android / Chrome):** siteyi açın → ana sayfadaki **📲 Uygulamayı yükle** düğmesi (ya da Chrome menüsü ⋮ → *Uygulamayı yükle*). Kendi simgesiyle, tam ekran açılır.
+- **Yükleme (iPhone / iPad):** Apple kodla yükleme penceresi açmaya izin vermez; kart adımları gösterir: Safari → **Paylaş** → **Ana Ekrana Ekle** → **Ekle**.
 - **Çevrimdışı:** ilk açılışta uygulama dosyaları ve tüm dersler/paketler telefona kaydedilir; sonra internetsiz de açılır. Dinlenen sesler kendiliğinden saklanır; **⬇ Tüm sesleri indir** (~60 MB) ile hepsi bir kerede indirilir.
 - İnternetsiz çalışmayanlar: 🎤 konuşma ödevi (tanıma Google sunucusunda yapılır) ve 🎙 gerçek kişi kayıtları (Wikimedia'da durur).
 - **Güncelleme:** uygulama önce telefondaki kopyayla açılır, yeni sürümü arka planda indirir; değişiklikler bir sonraki açılışta görünür.
